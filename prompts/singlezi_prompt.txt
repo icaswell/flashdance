@@ -1,0 +1,17 @@
+Single Chinese characters often mean a lot of different things, but usually there is one core meaning that summarizes them, that can be summarized as one or two English words. I am going to give you a series of Chinese charactes along with their full definitions, and you are going to produce a table that maps each character to a single English word or phrase that summarizes it. for example, if I give you the following table:
+
+韭	/leek/variant of 韭[jiu3]/
+守	/to guard/to defend/to keep watch/to abide by the law/to observe (rules or ritual)/nearby/adjoining/
+君	/monarch/lord/gentleman/ruler/
+峰	/old variant of 峰[feng1]/(of a mountain) high and tapered peak or summit/mountain-like in appearance/highest level/classifier for camels/
+夕	/dusk/evening/Taiwan pr. [xi4]/
+
+You would return the following table:
+
+韭	leek
+守	guard
+君	lord
+峰	mountain peak
+夕	dusk
+
+Please output ONLY the table, without any additional text. Output the table as a TSV with no header. Understood? Let's start! here is the table of characters and definitions you need to make a core concept table with:
