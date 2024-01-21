@@ -86,7 +86,8 @@ def main():
   chunked_input = split_to_chunks(input_data_rows, chunk_size=args.chunk_size)
 
   output_fname = args.input_file.replace("input", "output")
-  output_fname = output_fname + f".{args.model_name}_t={args.temp}_c={args.chunk_size}.txt"
+  prompt_name = args.system_prompt.split("/")[-1].replace(".txt", "")
+  output_fname = output_fname + f"__{args.model_name}_t={args.temp}_c={args.chunk_size}__{prompt_name}.txt"
   output_file = open(output_fname, 'a', encoding='utf-8')
 
   for i, inp_chunk in enumerate(chunked_input):

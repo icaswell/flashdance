@@ -1,6 +1,8 @@
 import regex as re
 
-infile="lexicons/all_ci_shorter.out.tsv"
+infile="output/all_ci_shorter__gpt-3.5-turbo-1106_t=0.0_c=10__cql3.txt"
+outfile="resources/example_sentences/cql.tsv"
+
 
 HAN_REGEX = "[《\p{Han}]"
 
@@ -26,8 +28,11 @@ def process_line(line):
 
 out = []
 with open(infile, "r") as f:
-  for line in f:
-    is_ok, parts = process_line(line)
-    if not is_ok and parts:
-      print("\n    ".join(parts))
+  with open(outfile, "w") as outf:
+    for line in f:
+      is_ok, parts = process_line(line)
+      if is_ok:
+        outf.write("\t".join(parts) + "\n")
 
+print(outfile)
+  

@@ -3,9 +3,16 @@ import regex as re
 import pinyin_jyutping_sentence
 
 
-fname="/Users/icaswell/Documents/dancing_miao/flashcards/sample1.csv"
+# fname="/Users/icaswell/Documents/dancing_miao/flashcards/sample1.csv"
 fname_out="/Users/icaswell/Documents/dancing_miao/flashcards/sample1.flashcards.csv"
+
+
 pinyin_fname = "/Users/icaswell/Documents/dancing_miao/flashcards/hsk1to6.tsv"
+zi_definitions_fname = "resources/zi_singleword_defs.tsv"
+use_same_zi_fname = "resources/use_same_zi/mega_hanzi.tsv"
+
+relatedwords_fname = "resources/related_words/hsk1to6.tsv"
+examples_fname ="resources/example_sentences/cql.tsv"
 NEWLINE = "\r"
 
 
@@ -15,8 +22,31 @@ with open(pinyin_fname, "r") as f:
     parts = line.strip().split("\t")
     PINYIN[parts[0]] = parts[1]
 
-with open(fname, "r") as f:
-  lines = [line for line in csv.reader(f)]
+ZI_DEFS = {}
+with open(zi_definitions_fname, "r") as f:
+  for line in f:
+    parts = line.strip().split("\t")
+    ZI_DEFS[parts[0]] = parts[1]
+
+# i zi  first_occurence hsk1  hsk2  hsk3  hsk4  hsk5  hsk6  nhsk1 nhsk2 nhsk3 nhsk4 nhsk5 nhsk6 stront1 weeb1  
+USE_SAME_ZI = {}
+with open(use_same_zi_fname, "r") as f:
+  for line in f:
+    parts = line.strip().split("\t")
+    USE_SAME_ZI[parts[1]] = parts[7]  # TODO handle logic for only the level below and equal
+
+RELATED_WORDS = {}
+with open(relatedwords_fname, "r") as f:
+  for line in f:
+    parts = line.strip().split("\t")
+    RELATED_WORDS[parts[0]] = parts[1]
+
+EXAMPLES = {}
+with open(examples_fname, "r") as f:
+  for line in f:
+    parts = line.strip().split("\t")
+    EXAMPLES[parts[0]] = parts[1]
+  
 
 def bold_han(s):
   # return s
