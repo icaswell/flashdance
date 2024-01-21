@@ -4,49 +4,69 @@ import pinyin_jyutping_sentence
 
 
 # fname="/Users/icaswell/Documents/dancing_miao/flashcards/sample1.csv"
-fname_out="/Users/icaswell/Documents/dancing_miao/flashcards/sample1.flashcards.csv"
+fname_out="flashcards/sample1.flashcards.csv"
 
 
-pinyin_fname = "/Users/icaswell/Documents/dancing_miao/flashcards/hsk1to6.tsv"
+pinyin_fname = "resources/hsk1to6_zi_pinyin_def.tsv"
 zi_definitions_fname = "resources/zi_singleword_defs.tsv"
 use_same_zi_fname = "resources/use_same_zi/mega_hanzi.tsv"
 
 relatedwords_fname = "resources/related_words/hsk1to6.tsv"
+relatedwords_exmplation_fname = "TODO"
 examples_fname ="resources/example_sentences/cql.tsv"
 NEWLINE = "\r"
 
+def somple(X):
+  x = list(X.items())
+  print("\n=================================")
+  print(x[0:5], x[-5:])
 
 PINYIN = {}
 with open(pinyin_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     PINYIN[parts[0]] = parts[1]
+somple(PINYIN)
 
 ZI_DEFS = {}
 with open(zi_definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     ZI_DEFS[parts[0]] = parts[1]
+somple(ZI_DEFS)
 
 # i zi  first_occurence hsk1  hsk2  hsk3  hsk4  hsk5  hsk6  nhsk1 nhsk2 nhsk3 nhsk4 nhsk5 nhsk6 stront1 weeb1  
 USE_SAME_ZI = {}
 with open(use_same_zi_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
-    USE_SAME_ZI[parts[1]] = parts[7]  # TODO handle logic for only the level below and equal
+    USE_SAME_ZI[parts[1]] = parts[-1]  # TODO handle logic for only the level below and equal
+somple(USE_SAME_ZI)
 
 RELATED_WORDS = {}
 with open(relatedwords_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     RELATED_WORDS[parts[0]] = parts[1]
+somple(RELATED_WORDS)
 
 EXAMPLES = {}
 with open(examples_fname, "r") as f:
   for line in f:
-    parts = line.strip().split("\t")
-    EXAMPLES[parts[0]] = parts[1]
-  
+    if "\t" not in line:
+      print(line)
+      continue
+    ci, content = line.strip().split("\t", maxsplit=1)
+    content = content.split("\t")
+    if len(content)%2 != 0:
+        print(content)
+        content = content[0:-1]
+    EXAMPLES[ci] = {"zh": [], "en": []}
+    for i, example in enumerate(content):
+      if i%2 == 0: EXAMPLES[ci]["zh"].append(example)
+      if i%2 == 1: EXAMPLES[ci]["en"].append(example)
+somple(EXAMPLES)
+
 
 def bold_han(s):
   # return s
