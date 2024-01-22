@@ -1,0 +1,70 @@
+word,synonym(s),explanation of differences
+丰富,富,"丰富 (fēngfù)
+Means abundant, rich, or plentiful. It is used to describe a wide variety or a large quantity of something.
+
+富 (fù)
+Means rich or wealthy. It is used to describe a person's financial status or material wealth.
+
+In summary, 丰富 (fēngfù) is used to describe a wide variety or a large quantity of something, while 富 (fù) specifically refers to a person's financial status or material wealth."
+符合,见面,"符合 (fúhé)
+Means to conform to, comply with, or be in accordance with. It is used to describe the agreement or compliance between two or more things.
+
+见面 (jiànmiàn)
+Means to meet, to see each other, or to have a meeting. It is used to describe the act of encountering or meeting someone.
+
+In summary, 符合 (fúhé) is used to describe the agreement or compliance between two or more things, while 见面 (jiànmiàn) specifically refers to the act of encountering or meeting someone."
+付款,工资,"付款 (fùkuǎn)
+Means to make a payment or to pay money. It is used to describe the act of transferring money as a payment.
+
+工资 (gōngzī)
+Means salary or wages. It specifically refers to the money paid to an employee for their work.
+
+In summary, 付款 (fùkuǎn) is used to describe the act of making a payment, while 工资 (gōngzī) specifically refers to the money paid to an employee for their work."
+父亲,爸爸,"父亲 (fùqīn)
+Means father. It is a formal and respectful term used to address or refer to one's father.
+
+爸爸 (bàba)
+Means dad or daddy. It is an informal and affectionate term used to address or refer to one's father.
+
+In summary, 父亲 (fùqīn) is a formal and respectful term for father, while 爸爸 (bàba) is an informal and affectionate term for dad."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+EXAMPLE OUTPUT,,
+,,
+word,synonym(s),explanation of differences
+丰富,富,"丰富 (fēngfù)
+Means abundant, rich, or plentiful. It is used to describe a wide variety or a large quantity of something.
+
+富 (fù)
+Means rich or wealthy. It is used to describe a person's financial status or material wealth.
+
+In summary, 丰富 (fēngfù) is used to describe a wide variety or a large quantity of something, while 富 (fù) specifically refers to a person's financial status or material wealth."
+符合,见面,"符合 (fúhé)
+Means to conform to, comply with, or be in accordance with. It is used to describe the agreement or compliance between two or more things.
+
+见面 (jiànmiàn)
+Means to meet, to see each other, or to have a meeting. It is used to describe the act of encountering or meeting someone.
+
+In summary, 符合 (fúhé) is used to describe the agreement or compliance between two or more things, while 见面 (jiànmiàn) specifically refers to the act of encountering or meeting someone."
+付款,工资,"付款 (fùkuǎn)
+Means to make a payment or to pay money. It is used to describe the act of transferring money as a payment.
+
+工资 (gōngzī)
+Means salary or wages. It specifically refers to the money paid to an employee for their work.
+
+In summary, 付款 (fùkuǎn) is used to describe the act of making a payment, while 工资 (gōngzī) specifically refers to the money paid to an employee for their work."
+父亲,爸爸,"父亲 (fùqīn)
+Means father. It is a formal and respectful term used to address or refer to one's father.
+
+爸爸 (bàba)
+Means dad or daddy. It is an informal and affectionate term used to address or refer to one's father.
+
+In summary, 父亲 (fùqīn) is a formal and respectful term for father, while 爸爸 (bàba) is an informal and affectionate term for dad."

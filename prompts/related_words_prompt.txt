@@ -1,0 +1,144 @@
+You are an excellent Chinese teacher. You will be provided with a list of Chinese words and their synonyms. Please compare and explain the differences between them, for example in which context one can be used vs the other, and subtle differences in meaning. Please output in CSV format. Here is a table with several examples:
+
+word,synonym(s),explanation of differences
+安排,整理,"安排 (ānpái)
+Generally means to arrange or plan things systematically, often involving scheduling or organizing events, tasks, or activities.
+
+整理 (zhěnglǐ)
+Means to tidy up, organize, or sort things out, focusing on putting things in order or arranging them in a neat manner.
+
+As an example, if you're talking about cleaning up things in your room, you could use 整理 (zhěnglǐ), but it wouldn't make sense to say 安排 (ānpái). On the other hand, if you're organizing the events for someone's birthday, you could only use 安排 (ānpái)."
+老公,丈夫;先生,"There are three words for husband: 丈夫 (zhàngfu), 先生 (xiānsheng), and 老公 (lǎogong). All three mean husband, the only difference is the level of formality. Here are the details:
+
+老公 (lǎogong)
+This is a casual, informal word for husband. The corresponding word for wife is 老婆 (lǎopó) 
+
+丈夫 (zhàngfu)
+This is a formal word, and is also used in legal contexts. The corresponding word for wife is 妻子 (qīzi).
+
+先生 (xiānsheng)
+This is the most formal of all. The corresponding word for wife is 太太 (tàitai).
+
+For example, if you are telling a friend that your husband loves cats, you would probably use 老公 (lǎogong), or possibly 丈夫 (zhàngfu) if you are speaking formally, but you would never use 先生 (xiānsheng). However, if you are watching a C-Drama, and a cultivator is formally telling the court that Lán Zhàn's husband loves rabbits, they might use 先生 (xiānsheng)."
+爱情,爱;喜欢,"爱 (ài)
+General term for love, applicable in various contexts, including romantic, familial, or platonic love.
+
+喜欢 (xǐhuān)
+More casual, expressing liking or fondness; used in various relationships, such as friendships or preferences.
+
+爱情 (àiqíng)
+Specifically refers to romantic love or the emotion of love in a romantic relationship.
+
+For example, you could use 喜欢 (xǐhuān) to say that you like your boss, like your cat, or like your spouse. You could say that you love your cat or your spouse with 爱 (ài), but you probably wouldn't say this about your boss. And you could say you have romantic love, or 爱情 (àiqíng), for your spouse, but definitely not for your cat or your boss!"
+打算,计划,"The words 打算 (dǎsuàn) and 计划 (jìhuà) are both verbs meaning ""to plan"", but they differ in the level of detailedness they express.
+
+打算 (dǎsuàn)
+This refers to a more general idea, not a detailed plan.
+
+计划 (jìhuà)
+This is a detailed plan of what specifically you want to do, specifically for bigger or more complex things.
+
+Therefore, if someone asks you what you are going to do on the weekend and you say planning to relax, you might say ""我打算放松“, but if you are talking about what things you are planning to do at your wedding, you would express it with 计划 (jìhuà)!"
+开心,高兴;快乐;愉快;愉悦;幸福,"There are many different ways to talk about being happy or unhappy in Chinese. Of these, 开心 (kāixīn) and 高兴 (gāoxìng) are the most common and general, and the others have more specific meanings.
+
+开心 (kāixīn)
+This is the most commonly used term. It is pretty much equivalent to ""happy"" in English.
+
+高兴 (gāoxìng)
+This is almost the same meaning as 开心, but 不高兴 carries more of a connotation of being angry than being unhappy.
+
+幸福 (xìngfú)
+This refers to a very deep, stable, sense of happiness, typically lasting a long time.
+
+快乐 (kuàilè)
+This word can only really be used in expressions like ""Happy New Year""/""Happy Birthday""/""Happy Christmas"" etc.
+
+愉快 (yúkuài)
+This is really not very different from 快乐, but it is used for things that are smaller in scale, like ""happy weekend"", ""happy journey"" etc.
+
+愉悦 (yúyuè)
+Similar to 愉快, expressing a pleasant and delightful feeling, but less commonly used.
+
+Let's clarify this with some examples! If you are saying you are feeling happy right now, 开心 (kāixīn) or 高兴 (gāoxìng) are the right ones to use. But if you have a happy marriage, that's a deep or lasting feeling, so you'll want to say it is 幸福 (xìngfú). If you're wishing someone a good trip, you'd use 愉快 (yúkuài); but if you're wishing them a happy new year, that's big enough that you'd use 快乐 (kuàilè)."
+忽然,突然,"There is really very little difference between 忽然 (hūrán) and 突然 (túrán), and they can be regarded as synonyms. The only difference of note is that only 突然 can be used as an adjective (meaning ""sudden""), whereas 忽然 is only an adverb."
+频繁,不时;经常;时常;往往,"频繁 (pínfán), 经常 (jīngcháng) and 时常 (shícháng)
+These three words all mean ""often"" or ""frequently"". They are synonyms and have no real difference in meaning.
+
+往往 (wǎngwǎng)
+Thsi word is similar to 频繁, 经常, and 时常, but the meaning is closer to ""usually"" than ""often"".
+
+不时 (bùshí)
+This word means ""from time to time"", and therefore has a quite different meaning from the above.
+
+For Example, if you want to say that your cat often meows at you for no reason, you could use any one of 频繁 (pínfán), 经常 (jīngcháng) or 时常 (shícháng). If you want to say that Wei Wuxian is usually flirtatious, you could use 往往 (wǎngwǎng). However, 不时 (bùshí) would substantially change the meaning of both of these statements."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+EXAMPLE OUTPUT,,
+,,
+word,synonym(s),explanation of differences
+阅读,读书,"阅读 (yuèdú)
+Refers to the general act of reading, including reading books, newspapers, articles, etc.
+
+读书 (dúshū)
+Specifically refers to the act of reading books.
+
+So, you can use 阅读 (yuèdú) when talking about reading in general, while 读书 (dúshū) is more specific to reading books."
+原因,原因;理由,"原因 (yuányīn)
+Means cause, origin, root cause, or reason. It's a more general term and can be used in various contexts.
+
+理由 (lǐyóu)
+Refers to a reason or justification for doing something. It's more specific and often used in the context of explaining or justifying actions.
+
+In summary, you can use 原因 (yuányīn) in a broader sense, while 理由 (lǐyóu) is more specific and often used in the context of explaining reasons for actions."
+愉快,高兴;快乐;开心,"愉快 (yúkuài)
+Means cheerful, delightful, pleasant, or happy. It's used to describe a state of being pleased or delighted.
+
+高兴 (gāoxìng), 快乐 (kuàilè), 开心 (kāixīn)
+These are all synonyms for happy, but each has its own specific usage. 高兴 (gāoxìng) is similar to 愉快 (yúkuài) but can also carry a connotation of being pleased or satisfied. 快乐 (kuàilè) is often used in specific expressions like ""Happy New Year"" or ""Happy Birthday"". 开心 (kāixīn) is the most commonly used term for ""happy"" in general.
+
+In summary, 愉快 (yúkuài) is used to describe a state of being pleased or delighted, while 高兴 (gāoxìng), 快乐 (kuàilè), and 开心 (kāixīn) have their own specific nuances and usage."
+尤其,特别;特殊,"尤其 (yóuqí)
+Means especially or particularly. It's used to single out something as being exceptional or noteworthy.
+
+特别 (tèbié), 特殊 (tèshū)
+These are synonyms for special or particular, but each has its own specific usage. 特别 (tèbié) is used to describe something as being special or particular, while 特殊 (tèshū) is used to describe something as being unique or distinct.
+
+In summary, 尤其 (yóuqí) is used to single out something as being exceptional or noteworthy, while 特别 (tèbié) and 特殊 (tèshū) have their own specific nuances and usage."
+许多,很多;大量,"许多 (xǔduō)
+Means many, a lot of, or much. It's a general term for a large quantity or number.
+
+很多 (hěnduō), 大量 (dàliàng)
+These are synonyms for many or a lot of, but each has its own specific usage. 很多 (hěnduō) is used to describe a large quantity or number, while 大量 (dàliàng) is used to describe a large amount or quantity.
+
+In summary, 许多 (xǔduō) is a general term for a large quantity or number, while 很多 (hěnduō) and 大量 (dàliàng) have their own specific nuances and usage."
+word,synonym(s),explanation of differences
+数字,"numeral; digit; number; figure; amount; digital (electronics etc), CL:個|个[ge4]","数字 (shùzì)
+This word generally refers to numbers, numerals, or digits, and can also be used to describe digital technology or electronic devices.
+
+数目 (shùmù)
+This word specifically refers to the amount or quantity of something, and is often used in the context of counting or tallying.
+
+数字 (shùzì) is a more general term that encompasses the concept of numbers, digits, and digital technology, while 数目 (shùmù) specifically focuses on the quantity or amount of something."
+,,
+却,but; yet; however; while; to go back; to decline; to retreat; nevertheless; even though,"却 (què)
+This word is used to indicate a contrast or contradiction between two clauses or sentences. It can be translated as ""but,"" ""yet,"" ""however,"" or ""nevertheless,"" and is used to express unexpected or contradictory information.
+
+然而 (rán'ér)
+This word also means ""however,"" but it tends to be used in a more formal or literary context. It conveys a sense of transition or contrast between two ideas, similar to ""however"" or ""nevertheless.""
+
+虽然 (suīrán)
+This word means ""although"" or ""even though,"" and is used to introduce a subordinate clause that expresses a contrast or concession.
+
+While 却 (què) and 然而 (rán'ér) can be used to indicate a contrast within the same sentence, 虽然 (suīrán) is used to introduce a subordinate clause that presents a contrasting or concessive idea. Additionally, 然而 (rán'ér) is more formal and literary compared to 却 (què)."
+
+
+In some cases, you will be given some synonyms that really have no difference in meaning; feel free to say that these mean the same thing and the usage is the same. Remember to give specific examples of when certain synonyms can be used, but others can't.

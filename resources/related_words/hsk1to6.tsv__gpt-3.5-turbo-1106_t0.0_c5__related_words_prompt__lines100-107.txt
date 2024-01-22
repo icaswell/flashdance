@@ -1,0 +1,52 @@
+word,synonym(s),explanation of differences
+丰富,富,"丰富 (fēngfù)
+Means abundant, rich, or plentiful. It is used to describe a wide variety or a large quantity of something, such as resources, knowledge, or experiences.
+
+富 (fù)
+Means rich or wealthy, specifically in terms of possessing a lot of money or valuable assets.
+
+As an example, you could use 丰富 (fēngfù) to describe a rich and diverse cultural experience, but you wouldn't use 富 (fù) in this context. On the other hand, if you want to talk about someone who is financially wealthy, you would use 富 (fù), but not 丰富 (fēngfù)."
+符合,见面,"符合 (fúhé)
+Means to conform to, in accordance with, or to meet the requirements or standards. It is used to describe the compatibility or agreement between two or more things.
+
+见面 (jiànmiàn)
+Means to meet, to see each other, or to have a meeting. It specifically refers to the act of coming together in person.
+
+As an example, you could use 符合 (fúhé) to describe how someone's actions align with a set of rules, but you wouldn't use 见面 (jiànmiàn) in this context. On the other hand, if you want to talk about meeting someone in person, you would use 见面 (jiànmiàn), but not 符合 (fúhé)."
+付款,工资,"付款 (fùkuǎn)
+Means to make a payment or to pay money. It is used in the context of financial transactions, such as paying bills or making purchases.
+
+工资 (gōngzī)
+Specifically refers to wages or salary, the money paid to an employee for their work.
+
+As an example, you could use 付款 (fùkuǎn) when talking about making a payment for a purchase, but you wouldn't use 工资 (gōngzī) in this context. On the other hand, if you want to talk about the salary or wages received from an employer, you would use 工资 (gōngzī), but not 付款 (fùkuǎn)."
+父亲,爸爸,"父亲 (fùqīn)
+Means father, specifically in a formal or respectful manner. It is used to refer to one's own father or to address someone else's father in a polite way.
+
+爸爸 (bàba)
+Means dad or daddy, and is a more casual and affectionate way of referring to one's own father.
+
+As an example, you could use 父亲 (fùqīn) when talking about your father in a formal or respectful context, but you wouldn't use 爸爸 (bàba) in this context. On the other hand, if you want to talk about your dad in an affectionate or casual manner, you would use 爸爸 (bàba), but not 父亲 (fùqīn)."
+
+word,synonym(s),explanation of differences
+复印, 份,"复印 (fùyìn)
+Refers specifically to the act of photocopying or duplicating documents, papers, or materials.
+
+份 (fèn)
+This word generally means a portion, share, or copy of something, and can be used in various contexts to indicate a specific quantity or allocation.
+
+For example, if you want to say that you need to make a copy of a document, you would use 复印 (fùyìn). However, if you want to say that you need three copies of a document, you would use 份 (fèn)."
+改变, 零钱;换;变化,"改变 (gǎibiàn)
+Means to change, alter, or transform something, often referring to a shift in state, condition, or behavior.
+
+零钱 (língqián), 换 (huàn), 变化 (biànhuà)
+These are synonyms for change, but each has its own specific usage. 零钱 (língqián) refers specifically to small change or loose coins. 换 (huàn) refers to the act of exchanging or swapping one thing for another. 变化 (biànhuà) refers to a change or transformation in a broader sense.
+
+For example, if you want to say that the weather changes frequently, you would use 变化 (biànhuà). If you want to say that you need to change a $20 bill into smaller denominations, you would use 换 (huàn). However, if you want to say that you need some change for the bus, you would use 零钱 (língqián)."
+感觉, 感情,"感觉 (gǎnjué)
+Refers to the general act of sensing, feeling, or perceiving something, including physical sensations, emotions, or intuitions.
+
+感情 (gǎnqíng)
+This word specifically refers to emotions, feelings, or sentiments in the context of interpersonal relationships or personal affections.
+
+For example, if you want to say that you have a good feeling about a situation, you would use 感觉 (gǎnjué). However, if you want to say that you have deep feelings for someone, you would use 感情 (gǎnqíng)."

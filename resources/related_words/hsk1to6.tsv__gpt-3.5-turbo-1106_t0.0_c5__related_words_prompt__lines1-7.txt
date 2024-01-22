@@ -1,0 +1,37 @@
+word,synonym(s),explanation of differences
+不,没,"不 (bù)
+This word is used to negate verbs, adjectives, or other adverbs. It indicates the absence of an action or state.
+
+没 (méi)
+This word is used to indicate the absence of an action or state in the past tense. It is specifically used to negate past actions or states.
+
+In summary, 不 (bù) is used to negate actions or states in general, while 没 (méi) is used to negate past actions or states."
+爱,喜欢,"爱 (ài)
+This word specifically refers to deep affection or love, particularly in the context of romantic relationships or strong emotional bonds.
+
+喜欢 (xǐhuān)
+This word refers to liking or having a fondness for something or someone. It is used in various relationships, such as friendships or preferences.
+
+In summary, 爱 (ài) is used to express deep affection or love, while 喜欢 (xǐhuān) is used to express liking or having a fondness for something or someone."
+会,能,"会 (huì)
+This word indicates the ability to do something, often implying a learned skill or knowledge.
+
+能 (néng)
+This word also indicates the ability to do something, particularly in the sense of having the physical or mental capacity to accomplish a task.
+
+In summary, 会 (huì) often implies a learned skill or knowledge, while 能 (néng) emphasizes the physical or mental capacity to accomplish a task."
+word,synonym(s),explanation of differences
+能,会,"能 (néng)
+Refers to the ability or capability to do something, indicating that one has the skill, knowledge, or capacity to perform a certain action or task.
+
+会 (huì)
+Also means the ability or capability to do something, but it specifically refers to the skill or proficiency in a certain area, such as a language, a craft, or a specific skill.
+
+In summary, 能 (néng) generally refers to the ability or capacity to do something, while 会 (huì) specifically refers to proficiency or skill in a particular area."
+少,几,"少 (shǎo)
+Means few or little, indicating a small quantity or number. It's used to describe a small amount or a small number of something.
+
+几 (jǐ)
+Also means few or little, but it specifically refers to a small number or quantity. It's often used to ask about or indicate a small, indefinite number.
+
+In summary, 少 (shǎo) is used to describe a small amount or quantity, while 几 (jǐ) specifically refers to a small, indefinite number or quantity."

@@ -12,7 +12,7 @@ zi_definitions_fname = "resources/zi_singleword_defs.tsv"
 use_same_zi_fname = "resources/use_same_zi/mega_hanzi.tsv"
 
 relatedwords_fname = "resources/related_words/hsk1to6.tsv"
-relatedwords_exmplation_fname = "TODO"
+relatedwords_explanation_fname = "output/hsk1to6.tsv__gpt-3.5-turbo-1106_t0.0__related_words_prompt__full.txt"
 examples_fname ="resources/example_sentences/cql.tsv"
 NEWLINE = "\r"
 

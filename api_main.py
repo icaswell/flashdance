@@ -70,6 +70,8 @@ def main():
   parser.add_argument('--temp', type=float, default=0.0, help='Temperature for sampling')
   parser.add_argument('--model_name', default='gpt-3.5-turbo-1106', help='Input file name')
   parser.add_argument('--chunk_size', type=int, default=5, help='How many words to batch together for one generation.')
+  parser.add_argument('--start', type=int, default=0, help='the first line to read from the input (inclusive)')
+  parser.add_argument('--end', type=int, default=None, help='the last line to read from the input (inclusive)')
   args = parser.parse_args()
   
   client = OpenAI()
@@ -80,14 +82,17 @@ def main():
 
   input_data_rows = []
   with open(args.input_file, 'r', encoding='utf-8') as infile:
-    for row in infile:
+    for i, row in enumerate(infile):
+      if i < args.start: continue
+      if i > args.end: break
       input_data_rows.append(row)
 
   chunked_input = split_to_chunks(input_data_rows, chunk_size=args.chunk_size)
 
-  output_fname = args.input_file.replace("input", "output")
+  output_fname = f"output/{args.input_file.split('/')[-1]}"
   prompt_name = args.system_prompt.split("/")[-1].replace(".txt", "")
-  output_fname = output_fname + f"__{args.model_name}_t={args.temp}_c={args.chunk_size}__{prompt_name}.txt"
+  bounds_name = f"__lines{args.start}-{args.end if args.end else 'end'}" if (args.start or args.end) else ""
+  output_fname = output_fname + f"__{args.model_name}_t{args.temp}_c{args.chunk_size}__{prompt_name}{bounds_name}.txt"
   output_file = open(output_fname, 'a', encoding='utf-8')
 
   for i, inp_chunk in enumerate(chunked_input):
@@ -104,6 +109,8 @@ def main():
     output_file.flush()
 
   output_file.close()
+  print("\n\n#================================================#")
+  print(f"Wrote to file {output_fname}")
 
 
 
