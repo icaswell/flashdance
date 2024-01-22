@@ -1,0 +1,6 @@
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+它	it	它是一只小猫。	It is a kitten.	这个问题它很难。	This problem is difficult.	它们是我的朋友。	They are my friends.
+好的	OK	好的，我知道了。	OK, I got it.	这个主意好的。	This idea is good.	好的，我们开始吧。	OK, let's start.
+假如	if	假如你不来，我就一个人去。	If you don't come, I'll go alone.	假如天气好，我们就去爬山。	If the weather is good, we'll go mountain climbing.	假如他来了，我们就开始。	If he comes, we'll start.
+她	she	她是我的朋友。	She is my friend.	她喜欢唱歌。	She likes singing.	她的笑容很温暖。	Her smile is warm.
+儿子	son	他有一个儿子。	He has a son.	我的儿子很聪明。	My son is very smart.	他的儿子是我的学生。	His son is my student.

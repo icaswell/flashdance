@@ -1,0 +1,463 @@
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+背叛	to betray	他背叛了我的信任。	He betrayed my trust.	她感到被背叛了。	She feels betrayed.	这是一次背叛。	This is a betrayal.
+次要	secondary	这只是次要问题。	This is just a secondary issue.	他的工作是次要的。	His job is secondary.	次要的任务也很重要。	Secondary tasks are also important.
+说错	Say wrong	对不起，我说错了。	Sorry, I said it wrong.	他常常说错话。	He often says things wrong.	她说错了我的名字。	She said my name wrong.
+东亚	East Asia	东亚地区有很多美丽的国家。	There are many beautiful countries in East Asia.	中国是东亚的一部分。	China is part of East Asia.	东亚文化有很多特点。	East Asian culture has many characteristics.
+乘客	passenger	请乘客系好安全带。	Please fasten your seatbelt, passengers.	这辆车可以载50名乘客。	This vehicle can carry 50 passengers.	乘客们都很满意这次的旅程。	The passengers are all satisfied with this trip.
+蓝莓	blueberry	我喜欢吃蓝莓酱。	I like to eat blueberry jam.	蓝莓是一种健康的水果。	Blueberries are a healthy fruit.	这个蛋糕上有很多蓝莓。	There are a lot of blueberries on this cake.
+煎鸡蛋	Fried egg	我喜欢吃煎鸡蛋。	I like to eat fried eggs.	他每天早上都会煎鸡蛋。	He fries eggs every morning.	这家餐厅的煎鸡蛋很好吃。	The fried eggs in this restaurant are delicious.
+东北	northeast	我们的家乡在东北。	Our hometown is in the northeast.	东北地区的冬天很冷。	The winter in the northeast is very cold.	东北风很猛烈。	The northeast wind is very strong.
+东南	southeast	这个城市位于东南部。	This city is located in the southeast.	东南亚有很多美丽的海滩。	Southeast Asia has many beautiful beaches.	他们向东南方向前进。	They are moving in the southeast direction.
+辞职	to resign	他决定辞职。	He decided to resign.	她辞职后去了另一家公司。	She went to another company after resigning.	辞职是她的个人选择。	Resigning is her personal choice.
+公里	kilometer	这个城市离我们家有几公里？	How many kilometers is it from our house to this city?	这条马拉松赛道有42公里。	This marathon track is 42 kilometers long.	这辆车每升油可以跑多少公里？	How many kilometers can this car run per liter of fuel?
+补救	to remedy	我们需要尽快补救这个错误。	We need to remedy this mistake as soon as possible.	他们正在寻找一种补救的方法。	They are looking for a way to remedy the situation.	这个药可以用来补救这种情况。	This medicine can be used to remedy this situation.
+此次	this time	此次活动很成功。	This event was very successful.	此次考试很难。	This exam was very difficult.	此次会议将决定我们的未来。	This meeting will determine our future.
+爱说话	Talkative	她是一个很爱说话的人。	She is a very talkative person.	他的孩子也很爱说话。	His child is also very talkative.	爱说话的人通常很受欢迎。	Talkative people are usually popular.
+盒子	box; case	这个盒子里装满了糖果。	This box is full of candies.	他把礼物放进了一个盒子里。	He put the gift in a box.	这个盒子很漂亮。	This box is very beautiful.
+今年	this year	今年是个丰收年。	This year is a year of good harvest.	今年的天气很不稳定。	The weather this year is very unstable.	今年的目标是提高销售额。	The goal this year is to increase sales.
+一张图片	a picture	这是一张很美的图片。	This is a very beautiful picture.	他给我一张图片。	He gave me a picture.	这张图片很有意义。	This picture is very meaningful.
+豪华	luxurious	这是一家豪华的酒店。	This is a luxurious hotel.	她喜欢豪华的生活。	She likes a luxurious lifestyle.	这辆车的内饰非常豪华。	The interior of this car is very luxurious.
+苍白	pale; wan	她的脸色很苍白。	Her face is very pale.	他看起来有点苍白。	He looks a little wan.	他的嘴唇苍白无血色。	His lips are pale and bloodless.
+忘记	to forget	我忘记了带钥匙。	I forgot to bring the keys.	她忘记了我的生日。	She forgot my birthday.	不要忘记这个重要的日期。	Don't forget this important date.
+赌博	to gamble	他因为赌博而失去了很多钱。	He lost a lot of money because of gambling.	赌博是一种不好的习惯。	Gambling is a bad habit.	他发誓再也不会赌博了。	He swore he would never gamble again.
+酱油	soy sauce	这个菜需要加一点酱油。	This dish needs a little soy sauce.	他喜欢在米饭上加酱油。	He likes to put soy sauce on rice.	这瓶酱油已经用完了。	This bottle of soy sauce is empty.
+明年	next year	明年我要去旅行。	I'm going to travel next year.	我们明年会搬家。	We will move next year.	明年的计划已经安排好了。	The plan for next year is already arranged.
+世界杯	World Cup	世界杯是一个很受欢迎的体育赛事。	The World Cup is a very popular sports event.	他很期待下一届世界杯。	He is looking forward to the next World Cup.	世界杯的冠军将会是谁？	Who will be the champion of the World Cup?
+戴口罩	wear mask	在公共场合要戴口罩。	Wear a mask in public places.	他戴口罩去了医院。	He wore a mask to the hospital.	戴口罩可以有效防止疾病传播。	Wearing a mask can effectively prevent the spread of disease.
+男朋友	boyfriend	她的男朋友很帅。	Her boyfriend is very handsome.	我男朋友是一名医生。	My boyfriend is a doctor.	她的男朋友对她很好。	Her boyfriend is very good to her.
+跟随	to follow	请跟随我。	Please follow me.	他决定跟随他的梦想。	He decided to follow his dreams.	我们应该跟随领导的安排。	We should follow the leader's arrangements.
+美丽	beautiful	她是一个美丽的女孩。	She is a beautiful girl.	这个城市有很多美丽的景点。	This city has many beautiful attractions.	美丽的音乐可以治愈心灵。	Beautiful music can heal the soul.
+好运	good luck	祝你好运！	Wish you good luck!	他今天运气很好。	He is very lucky today.	好运总是会降临在有准备的人身上。	Good luck always comes to those who are prepared.
+上次	last time	上次的表现比这次好。	The performance last time was better than this time.	上次的经历让我印象深刻。	The experience last time left a deep impression on me.	上次的会议决定了很多事情。	Last time's meeting decided a lot of things.
+有美感	Aesthetic	她有很好的美感。	She has a very good aesthetic sense.	这幅画有很强的美感。	This painting has a strong aesthetic appeal.	他的设计总是充满了美感。	His designs are always full of aesthetic sense.
+古典	classical	我喜欢听古典音乐。	I like to listen to classical music.	这是一部古典文学作品。	This is a classical literary work.	古典建筑有着悠久的历史。	Classical architecture has a long history.
+坏习惯	bad habit	抽烟是一个坏习惯。	Smoking is a bad habit.	改掉坏习惯需要毅力。	It takes perseverance to change bad habits.	他一直在努力改掉自己的坏习惯。	He has been working hard to change his bad habits.
+极其	extremely	这个问题极其重要。	This issue is extremely important.	他的行为极其令人失望。	His behavior is extremely disappointing.	这个地方的风景极其美丽。	The scenery of this place is extremely beautiful.
+海湾	bay; gulf	这个城市有一个美丽的海湾。	This city has a beautiful bay.	这个海湾的风景很壮观。	The scenery of this gulf is spectacular.	我们在海湾度过了一个愉快的假期。	We had a pleasant holiday in the bay.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+渐渐	gradually	他的健康状况渐渐好转。	His health condition is gradually improving.	她的声音渐渐变得低沉。	Her voice gradually became low.	时间渐渐过去了。	Time passed gradually.
+下次	next time	我们下次再见。	See you next time.	下次我会做得更好。	I will do better next time.	下次我会提前通知你。	I will notify you in advance next time.
+堤坝	dam; dike	这座堤坝可以防止洪水。	This dam can prevent floods.	他们修建了一座新的堤坝。	They built a new dike.	堤坝的建设对当地的农业有很大帮助。	The construction of the dam is of great help to the local agriculture.
+脚印	footprint	他们在沙滩上留下了脚印。	They left footprints on the beach.	这些脚印是谁留下的？	Whose footprints are these?	我们跟着脚印找到了失踪的孩子。	We followed the footprints and found the missing child.
+工作计划	Work Plan	我需要制定一个详细的工作计划。	I need to make a detailed work plan.	这个工作计划需要在下周之前完成。	This work plan needs to be completed by next week.	我们需要一个可行的工作计划来提高效率。	We need a feasible work plan to improve efficiency.
+通勤	commuting	我每天通勤一个小时。	I commute for an hour every day.	通勤时间太长了，我考虑搬家。	The commuting time is too long, I am considering moving.	通勤路上总是堵车。	There is always traffic jam on the commute.
+上周	last week	上周我去了一趟上海。	I went to Shanghai last week.	上周的天气非常糟糕。	The weather was very bad last week.	上周我们开了一个重要的会议。	We had an important meeting last week.
+恶化	to worsen	他的病情突然恶化了。	His condition suddenly worsened.	局势的恶化使得局部居民无法正常生活。	The deterioration of the situation makes it impossible for local residents to live a normal life.	这种行为会导致关系的恶化。	This behavior will lead to a deterioration of the relationship.
+考场	exam room	考场里安静得连针掉在地上都能听见。	The exam room is so quiet that you can hear a pin drop.	她在考场上表现得非常出色。	She performed very well in the exam room.	考场上的气氛紧张而严肃。	The atmosphere in the exam room is tense and serious.
+百度地图	Baidu map	我经常使用百度地图导航。	I often use Baidu map for navigation.	百度地图可以实时更新交通信息。	Baidu map can update traffic information in real time.	百度地图是一款非常方便的手机应用。	Baidu map is a very convenient mobile app.
+秘书	secretary	她是我们公司的秘书。	She is the secretary of our company.	秘书负责安排会议和行程。	The secretary is responsible for arranging meetings and schedules.	我需要和秘书预约一下时间。	I need to make an appointment with the secretary.
+空军	air force	空军在演习中展示了强大的实力。	The air force demonstrated its strong capabilities in the exercise.	他的梦想是成为一名空军飞行员。	His dream is to become an air force pilot.	空军的飞机在天空中划过。	The air force's planes streaked across the sky.
+挺好	very good	这个提议挺好的。	This proposal is very good.	你的中文说得挺好的。	Your Chinese is very good.	今天的天气挺好的。	The weather today is very good.
+进这里来	Come here	进这里来，我给你看。	Come here, let me show you.	你为什么不进这里来？	Why don't you come in here?	进这里来，我有一些好东西给你。	Come here, I have something good for you.
+西北	northwest	我们的家乡在中国的西北部。	Our hometown is in the northwest of China.	西北地区的冬天非常寒冷。	The winter in the northwest is very cold.	西北风吹得树叶纷纷飘落。	The northwest wind blows and leaves fall one after another.
+西南	southwest	我们计划下个月去西南旅行。	We plan to travel to the southwest next month.	西南地区的风景非常美丽。	The scenery in the southwest is very beautiful.	西南部分地区的气候湿润多雨。	The climate in the southwest is humid and rainy.
+民主	democracy	民主是一种政治制度。	Democracy is a form of political system.	他们追求民主和自由。	They pursue democracy and freedom.	民主是人民当家作主的体现。	Democracy is the embodiment of the people being the masters of the country.
+时区	time zone	我们的时区比他们晚8个小时。	Our time zone is 8 hours behind theirs.	时区的变化会影响生物钟。	The change in time zone will affect the biological clock.	时区的划分是为了统一时间。	The division of time zones is for the purpose of unifying time.
+辐射	radiation	这个地区受到了核辐射。	This area has been exposed to nuclear radiation.	辐射对人体健康有害。	Radiation is harmful to human health.	这种设备会产生电磁辐射。	This device will generate electromagnetic radiation.
+下周	next week	下周我们要开一个重要的会议。	We are going to have an important meeting next week.	下周我会去旅行。	I will travel next week.	下周的计划已经安排好了。	The plan for next week is already arranged.
+抢救	to rescue	医生们正在全力抢救伤员。	Doctors are doing their best to rescue the wounded.	他的生命被及时抢救了回来。	His life was rescued in time.	抢救工作正在进行中。	The rescue work is in progress.
+有毒	poisonous	这种植物有毒。	This plant is poisonous.	这种食物可能是有毒的。	This food may be poisonous.	这种气体是有毒的。	This gas is poisonous.
+刷	to select	我要刷这个颜色的墙。	I want to paint the wall with this color.	你可以刷一下这个问题吗？	Can you select this question?	我要刷这个选项。	I want to select this option.
+红肉橙	cara cara	红肉橙是一种很甜的水果。	Cara cara is a very sweet fruit.	我喜欢吃红肉橙。	I like to eat cara cara.	红肉橙的口感非常好。	Cara cara has a very good texture.
+释迦果	Cherimoya	释迦果是一种热带水果。	Cherimoya is a tropical fruit.	我从来没有吃过释迦果。	I have never eaten cherimoya.	释迦果的味道很独特。	Cherimoya has a unique taste.
+热水	hot water	我需要一杯热水。	I need a cup of hot water.	这个地方没有热水。	There is no hot water here.	热水对身体有好处。	Hot water is good for the body.
+降落伞	parachute	他跳伞时降落伞没有打开。	His parachute did not open when he jumped.	降落伞是空中飞行的必备装备。	Parachute is essential equipment for aerial flight.	他在空中展开了降落伞。	He opened the parachute in the air.
+童年	childhood	我在这个小镇度过了美好的童年。	I had a wonderful childhood in this small town.	童年的记忆总是让人怀念。	Childhood memories always make people nostalgic.	童年是人生中最快乐的时光。	Childhood is the happiest time in life.
+搜	to search	我需要搜一下这个问题。	I need to search for this question.	你可以帮我搜一下吗？	Can you help me search?	我要搜一下这个关键词。	I want to search for this keyword.
+打喷嚏	to sneeze	他对花粉过敏，经常打喷嚏。	He is allergic to pollen and often sneezes.	打喷嚏时要遮住口鼻。	Cover your mouth and nose when sneezing.	他突然打了一个喷嚏。	He suddenly sneezed.
+地理	geography	地理是一门很有趣的学科。	Geography is a very interesting subject.	地理知识对旅行很有帮助。	Geographical knowledge is very helpful for traveling.	地理环境对人的生活有很大影响。	The geographical environment has a great impact on people's lives.
+天文	astronomy	他对天文学非常感兴趣。	He is very interested in astronomy.	天文观测需要专业的设备。	Astronomical observation requires professional equipment.	天文学是一门神秘的学科。	Astronomy is a mysterious subject.
+噩梦	nightmare	昨晚我做了一个噩梦。	I had a nightmare last night.	这次事故一直是我的噩梦。	This accident has always been my nightmare.	他的过去是一个不愿意回忆的噩梦。	His past is a nightmare he doesn't want to recall.
+后勤	logistics	后勤保障是军队的重要组成部分。	Logistics support is an important part of the military.	公司的后勤部门需要加强管理。	The company's logistics department needs to strengthen management.	后勤工作需要高效的协调和执行。	Logistics work requires efficient coordination and execution.
+软化	to soften	这种方法可以软化水质。	This method can soften the water quality.	时间的流逝会软化伤痛。	The passage of time will soften the pain.	这种药可以软化皮肤。	This medicine can soften the skin.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+火药	gunpowder	这种火药用于制作烟花。	This type of gunpowder is used to make fireworks.	在古代，火药被用于制造武器。	In ancient times, gunpowder was used to make weapons.	他们正在研究新型火药的配方。	They are researching the formula for a new type of gunpowder.
+牛角包	croissant	我喜欢早上吃牛角包。	I like to eat croissants in the morning.	这家咖啡店的牛角包非常美味。	The croissants at this coffee shop are very delicious.	她在早餐时喜欢搭配一杯咖啡和牛角包。	She likes to have a cup of coffee and a croissant for breakfast.
+单词卡	flashcard	我用单词卡来记忆生词。	I use flashcards to memorize new words.	这套单词卡包括了很多常用词汇。	This set of flashcards includes many common vocabulary words.	老师建议我们使用单词卡来学习英语单词。	The teacher suggested that we use flashcards to study English words.
+民法	civil law	民法是保护公民权益的法律。	Civil law is the law that protects the rights of citizens.	他是一位民法专家。	He is an expert in civil law.	这个案件需要遵守民法的相关规定。	This case needs to comply with the relevant provisions of civil law.
+水很深	deceiving	这个人看起来很和善，但其实水很深。	This person looks very kind, but actually is deceiving.	他的话让人觉得水很深。	His words make people feel deceiving.	这个项目表面上看起来很简单，但实际上水很深。	This project looks simple on the surface, but in reality, it's deceiving.
+形容词	adjective	形容词用来修饰名词。	Adjectives are used to modify nouns.	她在中文课上学习了很多形容词。	She learned a lot of adjectives in Chinese class.	请用一个形容词来描述这个画面。	Please use an adjective to describe this scene.
+溅	to splash	他不小心把水溅到了我的衣服上。	He accidentally splashed water on my clothes.	她在洗碗时不小心溅到了自己。	She accidentally splashed herself while washing the dishes.	小孩子们在水里玩得很开心，溅起了水花。	The children were playing happily in the water, splashing water everywhere.
+没事了	nevermind	没事了，我已经解决了这个问题。	Nevermind, I have already solved the problem.	她说：“没事了，我不生气了。”	She said, "Nevermind, I'm not angry anymore."	他轻轻地拍了拍我的肩膀，说：“没事了，别担心。”	He gently patted my shoulder and said, "Nevermind, don't worry."
+志愿者	volunteer	她是一名志愿者，经常参加慈善活动。	She is a volunteer and often participates in charity events.	志愿者们为社区做出了很多贡献。	Volunteers have made a lot of contributions to the community.	我们需要更多的志愿者来帮助这个项目。	We need more volunteers to help with this project.
+劳驾	excuse me	劳驾，请问这附近有没有银行？	Excuse me, is there a bank nearby?	劳驾，你能帮我拿一下这个包吗？	Excuse me, can you help me with this bag?	劳驾，请问这里怎么走？	Excuse me, how do I get there?
+心水很高	well-paid	这份工作的薪水很高，心水很高。	This job has a high salary and is well-paid.	他一直在寻找一份心水很高的工作。	He has been looking for a well-paid job.	这个职位的薪水让他觉得心水很高。	The salary for this position makes him feel well-paid.
+逐渐	gradually	他的健康状况逐渐好转。	His health condition is gradually improving.	她逐渐适应了新的工作环境。	She gradually adapted to the new work environment.	这个城市的发展逐渐加快。	The development of this city is gradually accelerating.
+影星	film star	她梦想成为一名知名的影星。	She dreams of becoming a famous film star.	这位影星在最新的电影中表现出色。	This film star performed excellently in the latest movie.	影星们经常接受媒体的采访。	Film stars often accept interviews from the media.
+游人	a tourist	这个景点吸引了很多游人。	This scenic spot attracts many tourists.	游人们在这里留下了美好的回忆。	Tourists have left beautiful memories here.	游人们在这里享受了愉快的假期。	Tourists enjoyed a pleasant holiday here.
+佩服	to admire	我佩服她的勇气和毅力。	I admire her courage and perseverance.	他的成就让人无法不佩服。	His achievements are admirable.	她的善良和正直让人深深佩服。	Her kindness and integrity are deeply admirable.
+宇航员	astronaut	宇航员需要接受严格的训练。	Astronauts need to undergo rigorous training.	他的梦想是成为一名宇航员。	His dream is to become an astronaut.	宇航员在太空中进行了一次太空行走。	The astronaut conducted a spacewalk in space.
+家庭教育	parenting	家庭教育对孩子的成长至关重要。	Parenting is crucial to a child's growth.	她在家庭教育方面有丰富的经验。	She has rich experience in parenting.	家庭教育需要父母的共同努力。	Parenting requires the joint efforts of parents.
+助理	assistant	她是一位很出色的助理，工作非常努力。	She is an excellent assistant and works very hard.	助理需要具备良好的组织能力。	An assistant needs to have good organizational skills.	他的助理帮他处理了很多琐事。	His assistant helped him handle a lot of trivial matters.
+庭院	courtyard	这个古老的庭院保存完好。	This ancient courtyard is well-preserved.	他们在庭院里举办了一场婚礼。	They held a wedding in the courtyard.	庭院里的花草都长得很茂盛。	The flowers and plants in the courtyard are growing very lush.
+自愿	voluntary	这是一项自愿活动，没有强制参加。	This is a voluntary activity, and participation is not mandatory.	他自愿承担了这个任务。	He voluntarily took on this task.	她自愿为慈善机构做义工。	She volunteers for a charity organization.
+澳大利亚	Australia	澳大利亚是一个多元文化的国家。	Australia is a multicultural country.	他们计划明年去澳大利亚旅行。	They plan to travel to Australia next year.	澳大利亚以其独特的自然景观而闻名。	Australia is famous for its unique natural landscapes.
+扩充	to expand	公司计划扩充业务范围。	The company plans to expand its business scope.	这个项目需要扩充资金支持。	This project needs to expand its financial support.	他们决定扩充团队规模。	They decided to expand the team size.
+蜻蜓	dragonfly	小孩子们在池塘边追逐蜻蜓。	The children chased dragonflies by the pond.	蜻蜓在阳光下翩翩起舞。	The dragonfly danced gracefully in the sunlight.	她喜欢观察蜻蜓的飞行姿态。	She likes to observe the flight posture of dragonflies.
+里程碑	milestone	这次会议是我们项目的一个重要里程碑。	This meeting is an important milestone for our project.	他的成功标志着事业上的一个里程碑。	His success marks a milestone in his career.	这个项目的完成是我们团队的一个重要里程碑。	The completion of this project is an important milestone for our team.
+礼节	etiquette	在中国，尊重长辈是一种重要的社交礼节。	In China, respecting elders is an important social etiquette.	他对待客人非常有礼节。	He treats guests with great etiquette.	在商务场合，懂得礼节很重要。	Understanding etiquette is important in business situations.
+早点	breakfast	我喜欢在早点店吃豆浆油条。	I like to eat soy milk and fried dough sticks at the breakfast shop.	他每天早上都会吃一份丰盛的早点。	He eats a hearty breakfast every morning.	早点是一天中最重要的一餐。	Breakfast is the most important meal of the day.
+领事馆	consulate	他需要去领事馆办理签证手续。	He needs to go to the consulate to handle the visa procedures.	领事馆为公民提供了很多便利服务。	The consulate provides many convenient services for citizens.	领事馆的工作人员非常热情周到。	The staff at the consulate are very warm and thoughtful.
+领土	territory	这片土地是我们国家的领土。	This land is the territory of our country.	这个国家的领土面积很广阔。	This country has a vast territory.	领土纠纷一直是国际关系中的敏感问题。	Territorial disputes have always been a sensitive issue in international relations.
+犹太会堂	synagogue	犹太会堂是犹太教徒的宗教场所。	The synagogue is a religious place for Jews.	他们在犹太会堂举行了一场婚礼。	They held a wedding in the synagogue.	犹太会堂的建筑风格独特。	The architectural style of the synagogue is unique.
+冒犯	to offend	他的言行冒犯了一些人。	His words and actions offended some people.	请不要冒犯他的感情。	Please do not offend his feelings.	她无意冒犯你，只是表达了自己的看法。	She didn't mean to offend you, she just expressed her opinion.
+基督徒	Christian	他是一名虔诚的基督徒。	He is a devout Christian.	基督徒在圣诞节会庆祝耶稣的诞生。	Christians celebrate the birth of Jesus at Christmas.	她是一名忠诚的基督徒，每周都会去教堂做礼拜。	She is a loyal Christian and goes to church for worship every week.
+前排	front row	我们的座位在电影院的前排。	Our seats are in the front row of the cinema.	音乐会的前排座位很抢手。	The front row seats for the concert are in high demand.	他们坐在剧院的前排，观看精彩的表演。	They sat in the front row of the theater, watching the wonderful performance.
+巴勒斯坦	Palestine	巴勒斯坦的历史悠久而丰富。	Palestine has a long and rich history.	他们计划明年去巴勒斯坦旅行。	They plan to travel to Palestine next year.	巴勒斯坦的文化吸引了很多游客。	Palestine's culture has attracted many tourists.
+扶手电梯	escalator	扶手电梯可以方便乘客上下楼。	Escalators can conveniently take passengers up and down the floors.	他们在商场安装了新的扶手电梯。	They installed new escalators in the mall.	扶手电梯的故障导致了交通拥堵。	The malfunction of the escalator caused traffic congestion.
+蟑螂	cockroach	蟑螂是一种常见的害虫。	Cockroaches are a common type of pest.	他们在厨房里发现了一只蟑螂。	They found a cockroach in the kitchen.	蟑螂是一种顽固的害虫，很难根除。	Cockroaches are stubborn pests that are difficult to eradicate.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+频率	frequency	他的出现频率很高。	His appearance frequency is very high.	这个词在文章中的频率很低。	The frequency of this word in the article is very low.	我们需要提高训练的频率。	We need to increase the frequency of training.
+有效果	effective	这种药很有效果。	This medicine is very effective.	这个方法对我没有有效果。	This method is not effective for me.	她的努力终于取得了有效果。	Her efforts finally paid off.
+没效果	no effect	我的努力都没效果。	My efforts have no effect.	这个药对我没效果。	This medicine has no effect on me.	他的努力都没效果。	His efforts have no effect.
+瀑布	waterfall	这个国家有很多美丽的瀑布。	This country has many beautiful waterfalls.	我们在旅行中看到了壮观的瀑布。	We saw a spectacular waterfall during our trip.	瀑布的声音让人感到宁静。	The sound of the waterfall makes people feel peaceful.
+有出息	promising	这个孩子很有出息。	This child is very promising.	他的表现很有出息。	His performance is very promising.	她的未来一定很有出息。	Her future is definitely promising.
+一台手机	One phone	我只有一台手机。	I only have one phone.	这个公司给每个员工发了一台手机。	The company gave each employee one phone.	他丢了一台手机。	He lost one phone.
+好莱坞	Hollywood	好莱坞是电影的发源地之一。	Hollywood is one of the birthplaces of movies.	她梦想着能够去好莱坞发展。	She dreams of going to Hollywood for development.	好莱坞的电影产业非常发达。	The film industry in Hollywood is very developed.
+筛选	to filter	我们需要筛选出最合适的人选。	We need to filter out the most suitable candidates.	这个软件可以帮助你筛选信息。	This software can help you filter information.	筛选出好的原材料对产品质量很重要。	Filtering out good raw materials is important for product quality.
+忘性很大	forgetful	他的忘性很大。	He is very forgetful.	她最近变得忘性很大。	She has become very forgetful recently.	我有时候也会变得忘性很大。	Sometimes I also become very forgetful.
+绅士	gentleman	他是一个绅士。	He is a gentleman.	她喜欢绅士的待遇。	She likes the treatment of a gentleman.	他的举止很绅士。	His behavior is very gentlemanly.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+厨师	cook; chef	这家餐厅的厨师非常厉害。	The chef in this restaurant is very skilled.	她梦想成为一名厨师。	She dreams of becoming a chef.	这个厨师会做各种不同口味的菜。	This chef can make dishes of various flavors.
+大奖赛	grand prix	他在大奖赛中获得了第一名。	He won the first place in the grand prix.	大奖赛将在下个月举行。	The grand prix will be held next month.	我很期待这次大奖赛。	I am looking forward to this grand prix.
+放音乐	play music	他喜欢在家里放音乐。	He likes to play music at home.	请你放一首轻快的音乐。	Please play a cheerful piece of music.	放音乐可以让人放松。	Playing music can help people relax.
+胖	fat; plump	她的猫非常胖。	Her cat is very fat.	他的脸有些胖。	His face is a bit plump.	她不喜欢自己太胖。	She doesn't like being too fat.
+进来	to come in	请进来，坐吧。	Please come in and have a seat.	他敲了敲门，然后进来了。	He knocked on the door, then came in.	我听到有人在外面叫我，就赶紧进来了。	I heard someone calling me outside, so I hurried in.
+诞生	to be born	他在一个寒冷的冬天诞生。	He was born in a cold winter.	这个小熊猫在动物园诞生了。	This little panda was born in the zoo.	这个传统诞生于古代。	This tradition originated in ancient times.
+楼下	downstairs	请到楼下来一趟。	Please come downstairs for a moment.	我家的洗衣机在楼下。	My washing machine is downstairs.	楼下的餐厅很受欢迎。	The restaurant downstairs is very popular.
+撤退	to retreat	敌人开始撤退了。	The enemy is starting to retreat.	他们被迫撤退到山区。	They were forced to retreat to the mountains.	撤退并不意味着失败。	Retreat does not mean failure.
+多媒体	multimedia	这个展览使用了多媒体技术。	This exhibition uses multimedia technology.	多媒体教室里有很多电子设备。	The multimedia classroom has many electronic devices.	多媒体包括文字、图片和视频。	Multimedia includes text, images, and videos.
+零下	below zero	今天的气温是零下十度。	Today's temperature is ten degrees below zero.	北方的冬天经常是零下。	The winter in the north is often below zero.	零下的温度对植物有影响。	Temperatures below zero have an impact on plants.
+儿科	pediatrics	她是一名儿科医生。	She is a pediatrician.	这家医院有一个儿科部门。	This hospital has a pediatrics department.	他的女儿生病了，需要看儿科医生。	His daughter is sick and needs to see a pediatrician.
+烤鸭	roast duck	北京烤鸭是中国的特色菜之一。	Beijing roast duck is one of China's specialty dishes.	他很会做烤鸭。	He is very good at making roast duck.	我们去尝尝当地的烤鸭吧。	Let's go taste the local roast duck.
+一共	altogether	这些书一共多少钱？	How much are these books altogether?	我们一共有五个人。	Altogether, we have five people.	这个项目一共持续了两年。	This project lasted for a total of two years.
+高价	high price	这件商品的高价让我望而却步。	The high price of this item makes me hesitate.	他们出售的商品价格都很高。	The prices of the goods they sell are all very high.	高价商品通常质量更好。	High-priced goods usually have better quality.
+个体	individual	每个人都是独立的个体。	Everyone is an independent individual.	这些蚂蚁在集体中表现出个体的智慧。	These ants show individual intelligence within the colony.	个体的努力是团队成功的基础。	Individual efforts are the foundation of team success.
+控制	to control	他很擅长控制自己的情绪。	He is very good at controlling his emotions.	这个按钮可以控制灯的亮度。	This button can control the brightness of the light.	控制自己的欲望是一种能力。	Controlling one's desires is a kind of ability.
+女朋友	girlfriend	他的女朋友是一名医生。	His girlfriend is a doctor.	她的女朋友很漂亮。	Her girlfriend is very pretty.	他的女朋友对他很好。	His girlfriend is very good to him.
+毫米	millimeter	这个线段有十毫米长。	This line segment is ten millimeters long.	这个尺子可以测量毫米。	This ruler can measure millimeters.	这个管道的直径是三毫米。	The diameter of this pipe is three millimeters.
+毫升	milliliter	这个药需要用十毫升水稀释。	This medicine needs to be diluted with ten milliliters of water.	这个容器可以容纳五百毫升液体。	This container can hold five hundred milliliters of liquid.	一杯水大约是两百五十毫升。	A cup of water is about two hundred and fifty milliliters.
+呼吸	to breathe	深呼吸可以让人放松。	Deep breathing can relax people.	他的呼吸很急促。	His breathing is very rapid.	呼吸是生命的象征。	Breathing is a symbol of life.
+广阔	wide; vast	这片土地广阔无垠。	This land is vast and boundless.	她的眼界很广阔。	Her vision is very wide.	广阔的天空让人心旷神怡。	The vast sky makes people feel relaxed and happy.
+全部	whole; all	他把全部的钱都捐了出去。	He donated all of his money.	全部的学生都参加了活动。	All the students participated in the activity.	这个问题需要全部的人一起讨论。	This issue needs to be discussed by everyone together.
+他们	they; them	他们是我的好朋友。	They are my good friends.	我看到他们在公园里玩。	I saw them playing in the park.	他们的家在这附近。	Their home is nearby.
+主观	subjective	这个问题的答案是主观的。	The answer to this question is subjective.	她的看法很主观。	Her opinion is very subjective.	主观因素会影响决策。	Subjective factors can influence decision-making.
+纪律	discipline	他对自己要求很严格，有很好的纪律。	He has strict requirements for himself and has very good discipline.	学校对学生的纪律要求很高。	The school has high discipline requirements for students.	纪律是团队合作的基础。	Discipline is the foundation of teamwork.
+程序员	programmer	他是一名优秀的程序员。	He is an excellent programmer.	这个公司需要招聘一名程序员。	This company needs to hire a programmer.	程序员需要具备逻辑思维能力。	Programmers need to have logical thinking abilities.
+护	to protect	他们护着孩子们过马路。	They protect the children when crossing the road.	这个组织致力于护卫野生动物。	This organization is dedicated to protecting wildlife.	护国神山是我们的宝贝。	The sacred mountain we protect is our treasure.
+导航	navigation	这个软件可以提供导航服务。	This software can provide navigation services.	他是一名专业的导航员。	He is a professional navigator.	导航系统可以帮助我们找到目的地。	The navigation system can help us find the destination.
+北方人	Northerner	北方人更喜欢吃面食。	Northerners prefer to eat wheat-based food.	他是一位地道的北方人。	He is a genuine Northerner.	北方人的性格比较直爽。	Northerners tend to have straightforward personalities.
+南方人	Southerner	南方人的口音和北方人不一样。	The accent of Southerners is different from that of Northerners.	她是一位南方人，对辣的食物很感兴趣。	She is a Southerner and is very interested in spicy food.	南方人更喜欢吃米饭。	Southerners prefer to eat rice.
+监测	to monitor	这个设备可以监测空气质量。	This device can monitor air quality.	我们需要不断监测这个问题的发展。	We need to continuously monitor the development of this issue.	监测工作需要专业的技术支持。	Monitoring work requires professional technical support.
+页	page; leaf	这本书有多少页？	How many pages does this book have?	请翻到最后一页。	Please turn to the last page.	这个笔记本有一百页。	This notebook has one hundred pages.
+离婚	to divorce	他们决定离婚了。	They have decided to get a divorce.	离婚对孩子的影响很大。	Divorce has a big impact on children.	她不愿意离婚，但是没有办法。	She doesn't want to divorce, but there is no other way.
+学习计划	study plan	我的学习计划包括每天复习一小时。	My study plan includes reviewing for one hour every day.	她的学习计划很有条理。	Her study plan is very organized.	学习计划可以帮助我们提高效率。	Study plans can help us improve efficiency.
+厘米	centimeter	这个线段有十厘米长。	This line segment is ten centimeters long.	这个尺子可以测量厘米。	This ruler can measure centimeters.	这个箱子的宽度是二十厘米。	The width of this box is twenty centimeters.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+东岸	east coast	我们计划在明天早上沿着东岸散步。	We plan to take a walk along the east coast tomorrow morning.	东岸的风景非常美丽。	The scenery on the east coast is very beautiful.	东岸的气候比较温暖。	The climate on the east coast is relatively warm.
+西岸	west coast	他们选择在西岸建立了一个度假村。	They chose to build a resort on the west coast.	西岸的海浪适合冲浪。	The waves on the west coast are suitable for surfing.	西岸的日落很壮观。	The sunset on the west coast is spectacular.
+收到	to receive	我昨天收到了你的来信。	I received your letter yesterday.	他收到了一份工作面试的邀请。	He received an invitation for a job interview.	她收到了一份生日礼物。	She received a birthday gift.
+轮椅	wheelchair	这家餐厅提供轮椅服务吗？	Does this restaurant provide wheelchair service?	他需要一把轮椅来帮助行动。	He needs a wheelchair to assist with mobility.	轮椅可以帮助残疾人更方便地移动。	Wheelchairs can help people with disabilities move more conveniently.
+要是	(coll.) if	要是你不快点，我们会迟到的。	If you don't hurry, we will be late.	要是我有时间，我就会去参加。	If I have time, I will attend.	要是天气好，我们就去爬山。	If the weather is good, we will go hiking.
+谷歌地图	Google Map	我经常使用谷歌地图来导航。	I often use Google Maps for navigation.	谷歌地图可以帮助我们找到附近的餐厅。	Google Maps can help us find nearby restaurants.	谷歌地图的定位功能非常准确。	The positioning function of Google Maps is very accurate.
+它们	they; them	这些书籍是它们的。	These books belong to them.	它们是我的宠物猫。	They are my pet cats.	这些花是它们种的。	They planted these flowers.
+南极	south pole	南极的气温非常低。	The temperature at the South Pole is very low.	南极是地球上最寒冷的地方之一。	The South Pole is one of the coldest places on Earth.	科学家们正在研究南极的气候变化。	Scientists are studying the climate change at the South Pole.
+询问	to inquire	如果有任何问题，请随时询问。	If you have any questions, feel free to inquire.	我需要询问一下你的意见。	I need to inquire about your opinion.	他向老师询问了作业的要求。	He inquired the teacher about the homework requirements.
+一再	repeatedly	他一再强调这个观点。	He repeatedly emphasized this point.	她一再道歉，希望得到原谅。	She repeatedly apologized, hoping to be forgiven.	这个问题一再出现在我们的讨论中。	This issue repeatedly appeared in our discussion.
+泥	restrained	他的回答显得有些泥。	His response seemed somewhat restrained.	她的态度显得有些泥。	Her attitude seemed somewhat restrained.	他的表情显得有些泥。	His expression seemed somewhat restrained.
+上个月	last month	上个月我去了一趟北京。	I went to Beijing last month.	上个月的销售额比较理想。	The sales volume last month was relatively good.	上个月的天气比较炎热。	The weather was relatively hot last month.
+如下	as follows	请按照如下步骤操作。	Please operate according to the following steps.	如下是我们的计划安排。	As follows is our planned schedule.	如下是我对这个问题的看法。	As follows is my opinion on this issue.
+诗人	bard; poet	他是一位伟大的诗人。	He is a great poet.	诗人用文字表达内心的情感。	Poets express their inner emotions through words.	这位诗人的作品影响了很多人。	This poet's works have influenced many people.
+湿	moist; wet	外面的地面很湿。	The ground outside is very wet.	她的头发因为雨水而变得湿了。	Her hair became wet because of the rain.	这块布料摸上去很湿。	This piece of fabric feels very moist.
+舒适	cozy; snug	这个房间的氛围非常舒适。	The atmosphere in this room is very cozy.	这张床很舒适，我很喜欢。	This bed is very comfortable, I like it.	这个沙发坐起来很舒适。	The sofa is very comfortable to sit on.
+西柚	grapefruit	我喜欢用西柚榨汁。	I like to juice grapefruits.	西柚富含维生素C。	Grapefruits are rich in vitamin C.	西柚的味道有些酸。	Grapefruits taste a bit sour.
+池塘	pool; pond	池塘里有很多鱼。	There are many fish in the pond.	这个池塘的水很清澈。	The water in this pond is very clear.	池塘旁边有一棵大树。	There is a big tree next to the pond.
+伤口	wound; cut	他小心翼翼地清洁了伤口。	He carefully cleaned the wound.	她的手上有一个伤口。	She has a cut on her hand.	医生给他包扎了伤口。	The doctor bandaged the wound for him.
+长大	to grow up	我希望我的孩子健康快乐地长大。	I hope my child grows up healthy and happy.	他长大后成为了一名医生。	He grew up to become a doctor.	她长大后想成为一名老师。	She wants to become a teacher when she grows up.
+双手	both hands	他双手握着一束鲜花。	He held a bunch of flowers in both hands.	她双手拿着一本书。	She held a book in both hands.	他双手紧握着一张纸。	He tightly held a piece of paper in both hands.
+四周	all around	四周都是高楼大厦。	There are tall buildings all around.	她四周环顾了一下。	She looked around all around.	他四周都是绿树和鲜花。	There are green trees and flowers all around him.
+随后	soon after	他离开后，随后就下起了大雨。	Soon after he left, it started to rain heavily.	她的演讲结束后，随后掌声雷动。	After her speech ended, thunderous applause followed soon after.	他的提案得到了通过，随后就开始了实施。	His proposal was approved, and implementation began soon after.
+中年	middle age	他已经步入中年。	He has already entered middle age.	中年人需要更多的锻炼。	Middle-aged people need more exercise.	中年时期是一个人事业发展的关键阶段。	The middle age period is a crucial stage for a person's career development.
+卫衣	sweatshirt	她穿着一件卫衣和牛仔裤。	She is wearing a sweatshirt and jeans.	这件卫衣很舒适。	This sweatshirt is very comfortable.	他的卫衣上印着一个小熊。	There is a little bear printed on his sweatshirt.
+一台电脑	a computer	我需要一台电脑来完成工作。	I need a computer to finish my work.	他买了一台电脑来学习编程。	He bought a computer to learn programming.	这家公司给每个员工配备了一台电脑。	The company provides each employee with a computer.
+一对一	one on one	老师会给每个学生一对一的指导。	The teacher will provide one-on-one guidance to each student.	这种培训方式是一对一的。	This training method is one-on-one.	他们进行了一对一的交谈。	They had a one-on-one conversation.
+喉咙	the throat	她的喉咙有些不舒服。	Her throat feels a bit uncomfortable.	他喉咙痛得说不出话来。	His throat hurts so much that he can't speak.	喉咙是呼吸道的一部分。	The throat is part of the respiratory tract.
+下个月	next month	下个月我们计划去旅行。	We plan to travel next month.	下个月的会议将在这里举行。	The meeting next month will be held here.	下个月的生日聚会将会很热闹。	The birthday party next month will be lively.
+相比	to compare	相比之下，这个更好。	In comparison, this one is better.	相比之下，这个更容易操作。	Compared to that, this one is easier to operate.	相比之下，这个更有吸引力。	Compared to that, this one is more attractive.
+唯一	only; sole	她是我们班上唯一的女生。	She is the only girl in our class.	这是他唯一的机会。	This is his only chance.	这是我唯一的要求。	This is my only request.
+化肥	fertilizer	这种化肥对植物的生长有很大的帮助。	This fertilizer is very helpful for the growth of plants.	他们在田地里撒了化肥。	They spread fertilizer in the field.	这种化肥对土壤有益。	This fertilizer is beneficial to the soil.
+效率	efficiency	他的工作效率很高。	His work efficiency is very high.	这种机器的效率很低。	The efficiency of this machine is very low.	提高效率是我们的目标之一。	Improving efficiency is one of our goals.
+真实	true; real	这个故事是真实的。	This story is true.	他的表现非常真实。	His performance is very real.	真实的情况比我们想象的更糟。	The real situation is worse than we imagined.
+平底煎锅	frying pan	我需要一个平底煎锅来煎鸡蛋。	I need a frying pan to fry eggs.	这个平底煎锅很耐用。	This frying pan is very durable.	她在平底煎锅里煎了一些牛排。	She fried some steaks in the frying pan.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+践踏	to trample	他们践踏了鲜花。	They trampled on the flowers.	请不要践踏草坪。	Please do not trample on the lawn.	这些人践踏了公共秩序。	These people trampled on public order.
+一代	generation	他是这一代的杰出代表。	He is an outstanding representative of this generation.	这一代的年轻人面临着很多挑战。	The young people of this generation are facing many challenges.	这一代人经历了很多变革。	This generation has experienced many changes.
+冷笑话	corny joke	他讲了一个冷笑话，大家都笑了。	He told a corny joke and everyone laughed.	她总是喜欢讲一些冷笑话。	She always likes to tell some corny jokes.	这个冷笑话真的很好笑。	This corny joke is really funny.
+搬到	to move to	他们搬到了新家。	They moved to a new house.	我打算搬到城市去。	I plan to move to the city.	他们搬到了海边。	They moved to the seaside.
+校外	off campus	校外有很多便利店。	There are many convenience stores off campus.	他们在校外租了一间公寓。	They rented an apartment off campus.	校外的环境比较自由。	The environment off campus is relatively free.
+指甲	fingernail	她的指甲涂了红色的指甲油。	She painted her fingernails with red nail polish.	他的指甲很长很漂亮。	His fingernails are long and beautiful.	请不要咬指甲。	Please do not bite your fingernails.
+再那块儿	over there	东边再那块儿有一家小饭馆。	There is a small restaurant over there to the east.	再那块儿有一家新开的商店。	There is a newly opened store over there.	再那块儿有一片美丽的花园。	There is a beautiful garden over there.
+南极洲	Antarctica	他们去了南极洲旅行。	They went on a trip to Antarctica.	南极洲是世界上最寒冷的地方之一。	Antarctica is one of the coldest places in the world.	南极洲的动植物种类丰富。	Antarctica has a rich variety of flora and fauna.
+懒惰	idle; lazy	他很懒惰，什么事情都不做。	He is very lazy and does nothing.	她变得越来越懒惰了。	She is becoming lazier and lazier.	懒惰是成功的大敌。	Laziness is the great enemy of success.
+祖国	motherland	他热爱祖国。	He loves his motherland.	离开祖国是一件很艰难的事情。	Leaving the motherland is a very difficult thing.	祖国的繁荣昌盛是每个人的心愿。	The prosperity of the motherland is the wish of everyone.
+抢工作	steal jobs	他们抢工作的行为引起了很多争议。	Their job-stealing behavior has caused a lot of controversy.	这种做法会导致抢工作的情况。	This approach will lead to job-stealing situations.	抢工作会导致社会不稳定。	Stealing jobs will lead to social instability.
+良心	conscience	他的良心告诉他应该做什么。	His conscience tells him what he should do.	她的良心受到了谴责。	Her conscience has been condemned.	良心是一个人最好的朋友。	Conscience is a person's best friend.
+密封	to seal up	请把信封密封好。	Please seal the envelope.	这个容器必须要密封。	This container must be sealed.	他们密封了房间的门窗。	They sealed the doors and windows of the room.
+枪击案	a shooting	这个城市发生了一起枪击案。	There was a shooting in this city.	枪击案造成了很多人伤亡。	The shooting caused a lot of casualties.	警方正在调查这起枪击案。	The police are investigating the shooting.
+百分比	percentage	这个百分比是多少？	What is this percentage?	百分比可以用小数表示。	Percentages can be expressed as decimals.	这个百分比比上个月有所上升。	This percentage has increased compared to last month.
+气色	complexion	她的气色看起来不太好。	Her complexion doesn't look very good.	她的气色比以前好多了。	Her complexion is much better than before.	她的气色很好，看起来很健康。	Her complexion is very good and looks healthy.
+洽谈	to discuss	他们正在洽谈合作事宜。	They are discussing cooperation matters.	我们需要洽谈一下这个合同。	We need to discuss this contract.	洽谈之后，双方达成了一致。	After the discussion, both parties reached an agreement.
+尖脸	sharp face	她有一个尖脸。	She has a sharp face.	他的尖脸看起来很有个性。	His sharp face looks very distinctive.	尖脸的人看起来很有气质。	People with sharp faces look very elegant.
+日常生活	Daily life	日常生活中要注意饮食健康。	Pay attention to diet and health in daily life.	他的日常生活很有规律。	His daily life is very regular.	日常生活中要保持良好的心态。	Maintain a good attitude in daily life.
+敲字	type words	他在电脑上敲字。	He is typing on the computer.	请不要敲字太大声。	Please do not type too loudly.	她敲字的速度很快。	She types words very quickly.
+药妆店	Drug store	这家药妆店有很多护肤品。	This drug store has a lot of skincare products.	我去药妆店买了一些药品。	I went to the drug store to buy some medicine.	药妆店的生意很好。	The drug store is doing very well.
+一幅画	A painting	这是一幅画的复制品。	This is a copy of a painting.	他送给我一幅画。	He gave me a painting.	这幅画的价值很高。	This painting is very valuable.
+山寨品	fake goods	这些是山寨品，质量不好。	These are fake goods, the quality is not good.	市场上充斥着各种山寨品。	The market is flooded with all kinds of fake goods.	购买山寨品是不明智的选择。	Buying fake goods is not a wise choice.
+生理	physiology	生理学是一门重要的学科。	Physiology is an important discipline.	他对生理学很感兴趣。	He is very interested in physiology.	生理变化会影响心理状态。	Physiological changes can affect mental state.
+火警	fire alarm	火警响了，请大家迅速撤离。	The fire alarm is ringing, please evacuate quickly.	火警的时候要保持冷静。	Keep calm during a fire alarm.	火警的时候要迅速逃生。	Evacuate quickly during a fire alarm.
+镇静	calm; cool	请保持镇静。	Please keep calm.	他在危机中保持了镇静。	He remained calm in the crisis.	她的镇静让人印象深刻。	Her calmness is impressive.
+每	each; every	每个人都有自己的梦想。	Everyone has their own dreams.	每天都要锻炼身体。	Exercise every day.	每个月都要做一次体检。	Have a physical examination every month.
+半年	half a year	他们已经分手半年了。	They have been separated for half a year.	半年的时间很快就过去了。	Half a year passed quickly.	半年的时间够改变很多事情。	Half a year is enough time to change many things.
+悲观	pessimistic	他对未来很悲观。	He is very pessimistic about the future.	她的态度变得越来越悲观。	Her attitude is becoming more and more pessimistic.	悲观的心态会影响工作效率。	A pessimistic attitude will affect work efficiency.
+比如说	for example	有很多运动可以选择，比如说篮球、足球等等。	There are many sports to choose from, for example, basketball, football, and so on.	很多人都有自己的爱好，比如说画画、唱歌等等。	Many people have their own hobbies, such as drawing, singing, and so on.	很多国家都有自己的传统节日，比如说春节、感恩节等等。	Many countries have their own traditional festivals, such as the Spring Festival, Thanksgiving, and so on.
+别的	else; other	我没有别的要求了。	I have no other requests.	你还有别的事情要告诉我吗？	Do you have anything else to tell me?	别的问题都解决了。	All other issues have been resolved.
+潮湿	damp; moist	这个地方很潮湿。	This place is very damp.	潮湿的环境容易滋生细菌。	Damp environments are prone to bacterial growth.	潮湿的天气对身体不好。	Damp weather is not good for the body.
+薄弱	weak; frail	他的身体很薄弱。	His body is very weak.	这个国家的基础设施还很薄弱。	The infrastructure of this country is still very weak.	薄弱的光线让人感到不安。	The weak light makes people feel uneasy.
+不在乎	not to care	他似乎对这个问题不在乎。	He seems not to care about this issue.	她对别人的看法不在乎。	She doesn't care about what others think.	不在乎别人的眼光，只要自己开心就好。	Don't care about others' opinions, just be happy yourself.
+做好	finish well	请做好你的工作。	Please finish your work well.	他做好了准备。	He is ready.	她做好了离开的准备。	She is ready to leave.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+干净	clean; neat	这个房间很干净。	This room is very clean.	她总是保持家里干净整洁。	She always keeps the house clean and tidy.	他的衣服永远都很干净。	His clothes are always very neat.
+刮风	to be windy	今天外面刮风了。	It's windy outside today.	昨天晚上刮风刮得很厉害。	It was very windy last night.	刮风的时候最好不要出门。	It's best not to go out when it's windy.
+地毯	carpet; rug	客厅里铺着一块地毯。	There is a carpet in the living room.	她喜欢在地毯上练瑜伽。	She likes to practice yoga on the rug.	这块地毯很柔软。	This carpet is very soft.
+记得	to remember	我记得你的生日是明天。	I remember your birthday is tomorrow.	你记得把钥匙带走了吗？	Do you remember to take the keys with you?	我记得他曾经说过这件事。	I remember he once mentioned this.
+生病	to fall ill	他生病了，所以没来上班。	He fell ill, so he didn't come to work.	她昨天生病了，现在正在家休息。	She fell ill yesterday and is resting at home now.	生病的时候要多喝水。	You should drink more water when you're sick.
+此	this; these	此书是我最喜欢的小说之一。	This book is one of my favorite novels.	此事与你无关。	This matter has nothing to do with you.	此地风景优美。	The scenery here is beautiful.
+蒸鸡蛋	Steamed egg	早餐时我喜欢吃蒸鸡蛋。	I like to eat steamed eggs for breakfast.	她会做一道很好吃的蒸鸡蛋。	She can make a very delicious steamed egg.	蒸鸡蛋是一道简单又营养的菜。	Steamed egg is a simple and nutritious dish.
+各	each; every	他们各有各的优点。	They each have their own strengths.	各个城市的气候都不一样。	The climate in each city is different.	各种颜色的花儿都开了。	Flowers of various colors are blooming.
+理论上说	technically	理论上说，这是可行的。	Technically, this is feasible.	理论上说，这个方案是可行的。	Technically, this plan is feasible.	理论上说，这是可能的。	Technically, this is possible.
+国籍	nationality	他的国籍是美国。	His nationality is American.	她的国籍是加拿大。	Her nationality is Canadian.	这个公司的员工有不同的国籍。	The employees of this company have different nationalities.
+果汁	fruit juice	我喜欢喝新鲜的果汁。	I like to drink fresh fruit juice.	这家店的果汁很好喝。	The fruit juice in this store is delicious.	她每天早上都会喝一杯橙汁。	She drinks a glass of orange juice every morning.
+队员	team member	他是我们足球队的队员之一。	He is one of the team members of our soccer team.	这个团队的队员都很优秀。	All the team members of this team are excellent.	队员们一起努力训练。	The team members train hard together.
+大厅	hall; lobby	请到大厅等一下。	Please wait in the lobby.	这个大厅非常宽敞。	This hall is very spacious.	大厅里摆满了鲜花。	The lobby is filled with flowers.
+此事	this matter	我不想再谈论此事。	I don't want to talk about this matter anymore.	此事与你无关。	This matter has nothing to do with you.	此事已经解决了。	This matter has been resolved.
+加油站	gas station	我需要去加油站加油。	I need to go to the gas station to refuel.	这附近有一家24小时营业的加油站。	There is a 24-hour gas station nearby.	加油站的价格一直在上涨。	The prices at the gas station have been rising.
+数学	mathematics	我对数学很感兴趣。	I am very interested in mathematics.	数学是一门很重要的学科。	Mathematics is a very important subject.	她在数学方面有很高的天赋。	She has a great talent in mathematics.
+柴油	diesel fuel	这辆卡车使用柴油。	This truck uses diesel fuel.	这个工厂的机器都是用柴油的。	The machines in this factory all use diesel fuel.	柴油的价格一直在上涨。	The price of diesel fuel has been rising.
+分类	to classify	我们需要对这些文件进行分类。	We need to classify these documents.	这个软件可以帮助你进行图片分类。	This software can help you with image classification.	分类是整理工作的一部分。	Classification is part of the organizing work.
+分离	to separate	他们分离了很多年。	They have been separated for many years.	这对夫妻决定分离。	This couple decided to separate.	分离是一种痛苦的体验。	Separation is a painful experience.
+信用卡	credit card	我忘记带信用卡了。	I forgot to bring my credit card.	你可以用信用卡支付。	You can pay with a credit card.	信用卡的使用范围越来越广。	The use of credit cards is becoming more and more widespread.
+隔开	to separate	这堵墙隔开了两个房间。	This wall separates two rooms.	他们之间有一道隔开的屏障。	There is a barrier separating them.	隔开的两个地方之间有一条小河。	There is a small river separating the two places.
+迟疑	to hesitate	她迟疑了一下，然后点了头。	She hesitated for a moment, then nodded.	他迟疑了一下，但最终还是决定去。	He hesitated for a moment, but eventually decided to go.	不要迟疑，赶紧做出决定吧。	Don't hesitate, make a decision quickly.
+电子表格	spreadsheet	我需要你帮我填写这个电子表格。	I need you to help me fill out this spreadsheet.	这个软件可以创建各种类型的电子表格。	This software can create various types of spreadsheets.	电子表格可以提高工作效率。	Spreadsheets can improve work efficiency.
+脆弱	weak; frail	这个国家的经济很脆弱。	The economy of this country is very weak.	她的身体状况一直很脆弱。	Her physical condition has always been very frail.	脆弱的植物需要特别小心照顾。	Fragile plants need special care.
+旅游计划	Travel plan	我们正在制定下个月的旅游计划。	We are making travel plans for next month.	她的旅游计划包括很多国家。	Her travel plan includes many countries.	旅游计划需要提前做好。	Travel plans need to be made in advance.
+塑料袋	plastic bag	这个超市不提供免费的塑料袋。	This supermarket does not provide free plastic bags.	请把这些东西装进塑料袋里。	Put these things in the plastic bag.	塑料袋对环境有害。	Plastic bags are harmful to the environment.
+待办事项	to-do items	我有很多待办事项要处理。	I have a lot of to-do items to deal with.	她总是把待办事项写在便签上。	She always writes down her to-do items on a note.	待办事项越来越多，压力也越来越大。	The more to-do items, the greater the pressure.
+陡峭	precipitous	这座山的山路很陡峭。	The mountain road is very precipitous.	这个地方的地势非常陡峭。	The terrain of this place is very precipitous.	陡峭的悬崖让人望而生畏。	The steep cliff is awe-inspiring.
+全体	all; entire	全体员工都参加了会议。	All the employees attended the meeting.	全体学生都需要参加运动会。	All the students need to participate in the sports meet.	全体成员都需要遵守规定。	All members need to abide by the regulations.
+打游戏	Play a game	他喜欢打游戏放松。	He likes to play games to relax.	我们一起打游戏吧！	Let's play games together!	打游戏是我最喜欢的娱乐方式之一。	Playing games is one of my favorite forms of entertainment.
+惊人	astonishing	他的成绩真是惊人。	His performance is truly astonishing.	这个发现对科学界来说是惊人的。	This discovery is astonishing for the scientific community.	她的变化真是惊人。	Her transformation is truly astonishing.
+立即	immediately	请立即离开这个房间。	Please leave this room immediately.	他立即做出了回应。	He immediately made a response.	有问题请立即联系我们。	Please contact us immediately if there are any problems.
+性别	gender; sex	填写表格时请注明您的性别。	Please indicate your gender when filling out the form.	性别歧视是不允许的。	Gender discrimination is not allowed.	性别平等是社会发展的重要标志。	Gender equality is an important symbol of social development.
+发财	to get rich	他一夜之间发财了。	He got rich overnight.	发财并不是每个人的目标。	Getting rich is not everyone's goal.	他通过努力工作发财了。	He got rich through hard work.
+开通	open-minded	她是一个很开通的人。	She is a very open-minded person.	开通的思维有助于解决问题。	Open-minded thinking helps solve problems.	开通的态度有助于沟通。	An open-minded attitude helps with communication.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+坐下	to sit down	请大家坐下。	Please everyone sit down.	他走进房间，坐下来休息。	He walked into the room and sat down to rest.	她让孩子们坐下来听故事。	She asked the children to sit down and listen to the story.
+夏令营	summer camp	我去年参加了一个夏令营。	I attended a summer camp last year.	这个夏令营有很多有趣的活动。	This summer camp has many interesting activities.	夏令营的孩子们都玩得很开心。	The children at the summer camp all had a great time.
+手臂	arm; helper	他摔断了手臂。	He broke his arm from falling.	她把孩子搂在手臂上。	She held the child in her arms.	他是我们的得力手臂。	He is our helpful assistant.
+闹钟	alarm clock	我的闹钟每天早上六点响。	My alarm clock goes off at 6 am every morning.	她的闹钟没响，所以她迟到了。	Her alarm clock didn't go off, so she was late.	我昨晚忘记设置闹钟了。	I forgot to set the alarm clock last night.
+样式	type; style	这个样式的衣服很受欢迎。	This style of clothing is very popular.	这个房间的样式很有特色。	The style of this room is very distinctive.	她总是喜欢尝试新的样式。	She always likes to try new styles.
+坟墓	grave; tomb	他们在山上建了一个坟墓。	They built a grave on the mountain.	她每年都会去祖父的坟墓扫墓。	She goes to her grandfather's grave to pay respects every year.	这个坟墓很古老，有很多历史。	This tomb is very old and has a lot of history.
+期末	end of term	期末考试很快就要开始了。	The end-of-term exams are about to start soon.	她在期末表现得非常出色。	She performed exceptionally well at the end of term.	期末的学习压力很大。	There is a lot of pressure at the end of term.
+油炸	to deep fry	这家餐馆的特色菜是油炸鸡。	The specialty dish of this restaurant is deep-fried chicken.	他不喜欢吃油炸食品。	He doesn't like to eat deep-fried food.	她正在学习如何油炸食物。	She is learning how to deep fry food.
+馒头	steamed bun	我喜欢吃热腾腾的馒头。	I like to eat hot steamed buns.	这家包子铺的馒头很好吃。	The steamed buns at this bun shop are delicious.	她会做很多种馒头。	She can make many kinds of steamed buns.
+拼写检查	Spell Check	在写作文之前，要先做拼写检查。	Before writing an essay, do a spell check first.	这个软件自带拼写检查功能。	This software comes with a spell check function.	你可以用拼写检查来检查这篇文章。	You can use spell check to check this article.
+一架飞机	an airplane	一架飞机正在起飞。	An airplane is taking off.	他的梦想是驾驶一架飞机。	His dream is to pilot an airplane.	一架飞机在天空中飞过。	An airplane is flying across the sky.
+一楼	First floor	我家在一楼。	My home is on the first floor.	这家商店的货架在一楼。	The shelves of this store are on the first floor.	一楼的办公室很宽敞。	The office on the first floor is spacious.
+一把伞	an umbrella	她拿着一把伞走进了雨中。	She walked into the rain with an umbrella.	请你帮我拿一把伞。	Can you help me get an umbrella?	他的一把伞被风吹走了。	His umbrella was blown away by the wind.
+接她下班	Pick up her	我今天要接她下班。	I'm going to pick her up from work today.	他每天都会接她下班。	He picks her up from work every day.	我可以帮你接她下班。	I can help you pick her up from work.
+从商	do business	他的家族世代从商。	His family has been in business for generations.	她决定从商，开了一家小店。	She decided to do business and opened a small shop.	从商需要很多勇气和智慧。	Doing business requires a lot of courage and wisdom.
+工位	workstation	这个工位的电脑坏了。	The computer at this workstation is broken.	他的工位离我的很近。	His workstation is very close to mine.	这个工位的设备都很齐全。	The equipment at this workstation is very complete.
+亿	100 million	这个国家有十几亿人口。	This country has a population of over a billion.	这个项目花了数十亿美元。	This project cost tens of billions of dollars.	亿是一个很大的数字。	A billion is a very large number.
+树叶	tree leaves	秋天，树叶会变黄。	In autumn, the leaves will turn yellow.	她在树叶上写下了一封信。	She wrote a letter on the leaves.	树叶在风中飘落。	The leaves are falling in the wind.
+这次爬山	this hiking	这次爬山真的很有挑战性。	This hiking trip is really challenging.	这次爬山的风景很美。	The scenery of this hiking trip is beautiful.	这次爬山让我更加了解自己。	This hiking trip made me understand myself better.
+体重	body weight	她的体重增加了十斤。	Her body weight increased by ten pounds.	体重对健康很重要。	Body weight is very important for health.	他一直在控制自己的体重。	He has been controlling his body weight.
+灌溉	to irrigate	这片土地需要灌溉。	This land needs to be irrigated.	他们用水车来灌溉庄稼。	They use a water cart to irrigate the crops.	灌溉是农业生产的重要环节。	Irrigation is an important part of agricultural production.
+岁月	years; time	岁月如梭。	Time flies.	岁月在她脸上留下了痕迹。	Time has left its mark on her face.	岁月是最好的见证者。	Time is the best witness.
+太空	outer space	他梦想成为一名太空飞行员。	He dreams of becoming a space pilot.	太空中有很多未知的事物。	There are many unknown things in outer space.	太空探索是人类的梦想。	Exploring outer space is the dream of humanity.
+天然气	natural gas	这个国家的天然气资源很丰富。	This country has abundant natural gas resources.	我们家用天然气做饭。	We use natural gas for cooking at home.	天然气是清洁能源之一。	Natural gas is one of the clean energy sources.
+系列	series; set	这是一套系列小说。	This is a series of novels.	这个品牌有很多不同系列的产品。	This brand has many different series of products.	这是他的系列作品之一。	This is one of his series of works.
+亚运会	Asian Games	他在亚运会上获得了金牌。	He won a gold medal at the Asian Games.	亚运会是亚洲各国的体育盛会。	The Asian Games is a sports event for countries in Asia.	亚运会的开幕式很精彩。	The opening ceremony of the Asian Games was spectacular.
+乌云	black cloud	天空中飘过了一片乌云。	A black cloud drifted across the sky.	乌云密布，预示着暴风雨即将来临。	The dark clouds gathering heralded the imminent storm.	乌云笼罩着整个城市。	Black clouds shrouded the entire city.
+X以上	More than X	这个箱子重十公斤以上。	This box weighs more than ten kilograms.	这个活动适合十八岁以上的人参加。	This activity is suitable for people over eighteen.	这个产品的销量比上个月增加了百分之十以上。	The sales of this product increased by more than ten percent compared to last month.
+坚硬	hard; solid	这个石头很坚硬。	This stone is very hard.	他的态度坚硬得让人无法接近。	His attitude is so hard that people can't get close.	这个材料坚硬耐用。	This material is hard and durable.
+整整	whole; full	他整整等了一个小时。	He waited for a whole hour.	整整一年，他都在外地工作。	For a full year, he worked out of town.	整整一天，他都在图书馆学习。	He studied in the library for the whole day.
+简化	to simplify	这个流程需要简化。	This process needs to be simplified.	他的解释把问题简化了。	His explanation simplified the problem.	我们需要简化这个方案。	We need to simplify this plan.
+犹豫	to hesitate	她犹豫了一下，然后点了菜。	She hesitated for a moment, then ordered the dish.	他犹豫着是否要接受这个工作。	He hesitated about whether to take the job.	在关键时刻，不要犹豫。	Don't hesitate at a critical moment.
+泡茶	to make tea	她喜欢用玻璃壶泡茶。	She likes to make tea with a glass teapot.	他正在厨房泡茶。	He is making tea in the kitchen.	泡茶是一种放松的方式。	Making tea is a relaxing way.
+诊断	to diagnose	医生诊断出了她的病情。	The doctor diagnosed her condition.	这个仪器可以帮助诊断疾病。	This instrument can help diagnose diseases.	医生正在诊断他的病情。	The doctor is diagnosing his condition.
+园地	garden area	这个园地里有很多不同种类的花。	There are many different types of flowers in this garden area.	她在园地里种了很多蔬菜。	She planted a lot of vegetables in the garden area.	这个园地是孩子们的游乐场所。	This garden area is a playground for children.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+局部	part; local	这个问题只影响到了局部地区。	This issue only affects a local area.	他的伤势只是局部的。	His injury is only partial.	我们需要关注整体，而不是局部。	We need to focus on the whole, not just the parts.
+刊物	publication	这本刊物每月出版一次。	This publication is published monthly.	这家出版社出版了很多刊物。	This publishing house has published many publications.	这是一份很有影响力的刊物。	This is a very influential publication.
+考古	archaeology	他对考古学很感兴趣。	He is very interested in archaeology.	这个地区有很多考古遗址。	This area has many archaeological sites.	考古学是一门很有意思的学科。	Archaeology is a very interesting discipline.
+菜市场	food market	我喜欢在菜市场买新鲜的蔬菜。	I like to buy fresh vegetables at the food market.	这个菜市场每天都很热闹。	This food market is bustling every day.	菜市场里有很多新鲜的海鲜。	There are a lot of fresh seafood in the food market.
+醉	intoxicated	他昨晚喝醉了。	He got drunk last night.	她看起来有点醉了。	She looks a little intoxicated.	他的酒量很大，不容易醉。	He can hold his liquor and doesn't get drunk easily.
+空白	blank space	这张纸上有一片空白。	There is a blank space on this piece of paper.	她的脑海里一片空白。	Her mind is a blank.	填写完整，不要留下空白。	Fill it out completely, don't leave any blank spaces.
+口腔	oral cavity	口腔卫生很重要。	Oral hygiene is very important.	医生正在检查我的口腔。	The doctor is examining my oral cavity.	她对口腔保健有很多研究。	She has done a lot of research on oral cavity care.
+风铃	wind chimes	风铃在风中发出悦耳的声音。	The wind chimes make a pleasant sound in the wind.	她家的院子里挂满了风铃。	Her yard is full of wind chimes.	风铃的声音让人感到宁静。	The sound of wind chimes brings a sense of tranquility.
+思想开放	Open-minded	她是一个思想开放的人。	She is an open-minded person.	我们应该保持思想开放。	We should keep an open mind.	思想开放是一个进步的标志。	Open-mindedness is a sign of progress.
+白塔	White tower	白塔是这座城市的标志性建筑。	The White Tower is the iconic building of this city.	这座白塔有着悠久的历史。	This white tower has a long history.	白塔在夕阳下显得格外美丽。	The White Tower looks especially beautiful in the sunset.
+中东	Middle East	中东地区的文化很有魅力。	The culture of the Middle East is very charming.	中东地区的石油资源很丰富。	The Middle East has abundant oil resources.	中东地区的气候条件比较复杂。	The climate conditions in the Middle East are quite complex.
+一家三口	family of 3	他们是一个幸福的一家三口。	They are a happy family of three.	这个餐厅适合一家三口用餐。	This restaurant is suitable for a family of three to dine.	一家三口一起去旅行很开心。	It's very enjoyable for a family of three to travel together.
+让人分心	distracting	这些噪音会让人分心。	These noises can be distracting.	她的美貌让人分心。	Her beauty is distracting.	这个问题一直让人分心。	This issue has been distracting people.
+收起来	to put away	把玩具收起来。	Put away the toys.	晚饭后，把餐具收起来。	Put away the tableware after dinner.	把书收起来，不要乱放。	Put the books away, don't leave them lying around.
+气味	odor; scent	这个花园里弥漫着花的气味。	The scent of flowers fills the garden.	这个房间里有一股奇怪的气味。	There is a strange odor in this room.	这种香水有一种特别的气味。	This perfume has a special scent.
+奢侈品	luxury good	她喜欢购买奢侈品。	She likes to buy luxury goods.	这个品牌的奢侈品很受欢迎。	The luxury goods of this brand are very popular.	奢侈品并不是每个人都能消费得起的。	Not everyone can afford luxury goods.
+溶解	to dissolve	把糖溶解在水里。	Dissolve the sugar in water.	这种药片可以溶解在水里。	These tablets can dissolve in water.	盐可以在水中溶解。	Salt can dissolve in water.
+新西兰	New Zealand	新西兰是一个美丽的国家。	New Zealand is a beautiful country.	新西兰有很多独特的动植物。	New Zealand has many unique flora and fauna.	新西兰的风景非常迷人。	The scenery of New Zealand is very charming.
+乡郊野外	Countryside	他喜欢在乡郊野外散步。	He likes to take a walk in the countryside.	乡郊野外的空气非常清新。	The air in the countryside is very fresh.	乡郊野外的风景非常美丽。	The scenery in the countryside is very beautiful.
+揉面团	Knead dough	她在揉面团。	She is kneading the dough.	揉面团需要一些力气。	Kneading dough requires some strength.	揉面团的时候要用力。	Use strength when kneading the dough.
+坍塌	to collapse	这座建筑已经坍塌了。	This building has already collapsed.	这个计划因为资金问题而坍塌了。	This plan collapsed due to financial issues.	他的信心在挫折面前坍塌了。	His confidence collapsed in the face of setbacks.
+水龙头	faucet; tap	请把水龙头关上。	Please turn off the faucet.	这个水龙头漏水了。	This tap is leaking.	水龙头坏了，需要修理。	The faucet is broken and needs to be repaired.
+天主教	Catholicism	他信奉天主教。	He believes in Catholicism.	天主教在这个国家有很多信徒。	There are many believers of Catholicism in this country.	她对天主教的了解很深。	She has a deep understanding of Catholicism.
+性丑闻	Sex scandal	这个明星卷入了性丑闻。	This celebrity is involved in a sex scandal.	性丑闻对他的事业造成了很大影响。	The sex scandal had a big impact on his career.	这个政治人物因性丑闻下台了。	This politician stepped down due to a sex scandal.
+巷	lane; alley	这条巷子很窄。	This lane is very narrow.	这个巷口有一个小餐馆。	There is a small restaurant at the alley entrance.	他住在一个幽静的巷子里。	He lives in a quiet lane.
+寻觅	to look for	他一直在寻觅真爱。	He has been looking for true love.	我们需要寻觅新的机会。	We need to look for new opportunities.	她在寻觅自己的人生目标。	She is looking for her life's goal.
+挣扎	to struggle	他在水里挣扎着。	He is struggling in the water.	这个团队正在挣扎着度过难关。	The team is struggling to get through a difficult situation.	她挣扎着站了起来。	She struggled to stand up.
+主权	sovereignty	这个国家的主权受到了侵犯。	The sovereignty of this country has been violated.	主权是每个国家都非常重视的。	Sovereignty is highly valued by every country.	这个条约涉及到国家的主权问题。	This treaty involves the issue of national sovereignty.
+自发	spontaneous	他们自发地组织了一场义卖活动。	They spontaneously organized a charity sale.	这种行为是自发的，没有受到外部影响。	This behavior is spontaneous and not influenced by external factors.	他们之间的互助是自发的。	The mutual assistance between them is spontaneous.
+冰雪	ice and snow	这个地区的冬天充满了冰雪。	The winter in this area is full of ice and snow.	她喜欢冰雪运动。	She likes ice and snow sports.	冰雪给这个城市增添了一份美丽。	Ice and snow add a touch of beauty to this city.
+付钱	to pay money	请你付钱。	Please pay.	我已经付钱了。	I have already paid.	他忘记付钱了。	He forgot to pay.
+道歉	to apologize	他向她道歉了。	He apologized to her.	她没有及时道歉。	She didn't apologize in time.	他的道歉让她感到很欣慰。	His apology made her feel relieved.
+非常欢迎	Very welcome	你来的非常欢迎。	You are very welcome to come.	我们对你的到来非常欢迎。	We are very welcoming of your arrival.	非常欢迎你的加入。	We warmly welcome your participation.
+但是	but; however	我很忙，但是我会尽快完成。	I'm very busy, but I will finish as soon as possible.	他很努力，但是成绩不理想。	He works very hard, but the results are not ideal.	这个问题很复杂，但是我们会解决。	This problem is very complicated, but we will solve it.
+固定搭配	collocations	学习固定搭配有助于提高语言表达能力。	Learning collocations helps to improve language expression.	这个词和那个词是一个固定搭配。	This word and that word are a collocation.	在学习中，要注意固定搭配的用法。	In learning, pay attention to the usage of collocations.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+心理状态	mental state	她的心理状态很复杂。	Her mental state is very complicated.	他的心理状态对工作产生了影响。	His mental state has affected his work.	心理状态是健康的重要组成部分。	Mental state is an important part of health.
+并非	really isn't	这并非我的意思。	This really isn't what I meant.	他的话并非完全正确。	His words really aren't completely correct.	这并非一个简单的问题。	This really isn't a simple problem.
+风险	risk; hazard	这个项目存在很大的风险。	This project has a lot of risk.	投资有风险，需谨慎。	Investment has risks, so caution is needed.	他们冒着生命的风险去救人。	They risked their lives to save others.
+二十年	Twenty years	他们已经结婚二十年了。	They have been married for twenty years.	这个城市已经发生了翻天覆地的变化，二十年前的样子早已不复存在。	This city has undergone earth-shaking changes, the appearance of twenty years ago no longer exists.	二十年后，我希望我们还能在一起。	Twenty years later, I hope we can still be together.
+鼓励	to encourage	老师经常鼓励我们。	The teacher often encourages us.	父母的鼓励对孩子的成长很重要。	Parents' encouragement is important for children's growth.	他的成功鼓励了我们大家。	His success encouraged all of us.
+回到	to return to	我想回到家。	I want to return home.	他回到了他的故乡。	He returned to his hometown.	她回到了过去的生活中。	She returned to her past life.
+当天	the same day	我当天就买了这件衣服。	I bought this clothes the same day.	他当天就决定了。	He decided the same day.	当天的事情我都记得很清楚。	I remember the things of the same day very clearly.
+发怒	to get angry	他很容易发怒。	He gets angry easily.	她的发怒让我感到害怕。	Her anger makes me scared.	他发怒的时候，没人敢接近他。	No one dares to approach him when he gets angry.
+发言人	spokesperson	他是我们公司的发言人。	He is the spokesperson for our company.	政府的发言人发布了一份声明。	The government spokesperson issued a statement.	公司的发言人对此事进行了回应。	The company's spokesperson responded to the matter.
+法庭	court of law	他们在法庭上见面了。	They met in the court of law.	她在法庭上为自己辩护。	She defended herself in the court of law.	这个案件将在法庭上审理。	This case will be tried in the court of law.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+秋季	autumn; fall	秋季是一个收获的季节。	Autumn is a season of harvest.	我喜欢秋季的清爽。	I like the freshness of autumn.	秋季的风景很美。	The scenery in autumn is beautiful.
+拿走	to take away	请把这个垃圾拿走。	Please take away this garbage.	他拿走了我的书。	He took away my book.	你可以拿走你想要的东西。	You can take away what you want.
+电动汽车	electric car	他的电动汽车很环保。	His electric car is very environmentally friendly.	我想买一辆电动汽车。	I want to buy an electric car.	电动汽车的市场需求正在增长。	The market demand for electric cars is growing.
+陪同	to accompany	我会陪同你去医院。	I will accompany you to the hospital.	她陪同我参加了聚会。	She accompanied me to the party.	他陪同着她度过了一个愉快的下午。	He accompanied her through a pleasant afternoon.
+平方米	square meter	这个房间有100平方米。	This room is 100 square meters.	这块地有多少平方米？	How many square meters is this piece of land?	这个地方有多大？-大约50平方米。	How big is this place? - About 50 square meters.
+一条裙子	dress/ skirt	她穿着一条漂亮的裙子。	She is wearing a beautiful dress.	这是一条很漂亮的裙子。	This is a very pretty skirt.	她买了一条新裙子。	She bought a new dress.
+散文	prose; essay	我喜欢写散文。	I like to write prose.	这篇散文很有意境。	This essay is very artistic.	他的散文写得很好。	His prose is very well written.
+企业家	entrepreneur	他是一位成功的企业家。	He is a successful entrepreneur.	这个城市需要更多的企业家。	This city needs more entrepreneurs.	她梦想成为一名企业家。	She dreams of becoming an entrepreneur.
+一点点	a little bit	我只想吃一点点。	I just want to eat a little bit.	这里有一点点咖啡。	There is a little bit of coffee here.	他只有一点点时间。	He only has a little bit of time.
+摄像	to videotape	我会摄像你的演讲。	I will videotape your speech.	他喜欢摄像风景。	He likes to videotape scenery.	这个摄像机可以摄像高清视频。	This camera can videotape high-definition videos.
+吃的	(coll.) food	我去买一些吃的。	I'm going to buy some food.	这是我的吃的。	This is my food.	他喜欢吃的很多。	He likes a lot of food.
+缺陷	defect; flaw	这个产品有一些缺陷。	This product has some defects.	她的缺陷并不影响她的工作。	Her flaws do not affect her work.	他的缺陷让他更加努力。	His defects make him work even harder.
+能力很差	Poor ability	他的能力很差。	His ability is very poor.	她的数学能力很差。	Her math ability is very poor.	这个团队的协作能力很差。	The teamwork ability of this team is very poor.
+热水器	water heater	我家的热水器坏了。	The water heater in my house is broken.	这个热水器很节能。	This water heater is very energy efficient.	热水器的温度可以调节吗？	Can the temperature of the water heater be adjusted?
+人权	human rights	人权是不可侵犯的。	Human rights are inviolable.	这个组织致力于维护人权。	This organization is dedicated to safeguarding human rights.	人权是每个人的基本权利。	Human rights are the basic rights of everyone.
+正是	is precisely	这正是我要找的东西。	This is precisely what I'm looking for.	他的话正是事实。	What he said is precisely the truth.	这正是我所需要的。	This is precisely what I need.
+棒球棒	baseball bat	他的棒球棒很结实。	His baseball bat is very sturdy.	这个棒球棒很轻。	This baseball bat is very light.	你的棒球棒在哪里？	Where is your baseball bat?
+时节	season; time	这个时节正是采摘水果的季节。	This season is the time for picking fruits.	春天是植物生长的时节。	Spring is the season for plant growth.	这个时节正是出游的好时机。	This time is a good time for traveling.
+航天	space flight	他梦想成为一名航天员。	He dreams of becoming an astronaut.	航天技术正在不断发展。	Space flight technology is constantly developing.	航天是一个充满挑战的领域。	Space flight is a challenging field.
+组长	group leader	他是我们小组的组长。	He is the leader of our group.	这个组长很有领导力。	This group leader has great leadership.	她是一个优秀的组长。	She is an excellent group leader.
+司长	bureau chief	他是这个局的司长。	He is the bureau chief of this department.	司长的工作很忙碌。	The bureau chief's work is very busy.	司长对这个项目很重视。	The bureau chief attaches great importance to this project.
+西部	western part	他在西部长大。	He grew up in the western part.	这个城市的西部有很多名胜古迹。	The western part of this city has many famous historical sites.	西部的风景很美。	The scenery in the western part is beautiful.
+太阳能	solar energy	太阳能是一种清洁能源。	Solar energy is a clean energy source.	这个家庭使用太阳能供暖。	This household uses solar energy for heating.	太阳能的利用对环境有益。	The use of solar energy is beneficial to the environment.
+熟成	ripe (fruit)	这个水果已经熟成了。	This fruit has already ripened.	这个奶酪需要熟成一段时间。	This cheese needs to ripen for a period of time.	熟成的水果更加甜美。	Ripe fruit is even sweeter.
+没那么乱	Not so messy	整理一下，就没那么乱了。	Tidy up, and it won't be so messy.	她的房间没那么乱了。	Her room is not so messy anymore.	只要你整理一下，就没那么乱了。	As long as you tidy up, it won't be so messy.
+胸部	chest; bosom	她的胸部很丰满。	Her chest is very full.	他的胸部受伤了。	His chest is injured.	胸部的保护很重要。	Protecting the chest is very important.
+火焰	blaze; flame	火焰在燃烧。	The flame is burning.	火焰的颜色很美。	The color of the flame is beautiful.	火焰的温度很高。	The temperature of the flame is very high.
+外头	outside; out	他在外头等着。	He is waiting outside.	外头的天气很好。	The weather outside is very nice.	外头的风景很美。	The scenery outside is beautiful.
+杏仁糊	almond paste	我喜欢吃杏仁糊。	I like to eat almond paste.	这家店的杏仁糊很好吃。	The almond paste in this shop is delicious.	杏仁糊是一种传统美食。	Almond paste is a traditional delicacy.
+芝麻糊	Sesame paste	我喜欢在早餐上加一些芝麻糊。	I like to add some sesame paste to my breakfast.	这个芝麻糊很香。	This sesame paste is very fragrant.	芝麻糊对健康很有好处。	Sesame paste is very beneficial to health.
+爱情片	romance film	她喜欢看爱情片。	She likes to watch romance films.	这部爱情片很感人。	This romance film is very touching.	爱情片是她的最爱。	Romance films are her favorite.
+刑法	criminal law	他是一名刑法专家。	He is an expert in criminal law.	刑法是法律的一部分。	Criminal law is part of the legal system.	刑法的修订对社会治安有重要意义。	The revision of criminal law is of great significance to public security.
+仅仅因为	only because	他成功了，仅仅因为他很努力。	He succeeded only because he worked very hard.	她受到表扬，仅仅因为她的努力。	She was praised only because of her hard work.	我们取得了胜利，仅仅因为我们团结一致。	We won only because we were united.
+加剧	to intensify	这个问题的严重性正在加剧。	The seriousness of this issue is intensifying.	紧张的局势正在加剧。	The tense situation is intensifying.	这场战争正在加剧。	The war is intensifying.
+共同爱好	mutual hobby	我们有很多共同爱好。	We have many mutual hobbies.	共同爱好是我们的交流点。	Mutual hobbies are our common ground for communication.	他们之间有一个共同爱好。	They have a mutual hobby.
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+共同敌人	mutual enemy	我们有共同的敌人。	We have a mutual enemy.	这个国家成为了我们的共同敌人。	This country has become our mutual enemy.	他们成为了共同的敌人。	They have become mutual enemies.
+一带	region; area	这一带的风景很美。	The scenery in this area is very beautiful.	这个地区的一带有很多历史遗迹。	There are many historical sites in this region.	这一带的气候很适合种植水果。	The climate in this area is very suitable for growing fruits.
+小于	less than, <	这个数字小于十。	This number is less than ten.	她的年龄小于我。	Her age is less than mine.	我的成绩小于他的。	My score is less than his.
+写字台	writing desk	我的写字台上摆满了书。	My writing desk is filled with books.	她在写字台上写了一封信。	She wrote a letter on the writing desk.	这个写字台很适合孩子使用。	This writing desk is very suitable for children to use.
+薪水	salary; wage	他的薪水很高。	His salary is very high.	这份工作的薪水很低。	The wage for this job is very low.	她对薪水不满意。	She is not satisfied with her salary.
+原料	raw material	这些是制作面包的原料。	These are the raw materials for making bread.	这家工厂需要大量的原料。	This factory needs a large amount of raw materials.	原料的质量影响产品的质量。	The quality of the raw materials affects the quality of the product.
+僵硬	stiff; rigid	他的身体僵硬得无法动弹。	His body is so stiff that he can't move.	她的表情显得有些僵硬。	Her expression looks a bit stiff.	这个木头做的椅子坐起来很僵硬。	This wooden chair is very stiff to sit on.
+古罗马	ancient Rome	古罗马是一个伟大的帝国。	Ancient Rome was a great empire.	他对古罗马的历史非常感兴趣。	He is very interested in the history of ancient Rome.	古罗马的建筑风格影响了后世。	The architectural style of ancient Rome influenced later generations.
+角落	nook; corner	她坐在房间的角落里。	She sat in the corner of the room.	这个小镇有很多美丽的角落。	This small town has many beautiful nooks.	他把钱藏在了房间的角落里。	He hid the money in the corner of the room.
+阶层	social class	社会上有很多不同的阶层。	There are many different social classes in society.	他们来自不同的阶层。	They come from different social classes.	阶层之间的差距越来越大。	The gap between social classes is getting wider.
+口头	oral; verbal	这是一个口头协议。	This is an oral agreement.	他的口头表达能力很强。	His verbal expression ability is very strong.	口头禅是他的特点之一。	Verbal clichés are one of his characteristics.
+种种	all kinds of	这里有种种不同的食物。	There are all kinds of different foods here.	她有种种不同的兴趣爱好。	She has all kinds of different hobbies.	这个城市有种种不同的文化。	This city has all kinds of different cultures.
+牢固	firm; secure	这个建筑物很牢固。	This building is very firm.	他们的友谊很牢固。	Their friendship is very secure.	这个决定是牢固的。	This decision is firm.
+灵魂	soul; spirit	音乐是灵魂的表达。	Music is the expression of the soul.	她的灵魂深受伤害。	Her soul is deeply hurt.	这个故事触动了我的灵魂。	This story touched my soul.
+勉励	to encourage	他给了我很多勉励。	He gave me a lot of encouragement.	她的话语充满了勉励。	Her words are full of encouragement.	我们需要给他一些勉励。	We need to give him some encouragement.
+打印出来	print it out	请你把文件打印出来。	Please print the document out.	我需要把这封邮件打印出来。	I need to print out this email.	他把报告打印出来了吗？	Did he print the report out?
+后排	the back row	我们坐在电影院的后排。	We sat in the back row of the cinema.	后排的座位比较安静。	The seats in the back row are quieter.	她喜欢坐在教室的后排。	She likes to sit in the back row of the classroom.
+租房子	Rent a house	他们决定租房子。	They decided to rent a house.	我不想再租房子了。	I don't want to rent a house anymore.	租房子比买房子更方便。	Renting a house is more convenient than buying one.
+最低工资	minimum wage	这个国家的最低工资是多少？	What is the minimum wage in this country?	他们要求提高最低工资。	They are demanding an increase in the minimum wage.	最低工资标准需要根据生活成本来确定。	The minimum wage standard needs to be determined based on the cost of living.
+直男	straight guy	他是一个直男。	He is a straight guy.	直男对时尚不太在意。	Straight guys don't care much about fashion.	直男思维有时候很有趣。	Straight guy thinking is sometimes very interesting.
+迫害	to persecute	他们受到了严重的迫害。	They have been severely persecuted.	这个宗教遭受了长期的迫害。	This religion has suffered long-term persecution.	迫害会导致人们的心灵受伤。	Persecution can cause spiritual harm to people.
+一套房子	an apartment	他们买了一套房子。	They bought an apartment.	这一套房子很适合一家人居住。	This apartment is very suitable for a family to live in.	这一套房子的价格很合理。	The price of this apartment is very reasonable.
+旗帜	ensign; flag	这面旗帜代表着我们的国家。	This flag represents our country.	他们举起了胜利的旗帜。	They raised the flag of victory.	旗帜是一个国家的象征。	A flag is a symbol of a country.
+内在美	inner beauty	她的内在美比外表更吸引人。	Her inner beauty is more attractive than her appearance.	内在美是永恒的。	Inner beauty is eternal.	她的内在美让人难以忘怀。	Her inner beauty is unforgettable.
+对…敏感	sensitive to	他对批评很敏感。	He is sensitive to criticism.	她对音乐很敏感。	She is sensitive to music.	对于这个问题，他们都很敏感。	They are all sensitive to this issue.
+缺席	to be absent	他因病缺席了会议。	He was absent from the meeting due to illness.	她缺席了今天的课。	She was absent from class today.	他们的缺席影响了整个团队。	Their absence affected the whole team.
+养老院	nursing home	这个养老院提供了很好的服务。	This nursing home provides very good service.	他们决定把父母送进养老院。	They decided to send their parents to a nursing home.	养老院的环境需要改善。	The environment of the nursing home needs to be improved.
+柔和	gentle; soft	她的声音很柔和。	Her voice is very gentle.	这个灯光很柔和。	The light is very soft.	柔和的颜色让人感到舒适。	The soft color makes people feel comfortable.
+撒谎	to tell lies	他不应该撒谎。	He shouldn't tell lies.	她撒谎了吗？	Did she tell lies?	撒谎会伤害别人的感情。	Telling lies can hurt other people's feelings.
+时代广场	Times Square	时代广场是纽约的标志性地标之一。	Times Square is one of the iconic landmarks of New York.	他们在时代广场举行了盛大的庆祝活动。	They held a grand celebration event in Times Square.	时代广场的灯光秀吸引了很多游客。	The light show in Times Square attracted many tourists.
+开派对	have a party	他们决定开派对庆祝。	They decided to have a party to celebrate.	我很喜欢开派对。	I really like to have parties.	她每个月都会开派对。	She has a party every month.
+堕落天使	Fallen angel	他是一个堕落天使。	He is a fallen angel.	堕落天使的故事让人感到悲伤。	The story of the fallen angel is sad.	她扮演了一个堕落天使的角色。	She played the role of a fallen angel.
+事项	matter; item	这个事项需要我们讨论一下。	This matter needs to be discussed.	请你处理这个事项。	Please handle this matter.	这个事项需要我们的关注。	This matter needs our attention.
+书籍	books; works	这个图书馆有很多书籍。	This library has many books.	他的书籍在全国范围内都很受欢迎。	His works are very popular nationwide.	书籍是人类的智慧结晶。	Books are the crystallization of human wisdom.
+挑剔	picky; fussy	他对吃的很挑剔。	He is very picky about food.	她对服装很挑剔。	She is very picky about clothing.	老板对员工的工作很挑剔。	The boss is very picky about the employees' work.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+芥菜种	mustard seed	这包里有很多芥菜种。	This package contains a lot of mustard seeds.	她用芥菜种来做菜。	She uses mustard seeds to cook.	芥菜种是一种常见的香料。	Mustard seeds are a common spice.
+家族	family; clan	他的家族有很深的历史。	His family has a deep history.	这个家族在这个地区很有名。	This clan is very famous in this area.	我们家族的人都很团结。	People in our family are very united.
+投降	to surrender	敌人最终投降了。	The enemy finally surrendered.	他们决定投降以避免更多的伤亡。	They decided to surrender to avoid more casualties.	投降并不意味着失败。	Surrender does not mean failure.
+种姓制度	caste system	这个国家曾经有种姓制度。	This country once had a caste system.	种姓制度对社会造成了很大的影响。	The caste system has had a great impact on society.	种姓制度导致了社会的不公平。	The caste system has led to social injustice.
+推翻	to overthrow	他们试图推翻政府。	They are trying to overthrow the government.	这个国家的政权被成功推翻了。	The regime of this country was successfully overthrown.	推翻一个政权需要很大的力量。	Overthrowing a regime requires a great deal of power.
+座右铭	motto; maxim	这是我的座右铭。	This is my motto.	他的座右铭是“努力工作，诚实做人”。	His motto is "work hard, be honest".	座右铭可以激励人们前进。	Motto can motivate people to move forward.
+唉	alas; oh dear	唉，这件事真让人伤心。	Alas, this is really heartbreaking.	唉，我真的不知道该怎么办。	Oh dear, I really don't know what to do.	唉，这个消息真让人难过。	Alas, this news is really sad.
+有面子	feeling proud	他为自己的成就感到有面子。	He feels proud of his achievements.	她对孩子的表现感到有面子。	She feels proud of her child's performance.	有面子并不意味着一切。	Feeling proud does not mean everything.
+宝宝	darling; baby	这是我的宝宝。	This is my darling.	宝宝正在睡觉。	The baby is sleeping.	宝宝的笑容真让人开心。	The baby's smile is really heartwarming.
+北部	northern part	我住在这个城市的北部。	I live in the northern part of this city.	北部的气候比较寒冷。	The climate in the northern part is relatively cold.	北部的风景非常美丽。	The scenery in the northern part is very beautiful.
+小费	tip; gratuity	你可以给服务员一些小费。	You can give the waiter some tip.	在这个国家，小费是包含在账单里的。	In this country, the tip is included in the bill.	请不要忘记给出色的服务留一些小费。	Please don't forget to leave some tip for excellent service.
+长途	long distance	我不喜欢长途旅行。	I don't like long-distance travel.	长途跋涉后，他们终于到达了目的地。	After a long-distance trek, they finally reached their destination.	长途电话费用很贵。	Long-distance call charges are expensive.
+公斤	kilogram (kg)	这个西瓜有十公斤重。	This watermelon weighs ten kilograms.	这个包裹重了五公斤。	This package weighs five kilograms.	这个食物的重量是两公斤。	The weight of this food is two kilograms.
+从而	thus; thereby	她努力学习，从而取得了好成绩。	She studied hard and thus achieved good results.	他们提高了效率，从而节省了时间。	They improved efficiency and thereby saved time.	我们要保护环境，从而让下一代生活在一个更好的地方。	We need to protect the environment, thus making the next generation live in a better place.
+米饭	(cooked) rice	我喜欢吃米饭。	I like to eat rice.	这家餐馆的米饭很好吃。	The rice in this restaurant is delicious.	米饭是中国人的主食之一。	Rice is one of the staple foods for Chinese people.
+火车站	train station	我要去火车站接朋友。	I'm going to the train station to pick up a friend.	火车站离这里很近。	The train station is very close to here.	火车站的候车室里人很多。	There are many people in the waiting room of the train station.
+登机牌	boarding pass	请出示您的登机牌和护照。	Please show your boarding pass and passport.	我把登机牌放在包里了。	I put the boarding pass in my bag.	登机牌上有座位号吗？	Does the boarding pass have a seat number?
+过去	(verb suffix)	他走过去看了一下。	He walked over to take a look.	她跑过去帮助了他。	She ran over to help him.	他们慢慢地走过去。	They walked over slowly.
+车主	vehicle owner	这个车主是一个很有名的商人。	The vehicle owner is a very famous businessman.	车主需要对车辆负责。	The vehicle owner needs to be responsible for the vehicle.	车主的身份需要进行确认。	The identity of the vehicle owner needs to be verified.
+长假	long vacation	我计划去海边度长假。	I plan to take a long vacation at the beach.	长假是放松的好机会。	A long vacation is a good opportunity to relax.	他们一家人决定外出度长假。	The whole family decided to go on a long vacation.
+动画片	animated film	我小时候很喜欢看动画片。	I used to love watching animated films when I was a child.	这部动画片很受孩子们的欢迎。	This animated film is very popular among children.	动画片可以让人忘记烦恼。	Animated films can make people forget their worries.
+休息	rest; to rest	他需要好好休息一下。	He needs to rest well.	我想在家休息一天。	I want to rest at home for a day.	休息是为了更好地工作。	Resting is for better work.
+车牌	license plate	这辆车的车牌号是多少？	What is the license plate number of this car?	他的车牌被偷了。	His license plate was stolen.	请记住你的车牌号。	Please remember your license plate number.
+快乐	happy; joyful	她的笑容让人感到快乐。	Her smile makes people feel happy.	快乐是一种心情。	Happiness is a state of mind.	他们在一起度过了快乐的时光。	They spent happy times together.
+国际	international	这是一家国际公司。	This is an international company.	国际交流非常重要。	International communication is very important.	他们参加了国际会议。	They attended an international conference.
+古代	ancient times	古代的文明给我们留下了很多宝贵的遗产。	Ancient civilization has left us with a lot of valuable heritage.	古代的建筑非常壮观。	Ancient architecture is very spectacular.	古代的故事总是让人着迷。	Ancient stories always fascinate people.
+皮鞋	leather shoes	我喜欢穿皮鞋。	I like to wear leather shoes.	这双皮鞋很舒适。	These leather shoes are very comfortable.	皮鞋是一种常见的鞋类。	Leather shoes are a common type of footwear.
+大米	(husked) rice	这袋大米很重。	This bag of rice is very heavy.	大米是中国人的主食之一。	Rice is one of the staple foods for Chinese people.	这家店的大米很好吃。	The rice in this store is delicious.
+大赛	grand contest	这是一场大赛。	This is a grand contest.	他们为了这场大赛做了很多准备。	They have made a lot of preparations for this grand contest.	大赛的胜利者将获得丰厚的奖金。	The winner of the grand contest will receive a generous prize.
+好久	quite a while	我们好久没有见面了。	It's been quite a while since we last met.	他们等了好久。	They waited for quite a while.	这个问题困扰了我好久。	This problem has been bothering me for quite a while.
+陈旧	old-fashioned	这个设计有点陈旧了。	This design is a bit old-fashioned.	这种观念已经很陈旧了。	This concept is already very old-fashioned.	这个设备已经很陈旧了。	This equipment is already very old-fashioned.
+生日卡	birthday card	我给她寄了一张生日卡。	I sent her a birthday card.	这是一张很漂亮的生日卡。	This is a very beautiful birthday card.	生日卡上有你的名字。	Your name is on the birthday card.
+困	sleepy; tired	我昨晚没睡好，现在很困。	I didn't sleep well last night, and now I'm very sleepy.	她工作了一整天，现在感到很困。	She worked all day and now feels very tired.	他看起来很困，可能需要休息一下。	He looks very sleepy and may need to rest.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+钱包	purse; wallet	我把钱包忘在家里了。	I forgot my wallet at home.	她的钱包里有很多零钱。	Her purse has a lot of change.	他的钱包被偷了。	His wallet was stolen.
+千与千寻	Spirited Away	千与千寻是一部很有名的动画电影。	Spirited Away is a very famous animated movie.	我很喜欢千与千寻的音乐。	I really like the music from Spirited Away.	千与千寻的故事很感人。	The story of Spirited Away is very touching.
+岗位	a post; a job	他在公司担任重要的岗位。	He holds an important position in the company.	这个岗位需要很强的沟通能力。	This job requires strong communication skills.	她一直在寻找合适的岗位。	She has been looking for a suitable job.
+公鸡	cock; rooster	早上听到公鸡的叫声很清脆。	The crow of the rooster in the morning is very clear.	这只公鸡的羽毛很漂亮。	The feathers of this rooster are very beautiful.	公鸡在农村生活中扮演着重要的角色。	Roosters play an important role in rural life.
+我不确定	I am not sure	我不确定他是否会来参加聚会。	I am not sure if he will come to the gathering.	我不确定这个答案是否正确。	I am not sure if this answer is correct.	我不确定这个计划是否可行。	I am not sure if this plan is feasible.
+汇率	exchange rate	今天的汇率是多少？	What is the exchange rate today?	他在关注不同国家的汇率。	He is paying attention to the exchange rates of different countries.	这个国家的汇率一直在波动。	The exchange rate of this country has been fluctuating.
+赔偿	to compensate	他们愿意提供赔偿来解决这个问题。	They are willing to offer compensation to solve this problem.	他得到了一笔赔偿金。	He received a sum of compensation.	公司对损失进行了赔偿。	The company compensated for the loss.
+肌肉	muscle; flesh	他的肌肉很结实。	His muscles are very strong.	她在锻炼肌肉。	She is exercising her muscles.	肌肉疼痛可能是运动后的正常反应。	Muscle pain may be a normal reaction after exercise.
+打猎	to go hunting	他喜欢打猎来放松心情。	He likes to go hunting to relax.	打猎是他的爱好之一。	Hunting is one of his hobbies.	他们打猎回来了。	They have returned from hunting.

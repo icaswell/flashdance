@@ -1,0 +1,47 @@
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+它	it	它是一只小猫。	It is a little cat.	它的颜色是黑色的。	Its color is black.	它们是我的朋友。	They are my friends.
+好的	OK	好的，我知道了。	OK, I got it.	好的，我们现在就出发。	OK, we'll set off now.	好的，我会记住的。	OK, I will remember.
+假如	if	假如明天下雨，我们就不去了。	If it rains tomorrow, we won't go.	假如你不喜欢，我就不做了。	If you don't like it, I won't do it.	假如他来了，我们就开始。	If he comes, we'll start.
+她	she	她是我的朋友。	She is my friend.	她喜欢唱歌。	She likes singing.	她的笑容很温暖。	Her smile is very warm.
+儿子	son	他有一个儿子。	He has a son.	我的儿子很乖。	My son is very well-behaved.	他的儿子在学校学习很努力。	His son studies hard at school.
+臂	arm	她受伤了，右臂不能动了。	She is injured and her right arm can't move.	他挥动着双臂。	He waved his arms.	她抱着孩子的臂很温暖。	Her arms holding the child are warm.
+果酱	jam	我喜欢吃草莓果酱。	I like to eat strawberry jam.	早餐吃面包加果酱。	Eat bread with jam for breakfast.	果酱的味道很甜。	The jam tastes sweet.
+王一然	Eva	王一然是我的同事。	Eva is my colleague.	王一然的中文说得很好。	Eva speaks Chinese very well.	王一然今天请假了。	Eva took a day off today.
+天空	sky	天空中有很多云。	There are many clouds in the sky.	夜晚的天空很美。	The night sky is beautiful.	天空中的星星很闪亮。	The stars in the sky are very bright.
+艺术	art	她对艺术很感兴趣。	She is very interested in art.	这幅画是一件艺术品。	This painting is a work of art.	艺术可以表达很多情感。	Art can express many emotions.
+取款机	ATM	取款机在银行的旁边。	The ATM is next to the bank.	我需要去取款机取钱。	I need to go to the ATM to withdraw money.	取款机的排队人很多。	There are many people queuing at the ATM.
+上帝	God	上帝保佑你。	God bless you.	上帝创造了世界。	God created the world.	上帝是公平的。	God is fair.
+嘿	hey	嘿，你好吗？	Hey, how are you?	嘿，小心点！	Hey, be careful!	嘿，你听到了吗？	Hey, did you hear that?
+为何	why	为何你不告诉我？	Why didn't you tell me?	为何他会生气呢？	Why is he angry?	为何这么晚才回家？	Why did you come home so late?
+间谍	spy	他是一名间谍。	He is a spy.	这个故事中有一个间谍。	There is a spy in this story.	他被怀疑是间谍。	He is suspected of being a spy.
+蚂蚁	ant	蚂蚁在地上爬。	The ant is crawling on the ground.	蚂蚁是很勤劳的昆虫。	Ants are hardworking insects.	蚂蚁是一个很小的昆虫。	An ant is a very small insect.
+犹太人	Jew	他是一名犹太人。	He is a Jew.	犹太人有自己的宗教。	Jews have their own religion.	犹太人的历史很悠久。	The history of the Jews is very long.
+总和	sum	这些数字的总和是多少？	What is the sum of these numbers?	他们的总和超过了一百。	Their sum exceeds one hundred.	总和代表了所有的部分。	The sum represents all the parts.
+挨着	near	他们家挨着我们家。	Their house is next to ours.	这个地方挨着海边。	This place is near the seaside.	他坐在我挨着的位置。	He sat in the seat next to mine.
+波浪	wave	海浪拍打着岸边。	The waves are crashing against the shore.	她的头发像波浪一样美丽。	Her hair is as beautiful as waves.	波浪的声音很悦耳。	The sound of the waves is very pleasant.
+女人	wife	她是我的女人。	She is my wife.	女人是家庭的主要支柱。	Women are the mainstay of the family.	女人的力量是无穷的。	The power of women is infinite.
+东方	east	太阳从东方升起。	The sun rises from the east.	东方的文化很丰富。	The culture of the East is very rich.	东方的风景很美。	The scenery in the East is beautiful.
+慢	slow	他走得很慢。	He walks very slowly.	慢一点，小心点。	Slow down and be careful.	她的进步很慢。	Her progress is slow.
+冷	cold	天气很冷。	The weather is very cold.	他的态度很冷。	His attitude is very cold.	冷静一点，不要着急。	Be calm and don't be in a hurry.
+家里	home	我在家里。	I am at home.	家里有很多人。	There are many people at home.	家里的氛围很温馨。	The atmosphere at home is very warm.
+懒	lazy	他很懒，什么事情都不做。	He is very lazy and does nothing.	她不是懒，只是不想做。	She is not lazy, she just doesn't want to do it.	懒惰是一个坏习惯。	Laziness is a bad habit.
+西	west	太阳落在西方。	The sun sets in the west.	西方的文化和东方不同。	The culture of the West is different from the East.	西方的风景很美。	The scenery in the West is beautiful.
+歌曲	song	这是一首很好听的歌曲。	This is a very nice song.	她唱了一首很动人的歌曲。	She sang a very touching song.	这首歌曲的旋律很美。	The melody of this song is beautiful.
+泄漏秘密	Leak	他泄漏了公司的秘密。	He leaked the company's secrets.	泄漏秘密是不道德的行为。	Leaking secrets is unethical.	他因泄漏秘密而被解雇。	He was fired for leaking secrets.
+基金	fund	他投资了一只基金。	He invested in a fund.	这个基金的收益很高。	This fund has a high return.	基金的管理需要很多经验。	Fund management requires a lot of experience.
+海军	navy	他加入了海军。	He joined the navy.	海军的任务是保卫国家。	The navy's mission is to defend the country.	海军的舰队很强大。	The navy fleet is powerful.
+胶水	glue	这个胶水很粘。	This glue is very sticky.	胶水可以粘合两个东西。	Glue can stick two things together.	胶水的味道很刺鼻。	The smell of the glue is pungent.
+王莉莎	Lisa	王莉莎是我的同事。	Lisa is my colleague.	王莉莎的中文说得很好。	Lisa speaks Chinese very well.	王莉莎今天请假了。	Lisa took a day off today.
+一半	half	这是一杯水的一半。	This is half a cup of water.	他吃了一半的蛋糕。	He ate half of the cake.	一半是成功，一半是失败。	Half is success, half is failure.
+数据	data	这些数据很重要。	These data are very important.	数据显示了问题的严重性。	The data shows the seriousness of the problem.	数据分析是一个重要的工作。	Data analysis is an important job.
+现金	cash	我需要一些现金。	I need some cash.	他喜欢用现金支付。	He likes to pay with cash.	现金支付更方便。	Cash payment is more convenient.
+这里	here	这里是我的家。	This is my home.	这里有很多美丽的风景。	There are many beautiful sceneries here.	这里的气候很宜人。	The climate here is pleasant.
+这儿	here	这儿有一家很好吃的餐厅。	There is a very delicious restaurant here.	这儿的环境很好。	The environment here is very good.	这儿的风景很美。	The scenery here is beautiful.
+偶像	idol	她是我的偶像。	She is my idol.	他是很多人的偶像。	He is the idol of many people.	偶像的生活很多委屈。	The life of an idol is full of grievances.
+墙壁	wall	这面墙壁需要重新粉刷。	This wall needs to be repainted.	墙壁上挂着一幅画。	There is a painting hanging on the wall.	墙壁的颜色是白色的。	The color of the wall is white.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+燃料	fuel	这个汽车需要燃料才能行驶。	This car needs fuel to run.	煤炭是一种常见的燃料。	Coal is a common fuel.	他们正在研究新型燃料。	They are researching new types of fuel.
+钩子	hook	他把衣服挂在钩子上。	He hung the clothes on the hook.	这个钩子很锋利，小心别割到手。	This hook is very sharp, be careful not to cut your hand.	她用钩子编织了一个毛衣。	She knitted a sweater with a hook.
+性爱派对	orgy	他们听说有人在举办性爱派对，感到非常震惊。	They were shocked to hear that someone was hosting an orgy.	在这个城市，举办性爱派对是违法的。	In this city, hosting orgies is illegal.	她拒绝参加那种性爱派对。	She refused to attend that kind of orgy.
+温暖	warm	太阳升起后，天气变得温暖了。	After the sun rose, the weather became warm.	她的微笑让人感到温暖。	Her smile makes people feel warm.	这件毛衣很温暖，适合冬天穿。	This sweater is very warm and suitable for winter wear.
+羽衣甘蓝	kale	羽衣甘蓝是一种非常健康的蔬菜。	Kale is a very healthy vegetable.	她用羽衣甘蓝做了一道美味的沙拉。	She made a delicious salad with kale.	我喜欢在早餐里加一些羽衣甘蓝。	I like to add some kale to my breakfast.

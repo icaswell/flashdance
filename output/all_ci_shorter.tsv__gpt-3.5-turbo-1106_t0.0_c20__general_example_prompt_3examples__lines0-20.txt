@@ -1,0 +1,23 @@
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+它	it	它是一只小猫。	It is a little cat.	这个问题它很难。	This problem is difficult.	它们是我的朋友。	They are my friends.
+好的	OK	好的，我知道了。	OK, I got it.	这个主意好的。	This idea is good.	好的，我们现在出发。	OK, we are leaving now.
+假如	if	假如你不来，我就一个人去。	If you don't come, I'll go alone.	假如天气好，我们就去爬山。	If the weather is good, we'll go mountain climbing.	假如他不同意，我们就不去。	If he doesn't agree, we won't go.
+她	she	她是我的朋友。	She is my friend.	她喜欢唱歌。	She likes singing.	她的笑容很温暖。	Her smile is very warm.
+儿子	son	他有一个儿子。	He has a son.	我的儿子很乖。	My son is well-behaved.	他的儿子是我的学生。	His son is my student.
+臂	arm	他受伤了，臂上有一个大包。	He got injured, there's a big bump on his arm.	她抱着孩子，孩子的小臂搂着她的脖子。	She held the child, the child's little arm wrapped around her neck.	他的臂力很强。	His arm strength is very strong.
+果酱	jam	我喜欢吃草莓果酱。	I like to eat strawberry jam.	这个果酱很甜。	This jam is very sweet.	她做的果酱很好吃。	The jam she makes is delicious.
+王一然	Eva	王一然是我的同事。	Eva is my colleague.	她的名字是王一然。	Her name is Eva.	王一然的演唱会很成功。	Eva's concert was very successful.
+天空	sky	天空中有很多云。	There are many clouds in the sky.	夜晚的天空很美。	The night sky is beautiful.	他喜欢仰望天空。	He likes to look up at the sky.
+艺术	art	她对艺术很有天赋。	She is very talented in art.	这幅画是一件艺术品。	This painting is a work of art.	他的艺术作品很有创意。	His art pieces are very creative.
+取款机	ATM	取款机在银行的旁边。	The ATM is next to the bank.	我需要去取款机取钱。	I need to go to the ATM to withdraw money.	取款机的密码是六位数。	The ATM's password is a six-digit number.
+上帝	God	上帝保佑你。	God bless you.	她相信上帝。	She believes in God.	上帝是公平的。	God is fair.
+嘿	hey	嘿，你好吗？	Hey, how are you?	嘿，你听说了吗？	Hey, have you heard?	嘿，小心点！	Hey, be careful!
+为何	why	为何你不告诉我？	Why didn't you tell me?	我不知道为何他要离开。	I don't know why he wants to leave.	为何这么晚才回家？	Why did you come home so late?
+间谍	spy	他是一名间谍。	He is a spy.	这个故事里有一个间谍。	There is a spy in this story.	他被怀疑是间谍。	He is suspected to be a spy.
+蚂蚁	ant	这只蚂蚁很勤劳。	This ant is very hardworking.	蚂蚁是一个很小的昆虫。	Ants are very small insects.	蚂蚁在地上爬行。	The ant crawls on the ground.
+犹太人	Jew	他是一名犹太人。	He is a Jew.	犹太人有自己的宗教习俗。	Jews have their own religious customs.	她的邻居是一家犹太人。	Her neighbor is a Jewish family.
+总和	sum	这些数字的总和是多少？	What is the sum of these numbers?	他们的总和超过了一百。	Their sum exceeds one hundred.	总和代表了所有的部分。	The sum represents all the parts.
+挨着	near	他的家挨着学校。	His house is near the school.	这个商店挨着超市。	This shop is near the supermarket.	我们的办公室挨着餐厅。	Our office is near the restaurant.
+波浪	wave	海浪拍打着岸边。	The waves are crashing against the shore.	她的头发有很多波浪。	Her hair has a lot of waves.	这个湖的波浪很大。	The waves on this lake are big.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+女人	woman; wife	她是一个独立的女人。	She is an independent woman.	她是我的妻子，也是一个出色的女人。	She is my wife and also an outstanding woman.	这个女人非常勇敢。	This woman is very brave.
