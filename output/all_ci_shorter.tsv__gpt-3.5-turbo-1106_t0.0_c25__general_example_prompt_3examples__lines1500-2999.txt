@@ -1304,13 +1304,13 @@ word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	
 射击	to shoot; to fire (a gun)	他在射击比赛中获得了第一名。	He won first place in the shooting competition.	他在射击方面很有天赋。	He is very talented in shooting.	这个游戏需要射击技巧。	This game requires shooting skills.
 烦躁	jittery; twitchy; fidgety	她今天一直很烦躁。	She has been very jittery today.	他的烦躁情绪影响了工作。	His fidgety mood affected the work.	烦躁的心情会影响睡眠质量。	Jittery mood can affect the quality of sleep.
 说不定	can't say for sure; maybe	他说不定会来参加聚会。	He may come to the gathering.	这件事情说不定会有意外收获。	Maybe there will be unexpected gains in this matter.	说不定她已经知道了。Maybe she already knows.
-时光	time; era; period of time	青春时光很宝贵。	Youth time is very precious.	这段时光让我永生难忘。	This period of time is unforgettable for me.	时光飞逝，我们要珍惜每一刻。Time flies, we should cherish every moment.
-炸弹	bomb; CL:枚[mei2],顆|颗[ke1]	他成功拆除了炸弹。	He successfully defused the bomb.	这个炸弹是在哪里发现的？Where was the bomb found?	炸弹爆炸造成了很大的损失。The bomb explosion caused a lot of damage.
-旗子	flag; banner; CL:面[mian4]	他手中拿着一面旗子。	He is holding a flag in his hand.	这个旗子的颜色很鲜艳。	The color of this flag is very bright.	他们在风中挥舞着旗子。They are waving the flag in the wind.
-过奖	to overpraise; to flatter	你过奖了，我只是尽了自己的力量。You flatter me, I just did my best.	他的表现不值得过奖。His performance is not worthy of overpraise.	你的帮助让我受宠若惊，实在是过奖了。Your help makes me feel flattered, it's really overpraise.
-当心	to take care; to look out	走路的时候要当心。Be careful when walking.	当心别摔倒了。Be careful not to fall.	当心别碰到烫的东西。Be careful not to touch hot things.
-外套	coat; jacket; CL:件[jian4]	她穿着一件外套。She is wearing a coat.	这件外套很保暖。This jacket is very warm.	他的外套上有很多口袋。His coat has many pockets.
-网址	website; web address; URL	请告诉我你的网址。Please tell me your website.	这个网址打不开。This website cannot be opened.	你可以在网址栏输入网址。You can enter the web address in the address bar.
+时光	time; era; period of time	青春时光很宝贵。	Youth time is very precious.	这段时光让我永生难忘。	This period of time is unforgettable for me.	时光飞逝，我们要珍惜每一刻。	Time flies, we should cherish every moment.
+炸弹	bomb; CL:枚[mei2],顆|颗[ke1]	他成功拆除了炸弹。	He successfully defused the bomb.	这个炸弹是在哪里发现的？	Where was the bomb found?	炸弹爆炸造成了很大的损失。	The bomb explosion caused a lot of damage.
+旗子	flag; banner; CL:面[mian4]	他手中拿着一面旗子。	He is holding a flag in his hand.	这个旗子的颜色很鲜艳。	The color of this flag is very bright.	他们在风中挥舞着旗子。	They are waving the flag in the wind.
+过奖	to overpraise; to flatter	你过奖了，我只是尽了自己的力量。	You flatter me, I just did my best.	他的表现不值得过奖。	His performance is not worthy of overpraise.	你的帮助让我受宠若惊，实在是过奖了。	Your help makes me feel flattered, it's really overpraise.
+当心	to take care; to look out	走路的时候要当心。	Be careful when walking.	当心别摔倒了。	Be careful not to fall.	当心别碰到烫的东西。	Be careful not to touch hot things.
+外套	coat; jacket; CL:件[jian4]	她穿着一件外套。	She is wearing a coat.	这件外套很保暖。	This jacket is very warm.	他的外套上有很多口袋。	His coat has many pockets.
+网址	website; web address; URL	请告诉我你的网址。	Please tell me your website.	这个网址打不开。	This website cannot be opened.	你可以在网址栏输入网址。	You can enter the web address in the address bar.
 word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
 豪迈	bold; open-minded; heroic	他的豪迈气概令人敬佩。	His bold and heroic spirit is admirable.	她的豪迈性格让她成为了领导者。	Her open-minded character made her a leader.	在战场上，他展现出了豪迈的一面。	He showed his heroic side on the battlefield.
 呵	expel breath; my goodness	他呵了一口气。	He expelled a breath.	呵，这件事真是让人吃惊。	My goodness, this is really surprising.	呵，你真是个小顽皮。	Oh, you are such a little rascal.

@@ -1,0 +1,609 @@
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+麻辣雞	我很喜歡麻辣雞的音樂。	I really like the music of Nicki Minaj.	她的舞台表演就像麻辣雞一樣火辣。	Her stage performance is as hot as Nicki Minaj.	這首歌是麻辣雞的熱單。	This song is a hit single by Nicki Minaj.
+熱單	這首歌是一首熱單。	This song is a hit single.	他的新熱單在網上受到了很多關注。	His new hit single has received a lot of attention online.	熱單通常在夜店播放。	Hit singles are usually played in nightclubs.
+只管	他只管唱歌，其他事情都不管。	He is solely engrossed in singing, and doesn't care about anything else.	只管享受生活，不要擔心其他的。	Just enjoy life and don't worry about anything else.	只管問，我一定會幫你的。	Please feel free to ask, I will definitely help you.
+渗透	這個想法已經渗透到了年輕人當中。	This idea has permeated among the young people.	這家公司試圖渗透新市場。	This company is trying to penetrate the new market.	這種觀念正在渗透我們的社會。	This concept is seeping into our society.
+接着	我們先吃飯，接着去看電影。	First, let's have dinner, then go to see a movie.	他接着說了一個笑話。	He then told a joke.	我們接着討論下一步的計劃。	We then discussed the next step of the plan.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+开放	这朵花已经开放了。	This flower has already bloomed.	这个博物馆对公众开放。	This museum is open to the public.	她的思想很开放。	Her mind is very open.
+自帶濾鏡	她自带滤镜，简直就是个美人。	She looks like she has pre-installed filters, she's so beautiful.	他的照片看起来就像自带滤镜。	His photos look like they come with pre-installed filters.	她的皮肤状态好到自带滤镜的程度。	Her skin is so good that it looks like it comes with pre-installed filters.
+母上大人	母上大人，我回来了！	Mother, I'm back!	母上大人，您辛苦了。	Mother, you've worked hard.	母上大人，我想跟您说件事。	Mother, I want to tell you something.
+囧雪诺	囧雪诺在剧中经历了很多事情。	Jon Snow went through a lot in the series.	囧雪诺是《权力的游戏》中的一个角色。	Jon Snow is a character in "Game of Thrones".	囧雪诺是很多人心目中的英雄。	Jon Snow is a hero in many people's hearts.
+不忘初心	他始终不忘初心，努力工作。	He always remembers his original aspiration and works hard.	不忘初心是我们前进的动力。	Not forgetting the original aspiration is the driving force for our progress.	她的信念是不忘初心，永远坚持。	Her belief is to not forget the original aspiration and to persist forever.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+单身狗	他已经单身很久了，希望能早点脱离单身狗的状态。	He has been single for a long time and hopes to get out of the single dog status soon.	她不想再当单身狗，所以开始积极约会。	She doesn't want to be a single dog anymore, so she started actively dating.	很多人在情人节都感到特别孤单，被称为单身狗。	Many people feel particularly lonely on Valentine's Day and are called single dogs.
+顿	他突然顿住了脚步，好像听到了什么声音。	He suddenly stopped his steps, as if he had heard something.	他每顿饭都吃得很多，所以长胖了。	He eats a lot at every meal, so he gained weight.	他生气地顿了一下脚，表示不满。	He angrily stamped his foot to show his dissatisfaction.
+激烈	这场比赛非常激烈，双方都拼尽全力。	This game is very intense, and both sides are giving it their all.	他的痛苦表情显示他正在经历一场激烈的疼痛。	His painful expression shows that he is experiencing intense pain.	他对这个问题的看法非常激烈，不愿意妥协。	His opinion on this issue is very impassioned, and he is unwilling to compromise.
+父上大人	父上大人，我有件事想要请教您。	Father, I have something I'd like to ask you.	父上大人，您辛苦了一天，要不要休息一下？	Father, you've worked hard all day, do you want to take a rest?	父上大人，您的晚餐已经准备好了。	Father, your dinner is ready.
+没法儿	这件事情我真的没法儿帮你了，抱歉。	I really can't help you with this, sorry.	他的借口真是没法儿再瞎编了。	His excuse simply couldn't be more far-fetched.	这个问题没法儿再拖延下去，必须立刻解决。	This issue simply can't be delayed any longer and must be resolved immediately.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+高司令	我很喜欢高司令的电影。	I really like Commander Gao's movies.	高司令在这部电影中表现得非常出色。	Commander Gao performed very well in this movie.	他们给高司令起了一个很酷的绰号。	They gave Commander Gao a very cool nickname.
+摘	她摘了一朵花放在耳边。	She picked a flower and put it behind her ear.	我去摘些水果。	I'm going to pick some fruit.	他摘下眼镜，擦了擦。	He took off his glasses and wiped them.
+园	这个园里有很多美丽的花。	There are many beautiful flowers in this garden.	我小时候在这个幼儿园上学。	I went to kindergarten in this nursery.	我们去公园散步吧。	Let's go for a walk in the park.
+票	我买了两张电影票。	I bought two movie tickets.	他在抽屉里找到了一张百元票。	He found a hundred yuan bill in the drawer.	他们正在售票。	They are selling tickets.
+斯巴達	他今天真的有点斯巴達了。	He's really going a bit crazy today.	她看到那个搞笑视频后笑得斯巴達了。	She laughed like crazy after watching that funny video.	他的反应有点斯巴達。	His reaction is a bit crazy.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+油管	我经常在油管上观看各种视频。	I often watch various videos on YouTube.	他在油管上发布了一个新的视频。	He uploaded a new video on YouTube.	油管上有很多有趣的内容。	There is a lot of interesting content on YouTube.
+不忍直視	这个事故的现场让人不忍直视。	The scene of the accident is too gruesome to look at.	他的行为让人不忍直视。	His behavior is unbearable to look at.	她的伤痕让人不忍直视。	Her scars are too painful to look at.
+比	这个苹果比那个大。	This apple is bigger than that one.	他的成绩比去年好。	His grades are better than last year.	他比了一个胜利的手势。	He made a victory gesture.
+司姬	她是一位优秀的司姬，擅长驾驶各种车辆。	She is an excellent female driver, skilled at driving various vehicles.	司姬们在游戏中表现出色。	Female drivers perform well in the game.	这位司姬讲了一个很黄的笑话。	This female driver told a dirty joke.
+女權婊	他总是用女權婊来嘲讽那些支持女权主义的人。	He always uses "feminist bitch" to mock those who support feminism.	她被称为女權婊，因为她经常发表激进的言论。	She is called a feminist bitch because she often makes radical statements.	这个词是用来贬低女权主义者的。	This term is used to derogate feminists.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+浮	他的承诺总是浮在表面。	His promises always seem superficial.	这个气球浮在水面上。	This balloon is floating on the water.	她的情绪变化很浮。	Her emotions are very unstable.
+阿姨粉	她是一名阿姨粉，总是追星。	She is an "Auntie fan" and always follows celebrities.	这个阿姨粉对偶像的照片评论了很多。	This "Auntie fan" left a lot of comments on the idol's photos.	她被称为阿姨粉，因为她总是追着年轻偶像。
+綠光	他被人家甩了，现在成了綠光。	He was dumped by someone and now he's a "green light."	她被人骗了，成了綠光。	She was cheated on and became a "green light."	他成了綠光，让人都觉得可笑。	He became a "green light," which everyone finds ridiculous.
+撒狗糧	他们在社交媒体上撒狗糧，让单身人士羡慕。	They are pouring dog food on social media, making single people envious.	她喜欢在公共场合撒狗糧。	She likes to show affection in public.	他们撒狗糧的照片引起了很多关注。	The photos of them pouring dog food triggered a lot of attention.
+追	他在追求她的芳心。	He is pursuing her heart.	她在追忆过去的美好时光。	She is reminiscing about the good old days.	他们追着一部电视剧看了一整天。	They binge-watched a TV drama all day.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+枚	这枚硬币很珍贵。	This coin is very precious.	他收集了很多枚奖章。	He has collected many medals.	他用一枚木制的夹子夹住了布料。	He used a wooden peg to clamp the fabric.
+离	他离开家已经一个月了。	He has been away from home for a month.	我们学校离市中心很远。	Our school is far from the city center.	他离火堆远远的。	He stayed far away from the fire.
+摩擦摩擦	他们之间一直存在着摩擦。	There has always been friction between them.	这两个国家之间的摩擦越来越严重。	The friction between these two countries is getting more and more serious.	他们的合作充满了摩擦。	Their cooperation is full of friction.
+傻麅子	别再做傻麅子了。	Don't act like a silly roe deer anymore.	他今天又像个傻麅子一样。	He acted like a silly roe deer again today.	她笑得像个傻麅子。	She laughed like a silly roe deer.
+女權癌	他对女权癌持有不同的看法。	He has a different view on feminist cancer.	她被指责患上了女权癌。	She was accused of having feminist cancer.	这个话题引发了女权癌患者的愤怒。	This topic has sparked the anger of feminist cancer patients.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+沒節操	他为了钱可以做出任何事情，真是沒節操。	He can do anything for money, really stooping low.	她为了升职，居然沒節操地陷害同事。	She stooped low to frame her colleague for a promotion.	这种沒節操的行为是不可取的。	This kind of unethical behavior is unacceptable.
+机关	这台机器的机关设计非常精巧。	The mechanism of this machine is very sophisticated.	政府机关正在调查这起案件。	The government agency is investigating this case.	他们使用了一些诡计和机关来达到目的。	They used some tricks and intrigues to achieve their goal.
+第X彈	这是这个系列的第三彈视频。	This is the third video in this series.	网站上发布了这个系列的第五彈漫画。	The fifth installment of this series of comics was released on the website.	这个系列的第一彈文章引起了很大的关注。	The first article in this series attracted a lot of attention.
+联想	这个词让我联想到了童年的回忆。	This word makes me associate it with childhood memories.	这种颜色总是让人联想到春天。	This color always makes people think of spring.	这个故事联想到了我小时候的经历。	This story brings to mind my childhood experiences.
+冒	他冒着生命危险去救了那个小孩。	He risked his life to save the child.	她冒着寒冷去参加了比赛。	She braved the cold to participate in the competition.	他冒充警察进行诈骗。	He impersonated a police officer for fraud.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+掌握	他掌握了这个项目的所有细节。	He has mastered all the details of this project.	她掌握了局势的发展趋势。	She understands the trend of the situation.	只有掌握了知识，才能做出正确的决定。	Only by mastering the knowledge can one make the right decision.
+單身汪	她是一个典型的单身汪，总是在寻找另一半。	She is a typical "single woof," always looking for a partner.	他不愿意成为单身汪，所以积极参加相亲活动。	He doesn't want to be a "single woof," so he actively participates in blind date events.	很多单身汪都在这个交友软件上寻找对象。	Many "single woofs" are looking for partners on this social app.
+装	她喜欢装扮得很时尚。	She likes to dress very stylishly.	他在舞台上扮演了一个勇敢的战士。	He played the role of a brave warrior on stage.	他总是装作很无所谓的样子，其实内心很在乎。	He always pretends to be indifferent, but actually cares a lot inside.
+你國	我不想回你国，这里更适合我。	I don't want to go back to your country; here is more suitable for me.	他对政府的做法感到不满，所以总是说“你国”而不是“我们国家”。	He is dissatisfied with the government's actions, so he always says "your country" instead of "our country."	她用“你国”这个词来表达对国家政策的不满。	She uses the term "your country" to express dissatisfaction with national policies.
+科學上網	他经常使用VPN科学上网。	He often uses VPN to surf the web scientifically.	在这个国家，科学上网是一种常见的现象。	In this country, scientific web surfing is a common phenomenon.	他教我如何科学上网，以便访问被封锁的网站。	He taught me how to surf the web scientifically in order to access blocked websites.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+圍笑	她圍笑着说：“你真是个小可爱！”	She smiled and said, "You are so cute!"	他的圍笑让人觉得他很友善。	His smile makes people feel that he is very friendly.	圍笑是一种很温暖的表达方式。	Surround smile is a very warm way of expression.
+以为	我以为他会来参加聚会。	I thought he would come to the party.	他以为这个问题很简单。	He thought this problem was very simple.	我以为今天会下雨。	I thought it would rain today.
+相愛相殺	他们之间的关系就像相愛相殺。	Their relationship is like loving and killing each other.	这对情侣总是相愛相殺，但又无法分开。	This couple always love and kill each other, but can't separate.	他们之间的相愛相殺让人捉摸不透。	Their love-hate relationship is unpredictable.
+老幹部	他是这个行业的老幹部。	He is an old cadre in this industry.	这位老幹部的演技依然很精湛。	The old cadre's acting skills are still very exquisite.	她是影视圈的老幹部，备受尊敬。	She is an old cadre in the film and television industry, highly respected.
+他	他是我的好朋友。	He is my good friend.	他来自中国。	He comes from China.	他真是个有趣的人。	He is really an interesting person.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+成语	这个成语来源于中国古代的一个故事。	This set expression originates from a story in ancient China.	学习成语是学习中文的重要部分。	Learning idioms is an important part of learning Chinese.	他经常在演讲中使用成语来增加趣味。	He often uses idioms in his speeches to add interest.
+定	我已经定好了明天的行程。	I have already set my schedule for tomorrow.	他定了一份报纸。	He subscribed to a newspaper.	这个问题已经定案了。	This issue has been settled.
+省	他在家省了很多钱。	He saved a lot of money by staying at home.	我省了很多时间。	I saved a lot of time.	他省了很多精力。	He saved a lot of energy.
+运行	这列火车正常运行。	This train is running normally.	这个计划已经开始运行了。	This plan has already started to operate.	电脑运行得很快。	The computer is running very fast.
+窗口	请到窗口办理业务。	Please go to the window to handle your business.	这个窗口的设计很漂亮。	The design of this window is very beautiful.	他通过这个窗口向外界展示了他的想法。	He showcased his ideas to the outside world through this window.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+咆哮教主	咆哮教主是他的绰号。	Roaring hierarch is his nickname.	他因为在事业初期的狂热表演风格而被称为咆哮教主。	He is called the roaring hierarch because of his hysterical acting style at the early stages of his career.	很多人喜欢用咆哮教主这个网络用语来调侃他。	Many people like to use the Internet slang term "roaring hierarch" to tease him.
+腦斧	他的绰号是腦斧。	His nickname is "brain+ax".	腦斧这个网络用语模仿了“老虎”的发音。	The Internet slang term "brain+ax" mimics the pronunciation of "tiger".	很多人用腦斧这个网络用语来开玩笑。	Many people use the Internet slang term "brain+ax" to make jokes.
+寄刀片	他们决定寄刀片给编剧。	They decided to mail blades to the screenwriter.	观众对剧情发展不满意，开始寄刀片了。	The audience is dissatisfied with the development of the storyline and started to mail blades.	最近网络上又开始流行寄刀片这个词了。	The term "mailing blades" has become popular again on the internet.
+圆	这个硬币是圆的。	This coin is round.	月亮今晚很圆。	The moon is very full tonight.	他的解释很圆满。	His explanation is very tactful.
+怎麼破	怎麼破？我们该怎麼解决这个问题？	How to solve it? How should we deal with this problem?	她一脸无辜地问道：“怎麼破？”	She innocently asked, "How can we solve this?"	他总是用怎麼破这个表情来博取同情。	He always uses the expression "how to break" to seek sympathy.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+作用	这种药有镇静作用。	This medicine has a calming effect.	锻炼对身体有很好的作用。	Exercise has a very positive impact on the body.	这个机器的作用是帮助人们更快地完成工作。	The function of this machine is to help people complete work more quickly.
+顏藝	他在表演中运用了精湛的顏藝。	He used exquisite facial expressions in the performance.	这部电影的演员都很擅长顏藝。	The actors in this movie are all skilled in facial expressions.	她的顏藝让观众感到震撼。	Her facial expressions were stunning to the audience.
+致辞	他在会议上致辞了。	He made a speech at the meeting.	新年晚会上，总统发表了一份致辞。	The president delivered a New Year's speech at the party.	毕业典礼上，校长致辞了。	The principal gave a speech at the graduation ceremony.
+盛世美顏	她被称为盛世美顏。	She is known for her incredibly gorgeous good looks.	这位明星的盛世美顏让粉丝们着迷。	The idol's incredibly beautiful face captivates her fans.	他的盛世美顏成为了话题。	His incredibly gorgeous good looks became a hot topic.
+陳老師	陳老師在新歌中展现了不同的风格。	Teacher Chen showed a different style in his new song.	陳老師的演技备受好评。	Teacher Chen's acting skills received high praise.	陳老師的音乐影响了很多人。	Teacher Chen's music has influenced many people.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+认定	他认定自己一定能成功。	He firmly believes that he will succeed.	警方已经认定了凶手。	The police have determined the murderer.	她对这个决定有着坚定的认定。	She has a firm determination about this decision.
+花路	祝你一路花路顺。	Wishing you a smooth and successful career path.	她的花路之旅刚刚开始。	Her journey to a successful career is just beginning.	他们希望偶像能一路花路顺。	They hope their idol will have a smooth and successful career path.
+犀利哥	犀利哥因其独特的穿着和锐利的眼神而出名。	Brother Incisive is famous for his unique outfits and piercing gaze.	网友们给了犀利哥一个响亮的外号。	Netizens gave Brother Incisive a resounding nickname.	犀利哥在网络上引起了轰动。	Brother Incisive caused a sensation on the internet.
+活捉一只	今天我在街上活捉一只漂亮的包包。	Today I caught a beautiful handbag on the street.	网友们总是希望能在网上活捉一只可爱的小动物。	Netizens always hope to catch a cute little animal online.	她成功活捉一只稀有的植物。	She successfully caught a rare plant.
+秀	她的舞姿非常秀丽。	Her dance moves are very graceful.	这个节目真的很秀。	This show is really excellent.	这片土地一年四季都秀出不同的美。	This land shows different beauty in all four seasons.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+黑古	黑古在最新电影中的表现非常出色。	The black Louis Koo performed very well in the latest movie.	她喜欢黑古的电影作品。	She likes the movies of the black Louis Koo.	黑古因故意晒黑而备受关注。	Black Louis Koo gained attention for deliberately tanning.
+雲吸貓	她整天在网上雲吸貓。	She spends all day online enjoying cat pictures.	雲吸貓已成为许多人的日常乐趣。	Cloud sniffing cats has become a daily pleasure for many people.	他的社交媒体充满了雲吸貓的照片。	His social media is filled with cloud sniffing cat photos.
+令	他下令停止了这项工程。	He ordered the halt of this project.	这个消息令人震惊。	This news is shocking.	她的努力令人钦佩。	Her efforts are admirable.
+教科書般	这部电影中的特技场景教科書般。	The stunt scenes in this movie are textbook.	他的演讲水平教科書般。	His public speaking skills are textbook.	这个方案的完美执行教科書般。	The perfect execution of this plan is textbook.
+乾貨	这本书里有很多乾貨。	This book contains a lot of valuable information.	他的建议都是些乾貨。	His advice is all valuable information.	这个网站上有很多乾貨。	There is a lot of valuable information on this website.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+人設	这部电视剧的人設非常吸引人。	The character design of this TV series is very appealing.	小说里的人設很丰富多彩。	The character design in the novel is very rich and colorful.	她对人設的创作有很高的要求。	She has very high standards for character design creation.
+內心戲	他的內心戲非常丰富。	His inner drama is very rich.	她的微表情透露出了內心戲。	Her microexpressions reveal her inner drama.	这部电影通过演员的內心戲展现了角色的复杂性。	This movie showcases the complexity of the characters through the actors' inner drama.
+语音	他的语音很悦耳。	His voice is very pleasant.	她正在学习标准的普通话语音。	She is learning the standard pronunciation of Mandarin.	我们可以用语音聊天吗？	Can we voice chat?
+有没有	你有没有时间帮我一下？	Do you have time to help me?	他有没有去过中国？	Has he been to China?	你们有没有看到我的钥匙？	Have you seen my keys?
+中央空調	他总是对女生说他家有中央空調。	He always tells girls that his home has central air conditioning.	她发现他是个只会吹嘘有中央空調的花花公子。	She found out that he is a playboy who only knows how to boast about having central air conditioning.	这个词在网络上被用来调侃那些自以为是的男人。	This term is used on the internet to mock those self-righteous men.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+犬系男	我不喜欢犬系男，他们太黏人了。	I don't like doglike men, they are too clingy.	她的男朋友是个犬系男，总是很活泼。	Her boyfriend is a doglike man, always very lively.	这个词通常用来形容一种类型的男朋友。	This term is usually used to describe a type of boyfriend.
+土酷	他的穿着总是很土酷，但很有个性。	His dressing style is always provincial and cool, but very unique.	这个新潮的品牌强调土酷风格。	This trendy brand emphasizes the provincial and cool style.	这种土酷风格的设计在年轻人中很受欢迎。	This provincial and cool style design is very popular among young people.
+棄坑	他已经棄坑很久了，小说还没有完结。	He has abandoned the pit for a long time, and the novel has not been completed.	很多作者因为没有灵感而选择棄坑。	Many authors choose to abandon the pit because of lack of inspiration.	他棄坑后，很多读者都很失望。	After he abandoned the pit, many readers were very disappointed.
+事业	他在事业上取得了很大的成就。	He has achieved great success in his career.	她一直专注于自己的事业。	She has always been focused on her career.	这个慈善事业受到了很多人的支持。	This charitable cause has received a lot of support from many people.
+之间	他们之间的友谊非常深厚。	The friendship between them is very deep.	他们之间的矛盾很快就解决了。	The conflict between them was quickly resolved.	我们之间的距离不是问题。	The distance between us is not a problem.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+哦	你要去参加派对，哦。	You are going to the party, huh.	我刚才看到他在超市，哦。	I just saw him at the supermarket, oh.	这个电影是由一位新导演执导的，哦。	This movie is directed by a new director, oh.
+斜杠青年	他是一位斜杠青年，既是作家又是画家。	He is a "slash youth," being both a writer and a painter.	这个网红自称是一位斜杠青年。	This internet celebrity claims to be a "slash youth."	斜杠青年们在社交媒体上分享自己的多重身份。	Slash youths share their multiple identities on social media.
+可以說是	这部电影可以说是今年最好的电影之一。	This movie can be said to be one of the best movies of the year.	他的演讲可以说是今天的亮点。	His speech can be said to be the highlight of today.	这个餐厅的菜可以说是非常美味。	The dishes in this restaurant can be said to be very delicious.
+补刀	他在游戏中补刀，结束了敌人的生命。	He finished off the enemy in the game.	在辩论中，他总是喜欢补刀。	In debates, he always likes to pile on.	在这场辩论中，他不断补刀，让对手难以应对。	In this debate, he kept piling on, making it difficult for the opponent to respond.
+直	他直地站在那里，一言不发。	He stood there straight, without saying a word.	她的直性格让人觉得很舒服。	Her straightforward personality makes people feel comfortable.	他的直话让我感到受伤了。	His frank words hurt my feelings.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+意思	你的意思我明白了。	I understand your meaning.	她对这个问题有自己的意思。	She has her own opinion on this issue.	玩游戏是我的兴趣和意思。	Playing games is my interest and fun.
+鋼鐵直男	他总是不懂得体贴女朋友的情感需求，真是个典型的鋼鐵直男。	He always fails to understand his girlfriend's emotional needs, he's a typical "iron straight man".	最近网上又有人讨论鋼鐵直男这个词的定义。	Recently, there are discussions online about the definition of "iron straight man".	她跟我开玩笑说，她的前男友就是个典型的鋼鐵直男。	She joked with me that her ex-boyfriend was a typical "iron straight man".
+某寶	我在某寶上买了一件漂亮的衣服。	I bought a beautiful dress on "Some Treasure".	他又在某寶上买了一堆没用的东西。	He bought a bunch of useless things on "Some Treasure" again.	最近某寶上的商品种类越来越多了。	The variety of products on "Some Treasure" has been increasing recently.
+硬	这个椅子很硬，坐起来不舒服。	This chair is very hard, it's uncomfortable to sit on.	他是一个硬汉，从不轻易低头。	He is a tough guy, never easily bows his head.	这个面包很硬，吃起来不好咬。	This bread is very hard, it's hard to chew.
+支	他支持我去追求自己的梦想。	He supports me in pursuing my dreams.	这支笔写起来很顺手。	This pen writes very smoothly.	这支歌曲的旋律很动听。	The melody of this song is very pleasant.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+带	我喜欢带着孩子去公园。	I like to take the children to the park.	她带了一把伞出门。	She took an umbrella when she went out.	他带领团队完成了这个项目。	He led the team to complete the project.
+刀	他用刀切水果。	He uses a knife to cut fruit.	这把刀很锋利。	This knife is very sharp.	他是一名刀客。	He is a swordsman.
+粉絲濾鏡	她总是戴着粉絲濾鏡看待偶像。	She always sees her idol through rose-tinted glasses.	很多粉絲戴着粉絲濾鏡，看待自己的偶像。	Many fans see their idols through rose-tinted glasses.	他戴着粉絲濾鏡，对偶像的一切都充满了幻想。	He sees everything about his idol through rose-tinted glasses, full of fantasies.
+Gay蜜	她的Gay蜜总是给她很多建议。	Her best gay friend always gives her a lot of advice.	他是她的Gay蜜，两人关系非常好。	He is her best gay friend, and they have a very good relationship.	她的Gay蜜对她非常关心。	Her best gay friend cares a lot about her.
+破	这个杯子破了。	This cup is broken.	他的承诺被证明是破的。	His promise was proven to be false.	他们破了对手的防线。	They broke through the opponent's defense.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+砸簡歷	老闆在社交媒體上發文，砸簡歷給我們吧。	The boss posted on social media, "Smash resumes to us."	這家公司正在招聘，他們要求砸簡歷。	This company is recruiting, and they request to "smash resumes."	我昨天砸了簡歷給這家公司，希望能得到面試機會。	I sent my resume to this company yesterday, hoping to get an interview opportunity.
+院长	這所大學的院長非常有能力。	The president of this university is very capable.	他是這個部門的院長。	He is the dean of this department.	這位院長對學校的發展有很多好的想法。	The president has many good ideas for the development of the school.
+小鮮肉	她是一個小鮮肉，深受粉絲喜愛。	She is a "little fresh meat" and deeply loved by fans.	這個網紅被稱為小鮮肉，因為他的外表清新。	This internet celebrity is called "little fresh meat" because of his fresh appearance.	這部電影的男主角是一位小鮮肉，吸引了很多觀眾。	The male lead of this movie is a "little fresh meat," attracting many audiences.
+懟天懟地	他在辯論中懟天懟地，贏得了大家的掌聲。	He lashed out at his opponents fearlessly in the debate, winning everyone's applause.	她的演講懟天懟地，讓人印象深刻。	Her speech was fearless and impressive.	這位律師在庭上懟天懟地，成功地為客戶辯護。	The lawyer fearlessly defended the client in court.
+啾咪	她對粉絲們啾咪，表達對他們的愛。	She acts cute to her fans, expressing her love for them.	這位綜藝節目的主持人常常用啾咪的方式逗樂觀眾。	The host of this variety show often entertains the audience in a cute way.	他學會了啾咪的表情，想要逗笑女朋友。	He learned the cute expression to make his girlfriend laugh.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+今日份	我要分享今日份的美食。	I want to share today's delicious food.	这是今日份的报纸。	This is today's newspaper.	今日份的任务已经完成了。	Today's tasks have been completed.
+挺	他站得很挺。	He stands very straight.	这个学生挺有耐心的。	This student is quite patient.	她挺喜欢这个礼物的。	She really likes this gift.
+廢柴	他是个廢柴，什么都做不好。	He is a loser and can't do anything well.	别再和那个廢柴联系了。	Don't contact that loser again.	她觉得自己是个廢柴。	She feels like she's a loser.
+挺	他挺了挺胸膛。	He straightened his chest.	这个士兵挺住了敌人的炮火。	This soldier withstood the enemy's gunfire.	这个机器枪需要一支挺。	This machine gun needs a stand.
+森女	她喜欢穿得像森女一样。	She likes to dress like a mori girl.	森女风格的服装很受欢迎。	Mori girl style clothing is very popular.	她的生活方式很符合森女的特点。	Her lifestyle is in line with the characteristics of a mori girl.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+機智如我	機智如我，成功躲過了這次危機。	Witty like me, I successfully avoided this crisis.	他自認機智如我，但卻經常陷入困境。	He considers himself as witty as me, but often gets into trouble.	機智如我，這種事情我早就預料到了。	Witty like me, I had already anticipated this kind of thing.
+隐藏	他隐藏了自己的真實身份。	He concealed his true identity.	这个房间的设计隐藏了一些细节。	The design of this room hides some details.	她的悲伤被隐藏在笑容之后。	Her sadness is hidden behind her smile.
+打	他打了我一拳。	He punched me.	我今天打了一份报告。	I wrote a report today.	他们打了一场激烈的篮球比赛。	They played an intense basketball game.
+我們家	我們家的偶像是一位知名歌手。	Our home's idol is a well-known singer.	我們家的追星團體很有活力。	Our home's fan group is very energetic.	我們家的粉絲團氛圍很熱烈。	Our home's fan group atmosphere is very enthusiastic.
+麻竹	我把這篇文章麻竹了下來。	I bookmarked this article.	她總是麻竹一些有趣的貼文。	She always bookmarks some interesting posts.	這個影片太有趣了，我一定要麻竹下來。	This video is so interesting, I must bookmark it.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+流	河水在不断地流动。	The river water keeps flowing.	眼泪顺着她的脸颊流下来。	Tears streamed down her cheeks.	这个消息很快就会流传开来。	This news will spread quickly.
+作	他在写一本小说。	He is writing a novel.	她作了一个梦。	She had a dream.	他作出了一个重要决定。	He made an important decision.
+五毛黨	这个论坛上有很多五毛黨。	There are many 50 Cent Party members on this forum.	有人怀疑他是五毛黨。	Some people suspect that he is a member of the 50 Cent Party.	政府雇佣了一些五毛黨来发表评论。	The government has hired some 50 Cent Party members to make comments.
+媽賣批	他用了媽賣批这个词。	He used the phrase "Your mom is a prostitute."	别再说媽賣批了。	Stop saying "Your mom is a prostitute."	他骂人用了媽賣批。	He cursed using "Your mom is a prostitute."
+站臺	他昨天在演讲中站臺了他的政策。	Yesterday, he campaigned for his policies in the speech.	她站臺了她最喜欢的歌手。	She rooted for her favorite singer.	这位明星站臺了这个公益活动。	This celebrity campaigned for this charity event.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+錘哥	我很喜欢錘哥在《雷神》里的表演。	I really like Brother Hammer's performance in "Thor".	錘哥是我的偶像之一。	Brother Hammer is one of my idols.	錘哥的粉丝们非常热情。	Brother Hammer's fans are very enthusiastic.
+黑化	他的形象在媒体曝光负面新闻后开始黑化。	His image started to deteriorate after negative news surfaced in the media.	这个角色在剧情发展中开始黑化。	This character starts to turn into a bad guy as the plot develops.	他的黑化让粉丝们感到失望。	His turning into a bad guy disappoints the fans.
+雷	今天下午突然雷了，把我吓了一跳。	There was a sudden thunder this afternoon, which startled me.	他的表演让观众们大为震惊。	His performance shocked the audience greatly.	别再给我雷剧情了，我还没看呢。	Don't spoil the plot for me, I haven't watched it yet.
+这	这个问题很难。	This problem is very difficult.	这是我的书。	This is my book.	这些苹果很好吃。	These apples are delicious.
+菊外人	我是菊外人，但是我也想了解王菊。	I am an outsider, but I also want to know about Wang Ju.	很多人被称为菊外人。	Many people are called outsiders.	菊外人们对王菊的投票并不了解。	The outsiders don't know about voting for Wang Ju.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+洗地	他用力洗地。	He vigorously cleans the floor.	这个公司试图洗地。	The company is trying to cover up evidence.	他们洗地，以保护罪犯。	They defend the wrongdoer to protect the criminal.
+这	这是我的书。	This is my book.	这些苹果很甜。	These apples are very sweet.	这个问题很复杂。	This problem is very complicated.
+朝陽群眾	朝陽群眾积极向警方举报可疑活动。	The people of Chaoyang District actively report suspicious activities to the police.	朝陽群眾維護社區安全。	The residents of Chaoyang District maintain community safety.	朝陽群眾以犯罪者。	The people of Chaoyang District are famous crime-busters.
+貓奴	她是一個貓奴。	She is a cat owner.	貓奴們總是無條件愛護他們的貓。	Cat owners always unconditionally love their cats.	貓奴們總是為貓奴。	Cat owners always serve their cats.
+包	她用布包住了蔬菜。	She wrapped the vegetables in cloth.	这个包很漂亮。	This bag is very pretty.	他包了一份礼物。	He wrapped a gift.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+霸道	他霸道的行为让同事们感到不舒服。	His overbearing behavior makes his colleagues feel uncomfortable.	这种药的味道很霸道。	The taste of this medicine is very strong.	霸道的统治往往会导致社会动荡。	Despotic rule often leads to social unrest.
+王之蔑視	她对那些恶意评论的回应就像王之蔑视一样。	Her response to those malicious comments is like the King's contempt.	他的眼神中透露出王之蔑视。	There is a hint of the King's contempt in his eyes.	面对挑衅，他展现出了王之蔑视。	Facing provocation, he showed the King's contempt.
+慈母笑	她对粉丝的微笑就像慈母笑一样温暖。	Her smile towards the fans is as warm as a caring mother's smile.	他对合作伙伴的微笑中透露出慈母笑。	His smile towards his partners reveals a warm and caring mother's smile.	她的笑容中透露出了慈母笑。	Her smile reveals a warm and caring mother's smile.
+初心	不要忘记自己的初心。	Don't forget your original intention.	他始终保持着初心。	He always maintains his original intention.	她的初心是成为一名优秀的医生。	Her original intention is to become an excellent doctor.
+標題黨	这篇文章的标题党吸引了很多点击。	The clickbait title of this article attracted a lot of clicks.	他们的报道经常采用標題黨的手法。	Their reports often use sensational clickbait titles.	这个网站的標題黨现象比较严重。	The clickbait phenomenon on this website is quite serious.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+活动	他喜欢参加各种户外活动。	He likes to participate in all kinds of outdoor activities.	这个组织经常举办一些慈善活动。	This organization often holds some charity events.	她的腿受伤了，活动有些不便。	Her leg is injured, and her movement is a bit inconvenient.
+乱	会议室里一片乱。	The meeting room is in a mess.	他的思绪一片乱。	His mind is in a state of confusion.	他们乱扔垃圾，对环境造成了很大的破坏。	They randomly litter, causing great harm to the environment.
+抓馬	她总是抓马，让人很难相处。	She is always dramatic, making it difficult to get along with her.	他的抓马行为让整个团队感到很烦恼。	His dramatic behavior annoys the whole team.	别再抓马了，这不是什么大不了的事情。	Stop being so dramatic, it's not a big deal.
+确定	我确定他会来参加聚会。	I'm sure he will come to the gathering.	你确定这个答案是正确的吗？	Are you sure this answer is correct?	请确定你的座位号码。	Please confirm your seat number.
+座	这座大楼非常壮观。	This building is very magnificent.	他坐在座位上专心听讲。	He sat in his seat and listened attentively.	这座山是我们登山队的下一个目标。	This mountain is the next target for our mountaineering team.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+手賤	我手賤点进了一个恐怖的视频。	My hand was base and clicked on a scary video.	她手賤点开了一个恶心的图片。	She regretted being inquisitive and clicked on a disgusting picture.	他手賤点进了一个令人作呕的网页。	He regretted being inquisitive and clicked on a nauseating webpage.
+灌水	他在网上灌水，浪费了很多时间。	He wastes a lot of time posting low-value messages on the internet.	别再在论坛上灌水了，好好讨论问题吧。	Stop posting small talk on the forum, let's discuss the issue properly.	公司被指控灌水，涉嫌做假账。	The company is accused of cooking the books and falsifying accounts.
+新技能	学会新技能需要花费一些时间。	It takes some time to learn a new skill.	快get新技能，提升自己的竞争力。	Quickly acquire new skills to enhance your competitiveness.	他最近学会了一项新技能，现在很有成就感。	He recently learned a new skill and now feels very accomplished.
+韭菜	他是股市里的韭菜，总是被套牢。	He is a retail investor in the stock market and always gets trapped.	很多韭菜因为缺乏经验而亏损惨重。	Many retail investors suffer heavy losses due to lack of experience.	小心别成为别人口中的韭菜，要学会理财。	Be careful not to become the so-called "garlic chives" in others' mouths, and learn to manage your finances.
+帮	我需要你的帮，帮我拿一下这个东西。	I need your help, help me get this thing.	他是我的帮，我们一起合作很多年了。	He is my helper, we have been working together for many years.	这个帮在这个城市非常有势力。	This gang is very influential in this city.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+三連	他连续说了三连脏话。	He continuously said three curse words in a row.	这个视频里有一个素质三连。	This video contains a string of three curse words.	他一口气吃了三连冰淇淋。	He ate three ice creams in a row.
+雨神	今天一定是雨神出现了。	Today must be the appearance of the Rain God.	每次小青蛙开演唱会都下雨，真是雨神。	It always rains when Xiao Qingwa holds a concert, he's really the Rain God.	雨神又来了，这次下得更大了。	The Rain God is here again, and this time it's raining even harder.
+毀童年	这个恶搞视频真是毁童年啊。	This parody video really destroys childhood memories.	他的这番言论简直是毁童年级别的。	His remarks are simply at the level of destroying childhood memories.	这部电影被批评为毁童年神作。	This movie is criticized as a masterpiece of destroying childhood memories.
+以夢為馬	他一直以梦为马，努力追逐自己的音乐梦想。	He has always pursued his music dream with dedication.	她以梦为马，努力学习舞蹈。	She dedicates herself to learning dance with her dream as a horse.	以梦为马，她不断前行，永不放弃。	With her dream as a horse, she keeps moving forward and never gives up.
+倒	他把杯子倒了一下。	He poured out the cup.	他的观点和大家的想法正好倒过来。	His views are exactly the opposite of everyone else's.	虽然天气预报说不会下雨，但结果却倒下大雨。	Although the weather forecast said it wouldn't rain, it ended up pouring.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+金	她戴着一条金项链。	She is wearing a gold necklace.	这个戒指是金的。	This ring is made of gold.	他的成绩金榜题名。	His achievements are highly respected.
+放飛自我	他今天放飞自我，买了很多奢侈品。	He let himself go today and bought a lot of luxury goods.	她放飞自我，决定辞去工作去环游世界。	She let herself go and decided to quit her job to travel around the world.	尽情放飞自我，享受生活。	Indulge yourself and enjoy life.
+三石弟弟	我很喜欢看三石弟弟的电视剧。	I really like to watch the TV dramas of Three-stone Brother.	三石弟弟的表演很有魅力。	Three-stone Brother's performance is very charming.	三石弟弟的新电影很受欢迎。	Three-stone Brother's new movie is very popular.
+大清已亡	大清已亡，时代变了。	The Qing dynasty has already perished, the times have changed.	他们的观念还停留在大清已亡的年代。	Their ideas are still stuck in the era of the Qing dynasty's demise.	大清已亡，我们应该迎接新的机遇。	The Qing dynasty has already perished, we should embrace new opportunities.
+狗糧	他又在抱怨单身了，真是一副狗糧样。	He's complaining about being single again, really acting like a "single dog".	她看到别人秀恩爱就开始自怨自艾，真是典型的狗糧心态。	She starts feeling sorry for herself when she sees others showing affection, a typical "single dog" mentality.	别再自怨自艾了，不要当一只狗糧。	Stop feeling sorry for yourself, don't be a "single dog".
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+擦媽	擦媽的歌曲真好听。	The songs of Christina Aguilera are really nice.	擦媽的演唱会很受欢迎。	Christina Aguilera's concert is very popular.	擦媽的新专辑即将发行。	Christina Aguilera's new album is about to be released.
+丙	丙字在天干中排第三。	The character "丙" ranks third in the Heavenly Stems.	在罗马数字中，丙代表数字三。	In Roman numerals, "丙" represents the number three.	丙方向是指165度。	The direction of "丙" refers to 165 degrees.
+卓伟视角	这张照片是从卓伟视角拍摄的。	This photo was taken from Zhuo Wei’s perspective.	这个视频展现了卓伟视角下的明星生活。	This video shows the celebrity life from Zhuo Wei’s perspective.	他的作品总是能够展现出卓伟视角的独特魅力。	His works always demonstrate the unique charm of Zhuo Wei’s perspective.
+后天	我们后天一起去看电影吧。	Let's go watch a movie together the day after tomorrow.	后天是我妹妹的生日。	The day after tomorrow is my sister's birthday.	后天的会议取消了。	The meeting the day after tomorrow has been canceled.
+渣渣輝	渣渣輝的新电影很受欢迎。	Nick Cheung Ka Fai's new movie is very popular.	渣渣輝的演技备受好评。	Nick Cheung Ka Fai's acting skills are highly praised.	渣渣輝的代表作是哪部电影？	What is the representative work of Nick Cheung Ka Fai?
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+靠	他靠在墙上休息。	He leans against the wall to rest.	我靠近窗户看外面的风景。	I come near the window to look at the view outside.	我靠着你，你可以相信我。	You can trust me, I'm by your side.
+手	他用手拿着一本书。	He holds a book in his hand.	她是一位擅长绘画的艺术家。	She is an artist skilled in painting.	这个工作需要一双灵巧的手。	This job requires skillful hands.
+人畜无害	她是一个人畜无害的女孩。	She is a harmless and innocent girl.	这只小猫看起来人畜无害。	This kitten looks harmless.	他的笑容让人觉得他人畜无害。	His smile makes people feel that he is harmless.
+暗中觀察	他暗中观察了很久。	He observed furtively for a long time.	她喜欢暗中观察别人的行为。	She likes to observe others' behavior secretly.	我们应该暗中观察一下他的举动。	We should observe his actions furtively.
+早F晚E	她是一个早F晚E的人，每天都很努力工作。	She is a "Fighting in the Morning, Emo in the Evening" person, working hard every day.	他昨天早F晚E，早上很积极，晚上情绪低落。	He was "Fighting in the Morning, Emo in the Evening" yesterday, very positive in the morning, and low-spirited in the evening.	我不想成为一个早F晚E的人，我希望每天都过得很开心。	I don't want to be a "Fighting in the Morning, Emo in the Evening" person. I hope to be happy every day.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+再	我可以再吃一块蛋糕吗？	Can I have another piece of cake?	他再也不会犯同样的错误了。	He will never make the same mistake again.	再努力一点，你一定能成功的。	Put in a little more effort, and you will definitely succeed.
+原地爆炸	他的无理行为让我差点原地爆炸。	His unreasonable behavior almost made me explode on the spot.	面对这种无知的言论，我只想原地爆炸。	Faced with such ignorant remarks, I just want to explode right where I am.	他的无礼举止让我感到快要原地爆炸。	His rude behavior made me feel like I was about to explode on the spot.
+尬吹	她的粉丝总是尬吹她的才华。	Her fans always embarrassingly praise her talent.	他们尬吹的言论让人感到尴尬。	Their embarrassing praises make people feel awkward.	尬吹已经成为了一种不受欢迎的行为。	Excessive praise has become an unwelcome behavior.
+拨	他用手指拨了拨头发。	He used his fingers to push aside his hair.	我需要拨打一个电话。	I need to make a phone call.	她拨弄着吉他的琴弦。	She plucked the guitar strings.
+反	他的态度完全是反我的意见。	His attitude is completely against my opinion.	这个按钮是用来反风的。	This button is used to reverse the wind.	他们反对这项提案。	They are against this proposal.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+貓系男	他的穿着和行为很貓系男。	His dressing and behavior are very catlike.	她喜欢貓系男，因为他们温柔体贴。	She likes catlike men because they are gentle and considerate.	这个词通常用来形容一种类型的男朋友。	This term is usually used to describe a type of boyfriend.
+佛系分手	他们以佛系分手的方式结束了他们的关系。	They ended their relationship in a Buddhist breakup style.	她希望能够以佛系分手的方式结束这段感情。	She hopes to end this relationship in a painless and peaceful way.	佛系分手是一种不伤人的分手方式。	The Buddhist breakup is a non-hurtful way of breaking up.
+科科	她对他的玩笑只会轻轻地科科一笑。	She would just give a light giggle at his jokes.	他的表演让观众忍不住科科笑。	His performance made the audience unable to help but giggle.	张继科在比赛中展现出了科科的笑容。	Zhang Jike showed a smirk during the game.
+舉高高	他在公园里突然舉高高了她。	He suddenly hoisted her up in the park.	他总是喜欢在人群中舉高高她。	He always likes to hoist her up in the crowd.	这个词通常用来幽默地表达对爱人的爱。	This term is often used humorously to express love for one's intimate partner.
+贴	她贴了一张海报在墙上。	She posted a poster on the wall.	他们贴在一起走。	They walked close together.	我会贴你一些零花钱。	I will give you some pocket money.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+轟趴	他们周末要在家举办一个轟趴。	They are going to have a home party at their house this weekend.	轟趴是一种很受年轻人欢迎的聚会方式。	Home party is a very popular way of gathering among young people.	我们可以在轟趴上一起唱歌跳舞。	We can sing and dance together at the home party.
+进	他在比赛中不断进步。	He is making continuous progress in the competition.	请进，欢迎光临！	Please come in, welcome!	他进了房间，关上了门。	He entered the room and closed the door.
+提	她提着一大袋水果回家了。	She carried a big bag of fruit back home.	我要提一下这个问题。	I want to mention this issue.	他提高了手，回答老师的问题。	He raised his hand to answer the teacher's question.
+水果姐	我很喜欢水果姐的歌。	I really like the songs of Katy Perry.	水果姐的服装总是很有特色。	Katy Perry's outfits are always very distinctive.	水果姐在超级碗中场表演穿着水果服装。	Katy Perry wore a fruit outfit during the Super Bowl halftime performance.
+血槽已空	他看到偶像的照片后，感觉血槽已空。	After seeing the pictures of his idol, he felt swept off his feet.	她对偶像的演唱会照片感到血槽已空。	She felt swept off her feet by the concert photos of her idol.	我被她的美貌照片感到血槽已空。	I felt swept off my feet by her beautiful photos.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+上	他在楼上等我。	He is waiting for me upstairs.	我每天都要上学。	I go to school every day.	她上了大学以后，就找到了一份工作。	She found a job after she went to college.
+出场	歌手出场前要做好准备。	Singers need to prepare before going on stage.	他出场时，观众都沸腾了。	The audience went wild when he appeared.	考试结束后，学生们陆续出场。	After the exam, the students left the venue one by one.
+耐撕	这件衣服很耐撕。	This piece of clothing is very resilient.	这种材料是耐撕的。	This material is tear-resistant.	这款手机壳非常耐撕。	This phone case is very durable.
+何老師	何老师今天讲了什么课？	What did Teacher He teach today?	我们学校有一位很受欢迎的老师，大家都叫他何老师。	There is a very popular teacher in our school, and everyone calls him Teacher He.	何老师的课很有趣。	Teacher He's class is very interesting.
+科	我对生物科很感兴趣。	I am very interested in the field of biology.	这个学校有很多科可以选择。	There are many branches of study to choose from at this school.	科学是一门很重要的学科。	Science is a very important subject.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+小李子	小李子在新电影中表现得非常出色。	Little Lee performed very well in the new movie.	在这部古装剧中，小李子是一个非常有趣的角色。	In this period drama, Little Lee is a very interesting character.	他在电视剧中饰演小李子这个角色。	He played the role of Little Lee in the TV series.
+交代	老板交代我明天必须完成这份报告。	The boss instructed me to finish this report tomorrow.	他交代了自己的罪行。	He confessed to his crime.	警察正在询问他的交代。	The police are asking for his account.
+精	这种保健品提取了天然植物的精华。	This health product extracts the essence of natural plants.	他是公司的精英员工之一。	He is one of the elite employees in the company.	这个武术高手的招式非常精妙。	The moves of this martial arts master are very refined.
+按	按这个按钮可以启动机器。	Press this button to start the machine.	按照老师的要求，我们完成了作业。	According to the teacher's request, we finished the homework.	编辑按照自己的意见对文章进行了修改。	The editor made comments on the article according to his own opinion.
+早C晚A	早C晚A护肤法对皮肤有很好的效果。	The morning vitamin C and evening vitamin A skincare routine has a very good effect on the skin.	她一直坚持早C晚A的护肤步骤。	She has always adhered to the morning vitamin C and evening vitamin A skincare routine.	早C晚A的生活方式让她感到更有活力。	The morning vitamin C and evening vitamin A lifestyle makes her feel more energetic.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+先森	先森，您的订单已经准备好了。	Sir, your order is ready.	他是一个很有趣的先森。	He is a very interesting mister.	她对先森的笑容充满了爱意。	Her smile towards mister is full of affection.
+搭	他们正在搭脚手架。	They are putting up the scaffolding.	我需要搭一趟火车去市中心。	I need to take a train to the city center.	她搭起了一条新的衣服。	She hung up a new piece of clothing.
+馬殺雞	我需要去做一个马杀鸡。	I need to go for a massage.	他每个月都会去做马杀鸡。	He goes for a massage every month.	她觉得马杀鸡可以缓解压力。	She thinks massage can relieve stress.
+好奇寶寶	他是一个好奇宝宝，总是对新事物充满好奇。	He is a curious baby, always full of curiosity about new things.	她被粉丝称为好奇宝宝。	She is called a curious baby by her fans.	他的好奇心就像一个好奇宝宝一样。	His curiosity is like that of a curious baby.
+可鹽可甜	她的风格可鹽可甜，总是能够展现出不同的魅力。	Her style can be cool and imposing as well as gentle and adorable, always able to show different charm.	这位明星的形象可鹽可甜，深受粉丝喜爱。	This celebrity's image can be cool and imposing as well as gentle and adorable, deeply loved by fans.	他的表演风格可鹽可甜，深受观众喜爱。	His performance style can be cool and imposing as well as gentle and adorable, deeply loved by the audience.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+入手	从基础知识入手，是学习任何新技能的关键。	Starting with the basics is the key to learning any new skill.	他决定从改善生活习惯入手，来提高健康水平。	He decided to start with improving his lifestyle habits to enhance his health.	我打算从学习语法入手，来提高我的中文水平。	I plan to start with learning grammar to improve my Chinese proficiency.
+走	他每天早上步行去上班。	He walks to work every morning.	他走了很远的路来看望我。	He traveled a long way to visit me.	火车已经开走了。	The train has already departed.
+肝	他肝脏不太好，医生建议他少喝酒。	His liver is not in good condition, and the doctor advised him to drink less alcohol.	最近他为了打游戏肝了好几个晚上。	Recently, he stayed up late for several nights playing games.	他肝了一整晚才通过了这个关卡。	He grinded the level all night to pass it.
+主角光环	在这部电影中，主角光环十分明显，几乎没有失败的时候。	In this movie, the main character's halo is very obvious, and there are hardly any failures.	这个游戏里的主角光环让他在战斗中总是能逃过一劫。	The main character's halo in this game always allows him to escape in battles.	有些人总是觉得自己有主角光环，所以不愿意付出努力。	Some people always feel like they have a main character's halo, so they are unwilling to make an effort.
+求锤得锤	如果你散播谣言，最后总会被求锤得锤。	If you spread rumors, you will eventually be proven wrong.	他一直在等待对方的回应，因为他知道求锤得锤。	He has been waiting for the other party's response because he knows that the truth will come out.	这个谣言已经被求锤得锤，证据确凿。	This rumor has been proven wrong with solid evidence.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+启蒙	这本书是孩子们的启蒙读物。	This book is a primer for children.	他的作品启蒙了很多人。	His works have enlightened many people.	启蒙教育对于孩子的成长非常重要。	Enlightenment education is very important for children's growth.
+次	这是我第一次来这个城市。	This is my first time coming to this city.	请你下次再来。	Please come again next time.	他的次要任务是整理文件。	His secondary task is to organize the documents.
+岔	在岔口处向左转。	Turn left at the fork in the road.	他的话题岔得很快。	He changes the subject very quickly.	我们岔开了话题，开始谈论其他事情。	We changed the subject and started talking about other things.
+环节	这是项目中的重要环节。	This is an important stage in the project.	每个环节都需要精心安排。	Every aspect needs careful planning.	这个环节需要你的专业知识。	This sector requires your expertise.
+暴露年齡	她说出了一些暴露年龄的话。	She said something that gave away her age.	他总是不小心暴露年龄。	He always accidentally gives away his age.	自嘲暴露年龄是一种幽默。	Self-mockery of giving away one's age is a kind of humor.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+在家	我在家等你。	I'm at home waiting for you.	他在家工作。	He works at home.	她在家休息。	She is resting at home.
+目測要火	这个视频目测要火。	Visual estimate, this video will go viral.	这张照片目测要火。	By visual estimate, this photo will go viral.	这个段子目测要火。	This joke will go viral by visual estimate.
+炒雞	这个游戏炒雞好玩。	This game is extremely fun.	这部电影炒雞有趣。	This movie is super interesting.	这个新闻炒雞有料。	This news is extremely informative.
+碎成渣渣	我的心碎成渣渣了。	My heart is broken into pieces.	他的梦想碎成渣渣。	His dream shattered into pieces.	她的信心碎成渣渣。	Her confidence broke into smithereens.
+后顾之忧	他们现在可以放心，没有后顾之忧了。	They can rest assured now, without any worries about the future consequences.	她的成功没有后顾之忧。	Her success has no fears of trouble in the rear.	我们要做好准备，不能有后顾之忧。	We need to be prepared and have no worries about the future consequences.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+狼民	她是Wallace Chung的狼民之一。	She is one of Wallace Chung's fans.	狼民们对Wallace Chung的支持非常热情。	Wallace Chung's fans are very passionate in their support.	她被称为狼民，因为她对Wallace Chung的崇拜毫不掩饰。	She is called a "狼民" because she openly admires Wallace Chung.
+滞留	他因为航班取消而滞留在机场。	He was stranded at the airport due to the flight cancellation.	污染物滞留在河流中。	Pollutants linger in the river.	他滞留在这个小镇已经两天了。	He has been lingering in this small town for two days.
+下	他走下楼梯。	He walked down the stairs.	下周我们要开会。	We will have a meeting next week.	太阳下山了。	The sun has set.
+自幹五	他是一个自幹五，总是在网上捍卫政府。	He is a self-motivated 50 Cent Party member, always defending the government online.	自幹五们在网络上发表大量支持政府的言论。	The self-motivated 50 Cent Party members make a lot of pro-government comments online.	她被认为是自幹五，因为她总是站在政府一边。	She is considered a self-motivated 50 Cent Party member because she always stands with the government.
+煞筆	这篇文章的煞筆写得很出色。	The conclusion of this article is written very well.	他真是个煞筆，总是说一些让人生气的话。	He is really a jackass, always saying things that make people angry.	别再当煞筆了，好好说话。	Stop being a jackass and speak nicely.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+下	他走下楼梯。	He walked down the stairs.	下个星期我们去旅行。	We are going on a trip next week.	他的成绩下降了。	His grades have declined.
+有範	她的穿搭总是很有範。	Her outfits always have great panache.	他的舞台表现很有範。	His stage performance is radiant with confidence.	她的自信让她显得很有範。	Her confidence makes her display distinctive and stylish elegance.
+雨露均霑	我们应该让每个人都受益，雨露均霑。	We should let everyone benefit equally, do not play favorites.	公司应该公平对待员工，雨露均霑。	The company should treat employees fairly, bestowing benefits equally.	这个团队的成功是因为雨露均霑的合作。	The success of this team is due to the equal bestowal of benefits through cooperation.
+親媽粉	她是那位明星的親媽粉。	She is a fan of that celebrity who is significantly older.	这个粉丝群被称为親媽粉。	This fan group is called "birth mother fans".	她对他的关心就像是親媽粉一样。	Her concern for him is like that of a birth mother fan.
+狗頭	他的回答后面加了个狗頭。	He added a dog head emoticon at the end of his response.	她的评论总是带着狗頭。	Her comments always come with a dog head emoticon.	这个段子后面跟了个狗頭。	There is a dog head emoticon at the end of this joke.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+尖	他的下巴尖尖的。	His chin is pointed.	她的声音尖尖的。	Her voice is shrill.	这把刀尖很锋利。	The tip of this knife is very sharp.
+丁日	这个词是不合适的。	This term is inappropriate.	他们用这个词来取笑他。	They use this term to mock him.	这个词是网络用语。	This term is internet slang.
+鬼	她说她看到了鬼。	She said she saw a ghost.	他是个鬼。	He is a sly person.	他们说这个地方有鬼。	They say this place is haunted.
+霉霉	霉霉的新歌很受欢迎。	Taylor Swift's new song is very popular.	霉霉的音乐风格很独特。	Taylor Swift's music style is very unique.	霉霉的演唱会门票很抢手。	Taylor Swift's concert tickets are very popular.
+字典	我在字典里查到了这个字。	I found this character in the dictionary.	这本字典很厚。	This dictionary is very thick.	我需要一本新的字典。	I need a new dictionary.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+到	他昨天到了北京。	He arrived in Beijing yesterday.	我要走到山顶。	I want to walk to the mountaintop.	他工作到很晚。	He works until very late.
+賽金花	我很喜欢看賽金花的节目。	I really like to watch Seth Meyers' show.	賽金花的幽默风格很受欢迎。	Seth Meyers' humorous style is very popular.	他是一位很有才华的賽金花。	He is a very talented Seth Meyers.
+赶	我们得赶快走了。	We need to leave quickly.	我要赶上最后一班车。	I need to catch the last bus.	他一直在赶时间。	He has been rushing all the time.
+禁慾系	他的外表给人一种禁慾系的感觉。	His appearance gives people a sense of abstinence.	这位演员被称为禁慾系代表。	This actor is known as the representative of the abstinence sect.	禁慾系男生在影视剧中很受欢迎。	Abstinent sect boys are very popular in TV dramas.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+制服	他们设法制服了那只凶猛的狮子。	They managed to subdue the fierce lion.	学校规定学生必须穿校服。	The school requires students to wear uniforms.	这家公司的员工都穿着统一的制服。	The employees of this company all wear the same uniform.
+性	他的性格很内向。	His nature is very introverted.	这个词可以变成形容词吗？	Can this word be turned into an adjective?	他们讨论了性别平等的问题。	They discussed the issue of gender equality.
+号	今天是几号？	What is the date today?	他在这家公司开了一家分店。	He opened a branch in this business establishment.	他吹起号来了。	He blew the bugle call.
+陪跑	他虽然多次被提名，但却始终陪跑。	Although he has been nominated many times, he has always been the runner-up.	她被提名了，但她只是陪跑而已。	She was nominated, but she was just there for show.	这个奖项对他来说就像是陪跑一样。	For him, this award is just like being a runner-up.
+囧瑟夫	囧瑟夫在新电影中表现得非常出色。	Joseph Gordon-Levitt performed very well in the new movie.	囧瑟夫的演技备受赞誉。	Joseph Gordon-Levitt's acting skills are highly praised.	囧瑟夫的笑容让观众感到愉快。	Joseph Gordon-Levitt's smile makes the audience feel cheerful.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+然並卵	他答应帮忙，然并卵。	He promised to help, but it was useless.	我花了很多时间准备，然并卵。	I spent a lot of time preparing, but it didn't make any difference.	她的道歉然并卵，大家都不原谅她。	Her apology was useless, and no one forgave her.
+粗線	他昨天突然粗线了。	He suddenly showed up yesterday.	这个问题粗线了吗？	Did this issue come up?	我希望他能粗线，我们需要他的帮助。	I hope he can show up; we need his help.
+自戳雙目	这幅画让我想自戳双目。	This painting makes me want to poke my own eyes out.	这部电影太糟糕了，我简直想自戳双目。	This movie is so terrible that I want to poke my own eyes out.	他的服装搭配让人想自戳双目。	His outfit makes people want to poke their own eyes out.
+落	太阳落山了。	The sun has set.	潮水落了。	The tide has gone out.	他的成绩落后了。	His grades have fallen behind.
+勞模姐	她被称为勞模姐。	She is called "Sister Model Worker".	勞模姐的工作态度很值得学习。	Sister Model Worker's work attitude is worth learning.	勞模姐的表演让人印象深刻。	Sister Model Worker's performance is impressive.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+弹	他在演奏时轻轻地弹着吉他的弦。	He gently plucks the guitar strings while performing.	孩子们在操场上弹着皮球玩耍。	The children are playing with a ball by bouncing it on the playground.	他被指控弹劾了总统。	He was accused of impeaching the president.
+则	他原本想去游泳，但则改变了主意。	He originally wanted to go swimming, but then changed his mind.	这个做法违背了公司的则。	This approach violates the company's standards.	他则着古人的行事风格。	He imitates the style of the ancients.
+配合	他们的配合非常默契，所以比赛取得了胜利。	Their cooperation was very tacit, so they won the game.	这种颜色和那种颜色搭配起来很配合。	This color matches very well with that color.	他们需要配合完成这项任务。	They need to cooperate to complete this task.
+轨道	这列火车正沿着铁轨行驶。	The train is running along the track.	他的事业轨道一直向上。	His career path has always been upward.	这个卫星的轨道非常稳定。	The orbit of this satellite is very stable.
+水逆	水逆期间，最好不要做重要的决定。	During Mercury retrograde, it's best not to make important decisions.	她最近一直觉得倒霉，可能是水逆的原因。	She has been feeling unlucky lately, maybe it's because of Mercury retrograde.	中医认为水逆会导致身体不适。	Traditional Chinese medicine believes that water retention can cause physical discomfort.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+宰	这家餐馆宰客的名声很不好。	The reputation of this restaurant for overcharging customers is very bad.	他们宰了一头牛。	They slaughtered a cow.	古代的宰相是国家的重要官员。	The ancient prime minister was an important official of the country.
+瑪麗蘇	这部小说里的女主角被批评为瑪麗蘇。	The female protagonist in this novel was criticized as a Mary Sue.	她的表现太完美，有点像瑪麗蘇。	Her performance is too perfect, a bit like a Mary Sue.	这个角色被塑造得太理想化，有点像瑪麗蘇。	This character is portrayed too idealistically, a bit like a Mary Sue.
+一	我只买了一件衣服。	I only bought one piece of clothing.	他一看到我就笑了。	He smiled as soon as he saw me.	这是一本很有意思的书。	This is a very interesting book.
+處女臉	她的外表很清纯，有点像處女臉。	Her appearance is very pure, a bit like a virgin face.	这部电视剧里的女主角就是典型的處女臉。	The female lead in this TV drama is a typical virgin face.	她的形象被塑造成了一个典型的處女臉。	Her image has been shaped into a typical virgin face.
+總攻本攻	他在团队中扮演着總攻本攻的角色。	He plays the role of the leader in the team.	在这段感情中，他是總攻本攻。	In this relationship, he is the leader.	她总是喜欢扮演總攻本攻的角色。	She always likes to play the role of the leader.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+咆哮体	他的文章充满了咆哮体的标点和口头禅。	His article is full of exclamation marks and expressions typical of the roaring style.	这篇帖子用了很多咆哮体的表达方式。	This post uses a lot of expressions in the roaring style.	她的评论总是带有咆哮体的感觉。	Her comments always have a feeling of the roaring style.
+補檔	他昨天補檔了一部电影，现在可以重新下载了。	He re-uploaded a movie yesterday, and now it can be downloaded again.	我需要補檔这个视频，链接已经失效了。	I need to re-upload this video, the link has expired.	他花了很长时间補檔这个文件。	He spent a long time repairing and re-uploading this file.
+顏控	他是一个顏控，总是追逐漂亮的女孩。	He is a face freak, always chasing after pretty girls.	她承认自己是一个顏控，但她觉得这没什么不好。	She admits that she is a face freak, but she doesn't think there's anything wrong with that.	顏控们总是对外表很挑剔。	Face freaks are always very picky about appearances.
+前方高能	前方高能，我们即将迎来一场精彩的表演！	Awesome things are about to happen, we are about to witness a wonderful performance!	前方高能，这个节目将会给你带来惊喜！	Awesome things are about to happen, this show will bring you surprises!	前方高能，这个活动将会让你大开眼界！	Awesome things are about to happen, this event will broaden your horizons!
+里	这个地方离我家只有一里远。	This place is only half a kilometer away from my house.	他住在这个里已经十年了。	He has been living in this neighborhood for ten years.	这个里的居民都很友好。	The residents of this borough are very friendly.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+于	他于昨天到达北京。	He arrived in Beijing yesterday.	我于三点钟离开公司。	I left the company at three o'clock.	这封信是于他的。	This letter is from him.
+现充	他是一个现充，没有时间玩游戏。	He is a reality-fulfilling person and has no time to play games.	她不是现充，却很享受ACG文化。	She is not a reality-fulfilling person, but she enjoys ACG culture.	这个网红被称为现充代表。	This internet celebrity is called the representative of reality-fulfilling people.
+城会玩	他们是城会玩的年轻人，总是有新的娱乐方式。	They are young people who know how to have fun in the city, always having new ways of entertainment.	她自称是城会玩，但实际上很宅。	She claims to know how to have fun in the city, but in reality, she is a homebody.	这个城市的年轻人都自认为是城会玩。	The young people in this city all consider themselves to know how to have fun in the city.
+总	总的来说，这次活动很成功。	Overall, this event was very successful.	他总是迟到。	He is always late.	总有一天，我会实现我的梦想。	Someday, I will achieve my dream.
+滚床单	他们昨晚滚了床单。	They rolled the bed sheets last night.	她不喜欢滚床单的人。	She doesn't like people who have sex.	滚床单不应该成为婚姻的唯一目的。	Sex should not be the sole purpose of marriage.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+重叠	这两个图案重叠在一起。	The two patterns overlap with each other.	时间安排重叠了，我们需要重新安排。	The schedules overlap, we need to rearrange.	这两个事件的时间重叠了。	The timing of these two events overlaps.
+喪文化	他的作品反映了喪文化的主题。	His work reflects the theme of the subculture of vegetating.	年轻人中喪文化的影响越来越大。	The influence of the subculture of vegetating among young people is growing.	喪文化是当代年轻人的一种表达方式。	The subculture of vegetating is a way for contemporary young people to express themselves.
+泡	我喜欢在泡澡的时候放点香薰。	I like to put some essential oil in the bath.	他喜欢泡咖啡。	He likes to brew coffee.	她正在泡一杯茶。	She is brewing a cup of tea.
+帅	他是一个很帅的年轻人。	He is a very handsome young man.	她的舞姿非常帅气。	Her dance moves are very cool.	这个帅的年轻人是我们的指挥官。	This handsome young man is our commander.
+念	我正在念一本很有趣的书。	I am reading a very interesting book.	他念了一首诗。	He recited a poem.	我念念不忘的是那段美好的时光。	What I can't forget is that beautiful time.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+理	这块木头的纹理很漂亮。	The grain of this wood is very beautiful.	他的内心理很复杂。	His inner essence is very complex.	她的逻辑很清晰。	Her logic is very clear.
+反轉	这部电影有一个剧情反转。	This movie has a plot twist.	这个新闻报道有一个意想不到的反转。	This news story has an unexpected reversal.	他的生活发生了一个意想不到的反转。	His life had an unexpected turnaround.
+画	我喜欢画画。	I like to draw.	这是一幅美丽的画。	This is a beautiful painting.	他正在画一条线。	He is drawing a line.
+听	请你听我的话。	Please listen to me.	他听到了远处的声音。	He heard a sound from a distance.	她不听我的话。	She doesn't obey me.
+回憶殺	他在回忆杀中看到了过去的一幕。	He saw a scene from the past in the emotional reminiscing.	她喜欢在回忆杀中度过时间。	She likes to spend time in emotional reminiscing.	这个电影有很多回忆杀的场景。	This movie has many scenes of emotional reminiscing.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+傳送門	他走进了傳送門，然後出現在了另一個地方。	He walked into the portal and appeared in another place.	請點擊這個傳送門，進入我們的官方網站。	Please click on this portal to enter our official website.	這篇文章提到了一個傳送門，可以讓你了解更多相關信息。	This article mentions a portal that can provide you with more information.
+清流	這條河裡的水非常清澈，是一條真正的清流。	The water in this river is very clear, it is a true clean flowing water.	他是一個清流，從不受貪污勢力的影響。	He is an honorable person, untainted by association with disreputable influences.	這些學者是清流，他們遠離了當權者的腐敗影響。	These scholars are clean flowing water, they kept themselves aloof from the corrupting influence of those in power.
+上頭	她喝了一杯酒後有些上頭了。	She got a little tipsy after drinking a glass of wine.	她是一個上頭的粉絲，總是對網絡小說和偶像劇中的浪漫場景感到興奮。	She is an intoxicated sister, always psyched about the sweet romantic scenes in Internet novels and idol dramas.	他們在派對上喝得有些上頭了。	They got a little tipsy at the party.
+戰鬥民族	俄羅斯人被稱為戰鬥民族，因為他們的勇敢和幽默感。	Russians are called the fighting nation because of their bravery and sense of humor.	這個網絡用語強調了俄羅斯人的英勇和由此產生的令人難以置信的幽默。	This Internet slang term emphasizes Russians’ gallantry and the mind-boggling humor resulting from their bravery.	他是一個戰鬥民族，從不退縮。	He is a member of the fighting nation, never backing down.
+次元壁	這個次元壁將不同領域之間的界限模糊了。	This dimension wall has blurred the boundaries between different fields.	這個網絡用語幽默地描述了不同領域之間意想不到的聯繫。	This Internet slang term humorously describes the unexpected connections between disparate fields.	他們的合作打破了次元壁，實現了跨領域的創新。	Their collaboration broke the dimension wall and achieved interdisciplinary innovation.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+丁	他是一位成熟的丁。	He is a mature adult male.	这个字是十天干中的第四个。	This character is the fourth of the ten Heavenly Stems.	她在菜里加了一些丁。	She added some small cubes of meat in the dish.
+看	我喜欢看电影。	I like to watch movies.	他在看书。	He is reading a book.	你看，这个问题很简单。	Look, this problem is very simple.
+風騷走位	他的風騷走位让人捧腹大笑。	His flirtatious walk makes people laugh out loud.	她的風騷走位很有趣。	Her comic walking movement is very interesting.	他在游戏中使用風騷走位躲避攻击。	He uses flirtatious walk to dodge attacks in the game.
+水軍	这个公司雇佣了一支水軍。	This company hired a group of waterborne troops.	他们雇佣了水軍来进行网络营销。	They hired waterborne troops for online marketing.	水軍在网络上发布帖子来支持品牌。	Waterborne troops post online to support the brand.
+近代	近代的历史很有意思。	The history of the not-very-distant past is very interesting.	近代的中国发生了很多变化。	Modern China has undergone many changes.	近代的社会发展迅速。	The development of society in the not-very-distant past was rapid.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+謝耳朵	我很喜欢看《生活大爆炸》，謝耳朵演得很好。	I really like watching "The Big Bang Theory", Xie Ear acts very well.	謝耳朵在这部剧中扮演的角色非常有趣。	Xie Ear's role in this drama is very interesting.	謝耳朵的表演总是让人捧腹大笑。	Xie Ear's performance always makes people laugh heartily.
+任	他被任命为公司的新总经理。	He was appointed as the new general manager of the company.	她担任了这个重要的职位。	She took up this important position.	他任意安排了我的工作时间。	He arbitrarily arranged my work schedule.
+求生欲	他的求生欲让他克服了重重困难。	His will to live enabled him to overcome many difficulties.	这种动物有很强的求生欲。	This kind of animal has a strong will to live.	她的求生欲让她坚持了下来。	Her will to live kept her going.
+肥宅	他是一个肥宅，整天宅在家里不愿意出门。	He is a fat and indoorsy person, unwilling to go out and staying at home all day.	我有时候也觉得自己是一个肥宅。	Sometimes I feel like I'm a fat and indoorsy person.	肥宅们喜欢在家里玩游戏或看电视剧。	Fat and indoorsy people like to play games or watch TV dramas at home.
+票圈	我们在票圈里分享了很多有趣的瞬间。	We shared a lot of interesting moments in the ticket circle.	票圈是我了解朋友动态的地方。	Ticket circle is where I keep up with my friends' updates.	票圈里的互动让人感到温暖。	The interaction in the ticket circle is heartwarming.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+樓主	樓主发布了一个新的帖子。	The building owner posted a new thread.	这个樓主在论坛上很活跃。	This building owner is very active on the forum.	我是这个帖子的樓主。	I am the owner of this thread.
+地区	这个地区的气候很适宜种植水稻。	The climate in this region is very suitable for growing rice.	我住在市中心地区。	I live in the downtown area.	这个地区的发展速度很快。	The development speed of this region is very fast.
+元	这个商品的价格是一百元。	The price of this item is 100 yuan.	这个字的原意是“水”。	The original meaning of this character is "water".	这个元素是化学反应的基本单位。	This element is the basic unit of a chemical reaction.
+老白	老白在《绝命毒师》中的表演非常出色。	Bryan Cranston's performance in "Breaking Bad" is excellent.	我很喜欢老白的演技。	I really like Bryan Cranston's acting.	老白因在《绝命毒师》中的表现而备受关注。	Bryan Cranston gained attention for his performance in "Breaking Bad".
+腦子瓦特	他今天怎么了？脑子瓦特了吗？	What's wrong with him today? Is he going nuts?	她说的话让人觉得脑子瓦特了。	What she said makes people feel like she's going nuts.	别再跟他争论了，他现在脑子瓦特。	Don't argue with him anymore, he's being stupid now.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+照騙	她的照騙让她看起来完全不一样。	Her over-photoshopped photo makes her look completely different.	这张照騙已经被人认出来了。	This inaccurate photo has been recognized by people.	他的照騙技术非常高超。	His photo deception skills are very advanced.
+跪舔	他总是跪舔老板，让人很反感。	He always sucks up to the boss, which is very off-putting.	她对那位明星简直是跪舔到了极点。	She blindly admires that celebrity to the extreme.	这些粉丝对偶像的跪舔已经到了一种病态的程度。	These fans' fervent admiration for their idol has reached a pathological level.
+身份	他的身份是一名成功的商人。	His identity is a successful businessman.	她以老师的身份出现在了晚会上。	She appeared at the party in the capacity of a teacher.	他的身份地位让他在社交圈里非常受人尊敬。	His social status makes him very respected in the social circle.
+熊本熊	我很喜欢熊本熊的形象。	I really like the image of Kumamon.	这只熊本熊已经成为了这个城市的象征。	This Kumamon has become the symbol of this city.	熊本熊在中国已经变得非常受欢迎。	Kumamon has become very popular in China.
+加以	我们需要加以考虑这个问题。	We need to give consideration to this issue.	他们加以限制了我的行动。	They applied restrictions to my actions.	政府应该加以支持这些新的政策。	The government should give support to these new policies.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+蠢哭	她的举动真是蠢哭了我。	Her behavior is so foolish that it brought me to tears.	他的回答太蠢哭了。	His response is so foolish that it brought me to tears.	这个笑话蠢哭了我。	This joke is so foolish that it brought me to tears.
+癡漢臉	她看到偶像的照片时露出了癡漢臉。	She showed an infatuated man's face when she saw the idol's photo.	他每次提到她都露出了癡漢臉。	Every time he mentions her, he shows an infatuated man's face.	她对那部电影露出了癡漢臉。	She showed an infatuated man's face towards that movie.
+尬黑	他们尬黑了那位明星。	They slandered that celebrity.	网上又开始尬黑某位艺人了。	There's another round of slandering a certain artist online.	他们尬黑的言论引起了很大争议。	Their slanderous remarks caused a lot of controversy.
+真愛粉	她是那位明星的真愛粉。	She is a true fan of that celebrity.	真愛粉们为了偶像做了很多公益活动。	True fans have done a lot of charity work for their idols.	真愛粉们对偶像的支持从未改变。	True fans' support for their idols has never changed.
+晒	她喜欢在社交媒体上晒自己的生活。	She likes to share her life on social media.	他晒了一张在海滩上的照片。	He posted a photo of himself basking on the beach.	她喜欢晒自己的厨艺。	She likes to show off her cooking skills.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+行	我喜欢在公园里散步。	I like to take a walk in the park.	他每天骑自行车上班。	He rides a bike to work every day.	他的表演很出色。	His performance is excellent.
+歪個樓	他在讲故事的时候突然歪个樓。	He suddenly digressed while telling the story.	在这个讨论中，我要歪个樓。	I want to digress in this discussion.	他的帖子歪了个樓，引起了大家的注意。	His post digressed and caught everyone's attention.
+亂入	他在会议上亂入，搞笑了大家。	He interrupted the meeting and made everyone laugh.	别亂入，等我说完再说。	Don't interrupt, wait for me to finish.	她的突然亂入让整个场面变得尴尬。	Her sudden interruption made the whole situation awkward.
+發糖	他们在公共场合总是发糖，让人感到羡慕。	They always display affection in public, making others envious.	她在社交媒体上发糖，分享了他们的甜蜜瞬间。	She shares their sweet moments on social media.	他们的发糖行为让人感到温暖。	Their public display of affection makes people feel warm.
+纵横	他在商场上纵横自如，找到了自己想要的商品。	He moved freely in the mall and found the items he wanted.	他在这个行业纵横多年，积累了丰富的经验。	He has been active in this industry for many years, accumulating rich experience.	这个外交家在国际上纵横无阻。	This diplomat moves unhindered on the international stage.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+貴圈真亂	貴圈真亂，充滿了明爭暗鬥。	The distinguished field is so chaotic, filled with open and secret struggles.	這個網絡用語經常用來描述被認為充滿了權力鬥爭的娛樂圈。	This Internet slang term is often used to describe the entertainment industry which is believed to be fraught with power struggles.
+喜大普奔	這個消息喜大普奔，大家都在歡欣鼓舞地傳播。	This news is so thrilling that everyone is rejoicing and spreading the word.	這個網絡用語來自於“喜聞樂見”、“大快人心”、“普天同慶”和“奔走相告”的首字母縮寫。	Acronym from "喜聞樂見", "大快人心", "普天同慶" and "奔走相告".
+用力過猛	他用力過猛，把門給踢壞了。	He used too much strength and kicked the door in.	這個網絡用語描述了好心卻不適當的努力，最終變得事與願違或社交上不可接受。	This Internet slang term describes well-intended yet inappropriate efforts.
+刮鍋底笑	他的刮鍋底笑聲像是刮鍋底的聲音一樣。	His laughter sounds like the scraping of the bottom of a wok.	這個網絡用語是粉絲用來愛意地形容鍾漢良的著名大笑。	This Internet slang term is used lovingly by fans to describe Wallace Chung’s famous guffaw.
+奶凶奶凶	她生氣時的樣子奶凶奶凶的，真是可愛極了。	She looks adorably mad when she's angry, it's really cute.	這個表達描述了一個可愛的小孩或外表和個性都像可愛小孩的年輕人生氣的樣子。	 This expression describes the way a cute little child or a young person whose appearance or personality resembles a cute little child’s gets mad.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+先馬後看	我現在沒時間看這篇文章，我先馬後看。	I don't have time to read this article now, I'll bookmark it for later perusal.	她先馬後看了這個視頻，發現裡面有很多有趣的內容。	She bookmarked and read this video later, and found a lot of interesting content inside.	他總是先馬後看，導致很多事情延誤。	He always bookmarks things for later perusal, which leads to many delays.
+小奶狗	她家養了一隻小奶狗，非常可愛。	She has a little puppy at home, very cute.	這位偶像被稱為小奶狗，因為他的外表和性格都非常迷人。	This idol is called a little puppy because his appearance and personality are very charming.	有些男性認為小奶狗這個詞語性別歧視，有損男性形象。	Some men think that the term "little puppy" is sexist and degrades the image of men.
+黑花	我很喜歡Wallace Chung的黑花系列商品。	I really like Wallace Chung's Hey Wow series of products.	她收藏了很多黑花的周邊商品。	She has collected a lot of Hey Wow's peripheral products.	Wallace Chung的黑花形象深受粉絲喜愛。	Wallace Chung's Hey Wow image is deeply loved by fans.
+視姦	他一直用一種視姦的眼神看著她。	He has been staring at her with a lewd look.	在網絡上視姦他人的行為應該受到制裁。	Behavior of visually raping others online should be sanctioned.	這種視姦的行為嚴重影響了她的心情。	This visually raping behavior seriously affected her mood.
+小公舉	他的舉止總是有些小公舉的感覺。	His behavior always feels a bit like a little princess.	這位男演員因為出演了一個小公舉的角色而受到了很多粉絲的喜愛。	This actor has been loved by many fans because he played a little princess role.	有些人認為男性也可以展現小公主的一面，不必過於拘泥於傳統的男子氣概。	Some people think that men can also show the side of a little princess, without being too confined to traditional masculinity.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+等	我在车站等你。	I'll wait for you at the station.	他等了一个小时还没来。	He waited for an hour but still didn't come.	我们等了很久，终于等到了。	We waited for a long time and finally waited.
+盘	这盘菜很好吃。	This dish is delicious.	他在盘线圈的时候发现了问题。	He found a problem when coiling the wire.	他在下国际象棋的时候总是很认真。	He is always very serious when playing chess.
+胜	他取得了胜利。	He achieved victory.	她胜过了所有的对手。	She defeated all her opponents.	这个地方的景色胜美。	The scenery of this place is beautiful.
+國民老公	国民老公是中国的网络用语。	National husband is an internet slang term in China.	国民老公通常指的是王思聪。	The national husband usually refers to Wang Sicong.	国民老公是中国最富有的人之一的儿子。	The national husband is the son of one of the richest people in China.
+杏紅	她喜欢穿杏红色的衣服。	She likes to wear apricot pink clothes.	杏红是陈信宏的昵称。	Ashin's nickname is Apricot Pink.	杏红是五月天乐队的主唱。	Ashin is the lead singer of the band Mayday.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+送命題	他提出了一个送命题，让我很为难。	He raised a dangerous question that put me in a difficult position.	这个送命题太难了，我不知道该怎么回答。	This dangerous question is too difficult, I don't know how to answer it.	她问了一个送命题，我不敢轻易回答。	She asked a dangerous question, I dare not answer it lightly.
+革命	这个国家经历了一场革命。	This country went through a revolution.	他们试图革命，推翻现有政权。	They are trying to revolt and overthrow the existing regime.	这个发明彻底革命了我们的生活方式。	This invention completely revolutionized our way of life.
+鏟屎官	我是一名鏟屎官，每天都要清理猫砂。	I am a "poo-scooping official," I have to clean the cat litter every day.	她自豪地说她是一名鏟屎官，因为她爱她的猫。	She proudly calls herself a "poo-scooping official" because she loves her cat.	作为一名鏟屎官，我每天都要做这个苦差事。	As a "poo-scooping official," I have to do this hard work every day.
+葛優癱	他在家里葛优癱地坐着，一动不动。	He sits at home in a Ge You slouch, not moving at all.	天气太热了，我只想葛优癱地躺在沙发上。	It's too hot, I just want to relax in a Ge You slouch on the sofa.	他看起来很懒散，一副葛优癱的样子。	He looks very lazy, in a Ge You slouch.
+第	这是我第一次来这个城市。	This is my first time coming to this city.	他考试得了第一名。	He got first place in the exam.	我第一次见到她的时候，就觉得她很特别。	The first time I saw her, I thought she was very special.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+養成系	她是一位養成系偶像，从实习生成长为了现在的人气明星。	She is a developing type idol, growing from a trainee to the popular star she is now.	这个偶像是養成系的代表，一直受到粉丝们的支持。	This idol is a representative of the developing type, always supported by fans.	養成系偶像的成长离不开粉丝们的陪伴。	The growth of developing type idols cannot be separated from the companionship of fans.
+公	这个公园是公共的，任何人都可以进入。	This park is public, anyone can enter.	他是一位公爵，拥有很高的爵位。	He is a duke, with a very high noble rank.	这个问题需要公平公正地解决。	This issue needs to be resolved fairly and justly.
+霸氣側漏	他的霸气側漏让人感到有些尴尬。	His excessive domineering presence makes people feel a little uncomfortable.	她总是霸气側漏地展示自己的专业知识。	She always pompously displays her expertise, making people around her uncomfortable.	他的霸气側漏让人不知该如何应对。	His domineering presence makes people unsure how to respond.
+闪	他躲闪着避开了突然飞来的球。	He dodged and avoided the suddenly flying ball.	闪电划过天空，照亮了整个夜晚。	Lightning flashed across the sky, illuminating the entire night.	她的笑容闪现在我的脑海中。	Her smile flashed in my mind.
+結石姐	結石姐的歌声让人心生敬畏。	Sister Calculus's singing voice is awe-inspiring.	她因为唱功出众而被粉丝们亲切地称为結石姐。	Because of her outstanding singing skills, she is affectionately called Sister Calculus by her fans.	結石姐的音乐才华备受认可。	Sister Calculus's musical talent is widely recognized.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+藍瘦香菇	他昨天失恋了，整个人都藍瘦香菇的。	He broke up yesterday, and he looks so blue and slim like a shiitake mushroom.	她今天心情不好，看起来藍瘦香菇的。	She's in a bad mood today, looking all blue and slim like a shiitake mushroom.	他的表情让人觉得他藍瘦香菇的。	His expression makes people feel that he's blue and slim like a shiitake mushroom.
+開掛	他在比赛中表现得像是开挂了一样。	He performed in the game as if he was cheating.	她今天工作状态很好，就像是开挂了一样。	Her work performance today is so good, as if she's cheating.	他的成绩好得让人觉得他开挂了。	His grades are so good that people feel like he's cheating.
+土偶	他是土偶粉丝，每一期都会看。	He is a fan of "Indigenous & Unrefined Idol" and watches every episode.	这个节目因为抄袭而备受争议。他是土偶的粉丝。	The show is controversial for plagiarism. He is a fan of "Indigenous & Unrefined Idol."	土偶这个节目的收视率一直很高。	The ratings of "Indigenous & Unrefined Idol" have always been high.
+蛋妞兒	她是蛋妞兒的粉丝，经常关注他的动态。	She is a fan of "Egg Lass" and often follows his updates.	蛋妞兒的电影票房一直很高。	The box office of "Egg Lass" has always been high.	蛋妞兒的新歌受到了很多好评。	"Egg Lass's" new song has received a lot of praise.
+雅蠛蝶	这个网络用语来源于一个2009年的梗。	This internet slang term originated from a meme in 2009.	雅蠛蝶这个词在网络上非常流行。	The term "elegant butterfly" is very popular on the internet.	他不知道雅蠛蝶是什么意思。	He doesn't know what "elegant butterfly" means.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+油菜花	春天，田野上开满了金黄色的油菜花。	In spring, the fields are full of golden canola flowers.	她是一个油菜花，擅长设计和编程。	She is a "canola flower," skilled in design and programming.	他们是一群油菜花，对科技和艺术都很有天赋。	They are a group of "canola flowers," very talented in technology and art.
+武术	他从小就学习武术，已经是一名黑带高手了。	He has been learning martial arts since he was young and is already a black belt master.	武术不仅是一种体育运动，还包含着精神修养。	Martial arts is not only a sport, but also involves spiritual cultivation.	他在电影中展现了精湛的武术技巧。	He demonstrated superb martial arts skills in the movie.
+登	他登上了珠穆朗玛峰，创造了新的纪录。	He scaled Mount Everest and set a new record.	这本书登上了畅销书排行榜。	This book made it onto the bestseller list.	他登上了舞台，开始了他的表演。	He stepped onto the stage and started his performance.
+陳大發	陳大發是我最喜欢的演员之一。	Chen Dafa is one of my favorite actors.	她给自己取了一个有趣的网名，叫陳大發。	She gave herself an interesting online nickname, "Chen Dafa."	陳大發在影视作品中塑造了很多经典角色。	Chen Dafa has portrayed many classic characters in film and television works.
+高考	高考是中国学生十分重视的考试。	The college entrance exam is highly valued by Chinese students.	他正在备战高考，希望能考上理想的大学。	He is preparing for the college entrance exam and hopes to be admitted to his ideal university.	高考成绩决定了他的未来。	The college entrance exam results will determine his future.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+品	这个品质很好。	This product has very good quality.	他对这种品很有研究。	He has done a lot of research on this type of product.	她的品很好。	She has a good character.
+敲黑板	老师敲黑板要求学生安静。	The teacher strikes the blackboard to ask the students to be quiet.	他敲了敲黑板，示意大家听讲。	He struck the blackboard to signal everyone to listen.	教授敲了敲黑板，学生们都安静了下来。	The professor knocked on the blackboard, and the students all quieted down.
+涼涼	今天的天气很涼涼。	Today's weather is very cool.	他的表现让人感到涼涼。	His performance makes people feel disappointed.	这个产品的销量涼涼。	The sales of this product are very disappointing.
+剁手族	她是一个剁手族，经常网购。	She is a member of the "hand-chopping gang" and often shops online.	剁手族们在双十一大肆购物。	The "hand-chopping gang" members go on a shopping spree on Singles' Day.	他成了剁手族，每个月的账单都很长。	He has become a member of the "hand-chopping gang," and his monthly bills are very long.
+抖M	他是一个抖M，总是喜欢自虐。	He is a "Shake+M," always likes self-torture.	她的朋友圈里有很多抖M的段子。	There are many "Shake+M" jokes in her circle of friends.	这个角色是一个抖M，总是喜欢受虐。	This character is a "Shake+M," always likes to be abused.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+心大	他心大，从不考虑后果。	He is careless and never considers the consequences.	她对批评很心大，从不在意别人的攻击。	She is less susceptible to criticism and never cares about others' attacks.	虽然他很心大，但也要注意安全。	Although he is careless, he still needs to pay attention to safety.
+不會聊天	他真的不會聊天，老是说错话。	He really doesn't know how to chat and always says the wrong things.	她不会聊天，经常得罪人。	She doesn't know how to chat and often offends people.	虽然他不会聊天，但是大家还是喜欢和他在一起。	Although he doesn't know how to chat, everyone still likes to be with him.
+霸道總裁	她喜欢看霸道总裁的小说。	She likes to read novels about imperious executives.	这部电视剧里的霸道总裁很受欢迎。	The imperious executive in this TV series is very popular.	她喜欢小说里的霸道总裁形象。	She likes the image of the imperious executive in the novel.
+管	我负责管这个项目的进展。	I am in charge of managing the progress of this project.	他管着一家公司的运营。	He manages the operation of a company.	管子是一种管状物。	A pipe is a tubular object.
+归	这个文件应该归档。	This document should be filed.	这个问题归他负责。	This problem is his responsibility.	虽然他不在，但这个任务还是归他。	Although he is not here, this task still belongs to him.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+既視感	这种景色给我一种既視感。	This scenery gives me a sense of déjà vu.	她的笑容让我有一种既視感。	Her smile gives me a feeling of déjà vu.	这个地方让我产生了既視感。	This place gives me a sense of déjà vu.
+白	她穿着一件白色的连衣裙。	She is wearing a white dress.	他的脸色苍白。	His face is pale.	他白了她一眼。	He gave her a cold stare.
+生無可戀	他的表情让人感到生無可戀。	His expression makes people feel there is nothing in life to long for.	她的失望让她觉得生無可戀。	Her disappointment makes her feel there is nothing in life to long for.	面对这种情况，他感到生無可戀。	Facing this situation, he feels there is nothing in life to long for.
+習大大	習大大今天发表了重要讲话。	Uncle Xi made an important speech today.	習大大的政策受到了广泛关注。	Uncle Xi's policies have received widespread attention.	習大大是中国的国家主席。	Uncle Xi is the President of China.
+零	这个数字是零。	This number is zero.	他的成绩是零。	His score is zero.	她的希望渺茫，几乎为零。	Her hope is slim, almost zero.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+炒CP	这部电视剧炒CP的效果很好。	The effect of hyping the couple in this TV drama is very good.	娱乐圈经常炒CP来吸引公众的注意。	The entertainment industry often hypes couples to attract public attention.	他们炒CP的目的是为了商业利益。	Their purpose in hyping the couple is for business interests.
+招黑體質	她总是自嘲招黑體質。	She always self-deprecates as having a criticism-inducing body type.	一些明星会利用招黑體質来调侃自己。	Some celebrities use the criticism-inducing body type to mock themselves.	招黑體質的明星容易成为网络用户的批评对象。	Celebrities with a criticism-inducing body type are easy targets for criticism by Internet users.
+日了狗	今天的工作真是日了狗了。	Today's work is really frustrating.	他的车又坏了，他说他真是日了狗了。	His car broke down again, and he said he had really had a bad day.	这么倒霉的事情，我真是日了狗了。	What a run of bad luck, I really had a bad day.
+拉仇恨	他总是喜欢拉仇恨。	He always likes to boast and provoke jealousy.	别再拉仇恨了，会得罪人的。	Stop boasting and provoking jealousy, it will offend people.	她的言论总是容易拉仇恨。	Her remarks always tend to provoke jealousy.
+公開處刑	他和那位明星一起出席活动，简直是公開處刑。	Attending the event with that celebrity is like being openly punished.	她觉得和她朋友一起逛街就像是公開處刑。	She feels like being openly punished when she goes shopping with her friend.	他们之间的外貌差距简直是公開處刑。	Their difference in appearance is like being openly punished.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+蹭熱度	她总是试图蹭熱度，让人很反感。	She always tries to freeload the popularity, which is very annoying.	他被指责蹭熱度，但他否认了这一点。	He was accused of freeloading the popularity, but he denied it.	这种蹭熱度的行为是不道德的。	This kind of freeloading behavior is unethical.
+挽尊	我留言是为了挽尊，希望他不要失去信心。	I left a comment to save the dignity, hoping he won't lose confidence.	他的帖子很久没有回复，我觉得需要挽尊一下。	His post hasn't been replied to for a long time, I think it needs to save the dignity.	在网上挽尊是一种美德。	Saving the dignity online is a virtue.
+顏即正義	顏即正義这句话真的太搞笑了。	The expression "appearance is justice" is really funny.	他总是用顏即正義来解释自己的行为。	He always uses "appearance is justice" to justify his behavior.	顏即正義这种说法很伤人。	The expression "appearance is justice" is very hurtful.
+暴擊	他的暴擊让对手毫无还手之力。	His critical hit left the opponent helpless.	她的话就像一记暴擊，让我很受伤。	Her words were like a critical hit, which hurt me a lot.	这次暴擊让他陷入了困境。	This critical hit put him in a dilemma.
+起来	他站起来走了。	He stood up and left.	我看起来这个问题不太容易解决。	It seems to me that this problem is not easy to solve.	这件事情起来很复杂。	This matter is quite complicated.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+方	这个房间是方形的。	This room is square-shaped.	他们已经商定好了方案。	They have already agreed on the plan.	请你往前方走。	Please walk forward.
+黑人問號	他对这个问题感到很困惑，黑人問號。	He is very puzzled by this question, black person question marks.	面对这个奇怪的情况，我只能用黑人問號。	Facing this strange situation, I can only use black person question marks.	听到这个消息，她的表情就像黑人問號。	Hearing this news, her expression was like black person question marks.
+攤手	他对这个结果感到无奈，只能攤手。	He feels helpless about this result, can only smugshrug.	面对这种情况，我只能攤手。	Facing this situation, I can only smugshrug.	他不愿意改变，只好攤手。	He is unwilling to change, so he can only smugshrug.
+種草	她经常在社交媒体上種草一些美妆产品。	She often recommends some beauty products on social media.	我被她的種草所吸引，买了很多东西。	I was attracted by her product recommendations and bought a lot of things.	这个博主的種草真的很有说服力。	This blogger's product recommendations are really convincing.
+聊聊人生	他们开始聊聊人生，其实是在开玩笑。	They started to chat about life, actually just joking.	当他说出那番话时，我只能聊聊人生。	When he said that, I could only tease him.	面对他的决定，我只能聊聊人生。	Facing his decision, I can only tease him.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+壁咚	他在动漫展上壁咚了她。	He "kabe-don"ed her at the anime expo.	她被壁咚在墙上，无处可逃。	She was forced against the wall with a slapping sound, leaving her nowhere to go.	他靠在墙上，发出壁咚的声音。	He leaned against the wall, making a slapping sound.
+已婚少女	她是一个已婚少女，但行为举止却像个年轻女孩。	She is a married teenage girl, but her behavior is like that of a young girl.	她自称是已婚少女，因为她想保持年轻的外表和心态。	She calls herself a married teenage girl because she wants to maintain a youthful appearance and mentality.	已婚少女们常用这个词来形容自己。	Married teenage girls often use this term to describe themselves.
+領盒飯	他在电影中的角色突然就領盒飯了。	His character in the movie suddenly "received boxed lunch."	她在剧中領盒飯后就离开了。	She left after "receiving boxed lunch" in the drama.	这个演员在最后一天領盒飯，然后离开了。	The actor "received boxed lunch" on the last filming day and then left.
+A站	A站是一个很受欢迎的动漫视频分享网站。	A站 is a very popular anime video sharing website.	B站的弹幕功能很受用户欢迎。	B站's barrage feature is very popular among users.	A站和B站都是以动漫、漫画、游戏、电影、音乐和电视为主题的互动视频分享网站。	A站 and B站 are both interactive video sharing websites themed around anime, manga, game, movie, music, and TV.
+外貌協會	她总是被认为是外貌協會的一员。	She is always considered a member of the "good looks club."	他们的相亲节目更像是外貌協會的选拔赛。	Their blind date show is more like a selection competition for the "good looks club."	现在外貌協會不仅指挑选约会对象，也指对美的偏好。	Now "good looks club" not only refers to picking dates, but also to a preference for aesthetic qualities.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+居老師	我很喜欢居老師在《镇魂》里的表演。	I really like Teacher Ju's performance in "Guardian".	居老師的粉丝们都很热情。	Teacher Ju's fans are all very enthusiastic.	居老師的才华备受认可。	Teacher Ju's talent is widely recognized.
+開黑	我们今晚要不要开黑？	Do we want to have a gaming session tonight?	他们经常开黑，提高了团队配合。	They often open black and improve team cooperation.	开黑时要注意不要作弊。	When opening black, be careful not to cheat.
+腦洞	他的腦洞真是太大了！	His imagination is really huge!	她的腦洞让人捧腹大笑。	Her creativity makes people laugh out loud.	这个故事的腦洞很大，让人大开眼界。	The story's imagination is huge, broadening people's horizons.
+綠茶婊	她看起来很文静，但其实是个綠茶婊。	She looks very demure, but she's actually a green tea bitch.	这部电影里的女主角是个綠茶婊的形象。	The female lead in this movie has the image of a green tea bitch.	她被曝光是个綠茶婊后，受到了很多非议。	After she was exposed as a green tea bitch, she received a lot of criticism.
+加	我要加糖还是加奶？	Do I add sugar or milk?	他加了一些限制条件。	He added some restrictions.	我们要加强对这个项目的支持。	We need to increase our support for this project.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+自來水	我家里喝的水都是自來水。	The water we drink at home is tap water.	这家餐厅的自來水味道很好。	The tap water in this restaurant tastes very good.	他们公司的员工都是自來水。	The employees of their company are all "tap water" users.
+深柜男	他是一个深柜男，一直没有公开自己的性取向。	He is a "deep in the closet male," and has never openly revealed his sexual orientation.	这个明星被曝光是深柜男。	This celebrity was exposed as a "deep in the closet male."	深柜男在社交媒体上引起了热议。	The "deep in the closet male" has sparked heated discussions on social media.
+網癮少女	她是一个網癮少女，整天沉迷于手机游戏。	She is an "Internet addiction teenage girl," addicted to mobile games all day long.	这个網癮少女需要家人的帮助。	This "Internet addiction teenage girl" needs help from her family.	網癮少女们需要注意保护视力。	"Internet addiction teenage girls" need to pay attention to protecting their eyesight.
+洗腦神曲	这首歌真是洗腦神曲，我整天都在哼唱。	This song is really a "brainwashing epic song," I've been humming it all day.	这个广告的配乐是一首洗腦神曲。	The background music of this advertisement is a "brainwashing epic song."	洗腦神曲总是让人忍不住跟着唱。	"Brainwashing epic songs" always make people can't help but sing along.
+在線	他的表演水平真的很在線，让人印象深刻。	His performance level is really "on line," leaving a deep impression.	这家餐厅的服务态度非常在線。	The service attitude of this restaurant is very "on line."	这个团队的合作精神一直都很在線。	The team spirit of this group has always been very "on line."
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+直女癌	她是个直女癌，总是批评那些不愿意结婚生子的女性。	She is a "straight woman cancer," always criticizing women who are unwilling to get married and have children.	直女癌的人往往对女性的自由选择持负面态度。	People with "straight woman cancer" often have a negative attitude towards women's freedom of choice.	她的直女癌言论引起了很多争议。	Her "straight woman cancer" remarks have caused a lot of controversy.
+做	他做了一顿丰盛的晚餐。	He made a sumptuous dinner.	她正在做作业。	She is doing her homework.	他们打算做一次旅行。	They plan to take a trip.
+毛	她的头发又长又毛。	Her hair is long and thick.	这件衣服上有一根毛。	There is a piece of lint on this piece of clothing.	他看到了一只毛茸茸的小动物。	He saw a furry little animal.
+人生贏家	他被认为是人生贏家，因为他有事业有家庭。	He is considered a winner in life because he has a career and a family.	她一直努力工作，希望成为人生贏家。	She has been working hard, hoping to become a winner in life.	在这个社会中，人生贏家的定义是多样的。	In this society, the definition of a winner in life is diverse.
+本	这本书是我最喜欢的小说之一。	This book is one of my favorite novels.	他们正在研究这本杂志上的文章。	They are studying the article in this magazine.	这本杂志的内容很有趣。	The content of this magazine is very interesting.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+约定	我们约定下次见面的时间。	We agreed on the time to meet next time.	他们之间有一个约定，互相帮助。	They have an agreement to help each other.	我们之间有一个约定，不要彼此说谎。	We have a promise not to lie to each other.
+備胎	他是我的备胎，但我并不打算和他在一起。	He is my backup plan, but I don't plan to be with him.	她总是保持着几个备胎，以备不时之需。	She always keeps a few backup options for future needs.	他只是她的备胎，她并不真心对他。	He is just her backup plan, she doesn't really care about him.
+翻墻	他们使用VPN翻墙来访问被封锁的网站。	They use VPN to climb over the wall and access blocked websites.	许多人都想翻墙，以便了解国外的信息。	Many people want to climb over the wall to understand foreign information.	翻墙是一种绕过网络封锁的方法。	Climbing over the wall is a way to bypass internet censorship.
+墻裂	这家餐厅的菜品墙裂推荐。	The dishes at this restaurant are highly recommended.	这本书墙裂好看，你一定要看。	This book is highly recommended, you must read it.	这部电影墙裂精彩，不容错过。	This movie is highly exciting, not to be missed.
+負能量	她的消极情绪给了我很大的负能量。	Her negative emotions gave me a lot of negative energy.	这个环境充满了负能量，让人感到沮丧。	This environment is full of negative energy, making people feel depressed.	要远离负能量，保持积极的心态。	Avoid negative energy and maintain a positive mindset.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+切	他切实地感受到了压力。	He truly felt the pressure.	她对这个提议切不屑一顾。	She scoffed at the proposal.	他在厨房里切蔬菜。	He is cutting vegetables in the kitchen.
+引	他用弓引了一支箭。	He drew a bow and shot an arrow.	这个问题引发了很多争议。	This issue has sparked a lot of controversy.	他的证词引出了新的线索。	His testimony brought out new clues.
+宇宙觀	宇宙觀告诉我们，人生短暂。	The concept of the universe reminds us that life is short.	她的宇宙觀让她更加谦虚。	Her worldview makes her more humble.	宇宙觀是我们认识自己的一种方式。	The worldview is a way for us to know ourselves.
+鬼畜	这个视频的鬼畜效果很有趣。	The video's ghostly and beastly effect is very interesting.	他的鬼畜行为让人捧腹大笑。	His ghostly and beastly behavior makes people laugh heartily.	她用鬼畜视频调侃了他的一些言论。	She used a ghostly and beastly video to ridicule some of his remarks.
+档	他把文件整整齐齐地放在档里。	He neatly placed the documents in the file.	这个节目的档期很受欢迎。	The timeslot for this program is very popular.	他在街边的档口卖水果。	He sells fruit at a street-side stall.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+番	他是一个外国人。	He is a foreigner.	这是一种番茄。	This is a kind of tomato.	这个任务需要翻一番。	This task needs to be doubled.
+套	她用被子套住了身体。	She covered her body with a quilt.	这是一套家具。	This is a set of furniture.	他用计算机模拟了这个过程。	He simulated this process with a computer.
+作出	他作出了一个重要决定。	He made an important decision.	公司作出了公开道歉。	The company issued a public apology.	他们作出了正确的选择。	They made the right choice.
+为I做E	他是一个内向者的外向者。	He is the extrovert for introverts.	她为了爱情做出了很多牺牲。	She made a lot of sacrifices for love.	这个词汇有一层同性恋的意味。	This term has a connotation of homosexuality.
+什麼鬼	你在说什么鬼东西？	What the devil are you talking about?	他的笑话真是什么鬼。	His joke is really weird.	她的反应让我觉得很什麼鬼。	Her reaction makes me feel very puzzled.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+老总	老总今天特别忙。	The boss is especially busy today.	我和老总有一个会议。	I have a meeting with the boss.	老总对我们的工作很满意。	The boss is very satisfied with our work.
+磚家	他们是一群磚家，不要相信他们的话。	They are a group of charlatans, don't believe what they say.	这个磚家的言论引起了很多争议。	The irresponsible comments of this charlatan have caused a lot of controversy.	别再听那些磚家的胡说八道了。	Stop listening to the nonsense of those charlatans.
+下来	他们的飞机马上就要下来了。	Their plane is about to land soon.	这个月的收成下来比去年好。	This month's harvest is better than last year's.	他的表演从去年一直持续到现在下来。	His performance has been ongoing from last year until now.
+趕腳	这件事情让我有一种趕腳。	This matter makes me feel a certain way.	他的表情透露出一种趕腳。	His expression reveals a certain feeling.	我对这个决定有一种趕腳。	I have a certain feeling about this decision.
+卵巢彩票	他总是抱怨自己没有中过卵巢彩票。	He always complains about not winning the ovarian lottery.	她认为自己没有中过卵巢彩票。	She thinks she has never won the ovarian lottery.	卵巢彩票是一种幸运的象征。	The ovarian lottery is a symbol of luck.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+抱緊我	她对这个消息感到愉快，抱緊我。	She feels delighted about this news, hold me tight.	我喜欢这个城市的夜景，抱緊我。	I like the night view of this city, hold me tight.	他很累，却还坚持工作，抱緊我。	He is very tired, but he still insists on working, hold me tight.
+陳獨秀	陳獨秀是中国共产党的创始人之一。	Chen Duxiu is one of the founders of the Chinese Communist Party.	陳獨秀的思想对中国历史产生了深远的影响。	Chen Duxiu's thoughts have had a profound impact on Chinese history.	陳獨秀的著作被广泛研究。	Chen Duxiu's works are widely studied.
+画风突变	他的反应画风突变，让人大跌眼镜。	His response had a sudden change in style, which was quite surprising.	这个故事的结局出乎意料，画风突变。	The ending of this story was unexpected, with a sudden change in style.	她的表现总是画风突变，让人捧腹大笑。	Her performance always has a sudden change in style, which makes people laugh out loud.
+鱸魚	他很喜欢钓鱸魚。	He really likes fishing for bass.	这家餐厅的鱸魚料理非常好吃。	The bass dish at this restaurant is very delicious.	他在湖边钓到了一条大鱸魚。	He caught a big bass by the lake.
+鳳凰男	他是一个典型的鳳凰男，自力更生。	He is a typical phoenix man, self-made.	鳳凰男和孔雀女的婚姻问题备受关注。	The marital issues of phoenix men and peacock women have attracted much attention.	鳳凰男往往与家庭问题纠缠不清。	Phoenix men often have emotional enmeshment with their families of origin.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+顶	他戴着一顶帽子。	He is wearing a hat.	她把花束顶在头上。	She put the bouquet on top of her head.	他们顶住了疾风暴雨。	They braved the storm.
+本命	她的本命明星是谁？	Who is her favorite star?	我给我的本命送了一份礼物。	I gave a gift to my favorite.	他是我的本命男友。	He is my true love boyfriend.
+掉	他掉了一块钱。	He dropped a dollar.	价格掉了一半。	The price has dropped by half.	她的头发掉了很多。	She has lost a lot of hair.
+对	这个答案是对的。	This answer is correct.	我对你的态度很满意。	I am very satisfied with your attitude.	他们对这个问题有不同的看法。	They have different opinions on this issue.
+抖S	她是一个抖S的人。	She is a seriously sadistic person.	他的抖S倾向让人感到不安。	His sadistic tendencies make people feel uneasy.	这部电影里的反派角色是一个抖S。	The villain in this movie is a seriously sadistic character.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+靜靜	我想靜靜一下。	I want some quiet time.	別問我靜靜是誰。	Don’t ask me who Jingjing is.	我好想念靜靜。	I miss Jingjing so much.
+傲嬌	她有點傲嬌。	She is a bit sassy.	她的傲嬌態度。	Her tsundere attitude.	她的傲嬌讓人難以接近。	Her sassy attitude makes it hard to get close to her.
+保持围笑	她努力保持围笑。	She tries to maintain a smile.	他的保持围笑讓人感到心疼。	His effort to maintain a smile makes people feel sorry for him.	她的保持围笑掩飾了内心的痛苦。	Her maintaining a smile masks her inner pain.
+翻牌	她在微博上被偶像翻牌了。	She was responded to by her idol on Weibo.	他翻牌了吗？	Did he flip the name plates?	她被偶像翻牌了，好開心。	She was chosen by her idol, so happy.
+家	我回家了。	I went home.	这是我的家。	This is my home.	他是一位音乐家。	He is a musician.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+佛系追星	她是一个佛系追星的粉丝，从不参与网上争论。	She is a Buddhist fandom fan and never engages in online arguments.	他对偶像的支持是佛系追星的方式。	His support for the idol is in a calm and peaceful manner.	我喜欢佛系追星的态度，不会过于情绪化。	I like the calm and peaceful attitude of Buddhist fandom, not too emotionally invested.
+串	他把蔬菜串在了一根竹签上。	He skewered the vegetables on a bamboo stick.	她用线把这些珠子串成了一串项链。	She strung these beads into a necklace.	他的话总是串不上逻辑。	His words always don't connect logically.
+鍵盤俠	他是一个典型的鍵盤俠，整天在网上发表愤世嫉俗的言论。	He is a typical keyboard knight-errant, always making cynical comments online.	别成为一个鍵盤俠，实际行动才能改变事情。	Don't be a keyboard knight-errant, real actions can make a difference.	她总是在网上当鍵盤俠，却从不做实际的事情。	She always acts like a keyboard knight-errant online, but never does anything practical.
+小確喪	他今天又陷入了小確喪的情绪中，对工作感到沮丧。	He fell into a sarcastic mood again today, feeling frustrated about work.	小確喪的心态会让人感到很沮丧。	The sarcastic attitude of little definite frustration can be very frustrating.	她的歌曲《小確喪》描述了现代年轻人的生活状态。	Her song "Little Definite Frustration" describes the life state of modern young people.
+摸頭殺	他用摸頭殺的方式安慰了她，让她感到很温暖。	He comforted her with a gentle head pat, making her feel warm.	在恋爱中，摸頭殺是一种很有效的撩妹技巧。	In love, the gentle head pat is a very effective flirting technique.	她对他的摸頭殺感到很满意，心情变得很愉快。	She was very satisfied with his gentle head pat, and her mood became very cheerful.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+李澤言	我在《恋与制作人》里喜欢李澤言的角色。	I like the character Li Zeyan in "Love and Producer".	李澤言是一位金融服务行业的CEO。	Li Zeyan is the CEO in the financial services industry.	李澤言的超能力是时间操控。	Li Zeyan's supernatural power is time manipulation.
+了解一下	这个产品很好，你要了解一下吗？	This product is very good, do you want to get to know it?	了解一下，我只是开个玩笑。	Get to know it, I'm just kidding.	了解一下，这是一个幽默的表达。	Get to know it, this is a humorous expression.
+道友	我们是道友，对吧？	We are fellow Taoists, right?	他们是我的道友，我们有共同的爱好。	They are my fellow Taoists, we share the same hobbies.	他们被戏称为道友，因为他们的外表像道士。	They are jokingly called "道友" because they look like Taoist priests.
+者	读者是书籍的消费者。	Readers are consumers of books.	学者是研究者。	Scholars are researchers.	老者是长者。	Elders are seniors.
+老	老张是我的邻居。	Old Zhang is my neighbor.	老师是我的导师。	Teacher is my mentor.	老朋友是多年的朋友。	Old friends are long-time friends.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+安	他感到很安，因为他知道家人都很安全。	He feels very calm because he knows his family is all safe.	她的笑容让我感到很安。	Her smile makes me feel at ease.	他的健康状况很安。	He is in good health.
+抗日神劇	我不喜欢抗日神剧，因为它们经常歪曲历史。	I don't like epic dramas of the War of Resistance against Japan because they often distort history.	抗日神剧在媒体和网民中受到广泛批评。	Epic dramas of the War of Resistance against Japan are widely criticized by both the media and Internet users.	他们批评抗日神剧把历史和幻想混为一谈。	They criticize epic dramas of the War of Resistance against Japan for blending history with fantasy.
+偏偏	他偏偏不肯听我的建议。	He stubbornly refuses to listen to my advice.	她偏偏要去那家餐厅吃饭。	She insists on going to that restaurant.	偏偏他是唯一一个迟到的人。	Of all people, he is the only one who is late.
+表情管理	明星们在公共场合要进行表情管理。	Celebrities need to manage their facial expressions in public.	表情管理是明星们在维持愉快形象时所做的情感劳动。	Facial expression management is the emotional labor that celebrities undertake to maintain an upbeat image.	他擅长解释热门话题，就像一个网络课代表。	He is good at explaining hot topics, just like an Internet "class representative".
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+擔當	他在这部电影中扮演了一个英雄擔當。	He played the role of a hero in this movie.	她在公司里担任了一个重要的领导擔當。	She took on an important leadership role in the company.	这个角色需要一个喜剧擔當。	This role requires a comedian to take on.
+叫獸	这个教授的言论真是叫獸。	The remarks of this professor are really irresponsible.	他被指控性骚扰学生，真是叫獸。	He was accused of sexually harassing students, really despicable.	这些叫獸的行为严重损害了他们的声誉。	These despicable behaviors seriously damage their reputation.
+輕拍	请大家对我的建议輕拍。	Please go easy on my suggestions.	他发表了一个有争议的观点，请求大家輕拍。	He expressed a controversial opinion and asked everyone to go easy on him.	她的作品受到了很多批评，希望大家能輕拍。	Her work has received a lot of criticism, hoping everyone can go easy on her.
+吸貓	我每天都会吸貓，因为我太爱我的猫了。	I sniff my cat every day because I love my cat too much.	她看到猫就忍不住要吸貓。	She can't help but sniff her cat when she sees it.	他的猫身上有一种特殊的味道，我喜欢吸貓。	His cat has a special smell, I like to sniff it.
+逆天改命	他决心逆天改命，不愿接受命运的安排。	He is determined to defy heaven and change his destiny, unwilling to accept the arrangement of fate.	主人公在剧中逆天改命，战胜了疾病。	The protagonist defies heaven and changes his destiny in the drama, overcoming the illness.	逆天改命需要付出巨大的努力和代价。	Defying heaven and changing destiny requires great effort and cost.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+秒刪	她秒刪了她的微博帖子。	She swiftly deleted her Weibo post.	他的照片被秒刪了。	His photo was deleted within seconds.	明星們經常秒刪他們的社交媒體帖子。	Celebrities often quickly delete their social media posts.
+片	我要一片披薩。	I want a slice of pizza.	这部电影是一部经典的片。	This movie is a classic film.	他用刀片切蔬菜。	He uses a blade to slice vegetables.
+會聊天	她很会聊天。	She knows how to chat.	他是一个很会聊天的人。	He is someone who knows how to chat.	我觉得他很会聊天。	I think he knows how to chat.
+麼麼噠	他給了她一個麼麼噠。	He gave her a gentle kiss.	她對寵物說了一聲麼麼噠。	She gently kissed the pet.	他們互相麼麼噠了一下。	They gave each other a gentle kiss.
+豬精女孩	她被人叫做豬精女孩。	She is called a "pig spirit girl" by others.	她不喜歡被稱為豬精女孩。	She doesn't like being called a "pig spirit girl".	豬精女孩這個詞有點冒犯。	The term "pig spirit girl" is a bit offensive.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+總攻	他是公司的總攻，能夠有效地指揮團隊。	He is the leader of the company and can effectively command the team.	她在這個團體中是一個很有影響力的總攻。	She is a very influential leader in this group.	他是個很有魅力的總攻，能夠讓別人服從。	He is a very charismatic leader who can make others obey.
+網感	這個節目的網感很好，吸引了很多粉絲。	This show has a good web sense and has attracted many fans.	這部電影的網感很差，沒有引起網友的討論。	This movie has poor web sense and has not sparked discussions among netizens.	這個網絡劇的網感很強，受到了很多網友的喜愛。	This web drama has a strong web sense and is loved by many netizens.
+友盡	我們的友誼到此為止吧，友盡了。	Let's end our friendship here, it's over.	他的幽默讓我感到友盡，我無法跟上。	His humor makes me feel like our friendship is over, I can't keep up.	這次的玩笑讓我感到友盡，我不想再跟你玩了。	This joke makes me feel like our friendship is over, I don't want to play with you anymore.
+点	我看到了一点光。	I saw a speck of light.	请在这个表格上画一个点。	Please draw a dot on this form.	现在是十点整。	It's exactly ten o'clock now.
+母職懲罰	她因為母職懲罰而錯失了許多工作機會。	She missed out on many job opportunities due to the punishment of motherhood.	這種母職懲罰讓很多女性感到無奈。	This kind of punishment of motherhood makes many women feel helpless.	她為了避免母職懲罰，不得不放棄了自己的事業。	In order to avoid the punishment of motherhood, she had to give up her career.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+碰瓷	他们在马路边碰瓷，企图骗取赔偿。	They are setting up "accidents" by the roadside, attempting to scam for compensation.	他差点被碰瓷的人骗了。	He almost got scammed by someone setting up an "accident".	她发现有人在她家门口碰瓷。	She found someone setting up an "accident" at her doorstep.
+挂	他把衣服挂在阳台上晾干。	He hangs his clothes on the balcony to dry.	电话挂了，我再打给他。	The phone hung up, I'll call him again.	他挂了，我们得赶紧去医院。	He's in trouble, we need to rush to the hospital.
+起	太阳已经起了，我们该出发了。	The sun has risen, we should set out.	他们起了一个新的项目。	They initiated a new project.	他起得很早，每天都很忙。	He gets up very early and is busy every day.
+大豬蹄子	他对感情很不专一，真是个大豬蹄子。	He is not faithful in relationships, he's really a big pig's foot.	她又开始抱怨她的大豬蹄子男友了。	She's complaining about her big pig's foot boyfriend again.	这个词形容男人真是太贴切了，他们都是大豬蹄子。	This term describes men so accurately, they are all big pig's feet.
+节	这个节是中国传统的节日。	This festival is a traditional Chinese festival.	我们要节约用水。	We need to save water.	他们正在学习下一节的课文。	They are studying the next segment of the lesson.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+开	他开了一家新餐厅。	He opened a new restaurant.	请开门，我要出去了。	Please open the door, I want to go out.	汽车开得很快。	The car is running very fast.
+厉害	这场风暴非常厉害。	This storm is very severe.	他的演讲真是厉害。	His speech is really impressive.	她是一个很厉害的领导者。	She is a very tough leader.
+約炮	他们只是约炮，没有其他关系。	They just had a casual hookup, no other relationship.	这个词在网络上很流行。	This term is very popular on the internet.	他们之间只是约炮，没有感情。	They just have casual sex, no emotions involved.
+洪荒之力	他展现出了洪荒之力。	He displayed an extraordinary power.	她的洪荒之力让人印象深刻。	Her primeval power left a deep impression.	这个运动员拥有洪荒之力。	This athlete possesses a primeval power.
+跳戲	他在这部电影中跳戲了。	He gave an unconvincing performance in this movie.	她这次的表演有点跳戲。	Her performance this time is a bit unconvincing.	这个演员在这个角色中跳戲了。	This actor gave an unconvincing performance in this role.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+微博淪陷	他的微博淪陷了，全是粉丝的留言。	His Weibo account is inundated with comments from fans.	她的微博淪陷了，全是关于她的流言蜚语。	Her Weibo account is inundated with rumors about her.	这个明星的微博淪陷了，全是关于他的绯闻。	This celebrity's Weibo account is inundated with gossip about him.
+整	他整个房间都收拾得很整洁。	He tidied up the whole room very neatly.	她整整等了一个小时。	She waited exactly one hour.	他整理好了所有的文件。	He put all the documents in order.
+门	他站在门口等着我。	He stood at the door waiting for me.	这个门打不开了。	This door won't open.	她的家族是一个古老的门派。	Her family is an ancient sect.
+劃掉	我很喜欢她的外表，劃掉，是她的才华。	I admire her appearance, scratch that, her talent.	我觉得这个地方很美，劃掉，很恐怖。	I think this place is beautiful, scratch that, terrifying.	这个电影很有意思，劃掉，很无聊。	This movie is very interesting, scratch that, boring.
+反差萌	这只猫的反差萌很明显，它看起来很凶，但其实很可爱。	The contrast cuteness of this cat is very obvious. It looks fierce but is actually very cute.	她的反差萌吸引了很多粉丝。	Her contrast cuteness has attracted many fans.	这个角色的反差萌很受欢迎。	The contrast cuteness of this character is very popular.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+愛無能	他的愛無能源於童年時的創傷。	His inability to love stems from childhood trauma.	她的愛無能使她無法與他人建立親密關係。	Her inability to love makes it difficult for her to form intimate relationships with others.	愛無能並不意味著一個人無法感受愛。	Inability to love does not mean a person is incapable of feeling love.
+从	从北京到上海坐高铁需要多长时间？	How long does it take to take the high-speed train from Beijing to Shanghai?	他从小就对音乐有浓厚的兴趣。	He has had a strong interest in music since he was a child.	从现在开始，我们要更加努力工作。	From now on, we need to work even harder.
+土創	土創是一個非常受歡迎的選秀節目。	Produce 101 is a very popular talent show.	土創的參賽者來自各行各業。	The contestants of Produce 101 come from all walks of life.	土創在中國大陸和台灣都引起了廣泛的討論。	Produce 101 has sparked widespread discussion in mainland China and Taiwan.
+白嫖飯	這些白嫖飯的粉絲只想免費享受偶像的作品。	These "free patronizing fans" only want to enjoy their idols' works for free.	不要成為那些白嫖飯的粉絲。	Don't be one of those "free patronizing fans".	真正的粉絲會全力支持偶像，而不是成為白嫖飯。	Real fans will fully support their idols, not be "free patronizing fans".
+梗	這個梗在網絡上迅速傳播開來。	This meme spread quickly on the internet.	他經常會用一些梗逗大家開心。	He often uses some jokes to make everyone happy.	這個梗成了大家討論的焦點。	This meme has become the focus of discussion.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+股	他摔倒后摔伤了右股。	He fell and injured his right thigh.	这个公司的股价一直在上涨。	The stock price of this company has been rising.	他们在这个项目中承担了重要的股份。	They have taken on an important share in this project.
+鎖場	他们决定鎖場，以便私下观看电影。	They decided to lock the auditorium in order to watch the movie privately.	她们计划鎖場，以增加电影的票房。	They plan to lock the auditorium to increase the movie's box office.	这个粉丝团鎖場的行为引起了轰动。	The fan club's locking of the auditorium caused a sensation.
+去	我明天要去北京出差。	I'm going to Beijing on a business trip tomorrow.	他已经去了超市。	He has already gone to the supermarket.	她去年离开了这家公司。	She left the company last year.
+天仙攻	她的粉丝们称她为天仙攻。	Her fans call her "Fairy Attack".	天仙攻是她在影视作品中的代名词。	"Fairy Attack" is her alias in film and television works.	她因出演《神雕侠侣》而被称为天仙攻。	She is called "Fairy Attack" for her role in "The Return of the Condor Heroes".
+躺槍	他明明没有做错事，却躺槍了。	He clearly did nothing wrong, but still got criticized.	她总是躺槍，让人很同情她。	She always gets blamed for things she didn't do, which makes people feel sorry for her.	尽管他努力避免，但还是躺槍了。	Despite his efforts to avoid it, he still got criticized.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+投	他投了一颗手榴弹。	He threw a grenade.	她投了一张选票。	She cast a ballot.	他投了一颗硬币。	He put in a coin.
+送你上墻	他的评论真有意思，我送你上墻。	His comment is really interesting, I'll send you to the top.	她的回复太幽默了，我送你上墻。	Her reply is so funny, I'll send you to the top.	这个段子太搞笑了，我送你上墻。This joke is too funny, I'll send you to the top.
+塘主	他是这个鱼塘的塘主。	He is the owner of this fish pond.	这个词是对张翰的一种讽刺。	This term is a kind of irony for Zhang Han.	他在《杉杉来了》中的表演被人戏称为塘主。	His performance in "Boss & Me" is jokingly called "pond owner".
+帶節奏	他总是喜欢帶節奏。	He always likes to instigate fights.	她在网上喜欢帶節奏。	She likes to instigate fights online.	他被指责帶節奏。	He is accused of instigating fights.
+少女心	她有一颗少女心。	She has a girly heart.	他的行为总是充满了少女心。	His behavior is always full of girly heart.	她的梦想总是充满了少女心。	Her dreams are always full of girly heart.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+被	他被一条毛巾盖住了。	He was covered by a towel.	这个问题被他解决了。	This problem was solved by him.	我被他的话所感动。	I was moved by his words.
+黑科技	这款产品真的是黑科技。	This product is truly black technology.	他们公司最新的产品被称为黑科技。	Their company's latest product is called black technology.	这种黑科技让人感到惊讶。	This kind of black technology is astonishing.
+土嗨	这首歌听起来有点土嗨。	This song sounds a bit rustic and excited.	他的音乐总是有点土嗨。	His music always sounds a bit rustic and excited.	这种音乐在国际上可能会被认为是土嗨。	This kind of music might be considered rustic and excited internationally.
+手撕鬼子	这个电影中的角色手撕鬼子的场景很震撼。	The scene in the movie where the character lacerates the devils by hand is very shocking.	他在社交媒体上发了一条手撕鬼子的帖子。	He posted a hand-lacerating-the-devils article on social media.	这个网络用语有点手撕鬼子的意思。	This internet slang term has a bit of a hand-lacerating-the-devils meaning.
+實力	他的實力很强。	His capability is very strong.	这个团队的實力得到了证实。	The capability of this team has been confirmed.	他的表演實力让人印象深刻。	His performance capability is very impressive.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+蛙哥	蛙哥是我小时候的偶像。	Wage shi wo xiaoshihou de ouxiang.	Brother Frog was my idol when I was a child.	蛙哥在这部电视剧中表现得非常出色。	Wage zai zhe bu dianshiju zhong biaoxian de feichang chuse.	Brother Frog performed very well in this TV series.	蛙哥的粉丝们非常喜欢他。	Wage de fensi men feichang xihuan ta.	Brother Frog's fans like him very much.
+高仿號	她的微博被认为是一个高仿号。	Ta de weibo bei renwei shi yige gao fang hao.	Her Weibo account is considered to be a high imitation account.	很多明星都遭遇过高仿号的困扰。	Hen duo mingxing dou zaoyu guo gao fang hao de kunrao.	Many celebrities have encountered the trouble of high imitation accounts.	警方已经开始调查这些高仿号。	Jingfang yijing kaishi diaocha zheshi gao fang hao.	The police have started investigating these high imitation accounts.
+道	这条道很宽。	Zhe tiao dao hen kuan.	This road is very wide.	他的道德观念很正确。	Ta de daode guannian hen zhengque.	His moral concepts are very correct.	学习一门技术需要很多道。	Xuexi yimen jishu xuyao hen duo dao.	Learning a skill requires a lot of expertise.
+三歲	他家的小孩已经三岁了。	Ta jia de xiaohai yijing san sui le.	Their child is already three years old.	这位明星的宝宝刚刚满三岁。	Zhe wei mingxing de baobao ganggang man san sui.	This celebrity's baby just turned three.	三岁的孩子非常活泼。	San sui de haizi feichang huopo.	Three-year-old children are very lively.
+老鹿蹣跚	他对她的感情一直是老鹿蹣跚。	Ta dui ta de ganqing yizhi shi laolu manshan.	His feelings for her have always been like an old deer staggering.	她对爱情的态度就像老鹿蹣跚。	Ta dui aiqing de taidu jiu xiang laolu manshan.	Her attitude towards love is like an old deer staggering.	他们之间的关系一直是老鹿蹣跚。	Tamen zhijian de guanxi yizhi shi laolu manshan.	Their relationship has always been like an old deer staggering.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+甲	他的名字排在甲的位置。	His name is listed in the first position.	这个壳是乌龟的甲。	This shell belongs to a turtle.	甲级考试是非常重要的。	The A-level exam is very important.
+反向育儿	现代父母采取了反向育儿的方式。	Modern parents have adopted reverse parenting.	他们的育儿方式与传统不同。	Their parenting style is different from tradition.	反向育儿在当今社会变得越来越流行。	Reverse parenting is becoming more and more popular in today's society.
+妖艷賤貨	她总是被人误解为妖艷賤貨。	She is always misunderstood as a pretty and coquettish bitch.	这个词在网络上被广泛使用。	This term is widely used on the internet.	他们用这个词来讽刺一些女性。	They use this term to satirize some women.
+詩和遠方	她追求詩和遠方的生活。	She pursues a life of poetry and the far-off land.	这句话激励了很多人。	This sentence has inspired many people.	他们希望通过艺术和旅行找到内心的平静。	They hope to find inner peace through art and travel.
+殺馬特	他们喜欢穿着殺馬特风格的衣服。	They like to wear clothes in the kill-horse-special style.	这个网络词汇用来嘲讽一些年轻人。	This internet term is used to mock some young people.	他们的时尚选择反映了他们对城市化过程中的关注和异化感。	Their fashion choices reflect their need for attention and sense of alienation in the process of urbanization.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+来	我来自中国。	I come from China.	他昨天来我家了。	He came to my house yesterday.	我来帮你做饭。	I'll come help you cook.
+就	我一到家就给你打电话。	I'll call you as soon as I get home.	他就是个小孩。	He's just a kid.	我就知道你会喜欢这个礼物。	I knew you would like this gift.
+只有	只有努力学习，才能取得好成绩。	Only by studying hard can you achieve good grades.	只有你能做到这一点。	Only you can do this.	只有这样，我们才能成功。	Only in this way can we succeed.
+油腻	这家餐厅的食物很油腻。	The food in this restaurant is very greasy.	他的头发看起来很油腻。	His hair looks very greasy.	她的脸上油腻腻的。	Her face is greasy.
+喪	他因为工作不顺利而喪气。	He is frustrated because of the unsuccessful work.	她整天喪气地躺在床上。	She lies frustrated in bed all day.	他的喪气情绪影响了整个团队。	His frustrated mood affected the whole team.
+word	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+老司機	他是一個老司機，對這個領域非常有經驗。	He is an old driver and very experienced in this field.	這位老司機在網絡上分享了很多寶貴的經驗。	This old driver has shared a lot of valuable experiences on the internet.	作為一個老司機，他知道如何應對各種情況。	As an old driver, he knows how to deal with various situations.
+吃瓜群眾	這些吃瓜群眾對這個事件一無所知。	These watermelon-eating people are completely unaware of this event.	他們被稱為吃瓜群眾，因為他們只是旁觀者，不願參與討論。	They are called watermelon-eating people because they are just bystanders and unwilling to participate in the discussion.	在這個問題上，他們選擇保持沉默，被形容為吃瓜群眾。	On this issue, they choose to remain silent and are described as watermelon-eating people.
+種子	我找到了這個電影的種子，我們可以下載了。	I found the torrent file for this movie, we can download it now.	這個種子的下載速度非常快。	The download speed of this torrent file is very fast.	他經常使用種子下載電影和音樂。	He often uses torrent files to download movies and music.
+高級臉	她的高級臉讓她在時尚界非常受歡迎。	Her high-end face makes her very popular in the fashion industry.	這個新的美容趨勢讓很多女性追求高級臉。	This new beauty trend has led many women to pursue a high-end face.	她的高級臉給人一種高貴的感覺。	Her high-end face gives people a sense of nobility.

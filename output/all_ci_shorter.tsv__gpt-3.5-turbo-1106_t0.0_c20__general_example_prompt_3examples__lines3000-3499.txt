@@ -426,7 +426,7 @@ word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	
 参谋	staff officer; to give advice	他是一名军事参谋。	He is a military staff officer.	他经常向领导提供参谋建议。	He often provides advisory suggestions to the leader.	参谋的意见对我们很有帮助。	The staff officer's advice is very helpful to us.
 地形	topography; terrain; landform	这个地区的地形很复杂。	The topography of this area is very complex.	地形对战争有很大影响。	The terrain has a great impact on the war.	地形的变化导致了水流的改变。	The change in landform led to changes in water flow.
 当成	to consider as; to take to be	他把她当成了自己的妹妹。	He considers her as his own sister.	不要把玩笑当成真的。	Don't take the joke seriously.	他把失败当成了成功的开始。	He takes failure as the beginning of success.
-假	variant of 假[jia3]; to borrow	我可以借你的铅笔吗？Can I borrow your pencil?	他假了我的书。	He borrowed my book.	我需要假一些钱。	I need to borrow some money.
+假	variant of 假[jia3]; to borrow	我可以借你的铅笔吗？	Can I borrow your pencil?	他假了我的书。	He borrowed my book.	我需要假一些钱。	I need to borrow some money.
 福	good fortune; happiness; luck	他们家一直都很有福。	Their family has always been very fortunate.	福气是自己争取来的。	Fortune is something you strive for.	祝你福寿安康。	Wish you good fortune and longevity.
 word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
 电力	electrical power; electricity	这个城市的电力供应很稳定。	The electrical power supply in this city is very stable.	我们需要更多的清洁电力。	We need more clean electricity.	电力是现代社会的重要能源之一。	Electricity is one of the important energy sources in modern society.

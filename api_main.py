@@ -84,7 +84,7 @@ def main():
   with open(args.input_file, 'r', encoding='utf-8') as infile:
     for i, row in enumerate(infile):
       if i < args.start: continue
-      if i > args.end: break
+      if args.end and i > args.end: break
       input_data_rows.append(row)
 
   chunked_input = split_to_chunks(input_data_rows, chunk_size=args.chunk_size)
