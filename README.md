@@ -12,8 +12,9 @@ Miao miao meo meowst Meowmst.
 
 ## TODO
 
+ - get singleword defs for missing multici (from weeb or stront?_ )
  - get full pinyin list from CEDict (after converting from their format to normal pinyin format)
- - find invisible character that circumvents the Reword bug
+   - add pinyin from slang and strontium to it!!
  - fix the choosing of words that use the same zi by:
    - define an order of files in resources/wordlists_single
    - read those in order and map s.t. MAP[zi][level] gives everything at same level and b4

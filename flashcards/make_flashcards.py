@@ -15,7 +15,7 @@ input_ci_fname = "resources/definitions_and_pinyin/hsk1to6_zi_pinyin_def_sample.
 # TSV: maps ci to (short) definition
 definitions_fname = "resources/definitions_and_pinyin/hsk1to6_zi_pinyin_def.tsv"
 
-pinyin_fname = "resources/definitions_and_pinyin/hsk1to6_zi_pinyin_def.tsv"
+pinyin_fname = "resources/vocab_combined/all_ci_and_zi_pinyin.tsv"
 zi_definitions_fname = "resources/definitions_and_pinyin/zi_singleword_defs.tsv"
 multizi_definitions_fname = "resources/definitions_and_pinyin/all_multici.tsv__gpt-3.5-turbo-1106_t0.0_c40__multizi_prompt.txt"
 use_same_zi_fname = "resources/use_same_zi/mega_hanzi.tsv"
@@ -34,7 +34,10 @@ examples_fnames = [
     #   𓆝 𓆟 𓆞 𓆝 𓆟
      
 ]
+OBFUSTICATOR = "⠀" # invisible character to prevent deduping
 NEWLINE = "\r"
+MAX_EXAMPLES = 20
+
 
 def somple(X):
   x = list(X.items())
@@ -141,6 +144,10 @@ def pinyin(s):
   p =  pinyin_jyutping_sentence.pinyin(s)
   p = p.replace(" huán ", " hái ")
   p = p.replace(" dū ", " dōu ")
+  p = p.replace(" ，", ",")
+  p = p.replace(" 。", ".")
+  p = p.replace(" ！", "!")
+  p = p.replace(" ？", "?")
   return p
 
 def conditional_append(ci, resource, out_line, field_name=None):
@@ -153,7 +160,8 @@ def conditional_append(ci, resource, out_line, field_name=None):
       return True
     return False
 
-
+MISSING_OTHER_CI_PINYIN = []
+MISSING_OTHER_CI_MEANING = []
 def get_other_ci_list(zi_j):
   other_ci_list = []
   other_ci_superset = USE_SAME_ZI[zi_j].split(";") if zi_j in USE_SAME_ZI else []
@@ -165,8 +173,12 @@ def get_other_ci_list(zi_j):
 
     if ci_k in PINYIN:
       addenda.append(PINYIN[ci_k])
+    else:
+      MISSING_OTHER_CI_PINYIN.append(ci_k)
     if ci_k in ZI_DEFS:
       addenda.append(ZI_DEFS[ci_k])
+    else:
+      MISSING_OTHER_CI_MEANING.append(ci_k)
     if addenda:
       ci_k = f"{ci_k} ({'; '.join(addenda)})"
     other_ci_list.append(ci_k)
@@ -174,7 +186,7 @@ def get_other_ci_list(zi_j):
 
 out_lines = []
 for ci_j in TARGET_CI:
-  out_line = [[ci_j]]
+  out_line = [[ci_j + OBFUSTICATOR]]
   if not conditional_append(ci_j, PINYIN, out_line): continue
   if not conditional_append(ci_j, DEFINITIONS, out_line): continue
   if not conditional_append(ci_j, RELATED_WORDS, out_line, "related words"): pass
@@ -191,10 +203,10 @@ for ci_j in TARGET_CI:
 
   if ci_j in EXAMPLES:
     seen_examples = set()
-    for ex_zh, ex_en, ex_emoji in EXAMPLES[ci_j]:
+    for ex_emoji, ex_zh, ex_en in EXAMPLES[ci_j][0:MAX_EXAMPLES]:
       if ex_zh in seen_examples: continue
       seen_examples.add(ex_zh)
-      ex_en = pinyin(ex_zh) + NEWLINE + ex_en
+      ex_en = f"[{pinyin(ex_zh)}]{NEWLINE}{ex_en}"
       ex_zh = f"{ex_emoji} {ex_zh}"
       out_line[0].append(ex_zh)
       out_line[0].append(ex_en)
@@ -240,3 +252,5 @@ missing = TARGET_ZI - USE_SAME_ZI.keys()
 print(f"missing from USE_SAME_ZI: {'; '.join(missing)}\n")
 
 
+print(f"missing from MISSING_OTHER_CI_MEANING: {'; '.join(MISSING_OTHER_CI_MEANING)}\n")
+print(f"missing from MISSING_OTHER_CI_PINYIN: {'; '.join(MISSING_OTHER_CI_PINYIN)}\n")
