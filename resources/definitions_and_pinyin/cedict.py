@@ -57,9 +57,6 @@ with open("missing", "r") as f:
           print(ci)
       
 
-
-
-asdfvadfv
 def write_pinyin(outf, ci):
   if ci in extra_pinyin:
     pinyin = extra_pinyin[ci]

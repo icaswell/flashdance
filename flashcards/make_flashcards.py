@@ -3,12 +3,15 @@ import regex as re
 import pinyin_jyutping_sentence
 import random
 from collections import defaultdict
+import argparse
+
+parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
+parser.add_argument('--level', type=str)
+parser.add_argument('--mode', type=str)
+args = parser.parse_args()
 
 
-
-
-# TSV: maps ci to (short) definition
-definitions_fname = "resources/definitions_and_pinyin/hsk1to6_zi_pinyin_def.tsv"
+definitions_fname = "resources/definitions_and_pinyin/hsk1to6strontweeb_zi_pinyin_def.tsv"
 
 pinyin_fname = "resources/vocab_combined/all_ci_and_zi_pinyin.tsv"
 zi_definitions_fname = "resources/definitions_and_pinyin/zi_singleword_defs.tsv"
@@ -27,28 +30,45 @@ examples_fnames = [
         #   𓆝 𓆟 𓆞 𓆝 𓆟
 ]
 OBFUSTICATOR = "⠀" # invisible character to prevent deduping
-NEWLINE = "\r"
 MAX_EXAMPLES = 20
 MAX_EXAMPLES = 12
 
-# resources/vocab_separate/${X}.tsv
-# ci pinyin meaning
-# higher level is more advanced
-# fname="/Users/icaswell/Documents/dancing_miao/flashcards/sample1.csv"
-fname_out="flashcards/weeb1.flashcards.csv"
-TARGET_CI_LEVEL = "stront1"
+BREAK_INTO_N_CHUNKS = 1
+
+if args.mode == "android":
+  if args.level == "hsk4":
+    MAX_EXAMPLES = 6
+  if args.level == "hsk5":
+    MAX_EXAMPLES = 6
+    BREAK_INTO_N_CHUNKS = 2
+  if args.level == "hsk6":
+    MAX_EXAMPLES = 6
+    BREAK_INTO_N_CHUNKS = 4
+  if args.level == "weeb1":
+    MAX_EXAMPLES = 6
+    BREAK_INTO_N_CHUNKS = 4
+
+if args.mode == "iphone":
+   NEWLINE = "\r"
+   format_pinyin = lambda x: f"【{pinyin(x)}】"
+elif args.mode == "android":
+   NEWLINE = "<br></br>"
+   format_pinyin = lambda x: f"<i>{pinyin(x)}</i>"
+else:
+  raise ValueError("argh")
+
 
 LEVELS = {
-    "hsk1.cedict": 1,
-    "hsk2.cedict": 2,
-    "hsk3.cedict": 3,
-    "hsk4.cedict": 4,
-    # "hsk1to6_zi_pinyin_def_sample": 4,
-    "hsk5.cedict": 5,
-    "hsk6.cedict": 6,
+    "hsk1": 1,
+    "hsk2": 2,
+    "hsk3": 3,
+    "hsk4": 4,
+    "hsk5": 5,
+    "hsk6": 6,
     "stront1": 6,
     "weeb1": 6,
 }
+
 
 LEVELED_CI = defaultdict(list)
 
@@ -80,7 +100,7 @@ def somple(X):
   # print(x[0:5], x[-5:])
 
 TARGET_CI = []
-with open(f"resources/vocab_separate/{TARGET_CI_LEVEL}.tsv", "r") as f:
+with open(f"resources/vocab_separate/{args.level}.tsv", "r") as f:
   for line in f:
     TARGET_CI.append(line.strip().split("\t")[0])
 
@@ -243,7 +263,7 @@ for ci_j in TARGET_CI:
   if not conditional_append(ci_j, RELATED_WORDS, out_line, "related words"): pass
 
   for zi_j in ci_j:
-    other_ci_list = get_other_ci_list(zi_j, TARGET_CI_LEVEL)
+    other_ci_list = get_other_ci_list(zi_j, args.level)
     zi_j_decorated = f"{zi_j} ({ZI_DEFS[zi_j]})" if zi_j in ZI_DEFS else zi_j
     content = "There are no other HSK words in this level (or before) using this character."
     if other_ci_list:
@@ -257,7 +277,7 @@ for ci_j in TARGET_CI:
     for ex_emoji, ex_zh, ex_en in EXAMPLES[ci_j][0:MAX_EXAMPLES]:
       if ex_zh in seen_examples: continue
       seen_examples.add(ex_zh)
-      ex_en = f"【{pinyin(ex_zh)}】{NEWLINE}{ex_en}"
+      ex_en = f"{format_pinyin(ex_zh)}{NEWLINE}{ex_en}"
       ex_zh = f"{ex_emoji} {ex_zh}"
       out_line[0].append(ex_zh)
       out_line[0].append(ex_en)
@@ -272,10 +292,21 @@ out_lines = [
         for out_line in out_lines
         ]
 
-# writing to csv file
-with open(fname_out, 'w') as csvfile:
-  csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
-  csvwriter.writerows(out_lines)
+if BREAK_INTO_N_CHUNKS == 1:
+  fname_out = f"flashcards/{args.level}.flashcards.{args.mode}.csv"
+  with open(fname_out, 'w') as csvfile:
+    csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
+    csvwriter.writerows(out_lines)
+  print(f"Wrote {fname_out}")
+else:
+  chunk_size = int(len(out_lines)/float(BREAK_INTO_N_CHUNKS)) + 1
+  for part_i in range(BREAK_INTO_N_CHUNKS):
+    out_lines_i = out_lines[part_i*chunk_size:(part_i+1)*chunk_size]
+    fname_out = f"flashcards/{args.level}.flashcards.{args.mode}.{part_i + 1}-of-{BREAK_INTO_N_CHUNKS}.csv"
+    with open(fname_out, 'w') as csvfile:
+      csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
+      csvwriter.writerows(out_lines_i)
+    print(f"Wrote {fname_out}")
 
 
 
