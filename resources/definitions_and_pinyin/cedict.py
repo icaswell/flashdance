@@ -1,5 +1,6 @@
 import regex as re
 import pinyin_jyutping_sentence
+from collections import defaultdict
 from glob import glob
 DOWNLOADS = "/Users/icaswell/Downloads"
 levels="hsk1 hsk2 hsk3".split()
@@ -20,21 +21,21 @@ extra_pinyin = {}
 extra_defs = {}
 for fname in glob("resources/vocab_separate/*"): 
   with open(fname, "r") as f:
-      print(fname)
-      for line in f:
-          parts = line.strip().split("\t", maxsplit=2)
-          if len(parts) != 3:
-              print(line)
-              continue
-          ci, pinyin, meaning = parts
-          meaning =meaning.replace("\t", ". ")
-          # if ci not in all_ci:
-          #     all_ci[ci] = f"{ci}\t{meaning}\n"
-          #     all_ci_list.append(ci)
-          extra_pinyin[ci] = pinyin
-          extra_defs[ci] = meaning
+    print(fname)
+    for line in f:
+      parts = line.strip().split("\t", maxsplit=2)
+      if len(parts) != 3:
+          print(line)
+          continue
+      ci, pinyin, meaning = parts
+      meaning =meaning.replace("\t", ". ")
+      # if ci not in all_ci:
+      #     all_ci[ci] = f"{ci}\t{meaning}\n"
+      #     all_ci_list.append(ci)
+      extra_pinyin[ci] = pinyin
+      extra_defs[ci] = meaning
 
-CCEDICT = {}
+CCEDICT = defaultdict(list)
 with open("resources/cedict_1_0_ts_utf-8_mdbg.txt", "r") as f:
   for line in f:
     # line = '五寨縣 五寨县 [Wu3 zhai4 xian4] /Wuzhai county in Xinzhou 忻州[Xin1 zhou1], Shanxi/'
@@ -42,7 +43,29 @@ with open("resources/cedict_1_0_ts_utf-8_mdbg.txt", "r") as f:
     if not m: continue
     g = [gi.strip() for gi in m.groups()]
     if len(g) != 4: continue
-    CCEDICT[g[1]] = (g[2], g[3])
+    CCEDICT[g[1]].append((g[2], g[3]))
+
+for zi in CCEDICT.keys():
+  if len(CCEDICT[zi]) == 1:
+    CCEDICT[zi] = CCEDICT[zi][0]
+  else:
+    pinyins, defs = zip(*CCEDICT[zi])
+    # p = "||".join([p_i for i, p_i in enumerate(pinyins) if p_i not in pinyins[0:i]])
+    try:
+      idx, pared_defs = zip(*[(i, re.sub("(^/|/$)", "", deff)) for i, deff in enumerate(defs) if not re.match("/[a-z ]*variant of[^/]*/", deff)])
+    except:  # the only definitions are of variants
+      continue
+      
+    pinyins = [pinyins[i].lower() for i in idx]
+
+    if len(set(pinyins)) == 1:
+      p = pinyins[0]
+      defs = "; ".join(pared_defs)
+    else:  # if there are multiple pinyin options
+      p = "||".join(pinyins)
+      defs = "||".join(pared_defs)
+    defs = defs.replace("/", "; ")
+    CCEDICT[zi] = (p, defs)
 
 
 with open("missing", "r") as f:
@@ -66,19 +89,32 @@ def write_pinyin(outf, ci):
   pinyin = pinyin if pinyin else "-"
   outf.write(f"{ci}\t{pinyin}\n")
 
-already_written = set()
-with open("resources/vocab_combined/all_ci.tsv", "r") as f:
-  with open("resources/vocab_combined/all_ci_and_zi_pinyin.tsv", "w") as outf:
-    for line in f:
-      parts = line.strip().split("\t")
-      if len(parts) != 2:
-        print(line.strip())
-        continue
-      to_do = {zi for zi in parts[0]} | {parts[0]}
-      for ci in to_do:
-        if ci in already_written: continue
-        write_pinyin(outf, ci)
-        already_written.add(ci)
+for ci in extra_defs:
+  if ci in CCEDICT: continue
+  CCEDICT[ci] = (extra_pinyin[ci], extra_defs[ci])
+
+outfname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
+with open(outfname, "w") as outf:
+  for ci in CCEDICT:
+    p, d = CCEDICT[ci]
+    outf.write(f"{ci}\t{p}\t{d}\n")
+  print("write all words, pinyin, defs to:")
+  print(outfname)
+   
+
+# already_written = set()
+# with open("resources/vocab_combined/all_ci.tsv", "r") as f:
+#   with open("resources/vocab_combined/all_ci_and_zi_pinyin.tsv", "w") as outf:
+#     for line in f:
+#       parts = line.strip().split("\t")
+#       if len(parts) != 2:
+#         print(line.strip())
+#         continue
+#       to_do = {zi for zi in parts[0]} | {parts[0]}
+#       for ci in to_do:
+#         if ci in already_written: continue
+#         write_pinyin(outf, ci)
+#         already_written.add(ci)
 
 # with open("input/multizi_input.txt", "r") as f:
 #   with open("input/multizi_input.tsv", "w") as outf:

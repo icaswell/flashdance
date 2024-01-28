@@ -25,7 +25,7 @@ relatedwords_explanation_fname = "resources/hsk1to6.tsv__gpt-3.5-turbo-1106_t0.0
 examples_fnames = [
         ["❈", 3, "resources/example_sentences/general.tsv"],  # ❈ is "heavy sparkle"
         ["🐇", 2, "resources/example_sentences/cql.tsv"],
-        ["☯", 2, "resources/example_sentences/daodejing.tsv"]
+        # ["☯", 2, "resources/example_sentences/daodejing.tsv"]
         # ☯️ ☯ ☾𖤓࿊
         #   𓆝 𓆟 𓆞 𓆝 𓆟
 ]
@@ -39,11 +39,13 @@ if args.mode == "android":
   if args.level == "hsk4":
     MAX_EXAMPLES = 6
   if args.level == "hsk5":
-    MAX_EXAMPLES = 6
+    examples_fnames[1][1] = 1
+    MAX_EXAMPLES = 5
     BREAK_INTO_N_CHUNKS = 2
   if args.level == "hsk6":
-    MAX_EXAMPLES = 6
-    BREAK_INTO_N_CHUNKS = 4
+    examples_fnames[1][1] = 1
+    MAX_EXAMPLES = 5
+    BREAK_INTO_N_CHUNKS = 6
   if args.level == "weeb1":
     MAX_EXAMPLES = 6
     BREAK_INTO_N_CHUNKS = 4
