@@ -45,15 +45,19 @@ with open("resources/cedict_1_0_ts_utf-8_mdbg.txt", "r") as f:
     if len(g) != 4: continue
     CCEDICT[g[1]].append((g[2], g[3]))
 
+def format_ccedict_entry(s):
+    return re.sub("(^/|/$)", "", s)
+
 for zi in CCEDICT.keys():
   if len(CCEDICT[zi]) == 1:
-    CCEDICT[zi] = CCEDICT[zi][0]
+    CCEDICT[zi] = (CCEDICT[zi][0][0], format_ccedict_entry(CCEDICT[zi][0][1]))
   else:
     pinyins, defs = zip(*CCEDICT[zi])
     # p = "||".join([p_i for i, p_i in enumerate(pinyins) if p_i not in pinyins[0:i]])
     try:
-      idx, pared_defs = zip(*[(i, re.sub("(^/|/$)", "", deff)) for i, deff in enumerate(defs) if not re.match("/[a-z ]*variant of[^/]*/", deff)])
+      idx, pared_defs = zip(*[(i, format_ccedict_entry(deff)) for i, deff in enumerate(defs) if not re.match("/[a-z ]*variant of[^/]*/", deff)])
     except:  # the only definitions are of variants
+      CCEDICT[zi] = CCEDICT[zi][0]
       continue
       
     pinyins = [pinyins[i].lower() for i in idx]
@@ -92,6 +96,10 @@ def write_pinyin(outf, ci):
 for ci in extra_defs:
   if ci in CCEDICT: continue
   CCEDICT[ci] = (extra_pinyin[ci], extra_defs[ci])
+  if not len(CCEDICT[ci]) == 2:
+    assert False
+    
+
 
 outfname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
 with open(outfname, "w") as outf:
