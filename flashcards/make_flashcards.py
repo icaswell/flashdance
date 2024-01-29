@@ -154,11 +154,19 @@ with open(multizi_definitions_fname, "r") as f:
 #     RELATED_WORDS[parts[0]] = parts[1]
 # somple(RELATED_WORDS)
 
+
+def format_related_words(s):
+  f = re.findall("([^\)])\n([A-Za-z, ]{0,20}(oth |summary|example|hese words|hese two words|The words|While|So, ))", s)
+  if not f: return s
+  for g in f:
+    s = s.replace(g[1], "\n" + g[1])
+  return s
 RELATED_WORDS = {}
 with open(relatedwords_explanation_fname, "r") as f:
   reader = csv.reader(f, delimiter=';')
   for row in reader:
-    RELATED_WORDS[row[0]] = row[1]
+    if not re.match("\p{Han}", row[1]): continue
+    RELATED_WORDS[row[0]] = format_related_words(row[1])
 # print("RELATED_WORDS" + "\n"); somple(RELATED_WORDS)
 
 EXAMPLES = defaultdict(list)
@@ -255,6 +263,9 @@ def get_other_ci_list(zi_j, level):
     other_ci_list.append(ci_k)
   return other_ci_list
 
+
+
+
 out_lines = []
 for ci_j in TARGET_CI:
   out_line = [[ci_j + OBFUSTICATOR]]
@@ -295,7 +306,7 @@ out_lines = [
         ]
 
 if BREAK_INTO_N_CHUNKS == 1:
-  fname_out = f"flashcards/{args.level}.flashcards.{args.mode}.csv"
+  fname_out = f"flashcards/{args.mode}/{args.level}.flashcards.{args.mode}.csv"
   with open(fname_out, 'w') as csvfile:
     csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
     csvwriter.writerows(out_lines)
@@ -304,7 +315,7 @@ else:
   chunk_size = int(len(out_lines)/float(BREAK_INTO_N_CHUNKS)) + 1
   for part_i in range(BREAK_INTO_N_CHUNKS):
     out_lines_i = out_lines[part_i*chunk_size:(part_i+1)*chunk_size]
-    fname_out = f"flashcards/{args.level}.flashcards.{args.mode}.{part_i + 1}-of-{BREAK_INTO_N_CHUNKS}.csv"
+    fname_out = f"flashcards/{args.mode}/{args.level}.flashcards.{args.mode}.{part_i + 1}-of-{BREAK_INTO_N_CHUNKS}.csv"
     with open(fname_out, 'w') as csvfile:
       csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
       csvwriter.writerows(out_lines_i)
