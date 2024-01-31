@@ -11,7 +11,7 @@ parser.add_argument('--mode', type=str)
 args = parser.parse_args()
 
 
-definitions_fname = "resources/definitions_and_pinyin/hsk1to6strontweeb_zi_pinyin_def.tsv"
+definitions_fname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
 
 pinyin_fname = "resources/vocab_combined/all_ci_and_zi_pinyin.tsv"
 zi_definitions_fname = "resources/definitions_and_pinyin/zi_singleword_defs.tsv"
@@ -156,7 +156,7 @@ with open(multizi_definitions_fname, "r") as f:
 
 
 def format_related_words(s):
-  f = re.findall("([^\)])\n([A-Za-z, ]{0,20}(oth |summary|example|hese words|hese two words|The words|While|So, ))", s)
+  f = re.findall("([^\)])\n([A-Za-z, ]{0,20}(oth |summary|example|hese words|hese two words|hese three words|hese four words|The words|While|So, ))", s)
   if not f: return s
   for g in f:
     s = s.replace(g[1], "\n" + g[1])
@@ -220,10 +220,11 @@ def format_cls(s):
   # if "CL:" not in s: return s
   s = re.sub("\p{Han}\|(\p{Han})\[", "\\1[", s)
   # pinyins = re.findall("[\p{Han}]\[([a-z1-5]{2,7})\].?", s)
-  pinyins = re.findall("[^a-z]([a-z]{1,7}[1-5])[^a-z0-9]", s)
-  for p in pinyins:
-    p_better = pinyin_jyutping_sentence.romanization_conversion.decode_pinyin(p, False, False) 
-    s = s.replace(p, p_better)
+  for _ in range(2):
+    pinyins = re.findall("[^a-z]([a-z]{1,7}[1-5])[^a-z0-9]", s)
+    for p in pinyins:
+      p_better = pinyin_jyutping_sentence.romanization_conversion.decode_pinyin(p, False, False) 
+      s = s.replace(p, p_better)
   return s
 
   

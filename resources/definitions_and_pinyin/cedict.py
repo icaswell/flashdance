@@ -72,18 +72,6 @@ for zi in CCEDICT.keys():
     CCEDICT[zi] = (p, defs)
 
 
-with open("missing", "r") as f:
-  with open("missing.def", "w") as outf:
-    for line in f:
-        ci = line.strip()
-        if ci in CCEDICT:
-          outf.write(f"{ci}\t{CCEDICT[ci][1]}\n")
-        elif ci in extra_defs:
-          outf.write(f"{ci}\t{extra_defs[ci]}\n")
-        else:
-          print(ci)
-      
-
 def write_pinyin(outf, ci):
   if ci in extra_pinyin:
     pinyin = extra_pinyin[ci]
@@ -100,6 +88,18 @@ for ci in extra_defs:
     assert False
     
 
+
+# with open("missing", "r") as f:
+#   with open("missing.def", "w") as outf:
+#     for line in f:
+#         ci = line.strip()
+#         if ci in CCEDICT:
+#           outf.write(f"{ci}\t{CCEDICT[ci][1]}\n")
+#         elif ci in extra_defs:
+#           outf.write(f"{ci}\t{extra_defs[ci]}\n")
+#         else:
+#           print(ci)
+      
 
 outfname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
 with open(outfname, "w") as outf:
