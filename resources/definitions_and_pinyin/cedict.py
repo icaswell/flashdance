@@ -71,6 +71,14 @@ for zi in CCEDICT.keys():
     defs = defs.replace("/", "; ")
     CCEDICT[zi] = (p, defs)
 
+for zi in CCEDICT.keys():
+  if not zi.endswith("儿"): continue
+  p, deff = CCEDICT[zi]
+  if deff.startswith("erhua"):
+    pared = zi[0:-1]
+    if pared in CCEDICT:
+      deff = CCEDICT[pared][1]
+    CCEDICT[zi] = (p, deff)
 
 def write_pinyin(outf, ci):
   if ci in extra_pinyin:
