@@ -14,7 +14,10 @@ from openai import OpenAI
 import random
 import csv
 import argparse
+import sys
+import datetime
 
+LOG_FILE = "output/LOG.tsv"
 
 def read_tsv(file_path):
     data = []
@@ -112,7 +115,10 @@ def main():
   print("\n\n#================================================#")
   print(f"Wrote to file {output_fname}")
 
-
+  with open(LOG_FILE, "a") as f:
+    f.write(output_fname + "\t")
+    f.write(" ".join(sys.argv) + "\t")
+    f.write(datetime.datetime.now().strftime("%Y/%m/%d %H:%M") + "\n")
 
 
 if __name__ == '__main__':

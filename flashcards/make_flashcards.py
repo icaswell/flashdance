@@ -1,6 +1,7 @@
 import csv
 import regex as re
 import pinyin_jyutping_sentence
+from pinyin import get_pinyin
 import random
 from collections import defaultdict
 import argparse
@@ -8,22 +9,20 @@ import argparse
 parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
 parser.add_argument('--level', type=str)
 parser.add_argument('--mode', type=str)
+parser.add_argument('--use_existing_defs', type=str, default=True, help="whether to use the pinyin and definitions in the input TSV, rather than the definitions from CEDict etc.")
 args = parser.parse_args()
-
 
 definitions_fname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
 
-pinyin_fname = "resources/vocab_combined/all_ci_and_zi_pinyin.tsv"
 zi_definitions_fname = "resources/definitions_and_pinyin/zi_singleword_defs.tsv"
-multizi_definitions_fname = "resources/definitions_and_pinyin/all_multici.tsv__gpt-3.5-turbo-1106_t0.0_c40__multizi_prompt.txt"
-use_same_zi_fname = "resources/use_same_zi/mega_hanzi.tsv"
+multizi_definitions_fname = "resources/definitions_and_pinyin/multizi_singleword_defs.tsv"
 
 # relatedwords_fname = "resources/related_words/hsk1to6.tsv"
 relatedwords_explanation_fname = "resources/hsk1to6.tsv__gpt-3.5-turbo-1106_t0.0__related_words_prompt.csv"
 
 # https://en.wikipedia.org/wiki/List_of_Unicode_characters#Miscellaneous_Symbols
 examples_fnames = [
-        ["❈", 3, "resources/example_sentences/general.tsv"],  # ❈ is "heavy sparkle"
+        ["❈", 3, "resources/example_sentences/general2.tsv"],  # ❈ is "heavy sparkle"
         ["🐇", 2, "resources/example_sentences/cql.tsv"],
         # ["☯", 2, "resources/example_sentences/daodejing.tsv"]
         # ☯️ ☯ ☾𖤓࿊
@@ -32,6 +31,7 @@ examples_fnames = [
 OBFUSTICATOR = "⠀" # invisible character to prevent deduping
 MAX_EXAMPLES = 20
 MAX_EXAMPLES = 12
+MAX_SAME_ZI_EXAMPLES = 10
 
 BREAK_INTO_N_CHUNKS = 1
 
@@ -52,10 +52,10 @@ if args.mode == "android":
 
 if args.mode == "iphone":
    NEWLINE = "\r"
-   format_pinyin = lambda x: f"【{pinyin(x)}】"
+   format_pinyin = lambda x: f"【{get_pinyin(x)}】"
 elif args.mode == "android":
    NEWLINE = "<br></br>"
-   format_pinyin = lambda x: f"<i>{pinyin(x)}</i>"
+   format_pinyin = lambda x: f"<i>{get_pinyin(x)}</i>"
 else:
   raise ValueError("argh")
 
@@ -70,6 +70,8 @@ LEVELS = {
     "stront1": 6,
     "weeb1": 6,
 }
+if args.level not in LEVELS:
+  LEVELS[args.level] = max(LEVELS.values())
 
 
 LEVELED_CI = defaultdict(list)
@@ -77,8 +79,11 @@ LEVELED_CI = defaultdict(list)
 ALL_ZI_IN_LEVELS = set()
 for level in LEVELS:
   with open(f"resources/vocab_separate/{level}.tsv", "r") as f:
-    for line in f:
-      ci, _, _ = line.split("\t", maxsplit=2)
+    for i, line in enumerate(f):
+      parts = line.split("\t")
+      if len(parts) != 3:
+        raise ValueError(f"Line {i} should have three tab-separated values but doesn't: {line}")
+      ci, _, _ = parts
       LEVELED_CI[level].append(ci)
       ALL_ZI_IN_LEVELS |= {zi for zi in ci}
 
@@ -115,44 +120,27 @@ with open(definitions_fname, "r") as f:
       if deff.startswith("/"):
         deff = deff[1:-1].replace("/", "; ")
       DEFINITIONS[parts[0]] = deff
-# print("DEFINITIONS" + "\n"); somple(DEFINITIONS)
-
-PINYIN = {}
-with open(pinyin_fname, "r") as f:
-  for i, line in enumerate(f):
-    parts = line.strip().split("\t")
-    if len(parts) != 2: print(i, line)
-    else: PINYIN[parts[0]] = parts[1]
-# print("PINYIN" + "\n"); somple(PINYIN)
+if args.use_existing_defs:
+  with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
+    for line in f:
+      parts = line.strip().split("\t")
+      if len(parts) >=3:
+        addendum = ""
+        if parts[0] in DEFINITIONS:
+          addendum = parts[2] + "/" + DEFINITIONS[parts[0]]
+        DEFINITIONS[parts[0]] = parts[2]
 
 ZI_DEFS = {}
 with open(zi_definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     ZI_DEFS[parts[0]] = parts[1]
-# print("ZI_DEFS" + "\n"); somple(ZI_DEFS)
 
 with open(multizi_definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     ZI_DEFS[parts[0]] = parts[1]
-# print("ZI_DEFS" + "\n"); somple(ZI_DEFS)
 
-
-# # i zi  first_occurence hsk1  hsk2  hsk3  hsk4  hsk5  hsk6  nhsk1 nhsk2 nhsk3 nhsk4 nhsk5 nhsk6 stront1 weeb1  
-# USE_SAME_ZI = {}
-# with open(use_same_zi_fname, "r") as f:
-#   for line in f:
-#     parts = line.strip().split("\t")
-#     USE_SAME_ZI[parts[1]] = parts[-1]  # TODO handle logic for only the level below and equal
-# print("USE_SAME_ZI" + "\n"); somple(USE_SAME_ZI)
-
-# RELATED_WORDS = {}
-# with open(relatedwords_fname, "r") as f:
-#   for line in f:
-#     parts = line.strip().split("\t")
-#     RELATED_WORDS[parts[0]] = parts[1]
-# somple(RELATED_WORDS)
 
 
 def format_related_words(s):
@@ -188,7 +176,8 @@ for example_emoji, n_examples, examples_fname in examples_fnames:
           paired_examples[-1].append(example)
       random.shuffle(paired_examples)
       for zhex, enex in paired_examples[0:n_examples]:
-        if ci not in zhex: continue
+        # if it is longer than ~4 is is probably grammar and we don't need exact match
+        if len(ci) <= 4 and ci not in zhex: continue
         EXAMPLES[ci].append((example_emoji, zhex, enex))
 # print("EXAMPLES" + "\n"); somple(EXAMPLES)
 
@@ -206,16 +195,6 @@ for ci in TARGET_CI:
 for ci, example_tups in INVERTED_EXAMPLES.items():
   EXAMPLES[ci] += example_tups
 
-def pinyin(s):
-  p =  pinyin_jyutping_sentence.pinyin(s)
-  p = p.replace(" huán ", " hái ")
-  p = p.replace(" dū ", " dōu ")
-  p = p.replace(" ，", ",")
-  p = p.replace(" 。", ".")
-  p = p.replace(" ！", "!")
-  p = p.replace(" ？", "?")
-  return p
-
 def format_cls(s):
   # if "CL:" not in s: return s
   s = re.sub("\p{Han}\|(\p{Han})\[", "\\1[", s)
@@ -229,18 +208,7 @@ def format_cls(s):
 
   
 
-def conditional_append(ci, resource, out_line, field_name=None):
-  if ci in resource:
-    if field_name: out_line[0].append(field_name)
-    out_line[0].append(resource[ci])
-    return True
-  else:
-    if field_name is not None:
-      return True
-    return False
-
-MISSING_OTHER_CI_PINYIN = []
-MISSING_OTHER_CI_MEANING = []
+MISSING_CI_WITH_SAME_ZI_MEANING = set()
 def get_other_ci_list(zi_j, level):
   other_ci_list = []
   other_ci_superset = ZI_TO_LEVELED_CI[zi_j][level]
@@ -251,39 +219,40 @@ def get_other_ci_list(zi_j, level):
     if len(ci_k) > 4: continue
     addenda = []
 
-    if ci_k in PINYIN:
-      addenda.append(PINYIN[ci_k])
-    else:
-      MISSING_OTHER_CI_PINYIN.append(ci_k)
     if ci_k in ZI_DEFS:
       addenda.append(ZI_DEFS[ci_k])
     else:
-      MISSING_OTHER_CI_MEANING.append(ci_k)
+      MISSING_CI_WITH_SAME_ZI_MEANING.add(ci_k)
     if addenda:
       ci_k = f"{ci_k} ({'; '.join(addenda)})"
     other_ci_list.append(ci_k)
-  return other_ci_list
+  return other_ci_list[0:MAX_SAME_ZI_EXAMPLES]
 
 
 
 
 out_lines = []
 for ci_j in TARGET_CI:
-  out_line = [[ci_j + OBFUSTICATOR]]
-  if not conditional_append(ci_j, PINYIN, out_line): continue
-  if ci_j in DEFINITIONS:
-    out_line[0].append(format_cls(DEFINITIONS[ci_j]))
+  out_line = [ci_j + OBFUSTICATOR]
 
-  if not conditional_append(ci_j, RELATED_WORDS, out_line, "related words"): pass
+  out_line.append(get_pinyin(ci_j))
+
+  if ci_j in DEFINITIONS:
+    out_line.append(format_cls(DEFINITIONS[ci_j]))
+
+  if ci_j in RELATED_WORDS:
+    out_line.append("related words")
+    out_line.append(RELATED_WORDS[ci_j])
 
   for zi_j in ci_j:
+    if not re.match("\p{Han}", zi_j): continue
     other_ci_list = get_other_ci_list(zi_j, args.level)
     zi_j_decorated = f"{zi_j} ({ZI_DEFS[zi_j]})" if zi_j in ZI_DEFS else zi_j
     content = "There are no other HSK words in this level (or before) using this character."
     if other_ci_list:
       content = "Other words using this character: " + "; ".join(other_ci_list)
-    out_line[0].append(zi_j_decorated)
-    out_line[0].append(content)
+    out_line.append(zi_j_decorated)
+    out_line.append(content)
 
 
   if ci_j in EXAMPLES:
@@ -293,9 +262,9 @@ for ci_j in TARGET_CI:
       seen_examples.add(ex_zh)
       ex_en = f"{format_pinyin(ex_zh)}{NEWLINE}{ex_en}"
       ex_zh = f"{ex_emoji} {ex_zh}"
-      out_line[0].append(ex_zh)
-      out_line[0].append(ex_en)
-  out_lines.append(out_line[0])
+      out_line.append(ex_zh)
+      out_line.append(ex_en)
+  out_lines.append(out_line)
 
 # print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 # for xx in out_lines:
@@ -324,28 +293,44 @@ else:
 
 
 
+def write_missing(ci, name):
+  if not ci:
+    print(f"Nothing missing from {name}!")
+    return
+  print(f"missing from {name}: {'; '.join(missing)}")
+  fname = f"missing/{name}.tsv"
+  with open(fname, "w") as f:
+    for cij in ci:
+      f.write(f"{cij}\t{DEFINITIONS.get(cij, 'no definition')}\n")
+      # f.write(f"{cij}\t{get_pinyin(cij)}\t{DEFINITIONS.get(cij, 'no definition')}\n")
+  print(f"wrote to {fname}\n")
+
 TARGET_CI = set(TARGET_CI)
-TARGET_ZI = {zi for ci in TARGET_CI for zi in ci}
+# TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if not re.match("[a-zA-Z\p{punctuation}]", zi)}
+TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if re.match("\p{Han}", zi)}
 
 missing = TARGET_CI - DEFINITIONS.keys() 
-print(f"missing from DEFINITIONS: {'; '.join(missing)}\n")
-
-missing = TARGET_CI - PINYIN.keys() 
-print(f"missing from PINYIN: {'; '.join(missing)}\n")
-missing = TARGET_ZI - PINYIN.keys() 
-print(f"missing from PINYIN (ZI): {'; '.join(missing)}\n")
-
-missing = TARGET_CI - RELATED_WORDS.keys() 
-print(f"missing from RELATED_WORDS: {'; '.join(missing)}\n")
+write_missing(missing, "definitions")
 
 missing = TARGET_CI - EXAMPLES.keys() 
-print(f"missing from EXAMPLES: {'; '.join(missing)}\n")
+write_missing(missing, "examples")
 
-missing = TARGET_ZI - ZI_DEFS.keys() 
-print(f"missing from ZI_DEFS: {'; '.join(missing)}\n")
+missing = TARGET_ZI - ZI_DEFS.keys()
+write_missing(missing, "zi_defs")
+
+missing = MISSING_CI_WITH_SAME_ZI_MEANING
+write_missing(missing, "single_defs_for_shared_zi_multici")
 
 
-print(f"missing from MISSING_OTHER_CI_MEANING: {'; '.join(MISSING_OTHER_CI_MEANING)}\n")
-print(f"missing from MISSING_OTHER_CI_PINYIN: {'; '.join(MISSING_OTHER_CI_PINYIN)}\n")
+api_cmd_fname = "missing/api_commands.sh"
+with open(api_cmd_fname, "w") as f:
+  for (infile, promptfile) in [
+    ("examples.tsv", "cql_example_prompt3_3examples.txt"),
+    ("examples.tsv", "general_example_prompt_3examples.txt"),
+    ("single_defs_for_shared_zi_multici.tsv", "multizi_prompt.txt"),
+    ("zi_defs.tsv", "singlezi_prompt.txt")]:
+    f.write(f"python3 api_main.py --input=missing/{infile} --system_prompt=prompts/{promptfile}\n")
+  f.write("tail -n 4 output/LOG.tsv | cut -f 1\n")
 
-print(f"Wrote {fname_out}")
+print(f"Wrote flashcards to {fname_out}")
+print(f"Wrote api commands to {api_cmd_fname}")

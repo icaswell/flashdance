@@ -1,0 +1,7 @@
+output/zi_defs.tsv__gpt-3.5-turbo-1106_t0.0_c5__multizi_prompt.txt	api_main.py --input=missing/zi_defs.tsv --system_prompt=prompts/multizi_prompt.txt	2024/02/10 18:26
+output/examples.tsv__gpt-3.5-turbo-1106_t0.0_c5__cql_example_prompt3_3examples.txt	api_main.py --input=missing/examples.tsv --system_prompt=prompts/cql_example_prompt3_3examples.txt	2024/02/10 18:36
+output/examples.tsv__gpt-3.5-turbo-1106_t0.0_c5__general_example_prompt_3examples.txt	api_main.py --input=missing/examples.tsv --system_prompt=prompts/general_example_prompt_3examples.txt	2024/02/10 18:37
+output/single_defs_for_shared_zi_multici.tsv__gpt-3.5-turbo-1106_t0.0_c5__multizi_prompt.txt	api_main.py --input=missing/single_defs_for_shared_zi_multici.tsv --system_prompt=prompts/multizi_prompt.txt	2024/02/10 18:53
+output/zi_defs.tsv__gpt-3.5-turbo-1106_t0.0_c5__singlezi_prompt.txt	api_main.py --input=missing/zi_defs.tsv --system_prompt=prompts/singlezi_prompt.txt	2024/02/10 18:54
+output/examples.tsv__gpt-3.5-turbo-1106_t0.0_c5__cql_example_prompt3_3examples.txt	api_main.py --input=missing/examples.tsv --system_prompt=prompts/cql_example_prompt3_3examples.txt	2024/02/10 20:35
+output/examples.tsv__gpt-3.5-turbo-1106_t0.0_c5__general_example_prompt_3examples.txt	api_main.py --input=missing/examples.tsv --system_prompt=prompts/general_example_prompt_3examples.txt	2024/02/10 20:35

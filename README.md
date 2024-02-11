@@ -10,15 +10,40 @@ Miao miao meo meowst Meowmst.
 3. Parse the AI-generated outputs into new resources, putting them back in the `resources/` folder. Generally, for some particular irectory in `resources/`, there will be a python script in that directory that parses the outputs into a well-behaved file.
 4. Generate flashcards with `flashcards/make_flashcards.py`
 
+
+## Adding new flashcards
+
+1. add a new set of flashcards in `vocab_separate`
+2. generate flashcards by pointing at it:
+
+```
+python3 flashcards/make_flashcards.py --mode=iphone --level=stront2
+```
+
+3. This will report the missing things that need to be generated with AI. It will write the relevant commands to `missing/api_commands.sh`. You can now run this file to call the API:
+
+```
+bash missing/api_commands.sh
+```
+
+This will also output the four relevant files.
+
+
+4. Run `python3 resources/example_sentences/parse_example_outputs.py`. Then see the errors it reports and fix them. Then run it again.
+
+Optional:
+  * by default, everything is considered as being at the highest level. If you want the level to be lower (this influences how many same-zi ci are shown) you can modify LEVELS in `make_flashcards.py`.
+
+5. Run `python3 resources/definitions_and_pinyin/add_to_zi_singleword_defs.py` to add the singlezi defs. It may output lines that you need to fix.
+
+6. Run ` python3  resources/definitions_and_pinyin/add_to_multici_singleword_defs.py  `. Sehe oben
+
+7. Run `python3 flashcards/make_flashcards.py` againnnnn
+
+8. profit
+
 ## TODO
 
- - get singleword defs for missing multici (from weeb or stront?_ )
- - get full pinyin list from CEDict (after converting from their format to normal pinyin format)
-   - add pinyin from slang and strontium to it!!
- - fix the choosing of words that use the same zi by:
-   - define an order of files in resources/wordlists_single
-   - read those in order and map s.t. MAP[zi][level] gives everything at same level and b4
-  - fix the "CL" annotations from CEDict
-    - I: "CL:個|个[ge4],條|条[tiao2]"
-    - O: "CL:个[gè],条[tiáo]"
-  - Hopefully figure out how to do both and italics because it would be really nice if pinyin were an italics?
+ - fix multi-pinyin definitions with "||"
+ - add "also pr." and "blah Taiwan pr" into the pinyin field
+ - remove proper names like Sun Tsu ?
