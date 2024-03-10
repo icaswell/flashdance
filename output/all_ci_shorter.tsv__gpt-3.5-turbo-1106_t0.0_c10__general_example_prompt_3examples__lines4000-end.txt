@@ -683,7 +683,7 @@ word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	
 word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
 此前	before this; before then; previously	此前的经历让我更加成熟。	The previous experience made me more mature.	此前我们已经做好了准备。	We were already prepared before this.	此前的计划需要做出一些调整。	Some adjustments need to be made to the previous plan.
 大熊猫	giant panda (Ailuropoda melanoleuca)	大熊猫是中国的国宝。	The giant panda is a national treasure of China.	我很想去看大熊猫。	I really want to go see the giant pandas.	大熊猫是一种濒临灭绝的动物。	The giant panda is an endangered species.
-大于	greater than; bigger than; more than	5大于3。	5 is greater than 3.	她的成绩大于我的。	Her grades are higher than mine.	大于10的数是正数。	Numbers greater than 10 are positive.
+大于	greater than; bigger than; more than	5大于3。	five is greater than 3.	她的成绩大于我的。	Her grades are higher than mine.	大于10的数是正数。	Numbers greater than 10 are positive.
 大致	more or less; roughly; approximately	这个地方大致就在那附近。	The place is roughly around there.	大致的计划已经确定了。	The rough plan has been confirmed.	他大致知道了发生了什么事。	He roughly knows what happened.
 发明	to invent; an invention; CL:個|个[ge4]	这个发明改变了我们的生活。	This invention changed our lives.	他是这个发明的发明者。	He is the inventor of this invention.	发明需要创造力和毅力。	Inventing requires creativity and perseverance.
 地位	position; status; place; CL:個|个[ge4]	她在公司里有很高的地位。	She has a high position in the company.	这个城市在国家的地位很重要。	This city has an important status in the country.	他在家庭中的地位很特殊。	His place in the family is very special.

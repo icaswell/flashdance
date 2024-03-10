@@ -42,8 +42,3 @@ Optional:
 
 8. profit
 
-## TODO
-
- - fix multi-pinyin definitions with "||"
- - add "also pr." and "blah Taiwan pr" into the pinyin field
- - remove proper names like Sun Tsu ?

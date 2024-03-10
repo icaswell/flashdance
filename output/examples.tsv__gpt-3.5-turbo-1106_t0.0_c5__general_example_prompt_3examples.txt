@@ -129,3 +129,96 @@ word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	
 E人/ 外向的人	extrovert	她是一个E人，喜欢社交。	She is an extrovert and enjoys socializing.	作为一个E人，他总是很活跃。	As an extrovert, he is always very active.	你是一个E人还是I人？	Are you an extrovert or an introvert?
 I人/ 内向的人	introvert	她是一个I人，喜欢独处。	She is an introvert and enjoys being alone.	作为一个I人，他更喜欢安静的环境。	As an introvert, he prefers a quiet environment.	你更喜欢和I人还是E人交朋友？	Do you prefer to make friends with introverts or extroverts?
 你与其每天不高兴，还不如做做让你开心的事情。	Instead of being unhappy every day, you might as well do things that make you happy.	你与其每天不高兴，还不如去旅行。	Instead of being unhappy every day, you might as well travel.	与其每天不高兴，还不如学一门新技能。	Instead of being unhappy every day, you might as well learn a new skill.	与其每天不高兴，还不如和朋友聚一聚。	Instead of being unhappy every day, you might as well get together with friends.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+诅咒	to curse	他诅咒了那个人。	He cursed that person.	她受到了诅咒。	She was cursed.	他诅咒着自己的命运。	He cursed his own fate.
+发微信	to send WeChat messages	我发微信给他了。	I sent him a WeChat message.	她发微信告诉我她的新地址。	She sent me a WeChat message to tell me her new address.	你可以发微信给我。	You can send me a WeChat message.
+开聚会	to hold a gathering	我们公司要开聚会。	Our company is going to hold a gathering.	他们开聚会庆祝了他的生日。	They held a gathering to celebrate his birthday.	我们决定开聚会讨论这个问题。	We decided to hold a gathering to discuss this issue.
+分开付	to pay separately	我们可以分开付账。	We can pay separately.	他们分开付了餐费。	They paid for the meal separately.	我们分开付这个项目的费用。	We will pay for this project separately.
+出去逛逛	to go out for a stroll	我们出去逛逛吧。	Let's go out for a stroll.	她喜欢出去逛逛。	She likes to go out for a stroll.	他们出去逛逛放松一下。	They went out for a stroll to relax.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+格格不入	inharmonious; incompatible	他们俩的性格格格不入。	Their personalities are incompatible.	这两种颜色搭配在一起显得格格不入。	These two colors together look inharmonious.	他们之间的关系一直都是格格不入的。	Their relationship has always been inharmonious.
+比起	compared with	比起去年，今年的销售额有所下降。	Compared with last year, this year's sales have declined.	比起大城市，我更喜欢小城镇的生活。	Compared with big cities, I prefer the life in small towns.	比起钱，她更看重友情。	Compared with money, she values friendship more.
+沈朗天	no definition	沈朗天是我的好朋友。	Shen Langtian is my good friend.	沈朗天今天生日，我们要去给他庆祝。	It's Shen Langtian's birthday today, we are going to celebrate for him.	沈朗天是一个很有趣的人。	Shen Langtian is a very interesting person.
+占星	to divine by astrology/horoscope	她经常占星来预测未来。	She often uses astrology to predict the future.	占星是一门古老的学问。	Astrology is an ancient study.	他不相信占星的准确性。	He doesn't believe in the accuracy of astrology.
+尊重私人空间	no definition	我们应该尊重别人的私人空间。	We should respect other people's personal space.	她很注重自己的私人空间。	She pays a lot of attention to her personal space.	尊重私人空间是维护人际关系的重要一环。	Respecting personal space is an important part of maintaining interpersonal relationships.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+不找对象	no definition	我现在不想找对象。	I don't want to find a partner now.	她对不找对象的生活很满意。	She is very satisfied with the single life.	他一直在强调不找对象的重要性。	He has been emphasizing the importance of not finding a partner.
+我们朋友一场，你需要帮忙直接跟我说。	no definition	我们之间不需要保留秘密，你需要直接跟我说。	We don't need to keep secrets between us, you need to tell me directly.	如果有什么问题，你可以直接跟我说。	If there is any problem, you can tell me directly.	我希望你能够直接跟我说，不要拐弯抹角。	I hope you can tell me directly, don't beat around the bush.
+后果很严重	Very serious consequences	如果不采取行动，后果会很严重。	If no action is taken, the consequences will be very serious.	他的行为可能会导致后果很严重。	His actions may lead to very serious consequences.	这件事情的后果可能会很严重。	The consequences of this matter could be very serious.
+I人/ 内向的人	no definition	他是一个很内向的人。	He is a very introverted person.	内向的人通常不喜欢大型聚会。	Introverted people usually don't like large gatherings.	作为一个内向的人，她更喜欢独自一人的时间。	As an introverted person, she prefers to be alone.
+你搞得我很乱	no definition	你的话搞得我很乱。	Your words have confused me.	这些指示搞得我很乱。	These instructions have made me very confused.	你的行为搞得我很乱。	Your behavior has made me very confused.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+精致的晚餐	exquisite dinner	今天晚上我要给你做一顿精致的晚餐。	I'm going to make an exquisite dinner for you tonight.	这家餐厅提供精致的晚餐。	This restaurant offers exquisite dinners.	她准备了一场精致的晚餐来庆祝他的生日。	She prepared an exquisite dinner to celebrate his birthday.
+被刺激到了	to be stimulated	这个电影让我被刺激到了。	This movie stimulated me.	他的话被刺激到了我的情感。	His words stimulated my emotions.	她的行为被刺激到了我的好奇心。	Her behavior stimulated my curiosity.
+找原因	to find the reason	我们需要找原因解决这个问题。	We need to find the reason to solve this problem.	他一直在找原因为他的失败。	He has been looking for the reason for his failure.	找原因比解决问题更重要。	Finding the reason is more important than solving the problem.
+承诺书	promise letter	他写了一封承诺书给她。	He wrote a promise letter to her.	这份承诺书证明了他的诚意。	This promise letter proves his sincerity.	她收到了他的承诺书，感到很开心。	She received his promise letter and felt very happy.
+解释原因	to explain the reason	请你解释原因为什么迟到了。	Can you explain the reason for being late?	他解释原因让我明白了他的想法。	His explanation of the reason made me understand his thoughts.	解释原因是解决误会的最好方式。	Explaining the reason is the best way to resolve misunderstandings.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+一下子	all at once; all of a sudden	他们一下子给他们太多信息。	They gave them too much information all at once.	我一下子就明白了。	I understood all of a sudden.	她一下子就哭了。	She cried all of a sudden.
+我们互相	each other; mutually	我们互相体谅。	We understand and forgive each other.	他们互相帮助。	They help each other.	我们互相依赖。	We rely on each other.
+土茴香籽	caraway seed	这道菜需要加一些土茴香籽。	This dish needs some caraway seeds.	土茴香籽是一种香料。	Caraway seeds are a kind of spice.	她喜欢在面包上撒些土茴香籽。	She likes to sprinkle some caraway seeds on the bread.
+意第绪语	Yiddish language	他会说意第绪语。	He can speak Yiddish.	她在学习意第绪语。	She is learning Yiddish.	意第绪语是一种德意语族的语言。	Yiddish is a language of the Germanic branch of the Indo-European language family.
+购物狂	shopping maniac; shopaholic	她是一个购物狂。	She is a shopaholic.	他是一个购物狂。	He is a shopping maniac.	她的朋友都知道她是一个购物狂。	Her friends all know she is a shopaholic.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+解读	to decipher; to decode; to interpret	这幅画的含义需要解读。	The meaning of this painting needs to be deciphered.	他努力解读着古代文献。	He is working hard to interpret ancient documents.	她喜欢解读诗歌中的隐含意义。	She likes to decode the hidden meanings in poetry.
+赔钱	to lose money	这笔交易让我赔了很多钱。	This deal made me lose a lot of money.	他不愿意再赔钱了。	He is unwilling to lose money again.	这家公司一直在赔钱。	This company has been losing money all along.
+我做你的后盾	I am your backing/support	无论发生什么，我都会做你的后盾。	No matter what happens, I will always be your support.	他一直是我在背后的后盾。	He has always been my backing behind the scenes.	她是我最坚实的后盾。	She is my strongest support.
+天使	angel	她笑起来就像一个天使。	She smiles like an angel.	他认为她是一个天使般的存在。	He thinks of her as an angelic presence.	这个孩子的笑容让人觉得他是一个天使。	The child's smile makes people feel like he is an angel.
+我的偶像塌房了	my idol's image is completely destroyed	当他被曝光后，我的偶像塌房了。	After he was exposed, my idol's image completely collapsed.	她的偶像塌房了，让她感到很失望。	Her idol's image collapsed, which made her very disappointed.	我的偶像塌房了，我不知道该怎么办。	My idol's image is completely destroyed, and I don't know what to do.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+交网费	pay internet fee	我需要交网费吗？	Do I need to pay the internet fee?	他每个月都要交网费。	He has to pay the internet fee every month.	我已经交了网费。	I have already paid the internet fee.
+酒肉朋友	fair-weather friend	他只是我的酒肉朋友。	He is just a fair-weather friend.	在困难时，才知道谁是真正的朋友，谁是酒肉朋友。	Only in difficult times do you know who your real friends are and who are the fair-weather friends.	她不是真正的朋友，只是个酒肉朋友。	She is not a real friend, just a fair-weather friend.
+读书会	study group	我们每周五晚上有读书会。	We have a study group every Friday night.	她加入了一个读书会。	She joined a study group.	读书会的氛围很好。	The atmosphere of the study group is very good.
+精致的生活	exquisite life	她过着精致的生活。	She lives an exquisite life.	精致的生活不一定是奢华的生活。	An exquisite life is not necessarily a luxurious life.	我向往精致的生活。	I yearn for an exquisite life.
+副词	adverb	副词在句子中的位置很重要。	The position of adverbs in a sentence is important.	她解释了副词的用法。	She explained the usage of adverbs.	副词可以修饰动词。	Adverbs can modify verbs.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+你找对象吗？	no definition	你找对象吗？	Are you looking for a partner?
+在饮食上	no definition	在饮食上，她很讲究。	She pays great attention to her diet.
+跟他们关系更好了	no definition	经过这次合作，跟他们关系更好了。	After this cooperation, the relationship with them has improved.
+互相帮忙	no definition	我们应该互相帮忙。	We should help each other.
+志向	ambition/goal/ideal/aspiration	他的志向是成为一名科学家。	His ambition is to become a scientist.	她的志向是成为一名优秀的音乐家。	Her goal is to become an excellent musician.	我的志向是成为一名成功的商人。	My aspiration is to become a successful businessman.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+变老了	to grow old	他变老了，但精神依然很好。	He's getting old, but still in good spirits.	她的父母变老了，需要照顾。	Her parents are getting old and need care.	时间不会等人，我们都会变老了。	Time waits for no one, we all will grow old.
+最后一根稻草	the last straw	这件事情成了他的最后一根稻草。	This matter became his last straw.	最后一根稻草让她决定离开。	The last straw made her decide to leave.	最后一根稻草压垮了骆驼。	The last straw broke the camel's back.
+工作狂	workaholic	他是个工作狂，每天都在加班。	He is a workaholic, working overtime every day.	她的丈夫是个工作狂，很少休息。	Her husband is a workaholic, rarely taking a break.	工作狂往往忽视了生活中的其他重要事情。	Workaholics often overlook other important things in life.
+在一段关系里面	in a relationship	在一段关系里面，沟通很重要。	In a relationship, communication is important.	在一段关系里面，互相理解是必要的。	In a relationship, mutual understanding is necessary.	在一段关系里面，信任是基础。	In a relationship, trust is the foundation.
+一美分	one cent	这个糖果只卖一美分。	This candy only sells for one cent.	他捡到了一美分。	He found a penny.	这个游戏只需要花一美分。	This game only costs one cent.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+跟他们更熟悉了	no definition	我跟他们更熟悉了，现在是好朋友了。	I have become more familiar with them, and now we are good friends.	她跟他们更熟悉了，开始合作了。	She has become more familiar with them and started to collaborate.	我们跟他们更熟悉了，关系更好了。	We have become more familiar with them, and our relationship has improved.
+批判一个政客	no definition	他批判一个政客的言论。	He criticized a politician's remarks.	她批判一个政客的政策。	She criticized a politician's policies.	我们应该批判一个政客的不良行为。	We should criticize a politician's misconduct.
+二代移民	no definition	他是一个二代移民，但对中国文化很了解。	He is a second-generation immigrant, but he knows a lot about Chinese culture.	她是一个二代移民，对祖国的认同感很强。	She is a second-generation immigrant and has a strong sense of belonging to her homeland.	这个社区有很多二代移民，他们保留了自己的文化传统。	There are many second-generation immigrants in this community, and they have preserved their cultural traditions.
+锣	gong/CL:面[miàn]	他在庆祝活动中敲响了锣。	He rang the gong at the celebration.	他是一名锣鼓演奏家，擅长演奏锣。	He is a percussionist, skilled in playing the gong.	锣是中国传统音乐中重要的乐器之一。	The gong is one of the important instruments in traditional Chinese music.
+我给丽莎介绍了跟我一起唱歌的朋友	no definition	我给丽莎介绍了跟我一起唱歌的朋友，她很喜欢。	I introduced Lisa to my friend who sings with me, and she liked it.	她给丽莎介绍了跟她一起唱歌的朋友，他们很投缘。	She introduced Lisa to her friend who sings with her, and they hit it off.	我们给丽莎介绍了跟我们一起唱歌的朋友，她也想加入我们。	We introduced Lisa to our friend who sings with us, and she wants to join us.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+遗传病	hereditary disease	这种遗传病需要长期治疗。	This hereditary disease requires long-term treatment.	他的遗传病影响了他的生活。	His hereditary disease has affected his life.	遗传病在这个家族中很常见。	Hereditary diseases are common in this family.
+泰语	Thai (language)	她正在学习泰语。	She is learning the Thai language.	我对泰语很感兴趣。	I am very interested in the Thai language.	泰语的发音很特别。	The pronunciation of the Thai language is very unique.
+无论+question	regardless of	无论你做什么，我都支持你。	Regardless of what you do, I support you.	无论问题有多难，我们都要解决。	Regardless of how difficult the problem is, we have to solve it.	无论你去哪里，我都会跟着你。	Regardless of where you go, I will follow you.
+适应新环境	adapt to the new environment	他很快适应了新环境。	He quickly adapted to the new environment.	适应新环境需要一些时间。	It takes some time to adapt to the new environment.	她对适应新环境感到很困难。	She finds it very difficult to adapt to the new environment.
+对...讲究	pay close attention to/ have high standards for sth	她对穿着讲究。	She pays close attention to her clothing.	他对食物的质量讲究。	He has high standards for the quality of food.	这个公司对员工的素质讲究。	This company pays close attention to the quality of its employees.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+在生活上	in life	在生活上，她非常独立。	She is very independent in life.	在生活上，他总是乐观向上。	He is always optimistic and positive in life.	在生活上，她有很多追求。	She has many pursuits in life.
+对他们很热情	be very enthusiastic towards them	她对他们很热情地微笑。	She smiles warmly at them.	他对他们很热情地打招呼。	He greets them warmly.	她对他们很热情地表示感谢。	She expresses her gratitude to them warmly.
+住在Airbnb	stay at an Airbnb	他们选择在Airbnb住宿。	They choose to stay at an Airbnb.	我在Airbnb上找到了一个很棒的住处。	I found a great place to stay on Airbnb.	他们在Airbnb上预订了一个度假屋。	They booked a vacation home on Airbnb.
+微信群	WeChat group	我们有一个微信群用来交流。	We have a WeChat group for communication.	她创建了一个微信群来组织活动。	She created a WeChat group to organize activities.	我们的微信群里有很多有趣的话题。	There are many interesting topics in our WeChat group.
+主语	subject (in grammar)	在这个句子中，“我”是主语。	In this sentence, "I" is the subject.	主语通常在句子中起着核心作用。	The subject usually plays a central role in the sentence.	在汉语中，主语的位置是固定的。	In Chinese, the position of the subject is fixed.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+酒香不怕巷子深	fragrant wine fears no dark alley (idiom)/quality goods need no advertising	他的作品就像酒香不怕巷子深，总能受到人们的喜爱。	His works are like fragrant wine that fears no dark alley, always being loved by people.	这家餐厅的美食就像酒香不怕巷子深，口碑一直很好。	The food in this restaurant is like fragrant wine that fears no dark alley, and the word of mouth has always been good.	这个品牌的产品就像酒香不怕巷子深，无需过多的宣传。	The products of this brand are like fragrant wine that fears no dark alley, they do not need much advertising.
+隐喻	metaphor	这句话是一个隐喻，意思并不字面上的意思。	This sentence is a metaphor, the meaning is not the literal meaning.	他用隐喻的方式来表达自己的情感。	He expresses his emotions in a metaphorical way.	这幅画作用了很多隐喻来表达艺术家的思想。	This painting uses a lot of metaphors to express the artist's thoughts.
+互相喜欢	no definition	我们互相喜欢，这就够了。	We like each other, that's enough.	他们之间互相喜欢，这是一段美好的爱情故事。	They like each other, this is a beautiful love story.	互相喜欢是一段感情的开始。	Liking each other is the beginning of a relationship.
+发邮件	no definition	我需要发邮件给客户确认一下订单。	I need to send an email to the customer to confirm the order.	你可以发邮件给我，告诉我你的想法。	You can send me an email to tell me your thoughts.	她每天都会发邮件给同事，沟通工作上的事情。	She sends emails to her colleagues every day to communicate about work matters.
+抚养权	custody (of a child etc)	在离婚后，他们争夺孩子的抚养权。	After the divorce, they fought for the custody of the child.	法庭判定了她获得了孩子的抚养权。	The court ruled that she was awarded custody of the child.	他们为了孩子的抚养权打了一场官司。	They fought a lawsuit for the custody of the child.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+拉斯维加斯	Las Vegas, Nevada	我计划明年去拉斯维加斯度假。	I plan to go to Las Vegas for vacation next year.	拉斯维加斯是一个著名的赌城。	Las Vegas is a famous gambling city.	他在拉斯维加斯举办了一场盛大的婚礼。	He held a grand wedding in Las Vegas.
+插队	to cut in line; to jump a queue; to live on a rural community (during the Cultural Revolution)	他插队买了东西，引起了很多人的不满。	He cut in line to buy things, which caused a lot of dissatisfaction.	在文革期间，很多知识分子被安排到农村插队。	During the Cultural Revolution, many intellectuals were arranged to live in rural communities.	小明不听劝告，总是喜欢插队。	Xiao Ming doesn't listen to advice and always likes to cut in line.
+我同意（你说的话）	no definition	我同意你的观点。	I agree with your point of view.	我同意你的建议。	I agree with your suggestion.	我同意你的选择。	I agree with your choice.
+打疫苗	no definition	孩子们都需要打疫苗。	The children all need to get vaccinated.	我昨天去打了流感疫苗。	I went to get a flu shot yesterday.	政府正在推广打疫苗的重要性。	The government is promoting the importance of getting vaccinated.
+希伯来语	Hebrew language	他在学校学习希伯来语。	He is studying Hebrew at school.	她能流利地说希伯来语。	She can speak Hebrew fluently.	希伯来语是以色列的官方语言之一。	Hebrew is one of the official languages of Israel.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+堕落天使	fallen angel	她在舞台上扮演一个堕落天使的角色。	She plays the role of a fallen angel on stage.	这部电影描述了一个堕落天使的故事。	This movie tells the story of a fallen angel.	他的画像被描述成一个堕落天使。	His portrait is described as a fallen angel.
+因果关系	cause and effect relationship	我们要认识到因果关系的重要性。	We need to recognize the importance of the cause and effect relationship.	科学研究中常常涉及到因果关系。	The cause and effect relationship is often involved in scientific research.	因果关系是自然界的基本规律之一。	The cause and effect relationship is one of the fundamental laws of nature.
+发帖子	post on a forum	他在网上发帖子寻找失散多年的亲人。	He posted on the internet to search for long-lost relatives.	她经常在社交媒体上发帖子分享自己的生活。	She often posts on social media to share her life.	我今天发了一个帖子，希望能得到一些建议。	I posted a thread today, hoping to get some advice.
+母女一场	mother-daughter relationship	她和母亲之间发生了一场母女一场的争吵。	She had a mother-daughter quarrel with her mother.	这部电影讲述了一场母女一场的感人故事。	This movie tells a touching story about the mother-daughter relationship.	母女一场的矛盾最终得到了化解。	The mother-daughter conflict was eventually resolved.
+网上购物/ 网购	online shopping	我喜欢网上购物，因为很方便。	I like online shopping because it's very convenient.	她每个月都会在网上购物一次。	She shops online once a month.	网购已经成为现代人的一种生活方式。	Online shopping has become a way of life for modern people.
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+E人/ 外向的人	outgoing person	他是一个很E的人，喜欢交朋友。	He is a very outgoing person and likes to make friends.	她是一个外向的人，总是乐于助人。	She is an outgoing person and always willing to help others.	作为一个E人，他总是能在社交场合中游刃有余。	As an outgoing person, he always feels comfortable in social situations.
+摆拍的照片	posed photo	这张照片看起来很摆拍，不够自然。	This photo looks very posed and not natural enough.	她喜欢摆拍的照片，总是摆出各种姿势。	She likes posed photos and always strikes various poses.	他们拍的照片都是摆拍的，没有真实的感觉。	The photos they took are all posed, without a real feeling.

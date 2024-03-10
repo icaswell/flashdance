@@ -95,6 +95,7 @@ def main():
   output_fname = f"output/{args.input_file.split('/')[-1]}"
   prompt_name = args.system_prompt.split("/")[-1].replace(".txt", "")
   bounds_name = f"__lines{args.start}-{args.end if args.end else 'end'}" if (args.start or args.end) else ""
+  # timestamp = datetime.datetime.now().strftime("%Y_%m_%d_%H%M") 
   output_fname = output_fname + f"__{args.model_name}_t{args.temp}_c{args.chunk_size}__{prompt_name}{bounds_name}.txt"
   output_file = open(output_fname, 'a', encoding='utf-8')
 
