@@ -3,8 +3,7 @@ Example usage:
 
 python3 api_main.py \
 --system_prompt prompts/example_sentences_prompt1.txt \
---input test_input.tsv \
---output test_output.tsv
+--input test_input.tsv 
 
 
 see prompts/ dir for available prompts.
