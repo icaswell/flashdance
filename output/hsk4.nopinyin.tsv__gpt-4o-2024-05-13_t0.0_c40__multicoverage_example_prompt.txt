@@ -1,0 +1,1815 @@
+words covered	example sentence	translation
+爱情	他们的爱情故事很感人。	Their love story is very touching.
+爱情	她相信爱情可以改变一切。	She believes that love can change everything.
+爱情	这部电影讲述了一段浪漫的爱情。	This movie tells a romantic love story.
+安排	我已经安排好了明天的会议。	I have already arranged tomorrow's meeting.
+安排	请你帮我安排一下座位。	Please help me arrange the seats.
+安排	他的旅行安排得很紧凑。	His travel plans are very tight.
+安全	请注意安全。	Please pay attention to safety.
+安全	这个地方很安全。	This place is very safe.
+安全	安全第一。	Safety first.
+按时	他总是按时完成任务。	He always completes tasks on time.
+按时	请按时到达。	Please arrive on time.
+按时	我们必须按时交作业。	We must submit the homework on time.
+按照	请按照说明操作。	Please operate according to the instructions.
+按照	我们按照计划进行。	We proceed according to the plan.
+按照	按照规定，你需要提交申请表。	According to the regulations, you need to submit an application form.
+百分之	他得了百分之九十的分数。	He scored ninety percent.
+百分之	这个项目完成了百分之八十。	This project is eighty percent complete.
+百分之	她的成功率是百分之百。	Her success rate is one hundred percent.
+棒	他是个棒球运动员。	He is a baseball player.
+棒	她的表现真棒。	Her performance is wonderful.
+棒	这根棒子很结实。	This stick is very sturdy.
+包子	我喜欢吃肉包子。	I like to eat meat buns.
+包子	早餐我吃了两个包子。	I had two buns for breakfast.
+包子	这家店的包子很好吃。	The buns from this shop are very delicious.
+保护	我们要保护环境。	We need to protect the environment.
+保护	他保护了她免受伤害。	He protected her from harm.
+保护	这只动物受到法律保护。	This animal is protected by law.
+保证	我保证不会迟到。	I guarantee I won't be late.
+保证	他保证完成任务。	He guarantees to complete the task.
+保证	这家店的产品有质量保证。	The products from this store have a quality guarantee.
+抱	她抱着孩子。	She is holding the child.
+抱	他抱住了她。	He hugged her.
+抱	我抱歉打扰你了。	I am sorry to bother you.
+抱歉	我很抱歉迟到了。	I am very sorry for being late.
+抱歉	对不起，我感到很抱歉。	Sorry, I feel very apologetic.
+抱歉	他对自己的行为感到抱歉。	He feels sorry for his actions.
+报名	我已经报名参加比赛。	I have signed up for the competition.
+报名	你可以在网上报名。	You can register online.
+报名	报名截止日期是下周五。	The registration deadline is next Friday.
+倍	这个数字是原来的两倍。	This number is twice the original.
+倍	他的收入增加了一倍。	His income has doubled.
+倍	这棵树比那棵高一倍。	This tree is twice as tall as that one.
+本来	我本来打算去旅行。	I originally planned to travel.
+本来	他本来不想来的。	He didn't want to come at first.
+本来	本来就应该这样。	It goes without saying that it should be this way.
+笨	他不是笨人。	He is not a stupid person.
+笨	这只狗有点笨。	This dog is a bit clumsy.
+笨	他做事很笨拙。	He does things very clumsily.
+比如	我喜欢吃水果，比如苹果和香蕉。	I like to eat fruits, such as apples and bananas.
+比如	他会很多语言，比如英语和法语。	He knows many languages, for example, English and French.
+比如	比如说，这个问题很复杂。	For instance, this problem is very complex.
+毕业	他去年大学毕业。	He graduated from university last year.
+毕业	我即将毕业。	I am about to graduate.
+毕业	毕业后他找到了工作。	He found a job after graduation.
+遍	我找遍了整个房间。	I searched the entire room.
+遍	这本书我看了三遍。	I have read this book three times.
+遍	他走遍了全世界。	He has traveled all over the world.
+标准	这个产品符合国际标准。	This product meets international standards.
+标准	他的发音很标准。	His pronunciation is very standard.
+标准	我们需要一个统一的标准。	We need a unified standard.
+表格	请填写这张表格。	Please fill out this form.
+表格	这张表格很复杂。	This form is very complicated.
+表格	我需要一份新的表格。	I need a new form.
+表示	他表示同意。	He expressed his agreement.
+表示	她的笑容表示她很开心。	Her smile indicates that she is very happy.
+表示	他用手势表示方向。	He used gestures to show the direction.
+表演	他们的表演很精彩。	Their performance was wonderful.
+表演	他在舞台上表演。	He performs on stage.
+表演	这场表演吸引了很多观众。	This show attracted a lot of audience.
+表扬	老师表扬了他。	The teacher praised him.
+表扬	他因工作出色而受到表扬。	He was commended for his excellent work.
+表扬	她的努力得到了表扬。	Her efforts were praised.
+饼干	我喜欢吃巧克力饼干。	I like to eat chocolate cookies.
+饼干	这盒饼干很好吃。	This box of biscuits is very delicious.
+饼干	他给我带了一些饼干。	He brought me some crackers.
+并且	他聪明并且勤奋。	He is smart and diligent.
+并且	她喜欢音乐，并且会弹钢琴。	She likes music and can play the piano.
+并且	我们需要努力，并且要有耐心。	We need to work hard and be patient.
+博士	他是物理学博士。	He is a Ph.D. in physics.
+博士	她正在攻读博士学位。	She is pursuing a doctoral degree.
+博士	博士学位需要很多年的努力。	A Ph.D. requires many years of effort.
+不过	他不过是个孩子。	He is just a child.
+不过	这件事不过是个误会。	This is merely a misunderstanding.
+不过	我很喜欢这本书，不过有点难懂。	I really like this book, but it's a bit hard to understand.
+不得不	我不得不离开。	I have no choice but to leave.
+不得不	他不得不接受这个事实。	He has to accept this fact.
+不得不	我们不得不改变计划。	We have no choice but to change the plan.
+不管	不管天气如何，我们都要去。	Regardless of the weather, we will go.
+不管	不管他怎么说，我都不相信。	No matter what he says, I don't believe it.
+不管	不管发生什么，我都会支持你。	No matter what happens, I will support you.
+不仅	他不仅聪明，而且很勤奋。	He is not only smart but also very diligent.
+不仅	这不仅是我的看法。	This is not just my opinion.
+不仅	她不仅会说英语，还会说法语。	She can speak not only English but also French.
+部分	这只是问题的一部分。	This is just part of the problem.
+部分	他完成了任务的一部分。	He completed part of the task.
+部分	这本书的部分内容很有趣。	Some parts of this book are very interesting.
+擦	请把桌子擦干净。	Please wipe the table clean.
+擦	他用毛巾擦脸。	He wiped his face with a towel.
+擦	她在擦窗户。	She is cleaning the windows.
+猜	你能猜出答案吗？	Can you guess the answer?
+猜	我猜他不会来了。	I guess he won't come.
+猜	她猜到了我的想法。	She guessed my thoughts.
+材料	我们需要更多的材料。	We need more materials.
+材料	他提供了很多有用的数据。	He provided a lot of useful data.
+材料	她是个很有潜力的人才。	She is a person with great potential.
+参观	我们参观了博物馆。	We visited the museum.
+参观	他带我们参观了校园。	He took us on a tour of the campus.
+参观	游客们正在参观长城。	Tourists are visiting the Great Wall.
+餐厅	我们在餐厅吃饭。	We eat in the dining hall.
+餐厅	这家餐厅的菜很好吃。	The food in this restaurant is very delicious.
+餐厅	他在餐厅工作。	He works in a restaurant.
+差不多	我们差不多同时到达。	We arrived at almost the same time.
+差不多	这两件衣服差不多。	These two clothes are almost the same.
+差不多	他差不多每天都来。	He comes almost every day.
+尝	我想尝一下这个菜。	I want to taste this dish.
+尝	她尝了尝汤的味道。	She tasted the soup.
+尝	他从来没有尝过这种水果。	He has never tasted this fruit.
+长城	我们计划去参观长城。	We plan to visit the Great Wall.
+长城	长城是中国的著名景点。	The Great Wall is a famous attraction in China.
+长城	他拍了很多长城的照片。	He took many photos of the Great Wall.
+words covered	example sentence	translation
+长江	长江是中国最长的河流。	The Yangtze River is the longest river in China.
+长江	我们计划明年去长江游览。	We plan to visit the Yangtze River next year.
+长江	长江流经多个省份。	The Yangtze River flows through several provinces.
+场	我们在操场上踢足球。	We play soccer on the playground.
+场	这场电影非常精彩。	This movie is very exciting.
+场	他在比赛场上表现得很好。	He performed well on the competition field.
+超过	他的成绩超过了所有人。	His grades surpassed everyone else's.
+超过	这辆车的速度超过了限速。	This car's speed exceeded the limit.
+超过	她的身高超过了她的哥哥。	Her height surpassed her brother's.
+厕所	请问厕所在哪里？	Excuse me, where is the toilet?
+厕所	他去了一趟厕所。	He went to the toilet.
+厕所	这个公园的厕所很干净。	The toilets in this park are very clean.
+成功	他终于成功了。	He finally succeeded.
+成功	她是一个非常成功的企业家。	She is a very successful entrepreneur.
+成功	成功需要努力和坚持。	Success requires effort and persistence.
+成为	他想成为一名医生。	He wants to become a doctor.
+成为	她已经成为公司的经理。	She has become the manager of the company.
+成为	这个小镇成为了旅游胜地。	This small town has turned into a tourist attraction.
+诚实	他是一个诚实的人。	He is an honest person.
+诚实	诚实是最重要的品质之一。	Honesty is one of the most important qualities.
+诚实	她总是对我很诚实。	She is always honest with me.
+乘坐	我们乘坐飞机去北京。	We are flying to Beijing.
+乘坐	他每天乘坐地铁上班。	He takes the subway to work every day.
+乘坐	乘坐公共交通工具很方便。	It is convenient to take public transportation.
+吃惊	我对他的决定感到很吃惊。	I was very surprised by his decision.
+吃惊	她的表现让大家都很吃惊。	Her performance amazed everyone.
+吃惊	他突然出现让我吃惊。	His sudden appearance startled me.
+重新	我们需要重新开始这个项目。	We need to start this project again.
+重新	他重新考虑了这个问题。	He reconsidered this issue.
+重新	请你重新填写这张表格。	Please fill out this form again.
+抽烟	这里禁止抽烟。	Smoking is prohibited here.
+抽烟	他已经戒掉了抽烟的习惯。	He has quit the habit of smoking.
+抽烟	抽烟对健康有害。	Smoking is harmful to health.
+出差	他下周要去上海出差。	He is going on a business trip to Shanghai next week.
+出差	我经常出差到不同的城市。	I often go on business trips to different cities.
+出差	出差期间他负责所有事务。	He is in charge of all matters during the business trip.
+出发	我们明天早上出发去旅行。	We will set off for the trip tomorrow morning.
+出发	火车准时出发了。	The train departed on time.
+出发	出发前请检查行李。	Please check your luggage before departure.
+出生	他出生在一个小村庄。	He was born in a small village.
+出生	她的孩子去年出生了。	Her child was born last year.
+出生	我出生在夏天。	I was born in the summer.
+出现	问题突然出现了。	The problem suddenly arose.
+出现	他在会议上出现了。	He showed up at the meeting.
+出现	这种情况很少出现。	This situation rarely occurs.
+厨房	她在厨房里做饭。	She is cooking in the kitchen.
+厨房	这个房子的厨房很大。	The kitchen in this house is very large.
+厨房	厨房里有很多食材。	There are many ingredients in the kitchen.
+传真	请把文件传真给我。	Please fax the document to me.
+传真	我们收到了你的传真。	We received your fax.
+传真	传真机坏了。	The fax machine is broken.
+窗户	请打开窗户通风。	Please open the window for ventilation.
+窗户	窗户外面有一棵大树。	There is a big tree outside the window.
+窗户	他从窗户看外面的风景。	He looks at the scenery outside the window.
+词语	这个词语的意思是什么？	What is the meaning of this term?
+词语	请用这个词语造句。	Please make a sentence with this word.
+词语	他的词语表达能力很强。	His ability to express with words is strong.
+从来	我从来没去过那个地方。	I have never been to that place.
+从来	她从来不迟到。	She is never late.
+从来	他从来不抽烟。	He never smokes.
+粗心	他因为粗心犯了错误。	He made a mistake because of carelessness.
+粗心	她做事总是很粗心。	She is always careless in her work.
+粗心	粗心大意会导致失败。	Carelessness can lead to failure.
+存	我把钱存进了银行。	I deposited the money in the bank.
+存	这个文件存在哪里？	Where is this file stored?
+存	他在银行有很多存款。	He has a lot of savings in the bank.
+错误	这是一个严重的错误。	This is a serious mistake.
+错误	他承认了自己的错误。	He admitted his mistake.
+错误	这个答案是错误的。	This answer is wrong.
+答案	请告诉我正确的答案。	Please tell me the correct answer.
+答案	他的答案很有创意。	His answer is very creative.
+答案	这个问题的答案很简单。	The answer to this question is very simple.
+打招呼	他每次见到我都会打招呼。	He greets me every time he sees me.
+打招呼	请先打招呼再进来。	Please greet before coming in.
+打招呼	她喜欢和邻居打招呼。	She likes to greet the neighbors.
+打扮	她今天打扮得很漂亮。	She dressed up beautifully today.
+打扮	他喜欢打扮成各种角色。	He likes to dress up as various characters.
+打扮	她的打扮很时尚。	Her style of dress is very fashionable.
+打扰	对不起，打扰一下。	Sorry to bother you.
+打扰	请不要打扰我工作。	Please do not disturb me while I am working.
+打扰	他不喜欢被人打扰。	He does not like to be disturbed.
+打印	请把这份文件打印出来。	Please print out this document.
+打印	打印机没有墨了。	The printer is out of ink.
+打印	他正在打印报告。	He is printing the report.
+打折	这家店正在打折。	This store is having a sale.
+打折	我买了打折的衣服。	I bought discounted clothes.
+打折	打折商品不退不换。	Discounted items are non-refundable and non-exchangeable.
+打针	他害怕打针。	He is afraid of injections.
+打针	医生给他打了一针。	The doctor gave him an injection.
+打针	孩子们不喜欢打针。	Children do not like getting injections.
+大概	他大概已经到了。	He has probably arrived.
+大概	这本书大概有三百页。	This book has approximately 300 pages.
+大概	我大概明白你的意思了。	I roughly understand what you mean.
+大使馆	我们去大使馆办理签证。	We went to the embassy to apply for a visa.
+大使馆	大使馆在市中心。	The embassy is in the city center.
+大使馆	他在大使馆工作。	He works at the embassy.
+大约	我们大约五点到达。	We will arrive at around five o'clock.
+大约	这条路大约有十公里长。	This road is approximately ten kilometers long.
+大约	他大约三十岁。	He is about thirty years old.
+戴	他戴了一顶帽子。	He wore a hat.
+戴	她喜欢戴眼镜。	She likes to wear glasses.
+戴	他戴着手套工作。	He works with gloves on.
+大夫	他是一名优秀的大夫。	He is an excellent doctor.
+大夫	大夫给我开了药。	The doctor prescribed me some medicine.
+大夫	我需要去看大夫。	I need to see a doctor.
+当	他当了班长。	He became the class monitor.
+当	请当心路上的车辆。	Please be careful of the vehicles on the road.
+当	他当时很生气。	He was very angry at that time.
+当时	当时我正在工作。	I was working at that time.
+当时	他当时不在场。	He was not present at that time.
+当时	当时的情况很紧急。	The situation was urgent at that time.
+刀	他用刀切菜。	He cuts vegetables with a knife.
+刀	这把刀很锋利。	This knife is very sharp.
+刀	他买了一把新刀。	He bought a new knife.
+导游	导游带我们参观了博物馆。	The tour guide took us to visit the museum.
+导游	他是一名专业的导游。	He is a professional tour guide.
+导游	导游给我们讲解了历史。	The tour guide explained the history to us.
+倒	他把水倒进杯子里。	He poured water into the cup.
+倒	这个箱子倒了。	This box is upside down.
+倒	他倒退了几步。	He took a few steps backward.
+words covered	example sentence	translation
+到处	他到处找他的钥匙。	He looked for his keys everywhere.
+到处	春天的时候，花儿到处开放。	In spring, flowers bloom everywhere.
+到处	这个城市到处都是高楼大厦。	This city is full of skyscrapers everywhere.
+到底	他到底还是决定去了。	He finally decided to go.
+到底	你到底想要什么？	What do you want after all?
+到底	比赛到底谁赢了？	Who won the game in the end?
+道歉	他为迟到向老师道歉。	He apologized to the teacher for being late.
+道歉	她觉得自己应该道歉。	She felt she should apologize.
+道歉	经理向客户道歉了。	The manager apologized to the customer.
+得意	他得意地展示了他的奖杯。	He proudly showed off his trophy.
+得意	她对自己的成绩很得意。	She is very pleased with her grades.
+得意	不要太得意忘形。	Don't get too complacent.
+地点	会议的地点在三楼。	The meeting place is on the third floor.
+地点	我们需要一个新的活动地点。	We need a new venue for the event.
+地点	这个地点很适合拍照。	This location is great for taking photos.
+得（助动词）	你得早点起床。	You have to get up early.
+得（助动词）	我们得完成这个任务。	We have to complete this task.
+得（助动词）	他得去看医生。	He has to see a doctor.
+登机牌	请出示您的登机牌。	Please show your boarding pass.
+登机牌	我找不到我的登机牌了。	I can't find my boarding pass.
+登机牌	登机牌上写着登机时间。	The boarding pass shows the boarding time.
+等 （动）	请你在这里等我。	Please wait for me here.
+等 （动）	我们等了很久。	We waited for a long time.
+等 （动）	他在等公交车。	He is waiting for the bus.
+低	他的声音很低。	His voice is very low.
+低	她低下头不说话。	She lowered her head and said nothing.
+低	这个房间的天花板很低。	The ceiling in this room is very low.
+底	他把杯子放在桌子底下。	He put the cup under the table.
+底	我们月底发工资。	We get paid at the end of the month.
+底	湖底有很多鱼。	There are many fish at the bottom of the lake.
+地球	地球是我们共同的家园。	The Earth is our common home.
+地球	地球绕着太阳转。	The Earth orbits the Sun.
+地球	保护地球是每个人的责任。	Protecting the Earth is everyone's responsibility.
+地址	请告诉我你的地址。	Please tell me your address.
+地址	我搬家了，地址变了。	I moved, so my address has changed.
+地址	这个地址很难找。	This address is hard to find.
+掉	他不小心把手机掉了。	He accidentally dropped his phone.
+掉	树叶在秋天掉下来。	The leaves fall in autumn.
+掉	我的钱包掉了。	My wallet is missing.
+调查	警察正在调查这个案件。	The police are investigating the case.
+调查	我们需要做一个市场调查。	We need to conduct a market survey.
+调查	调查结果显示问题很严重。	The survey results show that the problem is serious.
+丢	他丢了他的钥匙。	He lost his keys.
+丢	不要把垃圾丢在地上。	Don't throw trash on the ground.
+丢	我丢了一本书。	I lost a book.
+动作	他的动作很快。	His movements are very fast.
+动作	请跟着我的动作做。	Please follow my actions.
+动作	这个动作很难学。	This movement is hard to learn.
+堵车	早上经常堵车。	There is often a traffic jam in the morning.
+堵车	因为堵车，我迟到了。	I was late because of the traffic jam.
+堵车	我们在路上堵车了。	We got stuck in traffic.
+肚子	我肚子饿了。	My stomach is hungry.
+肚子	她肚子疼。	Her belly hurts.
+肚子	他的肚子很大。	His belly is big.
+短信	我给你发了一条短信。	I sent you a text message.
+短信	请回复我的短信。	Please reply to my text message.
+短信	他每天都会收到很多短信。	He receives many text messages every day.
+对于	对于这个问题，我有不同的看法。	Regarding this issue, I have a different opinion.
+对于	对于他的行为，我很失望。	I am very disappointed with his behavior.
+对于	对于学习，他非常认真。	He is very serious about studying.
+对话	他们正在进行对话。	They are having a conversation.
+对话	这段对话很有趣。	This dialogue is very interesting.
+对话	我们需要更多的对话。	We need more dialogue.
+对面	他坐在我对面。	He is sitting opposite me.
+对面	对面有一家咖啡店。	There is a coffee shop across the street.
+对面	她住在我家对面。	She lives opposite my house.
+而	他喜欢跑步，而我喜欢游泳。	He likes running, whereas I like swimming.
+而	她很聪明，而他很勤奋。	She is smart, and he is diligent.
+而	我想去旅行，而他想在家。	I want to travel, but he wants to stay home.
+儿童	这个公园适合儿童玩耍。	This park is suitable for children to play.
+儿童	儿童需要更多的关爱。	Children need more care.
+儿童	她是一个聪明的儿童。	She is a smart child.
+发生	昨天这里发生了车祸。	A car accident happened here yesterday.
+发生	我们不知道会发生什么。	We don't know what will happen.
+发生	事情发生得很突然。	Things happened very suddenly.
+发展	这个城市发展得很快。	This city is developing very fast.
+发展	我们需要更多的发展机会。	We need more development opportunities.
+发展	他的事业发展得很好。	His career is developing well.
+法律	每个人都应该遵守法律。	Everyone should obey the law.
+法律	他在大学学习法律。	He studies law at university.
+法律	法律面前人人平等。	Everyone is equal before the law.
+翻译	他是一个专业的翻译。	He is a professional translator.
+翻译	请把这段文字翻译成中文。	Please translate this text into Chinese.
+翻译	她在会议上做翻译。	She is doing interpretation at the meeting.
+烦恼	他最近有很多烦恼。	He has a lot of worries recently.
+烦恼	不要为小事烦恼。	Don't worry about small things.
+烦恼	她的烦恼让我很担心。	Her worries make me very concerned.
+反对	我反对这个计划。	I oppose this plan.
+反对	他们反对新的政策。	They are against the new policy.
+反对	他反对我的意见。	He objects to my opinion.
+方法	我们需要找到一个解决问题的方法。	We need to find a way to solve the problem.
+方法	这个方法很有效。	This method is very effective.
+方法	他有自己的学习方法。	He has his own way of studying.
+方面	在这方面，他很有经验。	In this respect, he is very experienced.
+方面	我们需要考虑各个方面。	We need to consider all aspects.
+方面	她在艺术方面很有天赋。	She is very talented in the field of art.
+方向	请告诉我去车站的方向。	Please tell me the direction to the station.
+方向	他迷失了方向。	He lost his direction.
+方向	我们需要一个明确的方向。	We need a clear direction.
+房东	我的房东很友好。	My landlord is very friendly.
+房东	房东每个月来收房租。	The landlord comes to collect the rent every month.
+房东	我需要和房东谈谈。	I need to talk to the landlord.
+放弃	他决定放弃这个机会。	He decided to give up this opportunity.
+放弃	不要轻易放弃。	Don't give up easily.
+放弃	她放弃了继续学习。	She gave up continuing her studies.
+放暑假	我们下个月放暑假。	We will be on summer vacation next month.
+放暑假	放暑假时，我打算去旅行。	I plan to travel during the summer vacation.
+放暑假	孩子们最喜欢放暑假。	Children love summer vacation the most.
+放松	周末我喜欢放松一下。	I like to relax on weekends.
+放松	请放松，不要紧张。	Please relax, don't be nervous.
+放松	他通过听音乐来放松。	He relaxes by listening to music.
+份	我买了一份报纸。	I bought a newspaper.
+份	这是一份重要的文件。	This is an important document.
+份	他给了我一份礼物。	He gave me a gift.
+丰富	他的经验很丰富。	He has rich experience.
+丰富	这本书内容很丰富。	This book has abundant content.
+丰富	我们需要丰富的资源。	We need plentiful resources.
+否则	快点走，否则我们会迟到。	Hurry up, otherwise we will be late.
+否则	你必须努力，否则不会成功。	You must work hard, otherwise you won't succeed.
+否则	请遵守规则，否则会被罚款。	Please follow the rules, otherwise you will be fined.
+words covered	example sentence	translation
+符合	他的行为符合公司的规定。	His behavior is in accordance with the company's regulations.
+符合	这个方案符合我们的要求。	This plan meets our requirements.
+符合	她的意见不符合实际情况。	Her opinion does not correspond with the actual situation.
+富	他是一个非常富有的人。	He is a very wealthy person.
+富	这个地区的资源非常丰富。	The resources in this area are very abundant.
+富	这本书内容非常丰富。	This book is very rich in content.
+付款	请在收到货物后立即付款。	Please make the payment immediately after receiving the goods.
+付款	我们可以通过信用卡付款吗？	Can we pay by credit card?
+付款	他已经完成了所有的付款。	He has completed all the payments.
+父亲	我的父亲是一名医生。	My father is a doctor.
+父亲	父亲每天早上都去跑步。	My father goes jogging every morning.
+父亲	我父亲喜欢看书。	My father likes to read books.
+复印	请帮我复印这份文件。	Please help me photocopy this document.
+复印	他在办公室里复印资料。	He is photocopying materials in the office.
+复印	我们需要复印几份合同。	We need to duplicate several copies of the contract.
+复杂	这个问题非常复杂。	This problem is very complicated.
+复杂	他的情况很复杂。	His situation is very complex.
+复杂	这道数学题太复杂了。	This math problem is too complicated.
+负责	他负责这个项目的管理。	He is responsible for managing this project.
+负责	你需要对自己的行为负责。	You need to be responsible for your own actions.
+负责	她在公司里负责销售工作。	She is in charge of sales at the company.
+改变	我们需要改变计划。	We need to change the plan.
+改变	他的态度有了很大的改变。	His attitude has changed significantly.
+改变	这个决定会改变我们的生活。	This decision will alter our lives.
+干杯	让我们为友谊干杯！	Let's drink a toast to friendship!
+干杯	大家一起干杯庆祝。	Everyone cheers together to celebrate.
+干杯	我们为成功干杯。	We toast to success.
+赶	我们需要赶上最后一班车。	We need to catch the last bus.
+赶	他赶着去上班。	He is hurrying to work.
+赶	我们必须赶在截止日期前完成。	We must finish before the deadline.
+敢	你敢尝试这个新菜吗？	Do you dare to try this new dish?
+敢	他不敢一个人去那里。	He doesn't dare to go there alone.
+敢	我敢说他一定会成功。	I dare say he will definitely succeed.
+感动	她的故事让我很感动。	Her story moved me.
+感动	他的话深深地感动了我。	His words deeply touched me.
+感动	这个电影非常感动人。	This movie is very moving.
+感觉	我感觉今天很累。	I feel very tired today.
+感觉	你对这件事有什么感觉？	What is your feeling about this matter?
+感觉	他的感觉很敏锐。	His perception is very keen.
+感情	他们之间的感情很深。	Their affection for each other is very deep.
+感情	她对他的感情很复杂。	Her feelings for him are very complicated.
+感情	他们的感情越来越好。	Their relationship is getting better and better.
+感谢	非常感谢你的帮助。	Thank you very much for your help.
+感谢	我想表达我的感谢。	I want to express my gratitude.
+感谢	我们对您的支持表示感谢。	We are grateful for your support.
+干	他在公司里干得很好。	He works very well in the company.
+干	请你帮我干这件事。	Please help me with this task.
+干	他干了一件大事。	He accomplished a big task.
+刚	我刚到家。	I just got home.
+刚	他刚才说了什么？	What did he just say?
+刚	我们刚开始工作。	We just started working.
+高速公路	我们开车上了高速公路。	We drove onto the expressway.
+高速公路	高速公路上车很多。	There are many cars on the highway.
+高速公路	这条高速公路很宽。	This freeway is very wide.
+胳膊	他的胳膊受伤了。	His arm is injured.
+胳膊	她的胳膊很有力。	Her arms are very strong.
+胳膊	他用胳膊抱住了孩子。	He held the child with his arms.
+各	各位请注意。	Attention everyone.
+各	我们各有各的任务。	We each have our own tasks.
+各	各国文化不同。	Cultures of different countries vary.
+公里	我们走了五公里。	We walked five kilometers.
+公里	这条路有十公里长。	This road is ten kilometers long.
+公里	他每天跑三公里。	He runs three kilometers every day.
+工资	他的工资很高。	His salary is very high.
+工资	我们每月发一次工资。	We get paid once a month.
+工资	她的工资比我高。	Her pay is higher than mine.
+功夫	他练了很多年的功夫。	He has practiced kung fu for many years.
+功夫	做这件事需要很多功夫。	Doing this requires a lot of effort.
+功夫	他的功夫很厉害。	His kung fu is very impressive.
+共同	我们有共同的目标。	We have a common goal.
+共同	他们共同完成了任务。	They completed the task together.
+共同	我们共同努力。	We work together.
+够	这钱够用吗？	Is this money enough?
+够	他够聪明。	He is really smart.
+够	这道菜够咸。	This dish is really salty.
+购物	她喜欢周末去购物。	She likes to go shopping on weekends.
+购物	我们一起去购物吧。	Let's go shopping together.
+购物	购物中心很热闹。	The shopping mall is very lively.
+估计	我估计他已经到了。	I estimate that he has already arrived.
+估计	这件事很难估计。	This matter is hard to assess.
+估计	我估计他不会来。	I reckon he won't come.
+鼓励	老师鼓励我们努力学习。	The teacher encourages us to study hard.
+鼓励	他需要一些鼓励。	He needs some encouragement.
+鼓励	父母总是鼓励我。	My parents always encourage me.
+顾客	这家店的顾客很多。	This store has many customers.
+顾客	顾客对服务很满意。	The customers are very satisfied with the service.
+顾客	我们要尊重顾客的意见。	We should respect the customers' opinions.
+故意	他故意迟到了。	He was late on purpose.
+故意	她故意不告诉我。	She deliberately didn't tell me.
+故意	他故意做错了。	He did it wrong on purpose.
+挂	请把衣服挂起来。	Please hang up the clothes.
+挂	他挂了电话。	He hung up the phone.
+挂	墙上挂着一幅画。	There is a painting hanging on the wall.
+关键	找到问题的关键很重要。	Finding the crux of the problem is very important.
+关键	他是这个项目的关键人物。	He is the key person in this project.
+关键	关键时刻他站了出来。	He stood out at the crucial moment.
+观众	演出吸引了很多观众。	The performance attracted many spectators.
+观众	观众们都很兴奋。	The audience is very excited.
+观众	电视节目有很多观众。	The TV show has a large audience.
+管理	他负责公司的管理。	He is in charge of the company's management.
+管理	她管理这个部门。	She manages this department.
+管理	管理一个团队不容易。	Managing a team is not easy.
+光	太阳光很强。	The sunlight is very strong.
+光	他把灯光调暗了。	He dimmed the light.
+光	我们只剩下最后一块蛋糕了。	We only have the last piece of cake left.
+广播	我每天早上听广播。	I listen to the broadcast every morning.
+广播	广播里说了什么？	What did the broadcast say?
+广播	他们正在广播新闻。	They are broadcasting the news.
+广告	这则广告很有创意。	This advertisement is very creative.
+广告	我们需要做一些广告。	We need to do some advertising.
+广告	电视上有很多广告。	There are many commercials on TV.
+逛	我们去逛街吧。	Let's go shopping.
+逛	她喜欢逛商店。	She likes to visit stores.
+逛	他们在公园里逛了一圈。	They took a stroll in the park.
+规定	公司有严格的规定。	The company has strict regulations.
+规定	请遵守学校的规定。	Please follow the school's rules.
+规定	我们需要制定新的规定。	We need to set new stipulations.
+国际	这是一个国际会议。	This is an international conference.
+国际	他在国际公司工作。	He works at an international company.
+国际	国际贸易很重要。	International trade is very important.
+words covered	example sentence	translation
+国籍	他的国籍是中国。	His nationality is Chinese.
+国籍	你需要填写你的国籍。	You need to fill in your nationality.
+国籍	她拥有双重国籍。	She has dual nationality.
+果汁	我喜欢喝橙子果汁。	I like to drink orange juice.
+果汁	这家店的果汁很新鲜。	The fruit juice in this shop is very fresh.
+果汁	你想要苹果果汁还是葡萄果汁？	Do you want apple juice or grape juice?
+过程	学习语言是一个漫长的过程。	Learning a language is a long process.
+过程	在这个过程中，我们学到了很多。	We learned a lot during this process.
+过程	项目的过程非常复杂。	The process of the project is very complex.
+海洋	海洋覆盖了地球的大部分。	The ocean covers most of the Earth.
+海洋	我喜欢在海洋边散步。	I like to walk by the ocean.
+海洋	海洋生物非常多样。	Marine life is very diverse.
+害羞	她在陌生人面前很害羞。	She is very shy in front of strangers.
+害羞	他害羞地低下了头。	He shyly lowered his head.
+害羞	小孩子通常比较害羞。	Children are usually quite bashful.
+寒假	寒假我们打算去滑雪。	We plan to go skiing during the winter vacation.
+寒假	寒假快到了，你有什么计划？	Winter vacation is coming, do you have any plans?
+寒假	寒假期间我会回家。	I will go home during the winter vacation.
+汗	他跑步后满头大汗。	He was sweating profusely after running.
+汗	天气太热了，我一直在出汗。	The weather is too hot, I keep sweating.
+汗	他紧张得直冒汗。	He was sweating nervously.
+航班	我们的航班延误了。	Our flight was delayed.
+航班	你订了几点的航班？	What time is your flight?
+航班	这个航班直飞纽约。	This flight goes directly to New York.
+好处	运动对身体有很多好处。	Exercise has many benefits for the body.
+好处	这项政策有很多好处。	This policy has many advantages.
+好处	他从这笔交易中得到了好处。	He gained benefits from this deal.
+好像	他好像不太高兴。	He seems unhappy.
+好像	今天的天气好像要下雨。	It seems like it will rain today.
+好像	她好像认识你。	She seems to know you.
+号码	请告诉我你的电话号码。	Please tell me your phone number.
+号码	这个号码已经被使用了。	This number has already been used.
+号码	你记得他的车牌号码吗？	Do you remember his license plate number?
+合格	他通过了考试，成绩合格。	He passed the exam, meeting the required standard.
+合格	这批产品不合格。	This batch of products is not up to standard.
+合格	你需要合格的证书才能申请。	You need a qualified certificate to apply.
+合适	这件衣服对你来说很合适。	This dress is very suitable for you.
+合适	你觉得这个时间合适吗？	Do you think this time is appropriate?
+合适	我们需要找一个合适的地点。	We need to find a suitable location.
+盒子	他打开了一个神秘的盒子。	He opened a mysterious box.
+盒子	这个盒子里装满了巧克力。	This box is filled with chocolates.
+盒子	请把盒子放在桌子上。	Please put the box on the table.
+厚	这本书非常厚。	This book is very thick.
+厚	他的外套很厚。	His coat is very thick.
+厚	这块蛋糕的奶油很厚。	The cream on this cake is very thick.
+后悔	我不后悔做这个决定。	I don't regret making this decision.
+后悔	他后悔没有听从建议。	He regrets not taking the advice.
+后悔	你会后悔的。	You will regret it.
+护士	护士正在给病人打针。	The nurse is giving an injection to the patient.
+护士	她是一名经验丰富的护士。	She is an experienced nurse.
+护士	护士们都很友好。	The nurses are all very friendly.
+互联网	互联网改变了我们的生活。	The Internet has changed our lives.
+互联网	我通过互联网学习中文。	I learn Chinese through the Internet.
+互联网	互联网让信息传播更快。	The Internet makes information spread faster.
+互相	我们应该互相帮助。	We should help each other.
+互相	他们互相不认识。	They don't know each other.
+互相	我们在互相学习。	We are learning from each other.
+怀疑	我怀疑他在说谎。	I suspect he is lying.
+怀疑	她对这个计划表示怀疑。	She expressed doubts about this plan.
+怀疑	我怀疑他是否能完成任务。	I doubt whether he can complete the task.
+回忆	这张照片勾起了我的回忆。	This photo brought back my memories.
+回忆	他喜欢回忆童年时光。	He likes to recall his childhood.
+回忆	这些都是美好的回忆。	These are all wonderful memories.
+活动	我们周末有很多活动。	We have many activities on the weekend.
+活动	他喜欢参加社交活动。	He likes to participate in social activities.
+活动	这个活动非常有趣。	This activity is very interesting.
+活泼	她是一个活泼的女孩。	She is a lively girl.
+活泼	孩子们在操场上活泼地玩耍。	The children are playing lively on the playground.
+活泼	他的性格很活泼。	His personality is very vivacious.
+火	火烧得很旺。	The fire is burning vigorously.
+火	他在公司里很火。	He is very popular in the company.
+火	请小心火源。	Please be careful with the fire source.
+获得	他获得了奖学金。	He received a scholarship.
+获得	她获得了很多支持。	She received a lot of support.
+获得	我们获得了宝贵的经验。	We gained valuable experience.
+基础	数学是科学的基础。	Mathematics is the foundation of science.
+基础	他在基础知识上很扎实。	He has a solid foundation in basic knowledge.
+基础	我们需要打好基础。	We need to lay a good foundation.
+激动	他听到消息后非常激动。	He was very excited after hearing the news.
+激动	她激动得流下了眼泪。	She was so excited that she shed tears.
+激动	这个消息让人激动。	This news is exciting.
+积极	他对工作非常积极。	He is very proactive at work.
+积极	她总是积极参与讨论。	She always actively participates in discussions.
+积极	我们需要积极的态度。	We need a positive attitude.
+积累	他积累了很多经验。	He has accumulated a lot of experience.
+积累	我们需要积累更多的知识。	We need to accumulate more knowledge.
+积累	她在工作中积累了很多技能。	She has accumulated many skills in her work.
+及时	他及时赶到了会议。	He arrived at the meeting on time.
+及时	请及时回复邮件。	Please reply to the email promptly.
+及时	医生及时救了他的命。	The doctor saved his life in time.
+即使	即使下雨，我也会去。	Even if it rains, I will go.
+即使他很忙，他也会来。	Even though he is busy, he will come.
+即使你不喜欢，也要试试。	Even if you don't like it, you should try.
+寄	我寄了一封信给他。	I sent him a letter.
+寄	她寄了一个包裹给我。	She mailed me a package.
+寄	你可以寄快递到这里。	You can send express delivery here.
+记者	记者采访了明星。	The reporter interviewed the celebrity.
+记者	她是一名资深记者。	She is a senior journalist.
+记者	记者们在现场报道。	The reporters are reporting on the scene.
+计划	我们有一个新的计划。	We have a new plan.
+计划	他计划明年出国留学。	He plans to study abroad next year.
+计划	这个项目需要详细的计划。	This project needs a detailed plan.
+既然	既然你来了，就一起吃饭吧。	Since you are here, let's eat together.
+既然天气好，我们去散步吧。	Since the weather is good, let's go for a walk.
+既然你不喜欢，那就算了。	Since you don't like it, forget it.
+技术	他的技术非常高超。	His skills are very advanced.
+技术	我们需要学习新技术。	We need to learn new technology.
+技术	这项技术很有前途。	This technology has great potential.
+继续	请继续你的工作。	Please continue your work.
+继续	他决定继续学习。	He decided to continue studying.
+继续	我们会继续支持你。	We will continue to support you.
+家具	这家店的家具很漂亮。	The furniture in this store is very beautiful.
+家具	我们需要买一些新家具。	We need to buy some new furniture.
+家具	他设计的家具很独特。	The furniture he designed is very unique.
+加班	他经常加班到很晚。	He often works overtime until very late.
+加班	今天晚上我要加班。	I have to work overtime tonight.
+加班	加班对身体不好。	Working overtime is not good for your health.
+加油站	我们需要找一个加油站。	We need to find a gas station.
+加油站	加油站就在前面。	The gas station is just ahead.
+加油站	这个加油站的服务很好。	The service at this gas station is very good.
+words covered	example sentence	translation
+假	他用假名字注册了。	He registered with a fake name.
+假	我可以假你一支笔吗？	Can I borrow a pen from you?
+假	这个假期我们打算去海边。	We plan to go to the beach this holiday.
+价格	这件衣服的价格很高。	The price of this piece of clothing is very high.
+价格	你知道这本书的价格吗？	Do you know the price of this book?
+价格	房子的价格在不断上涨。	The price of houses is continuously rising.
+坚持	他每天坚持跑步。	He insists on running every day.
+坚持	我们要坚持自己的信念。	We must persist in our beliefs.
+坚持	她坚持自己的观点。	She insists on her point of view.
+减肥	她正在努力减肥。	She is working hard to lose weight.
+减肥	我需要减肥了。	I need to lose weight.
+减肥	他通过运动减肥。	He loses weight through exercise.
+减少	我们需要减少开支。	We need to reduce expenses.
+减少	污染需要减少。	Pollution needs to be decreased.
+减少	他减少了工作时间。	He reduced his working hours.
+建议	我建议你早点休息。	I suggest you rest early.
+建议	他提出了一个好建议。	He made a good suggestion.
+建议	你的建议很有帮助。	Your suggestion is very helpful.
+将来	将来我想成为医生。	In the future, I want to become a doctor.
+将来	你将来有什么计划？	What are your plans for the future?
+将来	我们将来会再见面的。	We will meet again in the future.
+奖金	他得到了年终奖金。	He received a year-end bonus.
+奖金	公司发放了奖金。	The company distributed bonuses.
+奖金	她的奖金很高。	Her bonus is very high.
+降低	我们需要降低成本。	We need to lower costs.
+降低	他降低了音量。	He lowered the volume.
+降低	公司决定降低价格。	The company decided to reduce prices.
+降落	飞机安全降落了。	The plane landed safely.
+降落	我们即将降落。	We are about to land.
+降落	降落伞打开了。	The parachute opened.
+交	请把文件交给我。	Please hand over the documents to me.
+交	他交了很多朋友。	He made many friends.
+交	这两条线在这里交汇。	These two lines intersect here.
+交流	我们需要更多的交流。	We need more communication.
+交流	他们在会上交流了意见。	They exchanged opinions at the meeting.
+交流	文化交流非常重要。	Cultural exchange is very important.
+交通	这里的交通很方便。	The transportation here is very convenient.
+交通	交通事故频发。	Traffic accidents are frequent.
+交通	我们需要改善交通状况。	We need to improve the traffic situation.
+郊区	他们住在郊区。	They live in the suburbs.
+郊区	郊区的空气很好。	The air in the suburbs is very good.
+郊区	我们周末去郊区玩。	We go to the suburbs on weekends.
+骄傲	他为自己的成就感到骄傲。	He is proud of his achievements.
+骄傲	她有点骄傲。	She is a bit arrogant.
+骄傲	不要太骄傲。	Don't be too conceited.
+饺子	我喜欢吃饺子。	I like to eat dumplings.
+饺子	我们一起包饺子吧。	Let's make dumplings together.
+饺子	饺子是传统的中国食物。	Dumplings are traditional Chinese food.
+教授	他是大学教授。	He is a university professor.
+教授	教授正在讲课。	The professor is giving a lecture.
+教授	她教授数学。	She teaches mathematics.
+教育	教育对孩子很重要。	Education is very important for children.
+教育	他接受了良好的教育。	He received a good education.
+教育	我们需要改革教育制度。	We need to reform the education system.
+接受	他接受了我的建议。	He accepted my suggestion.
+接受	她接受了采访。	She accepted the interview.
+接受	我们不能接受贿赂。	We cannot accept bribes.
+接着	他接着说。	He continued speaking.
+接着	我们接着做下一件事。	Let's proceed to the next thing.
+接着	接着发生了什么？	What happened next?
+结果	结果他成功了。	As a result, he succeeded.
+结果	比赛结果出来了。	The results of the competition are out.
+结果	结果令人满意。	The outcome is satisfactory.
+节	我们上了两节课。	We had two classes.
+节	春节是中国的传统节日。	Spring Festival is a traditional Chinese festival.
+节	请节约用水。	Please save water.
+节约	我们要节约能源。	We need to conserve energy.
+节约	他很节约。	He is very frugal.
+节约	节约时间很重要。	Saving time is very important.
+解释	请解释一下这个词。	Please explain this word.
+解释	他的解释很清楚。	His explanation is very clear.
+解释	我需要一个合理的解释。	I need a reasonable explanation.
+尽管	尽管下雨，我们还是去了。	Despite the rain, we still went.
+尽管	尽管他很忙，他还是来了。	Although he is very busy, he still came.
+尽管	尽管困难重重，我们没有放弃。	In spite of many difficulties, we did not give up.
+紧张	他考试时很紧张。	He was very nervous during the exam.
+紧张	比赛气氛很紧张。	The atmosphere of the competition is very tense.
+紧张	资源紧张。	Resources are scarce.
+进行	我们正在进行讨论。	We are having a discussion.
+进行	项目正在进行中。	The project is underway.
+进行	他们进行了一次调查。	They conducted a survey.
+禁止	这里禁止吸烟。	Smoking is prohibited here.
+禁止	学校禁止使用手机。	The school forbids the use of mobile phones.
+禁止	禁止停车。	No parking.
+精彩	他的表演非常精彩。	His performance was wonderful.
+精彩	这场比赛很精彩。	This match is very exciting.
+精彩	她的演讲很精彩。	Her speech was brilliant.
+经济	经济发展很快。	Economic development is rapid.
+经济	他在学习经济学。	He is studying economics.
+经济	我们需要稳定经济。	We need to stabilize the economy.
+经历	他有很多工作经历。	He has a lot of work experience.
+经历	这次旅行是一次难忘的经历。	This trip was an unforgettable experience.
+经历	他经历了很多困难。	He went through many difficulties.
+经验	他有丰富的经验。	He has rich experience.
+经验	我们可以从中吸取经验。	We can learn from this experience.
+经验	她在这方面没有经验。	She has no experience in this area.
+京剧	我喜欢看京剧。	I like to watch Beijing opera.
+京剧	京剧是中国的传统艺术。	Beijing opera is a traditional Chinese art.
+京剧	他是京剧演员。	He is a Beijing opera actor.
+警察	警察来了。	The police have arrived.
+警察	他是一名警察。	He is a police officer.
+警察	警察正在调查案件。	The police are investigating the case.
+景色	这里的景色很美。	The scenery here is beautiful.
+景色	我们欣赏了山间的景色。	We enjoyed the mountain scenery.
+景色	秋天的景色很迷人。	The autumn scenery is charming.
+竟然	他竟然不知道这件事。	He actually didn't know about this.
+竟然	你竟然来了。	You actually came.
+竟然	事情竟然变得这么复杂。	Things actually became so complicated.
+竞争	他们在市场上竞争。	They compete in the market.
+竞争	竞争非常激烈。	The competition is very fierce.
+竞争	我们需要面对竞争。	We need to face the competition.
+镜子	她在镜子前化妆。	She is putting on makeup in front of the mirror.
+镜子	镜子破了。	The mirror is broken.
+镜子	请给我一面镜子。	Please give me a mirror.
+究竟	他究竟是谁？	Who is he, after all?
+究竟	你究竟想要什么？	What do you want, after all?
+究竟	事情的究竟是什么？	What is the truth of the matter?
+举	他举起了手。	He raised his hand.
+举	请举一个例子。	Please give an example.
+举	他们举了很多次重物。	They lifted heavy objects many times.
+words covered	example sentence	translation
+举办	学校每年都会举办运动会。	The school holds a sports meet every year.
+举办	他们计划在公园举办音乐会。	They plan to hold a concert in the park.
+举办	公司决定举办一个大型展览。	The company decided to hold a large exhibition.
+举行	会议将在明天举行。	The meeting will be held tomorrow.
+举行	他们在海边举行了婚礼。	They held their wedding by the sea.
+举行	比赛将在下个月举行。	The competition will be held next month.
+拒绝	他拒绝了我的邀请。	He refused my invitation.
+拒绝	她拒绝回答这个问题。	She declined to answer the question.
+拒绝	我们不能拒绝帮助有需要的人。	We cannot refuse to help those in need.
+距离	我们家距离学校很近。	Our home is very close to the school.
+距离	这两个城市的距离有多远？	How far is the distance between these two cities?
+距离	距离比赛开始还有十分钟。	There are ten minutes left until the start of the game.
+聚会	我们周末有个同学聚会。	We have a class reunion this weekend.
+聚会	她喜欢组织家庭聚会。	She likes to organize family gatherings.
+聚会	朋友们常常在咖啡馆聚会。	Friends often meet at the café.
+开玩笑	别生气，我只是开玩笑。	Don't be mad, I was just joking.
+开玩笑	他喜欢和朋友们开玩笑。	He likes to joke with his friends.
+开玩笑	你是在开玩笑吧？	Are you joking?
+开心	今天我很开心。	I'm very happy today.
+开心	她总是能让大家开心。	She always makes everyone happy.
+开心	我们在公园玩得很开心。	We had a great time playing in the park.
+看法	每个人都有自己的看法。	Everyone has their own opinion.
+看法	我不同意你的看法。	I disagree with your view.
+看法	他的看法很有趣。	His perspective is interesting.
+考虑	我需要考虑一下这个问题。	I need to think over this issue.
+考虑	请你考虑我的建议。	Please consider my suggestion.
+考虑	我们应该多考虑别人的感受。	We should consider others' feelings more.
+烤鸭	北京烤鸭非常有名。	Beijing roast duck is very famous.
+烤鸭	我们今晚吃烤鸭。	We are having roast duck tonight.
+烤鸭	他第一次尝试做烤鸭。	He tried making roast duck for the first time.
+棵	院子里有一棵大树。	There is a big tree in the yard.
+棵	我种了一棵苹果树。	I planted an apple tree.
+棵	这棵花开得真漂亮。	This flower is blooming beautifully.
+科学	他对科学很感兴趣。	He is very interested in science.
+科学	科学家们在研究新技术。	Scientists are researching new technologies.
+科学	科学的进步改变了我们的生活。	Scientific progress has changed our lives.
+咳嗽	他感冒了，咳嗽得很厉害。	He has a cold and is coughing badly.
+咳嗽	医生给我开了咳嗽药。	The doctor prescribed me cough medicine.
+咳嗽	她咳嗽了几声。	She coughed a few times.
+可怜	这只小猫看起来很可怜。	This kitten looks very pitiful.
+可怜	他失去了工作，真可怜。	He lost his job, how pitiful.
+可怜	她的故事让人觉得很可怜。	Her story makes people feel very sorry.
+可是	我想去，可是没有时间。	I want to go, but I don't have time.
+可是	他很聪明，可是很懒。	He is smart, but lazy.
+可是	我喜欢这件衣服，可是太贵了。	I like this dress, but it's too expensive.
+可惜	这次旅行取消了，真可惜。	It's a pity that this trip was canceled.
+可惜	他没能来参加，真是可惜。	It's unfortunate that he couldn't attend.
+可惜	这道菜做坏了，真可惜。	It's a pity that this dish was ruined.
+客厅	我们在客厅看电视。	We watch TV in the living room.
+客厅	客厅里有一张大沙发。	There is a big sofa in the living room.
+客厅	她正在客厅打扫。	She is cleaning the living room.
+肯定	我肯定他会来的。	I'm sure he will come.
+肯定	这件事肯定很重要。	This matter is definitely important.
+肯定	他肯定知道答案。	He definitely knows the answer.
+空	这个房间是空的。	This room is empty.
+空	我今天有空，可以帮你。	I'm free today, I can help you.
+空	他的日程表上有空位。	There is a free slot in his schedule.
+空气	这里的空气很新鲜。	The air here is very fresh.
+空气	空气中弥漫着花香。	The air is filled with the fragrance of flowers.
+空气	我们需要保持室内空气流通。	We need to keep the indoor air circulating.
+恐怕	恐怕我们要迟到了。	I'm afraid we are going to be late.
+恐怕他不会同意。	I'm afraid he won't agree.
+恐怕这次考试很难。	I'm afraid this exam is very difficult.
+苦	这药太苦了。	This medicine is too bitter.
+苦	他经历了很多苦难。	He has gone through a lot of hardships.
+苦	她的生活很苦。	Her life is very hard.
+矿泉水	请给我一瓶矿泉水。	Please give me a bottle of mineral water.
+矿泉水	他每天都喝矿泉水。	He drinks mineral water every day.
+矿泉水	桌子上有几瓶矿泉水。	There are several bottles of mineral water on the table.
+困	我昨晚没睡好，现在很困。	I didn't sleep well last night, now I'm very sleepy.
+困	他工作了一天，感到很困。	He worked all day and feels very tired.
+困	这个问题让我很困惑。	This problem makes me very confused.
+困难	学习汉语对我来说很困难。	Learning Chinese is very difficult for me.
+困难	他们在经济上遇到了困难。	They encountered financial difficulties.
+困难	解决这个问题很困难。	Solving this problem is challenging.
+拉	他拉着我的手不放。	He held my hand and wouldn't let go.
+拉	请帮我拉一下门。	Please help me pull the door.
+拉	他会拉小提琴。	He can play the violin.
+垃圾桶	请把垃圾扔进垃圾桶。	Please throw the trash into the trash can.
+垃圾桶	厨房里有一个垃圾桶。	There is a trash can in the kitchen.
+垃圾桶	垃圾桶满了，需要清理。	The trash can is full and needs to be emptied.
+辣	这道菜太辣了。	This dish is too spicy.
+辣	他喜欢吃辣的食物。	He likes to eat spicy food.
+辣	辣椒让我的嘴巴很辣。	The chili pepper makes my mouth burn.
+来自	他来自美国。	He comes from the United States.
+来自	这封信来自我的朋友。	This letter is from my friend.
+来自	她的灵感来自大自然。	Her inspiration comes from nature.
+来不及	我们来不及赶上火车了。	We don't have enough time to catch the train.
+来不及	对不起，我来不及准备礼物。	Sorry, I didn't have time to prepare a gift.
+来不及	现在说对不起已经来不及了。	It's too late to say sorry now.
+来得及	你还有时间，来得及完成作业。	You still have time to finish your homework.
+来得及	我们来得及去看电影。	We have enough time to go to the movies.
+来得及	如果你快点，我们就来得及。	If you hurry, we can make it in time.
+懒	他很懒，不喜欢做家务。	He is very lazy and doesn't like doing housework.
+懒	我今天不想动，感觉很懒。	I don't want to move today, feeling very lazy.
+懒	她懒得去健身房。	She is too lazy to go to the gym.
+浪费	不要浪费食物。	Don't waste food.
+浪费	他浪费了很多时间。	He wasted a lot of time.
+浪费	这是一种资源浪费。	This is a waste of resources.
+浪漫	他们的爱情故事很浪漫。	Their love story is very romantic.
+浪漫	他为她准备了一个浪漫的晚餐。	He prepared a romantic dinner for her.
+浪漫	巴黎是一个浪漫的城市。	Paris is a romantic city.
+老虎	动物园里有一只老虎。	There is a tiger in the zoo.
+老虎	老虎是非常强大的动物。	Tigers are very powerful animals.
+老虎	他画了一只老虎。	He drew a tiger.
+冷静	遇到问题时要冷静。	Stay calm when you encounter problems.
+冷静	她冷静地处理了这个情况。	She handled the situation calmly.
+冷静	请大家保持冷静。	Please everyone, stay calm.
+理发	我需要去理发了。	I need to get a haircut.
+理发	他每个月都去理发。	He gets a haircut every month.
+理发	她在理发店工作。	She works at a hair salon.
+理解	我完全理解你的意思。	I completely understand what you mean.
+理解	他很难理解这个概念。	He finds it hard to understand this concept.
+理解	我们需要互相理解。	We need to understand each other.
+理想	她的理想是成为医生。	Her ideal is to become a doctor.
+理想	这个工作对我来说很理想。	This job is ideal for me.
+理想	他在追求自己的理想。	He is pursuing his dreams.
+礼貌	他对人很有礼貌。	He is very polite to people.
+礼貌	请对长辈有礼貌。	Please be polite to the elders.
+礼貌	她的礼貌让人印象深刻。	Her politeness is impressive.
+words covered	example sentence	translation
+礼拜天	礼拜天我们去公园吧。	Let's go to the park on Sunday.
+礼拜天	他礼拜天不上班。	He doesn't work on Sundays.
+礼拜天	礼拜天是我最喜欢的一天。	Sunday is my favorite day.
+厉害	他的中文说得很厉害。	His Chinese is amazing.
+厉害	这场暴风雨真厉害。	This storm is really severe.
+厉害	她是个很厉害的律师。	She is a very tough lawyer.
+力气	他有很大的力气。	He has a lot of strength.
+力气	搬这张桌子需要很多力气。	Moving this table requires a lot of strength.
+力气	我今天没什么力气。	I don't have much strength today.
+例如	例如，苹果和香蕉都是水果。	For example, apples and bananas are fruits.
+例如	你可以做很多运动，例如跑步和游泳。	You can do many sports, such as running and swimming.
+例如	例如，这本书讲了很多有趣的故事。	For instance, this book tells many interesting stories.
+俩	我们俩一起去看电影吧。	Let's go to the movies together.
+俩	他们俩是好朋友。	They are good friends.
+俩	这俩孩子真可爱。	These two kids are really cute.
+连	他连饭都没吃就走了。	He left without even eating.
+连	这条河把两个城市连在一起。	This river connects the two cities.
+连	他连着工作了十个小时。	He worked continuously for ten hours.
+联系	我会尽快联系你。	I will contact you as soon as possible.
+联系	我们失去了联系。	We lost contact.
+联系	请保持联系。	Please keep in touch.
+凉快	今天的天气很凉快。	The weather is pleasantly cool today.
+凉快	晚上出去散步很凉快。	It's nice and cool to go for a walk in the evening.
+凉快	这件衣服穿着很凉快。	This piece of clothing is very cool to wear.
+零钱	你有零钱吗？	Do you have any change?
+零钱	我需要一些零钱买咖啡。	I need some small change to buy coffee.
+零钱	他把零钱放进了口袋。	He put the change into his pocket.
+另外	我还需要另外一张票。	I need an additional ticket.
+另外	另外，我还有一个问题。	Besides, I have another question.
+另外	他另外买了一本书。	He bought another book.
+留	请留在这里等我。	Please stay here and wait for me.
+留	他决定留在家里。	He decided to stay at home.
+留	她把头发留长了。	She let her hair grow long.
+流利	他的英语说得很流利。	His English is very fluent.
+流利	她流利地回答了问题。	She answered the question fluently.
+流利	他用流利的法语和我们交谈。	He talked to us in fluent French.
+流行	这首歌现在很流行。	This song is very popular now.
+流行	这种风格在年轻人中很流行。	This style is very popular among young people.
+流行	流行病在这个地区传播得很快。	The epidemic is spreading quickly in this area.
+乱	房间里很乱。	The room is very messy.
+乱	不要乱扔垃圾。	Don't throw trash around.
+乱	他的头发很乱。	His hair is very messy.
+旅行	我们计划去欧洲旅行。	We plan to travel to Europe.
+旅行	她喜欢独自旅行。	She likes to travel alone.
+旅行	这次旅行很愉快。	This trip was very pleasant.
+律师	他是一名著名的律师。	He is a famous lawyer.
+律师	我需要找个律师。	I need to find a lawyer.
+律师	她的父亲是一位律师。	Her father is a lawyer.
+麻烦	对不起，给你添麻烦了。	Sorry to trouble you.
+麻烦	这件事很麻烦。	This matter is very troublesome.
+麻烦	能帮我个忙吗？麻烦你了。	Could you do me a favor? Sorry to trouble you.
+马虎	他做事很马虎。	He is very careless in his work.
+马虎	不要马虎对待这个问题。	Don't treat this issue carelessly.
+马虎	他写字很马虎。	He writes very sloppily.
+满	杯子满了。	The cup is full.
+满	他对生活很满意。	He is very satisfied with his life.
+满	房间里满是人。	The room is packed with people.
+毛	这件衣服是羊毛做的。	This piece of clothing is made of wool.
+毛	他的头发很长。	His hair is very long.
+毛	这只猫的毛很软。	This cat's fur is very soft.
+毛巾	请给我一条毛巾。	Please give me a towel.
+毛巾	他用毛巾擦了擦脸。	He wiped his face with a towel.
+毛巾	这条毛巾很柔软。	This towel is very soft.
+美丽	这座城市很美丽。	This city is very beautiful.
+美丽	她有一双美丽的眼睛。	She has beautiful eyes.
+美丽	这幅画真美丽。	This painting is really beautiful.
+梦	我昨晚做了一个奇怪的梦。	I had a strange dream last night.
+梦	他的梦想是成为一名医生。	His dream is to become a doctor.
+梦	她在梦中笑了。	She smiled in her dream.
+迷路	我们在森林里迷路了。	We got lost in the forest.
+迷路	他在城市里迷路了。	He got lost in the city.
+迷路	不要担心，我们不会迷路的。	Don't worry, we won't get lost.
+密码	请不要告诉别人你的密码。	Please don't tell others your password.
+密码	我忘记了我的密码。	I forgot my password.
+密码	这个文件需要密码才能打开。	This file requires a password to open.
+免费	这本书是免费的。	This book is free of charge.
+免费	他们提供免费的午餐。	They provide free lunch.
+免费	这个活动是免费的。	This event is free.
+秒	他跑了十秒钟。	He ran for ten seconds.
+秒	比赛还有五秒钟结束。	The game will end in five seconds.
+秒	他只用了几秒钟就完成了。	He finished it in just a few seconds.
+民族	中国有很多不同的民族。	China has many different ethnic groups.
+民族	这个民族有自己的语言和文化。	This ethnic group has its own language and culture.
+民族	他们是少数民族。	They are a minority ethnic group.
+母亲	她是我的母亲。	She is my mother.
+母亲	母亲节快到了。	Mother's Day is coming.
+母亲	他的母亲很慈祥。	His mother is very kind.
+目的	我们的目的是帮助别人。	Our goal is to help others.
+目的	他来这里的目的是学习。	His purpose for coming here is to study.
+目的	这个项目的目的是保护环境。	The aim of this project is to protect the environment.
+耐心	他对孩子们很有耐心。	He is very patient with children.
+耐心	请耐心等待。	Please wait patiently.
+耐心	她没有耐心听完我的话。	She didn't have the patience to listen to me.
+难道	难道你不想去吗？	Don't you want to go?
+难道	难道他不知道这件事吗？	Could it be that he doesn't know about this?
+难道	难道你不喜欢这个礼物吗？	Don't you like this gift?
+难受	我感到很难受。	I feel very uncomfortable.
+难受	他的头疼得很难受。	His headache is very painful.
+难受	她因为感冒而难受。	She feels unwell because of a cold.
+内	房间内很安静。	It is very quiet inside the room.
+内	他在公司内部工作。	He works within the company.
+内	请在三天内完成。	Please complete it within three days.
+内容	这本书的内容很丰富。	The content of this book is very rich.
+内容	请简要说明内容。	Please briefly explain the content.
+内容	这个节目内容很有趣。	This show's content is very interesting.
+能力	他有很强的领导能力。	He has strong leadership abilities.
+能力	她的学习能力很强。	Her learning ability is very strong.
+能力	这个工作需要很高的能力。	This job requires high capability.
+年龄	她的年龄是个秘密。	Her age is a secret.
+年龄	他在这个年龄已经很成熟了。	He is very mature for his age.
+年龄	年龄不是问题。	Age is not a problem.
+弄	他把事情弄得很复杂。	He made things very complicated.
+弄	请不要弄乱我的书。	Please don't mess up my books.
+弄	他在弄饭。	He is cooking.
+暖和	今天的天气很暖和。	The weather is very warm today.
+暖和	这件衣服穿着很暖和。	This piece of clothing is very warm to wear.
+暖和	房间里很暖和。	The room is very warm.
+偶尔	我偶尔会去看电影。	I occasionally go to the movies.
+偶尔	他偶尔会来这里。	He comes here once in a while.
+偶尔	偶尔吃点甜食没关系。	It's okay to eat sweets sometimes.
+words covered	example sentence	translation
+排队	我们需要排队买票。	We need to line up to buy tickets.
+排队	请大家按顺序排队。	Please line up in order.
+排队	他在银行排队等了很久。	He lined up at the bank for a long time.
+排列	请把这些书按颜色排列。	Please arrange these books by color.
+排列	数学中有很多排列组合问题。	There are many permutation and combination problems in mathematics.
+排列	他们按照身高排列队伍。	They arranged the team in order of height.
+判断	我们需要判断这个问题的严重性。	We need to judge the severity of this issue.
+判断	他的判断力很强。	His judgment is very strong.
+判断	医生判断他需要手术。	The doctor determined that he needs surgery.
+陪	我可以陪你去医院。	I can accompany you to the hospital.
+陪	他每天晚上陪孩子做作业。	He assists his child with homework every evening.
+陪	她总是陪着奶奶聊天。	She always keeps her grandmother company for chats.
+批评	老师批评了他的作业。	The teacher criticized his homework.
+批评	他接受了大家的批评。	He accepted everyone's criticism.
+批评	她不喜欢被别人批评。	She doesn't like being criticized by others.
+皮肤	她的皮肤很光滑。	Her skin is very smooth.
+皮肤	冬天我的皮肤很干燥。	My skin is very dry in winter.
+皮肤	他有皮肤过敏的问题。	He has skin allergy issues.
+脾气	他的脾气很暴躁。	He has a bad temper.
+脾气	她的脾气很好，很少生气。	She has a good temperament and rarely gets angry.
+脾气	孩子的脾气有点倔。	The child has a bit of a stubborn disposition.
+篇	这篇文章写得很好。	This article is well written.
+篇	我读了一篇有趣的故事。	I read an interesting story.
+篇	他发表了一篇关于环境保护的论文。	He published a paper on environmental protection.
+骗	他骗了我很多钱。	He swindled a lot of money from me.
+骗	不要轻易相信那些骗人的广告。	Don't easily believe those deceptive advertisements.
+骗	他骗我说他会来。	He deceived me by saying he would come.
+乒乓球	我们下午去打乒乓球吧。	Let's play table tennis this afternoon.
+乒乓球	他是乒乓球高手。	He is a table tennis expert.
+乒乓球	我买了一副新的乒乓球拍。	I bought a new set of table tennis paddles.
+平时	平时我喜欢看书。	I usually like to read books.
+平时	他平时很少运动。	He rarely exercises in normal times.
+平时	平时我们都很忙。	We are usually very busy.
+破	这件衣服破了。	This piece of clothing is torn.
+破	他不小心把杯子打破了。	He accidentally broke the cup.
+破	这个计划有很多漏洞，需要改进。	This plan has many flaws and needs improvement.
+葡萄	我喜欢吃葡萄。	I like to eat grapes.
+葡萄	这些葡萄很甜。	These grapes are very sweet.
+葡萄	葡萄酒是用葡萄酿造的。	Wine is made from grapes.
+普遍	这种现象很普遍。	This phenomenon is very common.
+普遍	大家普遍认为他很聪明。	Everyone generally thinks he is very smart.
+普遍	这种病在老年人中很普遍。	This disease is widespread among the elderly.
+普通话	他普通话说得很好。	He speaks Mandarin very well.
+普通话	我们在学校学习普通话。	We learn Mandarin at school.
+普通话	普通话是中国的官方语言。	Mandarin is the official language of China.
+其次	首先要完成作业，其次再玩游戏。	First, finish your homework, and secondly, play games.
+其次	安全是最重要的，其次是效率。	Safety is the most important, followed by efficiency.
+其次	他在比赛中获得了第二名。	He got second place in the competition.
+其中	他是其中一个获奖者。	He is one of the awardees.
+其中	这本书其中一章很有趣。	One of the chapters in this book is very interesting.
+其中	我们班有三十个学生，其中十个是女生。	There are thirty students in our class, among which ten are girls.
+气候	这个地方的气候很宜人。	The climate in this place is very pleasant.
+气候	气候变化是一个全球性问题。	Climate change is a global issue.
+气候	这里的气候适合种植葡萄。	The climate here is suitable for growing grapes.
+千万	你千万不要忘记带钥匙。	You must not forget to bring the keys.
+千万	他有千万个理由不去。	He has countless reasons not to go.
+千万	千万别迟到。	Make sure not to be late.
+签证	我需要申请签证。	I need to apply for a visa.
+签证	他的签证快到期了。	His visa is about to expire.
+签证	签证官问了我几个问题。	The visa officer asked me a few questions.
+敲	请敲门再进来。	Please knock before entering.
+敲	他用锤子敲钉子。	He hammered the nail.
+敲	有人在敲窗户。	Someone is tapping on the window.
+桥	这座桥很有名。	This bridge is very famous.
+桥	我们过桥去对面。	We crossed the bridge to the other side.
+桥	桥下有一条河。	There is a river under the bridge.
+巧克力	我喜欢吃巧克力。	I like to eat chocolate.
+巧克力	他送了我一盒巧克力。	He gave me a box of chocolates.
+巧克力	巧克力蛋糕很好吃。	Chocolate cake is delicious.
+亲戚	我们家有很多亲戚。	We have many relatives in our family.
+亲戚	他是我的远房亲戚。	He is my distant relative.
+亲戚	过年时我们会拜访亲戚。	We visit relatives during the New Year.
+轻	这个箱子很轻。	This suitcase is very light.
+轻	她的动作很轻柔。	Her movements are very gentle.
+轻	他轻轻地关上了门。	He softly closed the door.
+轻松	这次考试很轻松。	This exam was very easy.
+轻松	他轻松地完成了任务。	He completed the task effortlessly.
+轻松	我们在公园里轻松地散步。	We took a relaxed walk in the park.
+情况	请告诉我最新的情况。	Please tell me the latest situation.
+情况	他的情况不太好。	His condition is not very good.
+情况	我们需要了解更多的情况。	We need to understand more about the circumstances.
+穷	他家很穷。	His family is very poor.
+穷	他穷得连饭都吃不起。	He is so poor that he can't even afford food.
+穷	他们一直在穷追不舍。	They have been persistently chasing.
+区别	这两种产品有什么区别？	What is the difference between these two products?
+区别	我们需要区别对待。	We need to treat them differently.
+区别	他能很快区别出真假。	He can quickly distinguish between the real and the fake.
+取	我去银行取钱。	I'm going to the bank to withdraw money.
+取	请取下你的帽子。	Please take off your hat.
+取	他从书架上取了一本书。	He took a book from the shelf.
+全部	他把全部的钱都花光了。	He spent all the money.
+全部	我们全部通过了考试。	We all passed the exam.
+全部	这件事的全部经过我都知道。	I know the whole story of this matter.
+缺点	每个人都有缺点。	Everyone has weaknesses.
+缺点	他的缺点是太懒。	His shortcoming is being too lazy.
+缺点	这个产品有一些缺点。	This product has some flaws.
+缺少	我们缺少人手。	We are short of manpower.
+缺少	他缺少经验。	He lacks experience.
+缺少	这个项目缺少资金。	This project lacks funding.
+却	他很聪明，却不努力。	He is smart but not hardworking.
+却	我想去，却没有时间。	I want to go, but I don't have time.
+却	他答应了，却没有做到。	He promised but didn't fulfill it.
+确实	这确实是个好消息。	This is indeed good news.
+确实	他确实很有才华。	He is really talented.
+确实	我确实不知道。	I really don't know.
+然而	他很努力，然而没有成功。	He worked hard, but he didn't succeed.
+然而	天气很好，然而我不能出去。	The weather is nice, but I can't go out.
+然而	他答应了，然而没有做到。	He promised, but he didn't fulfill it.
+热闹	这个市场很热闹。	This market is bustling.
+热闹	节日的时候街上很热闹。	The streets are lively during the festival.
+热闹	我们去热闹的地方玩吧。	Let's go to a lively place to have fun.
+任何	我没有任何问题。	I don't have any questions.
+任何	任何人都可以参加。	Anyone can participate.
+任何	他没有任何借口。	He has no excuses.
+任务	我完成了今天的任务。	I completed today's task.
+任务	这个任务很重要。	This assignment is very important.
+任务	他负责这个任务。	He is in charge of this mission.
+扔	请不要随地扔垃圾。	Please don't litter.
+扔	他把旧衣服扔了。	He threw away the old clothes.
+扔	我把球扔给了他。	I threw the ball to him.
+words covered	example sentence	translation
+仍然	他仍然在等你。	He is still waiting for you.
+仍然	尽管下雨，我们仍然去散步。	Despite the rain, we still went for a walk.
+仍然	她的态度仍然没有改变。	Her attitude has not changed yet.
+日记	我每天晚上写日记。	I write a diary every night.
+日记	她的日记里记录了很多秘密。	Her diary contains many secrets.
+日记	这本日记是我最珍贵的东西。	This diary is my most precious possession.
+入口	请从这个入口进入。	Please enter from this entrance.
+入口	这个商场有多个入口。	This mall has multiple entrances.
+入口	这些商品是从国外入口的。	These goods are imported from abroad.
+散步	我们晚饭后常常去散步。	We often go for a walk after dinner.
+散步	他喜欢在公园里散步。	He likes to take a walk in the park.
+散步	散步有助于放松心情。	Taking a walk helps to relax the mind.
+森林	这片森林非常美丽。	This forest is very beautiful.
+森林	我们在森林里迷路了。	We got lost in the forest.
+森林	森林里有很多野生动物。	There are many wild animals in the forest.
+沙发	我买了一张新沙发。	I bought a new sofa.
+沙发	他喜欢躺在沙发上看电视。	He likes to lie on the sofa and watch TV.
+沙发	在论坛上，我是第一个回复的沙发。	On the forum, I was the first to reply (sofa).
+商量	我们需要商量一下这个计划。	We need to discuss this plan.
+商量	他和朋友商量了很久。	He consulted with his friend for a long time.
+商量	这件事我们可以再商量。	We can discuss this matter further.
+伤心	她因为失恋而伤心。	She is heartbroken because of the breakup.
+伤心	听到这个消息，我很伤心。	I was deeply hurt to hear this news.
+伤心	他伤心地哭了。	He cried sadly.
+稍微	请稍微等一下。	Please wait a little bit.
+稍微	这道菜稍微有点咸。	This dish is a little bit salty.
+稍微	我稍微休息了一会儿。	I rested for a little while.
+勺子	请给我一个勺子。	Please give me a spoon.
+勺子	他用勺子喝汤。	He drinks soup with a spoon.
+勺子	这个勺子很大。	This spoon is very big.
+社会	我们生活在一个多元化的社会。	We live in a diverse society.
+社会	社会的发展离不开科技。	The development of society cannot be separated from technology.
+社会	他对社会问题很关心。	He is very concerned about social issues.
+深	这条河很深。	This river is very deep.
+深	他的见解很深。	His insights are profound.
+深	她对这件事有很深的感情。	She has deep feelings about this matter.
+申请	我打算申请这份工作。	I plan to apply for this job.
+申请	他已经提交了申请表。	He has already submitted the application form.
+申请	你需要提前申请签证。	You need to apply for a visa in advance.
+甚至	他甚至不知道我的名字。	He doesn't even know my name.
+甚至	她忙得甚至没时间吃饭。	She is so busy that she doesn't even have time to eat.
+甚至	这个问题甚至影响到了他的生活。	This problem even affected his life.
+生活	他在城市里生活。	He lives in the city.
+生活	她的生活很幸福。	Her life is very happy.
+生活	生活中总有起伏。	There are always ups and downs in life.
+生命	生命是宝贵的。	Life is precious.
+生命	他拯救了很多生命。	He saved many lives.
+生命	每个生命都有其独特的价值。	Every living being has its unique value.
+生意	他的生意做得很成功。	His business is very successful.
+生意	他们在谈生意。	They are discussing business.
+生意	这家店的生意很好。	This store's business is very good.
+省	他省下了很多钱。	He saved a lot of money.
+省	我们应该省电。	We should save electricity.
+省	他省去了很多麻烦。	He avoided a lot of trouble.
+剩	桌上还剩一些食物。	There is some food left on the table.
+剩	他把剩下的工作做完了。	He finished the remaining work.
+剩	我们不能浪费剩饭。	We should not waste leftover food.
+失败	他在比赛中失败了。	He failed in the competition.
+失败	这次实验失败了。	This experiment failed.
+失败	失败是成功之母。	Failure is the mother of success.
+失望	我对他的表现很失望。	I am very disappointed with his performance.
+失望	她对结果感到失望。	She is disappointed with the result.
+失望	不要对自己失望。	Don't lose hope in yourself.
+师傅	这位师傅很有经验。	This master is very experienced.
+师傅	请问师傅，这条路怎么走？	Excuse me, master, how do I get to this road?
+师傅	他是我的师傅。	He is my master.
+十分	我对这个结果十分满意。	I am very satisfied with this result.
+十分	她十分聪明。	She is very smart.
+十分	这个问题十分复杂。	This problem is very complex.
+实际	他的实际年龄比看起来大。	His actual age is older than he looks.
+实际	这个计划不太实际。	This plan is not very practical.
+实际	我们需要面对实际问题。	We need to face practical problems.
+实在	他实在太忙了。	He is really too busy.
+实在	这件事实在太难了。	This matter is really too difficult.
+实在	他是个实在的人。	He is an honest person.
+使	这使我很高兴。	This makes me very happy.
+使	他使出了全力。	He used all his strength.
+使	这本书使我受益匪浅。	This book benefited me greatly.
+使用	请正确使用这个工具。	Please use this tool correctly.
+使用	他不会使用电脑。	He doesn't know how to use a computer.
+使用	这个软件很容易使用。	This software is easy to use.
+是否	你是否同意这个计划？	Do you agree with this plan?
+是否	他是否会来还不确定。	It is not certain whether he will come.
+是否	你是否了解这个问题？	Do you understand this issue?
+适合	这件衣服很适合你。	This dress suits you very well.
+适合	这个工作不适合他。	This job is not suitable for him.
+适合	这本书适合儿童阅读。	This book is suitable for children to read.
+适应	他很快适应了新环境。	He quickly adapted to the new environment.
+适应	她需要时间来适应这个变化。	She needs time to adapt to this change.
+适应	适应不同的文化是很重要的。	It is important to adapt to different cultures.
+世纪	我们生活在21世纪。	We live in the 21st century.
+世纪	这个建筑有几个世纪的历史。	This building has several centuries of history.
+世纪	20世纪发生了很多重大事件。	Many significant events happened in the 20th century.
+收	请收下这份礼物。	Please accept this gift.
+收	他收到了很多信。	He received many letters.
+收	我们需要收集更多信息。	We need to collect more information.
+收入	他的收入很高。	His income is very high.
+收入	这家公司今年的收入增加了。	This company's revenue increased this year.
+收入	她的收入来源很广。	Her sources of income are very diverse.
+收拾	请收拾一下你的房间。	Please tidy up your room.
+收拾	他在收拾行李。	He is packing his luggage.
+收拾	我们需要收拾这些文件。	We need to organize these documents.
+首都	北京是中国的首都。	Beijing is the capital of China.
+首都	每个国家都有一个首都。	Every country has a capital city.
+首都	首都通常是一个国家的政治中心。	The capital is usually the political center of a country.
+首先	首先，我们要讨论这个问题。	First of all, we need to discuss this issue.
+首先	他首先提出了这个建议。	He was the first to make this suggestion.
+首先	首先要了解情况，然后再做决定。	First, understand the situation, then make a decision.
+受不了	这个天气太热了，我受不了。	This weather is too hot, I can't stand it.
+受不了	他受不了这种压力。	He can't bear this kind of pressure.
+受不了	我受不了他的态度。	I can't stand his attitude.
+受到	他受到了很多表扬。	He received a lot of praise.
+受到	她受到了良好的教育。	She received a good education.
+受到	他受到了严厉的惩罚。	He received severe punishment.
+售货员	这家店的售货员很热情。	The salesperson in this store is very enthusiastic.
+售货员	我问了售货员几个问题。	I asked the salesperson a few questions.
+售货员	售货员帮我找到了合适的尺寸。	The salesperson helped me find the right size.
+输	他在比赛中输了。	He lost in the competition.
+输	这些货物需要运输到上海。	These goods need to be transported to Shanghai.
+输	他把密码输错了。	He entered the wrong password.
+words covered	example sentence	translation
+熟悉	我对这座城市很熟悉。	I am very familiar with this city.
+熟悉	他熟悉这项工作的每一个细节。	He knows every detail of this job well.
+熟悉	你熟悉这本书的内容吗？	Are you familiar with the content of this book?
+数量	我们需要统计一下库存的数量。	We need to count the inventory quantity.
+数量	这次活动的参与人数数量很多。	The number of participants in this event is large.
+数量	请告诉我你需要的数量。	Please tell me the amount you need.
+数字	这个数字代表什么？	What does this number represent?
+数字	他对数字很敏感。	He is very sensitive to numbers.
+数字	请检查一下这些数字是否正确。	Please check if these figures are correct.
+帅	他长得很帅。	He is very handsome.
+帅	他是这支队伍的帅。	He is the commander of this team.
+帅	这件衣服看起来很帅。	This outfit looks cool.
+顺便	我顺便买了些水果。	I bought some fruit in passing.
+顺便	你顺便帮我带点东西好吗？	Could you bring me something conveniently?
+顺便	他顺便问了一个问题。	He asked a question in passing.
+顺利	会议进行得很顺利。	The meeting went smoothly.
+顺利	希望你一切顺利。	I hope everything goes well for you.
+顺利	项目顺利完成了。	The project was completed without a hitch.
+顺序	请按顺序排队。	Please line up in order.
+顺序	我们需要重新安排这些文件的顺序。	We need to rearrange the order of these documents.
+顺序	他按照顺序回答了问题。	He answered the questions in sequence.
+说明	请你说明一下这个问题。	Please explain this issue.
+说明	说明书上写得很清楚。	The instructions are written clearly.
+说明	他的表现说明了一切。	His performance indicates everything.
+硕士	他是经济学硕士。	He has a master's degree in economics.
+硕士	她正在攻读硕士学位。	She is pursuing a master's degree.
+硕士	硕士毕业后，他找到了好工作。	After getting his master's degree, he found a good job.
+死	那条鱼死了。	The fish died.
+死	这条路死路一条。	This road is impassable.
+死	他死心了，不再尝试。	He gave up and stopped trying.
+速度	这辆车的速度很快。	This car's speed is very fast.
+速度	请控制你的速度。	Please control your speed.
+速度	音乐的速度有点慢。	The tempo of the music is a bit slow.
+塑料袋	请给我一个塑料袋。	Please give me a plastic bag.
+塑料袋	塑料袋对环境有害。	Plastic bags are harmful to the environment.
+塑料袋	他用塑料袋装了些水果。	He put some fruit in a plastic bag.
+酸	这个柠檬很酸。	This lemon is very sour.
+酸	他感到心里很酸。	He feels very grieved.
+酸	我的腿有点酸。	My legs are a bit sore.
+随便	你可以随便坐。	You can sit anywhere you like.
+随便	他做事很随便。	He does things very casually.
+随便	请不要随便丢垃圾。	Please do not litter at random.
+随着	随着时间的推移，一切都会好起来。	With the passage of time, everything will get better.
+随着	随着科技的发展，生活变得更方便。	With the development of technology, life has become more convenient.
+随着	随着音乐跳舞。	Dance along with the music.
+孙子	他有一个可爱的孙子。	He has a cute grandson.
+孙子	孙子们都来拜访他。	All the grandsons came to visit him.
+孙子	他喜欢和孙子一起玩。	He likes to play with his grandson.
+所有	所有的学生都来了。	All the students have arrived.
+所有	他拥有这家公司的所有权。	He owns the company.
+所有	请把所有的文件整理好。	Please organize all the documents.
+台	台风来了。	The typhoon is coming.
+台	他在台上表演。	He is performing on stage.
+台	这台电脑很贵。	This computer is very expensive.
+抬	请帮我抬一下这个箱子。	Please help me lift this box.
+抬	他抬头看了看天空。	He looked up at the sky.
+抬	他们一起抬着桌子。	They are carrying the table together.
+态度	他的态度很友好。	His attitude is very friendly.
+态度	我们需要改变我们的态度。	We need to change our attitude.
+态度	她对工作的态度很认真。	She has a serious attitude towards work.
+谈	我们需要谈一谈。	We need to talk.
+谈	他们在谈论电影。	They are discussing the movie.
+谈	他喜欢和朋友谈心。	He likes to have heart-to-heart talks with friends.
+弹钢琴	她每天练习弹钢琴。	She practices playing the piano every day.
+弹钢琴	他弹钢琴弹得很好。	He plays the piano very well.
+弹钢琴	我正在学弹钢琴。	I am learning to play the piano.
+汤	这碗汤很好喝。	This bowl of soup is delicious.
+汤	他喜欢喝鸡汤。	He likes to drink chicken soup.
+汤	请给我盛一碗汤。	Please serve me a bowl of soup.
+糖	我不喜欢吃太多糖。	I don't like to eat too much sugar.
+糖	这块糖果很甜。	This candy is very sweet.
+糖	他给了我一块糖。	He gave me a piece of candy.
+躺	他躺在床上休息。	He is lying on the bed to rest.
+躺	我喜欢躺在沙发上看书。	I like to lie on the sofa and read.
+躺	她躺在草地上晒太阳。	She is lying on the grass to sunbathe.
+趟	我去了一趟超市。	I made a trip to the supermarket.
+趟	他每周去一趟健身房。	He goes to the gym once a week.
+趟	这趟火车很准时。	This train is very punctual.
+讨论	我们需要讨论这个问题。	We need to discuss this issue.
+讨论	他们在讨论旅行计划。	They are discussing the travel plans.
+讨论	会议上大家热烈讨论。	Everyone is having a heated discussion at the meeting.
+讨厌	我讨厌下雨天。	I hate rainy days.
+讨厌	他很讨厌这种行为。	He loathes this kind of behavior.
+讨厌	这个人真讨厌。	This person is really annoying.
+特点	这本书的特点是什么？	What is the characteristic of this book?
+特点	每个人都有自己的特点。	Everyone has their own traits.
+特点	这道菜的特点是味道鲜美。	The feature of this dish is its delicious taste.
+提	请提一下你的意见。	Please put forward your opinion.
+提	他提着一个重箱子。	He is carrying a heavy box.
+提	她提到了一个重要的问题。	She mentioned an important issue.
+提供	公司提供了很多福利。	The company provides many benefits.
+提供	他提供了有用的信息。	He provided useful information.
+提供	我们可以为你提供帮助。	We can offer you help.
+提前	会议时间提前了。	The meeting time has been moved up.
+提前	请提前通知我。	Please inform me in advance.
+提前	他提前完成了任务。	He completed the task ahead of time.
+提醒	请提醒我明天开会。	Please remind me of the meeting tomorrow.
+提醒	他提醒我带上钥匙。	He reminded me to bring the keys.
+提醒	这个闹钟会提醒你起床。	This alarm clock will remind you to get up.
+填空	请在这里填空。	Please fill in the blank here.
+填空	他在考试中填空题得了高分。	He scored high on the fill-in-the-blank questions in the exam.
+填空	我们需要填空这个职位。	We need to fill this job vacancy.
+条件	这个工作需要什么条件？	What are the requirements for this job?
+条件	他的生活条件很好。	His living conditions are very good.
+条件	我们需要创造更好的条件。	We need to create better conditions.
+停	请在这里停车。	Please park the car here.
+停	雨停了。	The rain has stopped.
+停	他停下来休息了一会儿。	He stopped to rest for a while.
+挺	这件衣服挺好看的。	This piece of clothing is quite nice.
+挺	他挺直了腰。	He straightened his back.
+挺	她挺喜欢这本书的。	She quite likes this book.
+通过	他通过了考试。	He passed the exam.
+通过	我们通过了这项提案。	We adopted this proposal.
+通过	他通过朋友找到了工作。	He found a job through a friend.
+通知	我收到了一个通知。	I received a notification.
+通知	请通知大家开会。	Please inform everyone about the meeting.
+通知	他发了一封通知邮件。	He sent a notification email.
+同时	他同时做了两件事。	He did two things at the same time.
+同时	我们同时到达了。	We arrived at the same time.
+同时	她是我的同事，同时也是我的朋友。	She is my colleague and also my friend.
+words covered	example sentence	translation
+同情	我对他的遭遇深表同情。	I deeply sympathize with his situation.
+同情	她总是对流浪动物充满同情。	She always feels sympathy for stray animals.
+同情	他得到了大家的同情和支持。	He received everyone's sympathy and support.
+推	请帮我推一下这扇门。	Please help me push this door.
+推	他被推选为班长。	He was elected as the class monitor.
+推	他总是推卸责任。	He always shirks responsibility.
+推迟	会议被推迟到下周。	The meeting was postponed to next week.
+推迟	由于天气原因，比赛推迟了。	Due to the weather, the game was deferred.
+推迟	我们不得不推迟旅行计划。	We had to put off our travel plans.
+脱	他脱下了外套。	He took off his coat.
+脱	蛇每年都会脱皮。	Snakes shed their skin every year.
+脱	他成功地脱离了危险。	He successfully escaped from danger.
+袜子	我今天穿了一双新袜子。	I wore a new pair of socks today.
+袜子	他的袜子破了一个洞。	His sock has a hole in it.
+袜子	她喜欢买各种颜色的袜子。	She likes to buy socks in various colors.
+完全	我完全同意你的看法。	I completely agree with your opinion.
+完全	这个计划还没有完全实施。	This plan has not been fully implemented.
+完全	他完全不知道这件事。	He is totally unaware of this matter.
+往往	他往往在周末去爬山。	He usually goes hiking on weekends.
+往往	这种情况往往会发生。	This kind of situation often occurs.
+往往	她往往在晚上工作。	She often works at night.
+网球	我喜欢打网球。	I like to play tennis.
+网球	他买了一副新的网球拍。	He bought a new tennis racket.
+网球	我们周末去打网球吧。	Let's play tennis this weekend.
+网站	我在这个网站上买了很多东西。	I bought many things on this website.
+网站	这个网站提供很多有用的信息。	This website provides a lot of useful information.
+网站	他正在设计一个新网站。	He is designing a new website.
+危险	这个地方很危险。	This place is very dangerous.
+危险	他冒着生命危险救了那个人。	He risked his life to save that person.
+危险	我们必须避免任何危险。	We must avoid any danger.
+味道	这道菜的味道很好。	This dish tastes very good.
+味道	我喜欢这种香水的味道。	I like the scent of this perfume.
+味道	这本书有一种独特的味道。	This book has a unique flavor.
+卫生间	请问卫生间在哪里？	Excuse me, where is the bathroom?
+卫生间	他正在打扫卫生间。	He is cleaning the bathroom.
+卫生间	我需要去一下卫生间。	I need to go to the restroom.
+温度	今天的温度很高。	The temperature is very high today.
+温度	请调低一点空调的温度。	Please lower the air conditioner's temperature a bit.
+温度	温度计显示室内温度是25度。	The thermometer shows the indoor temperature is 25 degrees.
+文章	他写了一篇很好的文章。	He wrote a very good article.
+文章	这篇文章很有深度。	This essay is very profound.
+文章	我喜欢读文学文章。	I like to read literary works.
+污染	空气污染越来越严重。	Air pollution is getting worse.
+污染	我们应该减少环境污染。	We should reduce environmental pollution.
+污染	这条河被严重污染了。	This river is heavily polluted.
+无	他无话可说。	He has nothing to say.
+无	这里无信号。	There is no signal here.
+无	他无家可归。	He is homeless.
+无聊	这部电影很无聊。	This movie is very boring.
+无聊	他觉得无聊，就去散步了。	He felt bored, so he went for a walk.
+无聊	无聊的时候，我喜欢看书。	When I'm bored, I like to read books.
+无论	无论天气如何，我们都去。	No matter the weather, we will go.
+无论	无论发生什么，我都会支持你。	No matter what happens, I will support you.
+无论	无论他怎么说，我都不相信。	Regardless of what he says, I don't believe him.
+误会	对不起，我误会你了。	Sorry, I misunderstood you.
+误会	这只是一个误会。	This is just a misunderstanding.
+误会	我们之间有一些误会需要澄清。	There are some misunderstandings between us that need to be clarified.
+西红柿	我喜欢吃西红柿。	I like to eat tomatoes.
+西红柿	她买了一些新鲜的西红柿。	She bought some fresh tomatoes.
+西红柿	西红柿可以生吃也可以做菜。	Tomatoes can be eaten raw or cooked.
+吸引	这本书吸引了很多读者。	This book attracted many readers.
+吸引	他的演讲吸引了大家的注意。	His speech attracted everyone's attention.
+吸引	这个地方吸引了很多游客。	This place attracted many tourists.
+咸	这道菜有点咸。	This dish is a bit salty.
+咸	他喜欢吃咸的食物。	He likes to eat salty food.
+咸	这汤太咸了，不能喝。	This soup is too salty to drink.
+现金	我没有带现金。	I didn't bring any cash.
+现金	他用现金支付了账单。	He paid the bill in cash.
+现金	你可以用现金或信用卡付款。	You can pay with cash or credit card.
+羡慕	我很羡慕他的生活。	I envy his life.
+羡慕	她羡慕那些能自由旅行的人。	She envies those who can travel freely.
+羡慕	他羡慕别人的成功。	He envies others' success.
+香	这朵花很香。	This flower is very fragrant.
+香	这道菜闻起来很香。	This dish smells very appetizing.
+香	她喷了一点香水。	She sprayed a little perfume.
+相反	他的意见和我相反。	His opinion is opposite to mine.
+相反	相反的方向。	The opposite direction.
+相反	相反的结果。	The contrary result.
+相同	我们有相同的兴趣爱好。	We have the same hobbies.
+相同	他们的观点相同。	Their views are identical.
+相同	这两件事完全相同。	These two things are exactly the same.
+详细	请给我详细的说明。	Please give me detailed instructions.
+详细	他详细地解释了这个问题。	He explained the problem in detail.
+详细	这份报告非常详细。	This report is very detailed.
+响	电话响了。	The phone rang.
+响	他的声音很响。	His voice is very loud.
+响	钟声响起。	The bell rang.
+橡皮	我需要一块橡皮。	I need an eraser.
+橡皮	他用橡皮擦掉了错误。	He erased the mistake with a rubber.
+橡皮	这块橡皮很好用。	This eraser is very useful.
+消息	我有一个好消息要告诉你。	I have good news to tell you.
+消息	他还没有收到任何消息。	He hasn't received any information yet.
+消息	这个消息让大家很高兴。	This news made everyone happy.
+小吃	我喜欢吃街头小吃。	I like to eat street snacks.
+小吃	这家店的小吃很有名。	The snacks at this shop are very famous.
+小吃	我们去夜市吃小吃吧。	Let's go to the night market to eat snacks.
+小伙子	那个小伙子很聪明。	That young man is very smart.
+小伙子	小伙子们在操场上踢足球。	The lads are playing football on the playground.
+小伙子	他是个勤奋的小伙子。	He is a hardworking young guy.
+小说	我正在读一本小说。	I'm reading a novel.
+小说	这部小说很有趣。	This fiction is very interesting.
+小说	他写了一本科幻小说。	He wrote a science fiction novel.
+笑话	他讲了一个很好笑的笑话。	He told a very funny joke.
+笑话	不要笑话别人。	Don't mock others.
+笑话	这个笑话真是荒谬。	This joke is really absurd.
+效果	这个药的效果很好。	This medicine is very effective.
+效果	他的努力有了效果。	His efforts have paid off.
+效果	这部电影的特效很棒。	The special effects in this movie are great.
+辛苦	他工作得很辛苦。	He works very hard.
+辛苦	谢谢你的辛苦付出。	Thank you for your hard work.
+辛苦	这是一项辛苦的任务。	This is a tough task.
+心情	今天我的心情很好。	I'm in a good mood today.
+心情	他心情不好，不想说话。	He is in a bad mood and doesn't want to talk.
+心情	音乐可以改变人的心情。	Music can change a person's mood.
+信封	我需要一个信封。	I need an envelope.
+信封	他把信放进了信封里。	He put the letter into the envelope.
+信封	这个信封上没有地址。	There is no address on this envelope.
+信息	我收到了你的信息。	I received your message.
+信息	他在网上查找信息。	He is searching for information online.
+信息	这个网站提供最新的信息。	This website provides the latest information.
+words covered	example sentence	translation
+信心	他对自己充满了信心。	He is full of confidence in himself.
+信心	我们对未来充满信心。	We are full of confidence in the future.
+信心	她的信心来自于多年的努力。	Her confidence comes from years of hard work.
+兴奋	孩子们对新玩具感到非常兴奋。	The children are very excited about the new toys.
+兴奋	他兴奋地告诉我们他得到了新工作。	He excitedly told us he got a new job.
+兴奋	比赛前的兴奋让他难以入睡。	The excitement before the game made it hard for him to sleep.
+行	我们明天去公园行吗？	Is it okay if we go to the park tomorrow?
+行	他在公司里表现得很行。	He performs very well in the company.
+行	这条路不行，我们得换一条。	This road won't do, we need to take another one.
+醒	他每天早上六点醒来。	He wakes up at six every morning.
+醒	她终于醒悟到自己的错误。	She finally became aware of her mistakes.
+醒	喝了咖啡后，我感觉清醒了很多。	After drinking coffee, I felt much more awake.
+性别	请在表格上填写你的性别。	Please fill in your gender on the form.
+性别	性别平等是社会进步的重要标志。	Gender equality is an important sign of social progress.
+性别	这个职业不分性别，男女都可以做。	This profession is not gender-specific; both men and women can do it.
+性格	他的性格很开朗。	He has a very cheerful personality.
+性格	她的性格决定了她的选择。	Her character determined her choices.
+性格	每个人的性格都是独特的。	Everyone's temperament is unique.
+幸福	他们过着幸福的生活。	They live a happy life.
+幸福	找到真爱让她感到非常幸福。	Finding true love makes her feel very happy.
+幸福	幸福不是金钱能买到的。	Happiness cannot be bought with money.
+修理	他在修理他的自行车。	He is repairing his bicycle.
+修理	这台电脑需要修理。	This computer needs to be fixed.
+修理	他会修理各种家电。	He can repair all kinds of home appliances.
+许多	许多学生都喜欢这位老师。	Many students like this teacher.
+许多	他有许多有趣的故事。	He has many interesting stories.
+许多	许多问题需要解决。	Many problems need to be solved.
+学期	这个学期我选了五门课。	I have chosen five courses this semester.
+学期	学期结束后我们会有一个长假。	We will have a long holiday after the semester ends.
+学期	新学期开始了，大家都很兴奋。	The new semester has started, and everyone is excited.
+压力	工作压力让他感到很疲惫。	Work pressure makes him feel very tired.
+压力	她在考试前感到很大的压力。	She feels a lot of pressure before the exam.
+压力	适当的压力可以激发人的潜力。	Moderate pressure can stimulate a person's potential.
+牙膏	我需要买一管牙膏。	I need to buy a tube of toothpaste.
+牙膏	这款牙膏有美白效果。	This toothpaste has a whitening effect.
+牙膏	他每天早晚都用牙膏刷牙。	He brushes his teeth with toothpaste every morning and evening.
+亚洲	亚洲是世界上人口最多的洲。	Asia is the most populous continent in the world.
+亚洲	他计划去亚洲旅行。	He plans to travel to Asia.
+亚洲	亚洲文化非常多样化。	Asian culture is very diverse.
+呀	你怎么来了呀？	Why did you come?
+呀	这真是太好了呀！	This is really great!
+呀	你在干什么呀？	What are you doing?
+盐	请递给我盐。	Please pass me the salt.
+盐	这道菜需要加点盐。	This dish needs some salt.
+盐	盐是厨房里必不可少的调料。	Salt is an essential seasoning in the kitchen.
+严格	老师对学生要求很严格。	The teacher is very strict with the students.
+严格	公司对员工的考核非常严格。	The company has very stringent assessments for employees.
+严格	严格的训练让他变得更强。	Rigorous training made him stronger.
+严重	他的病情很严重。	His illness is very serious.
+严重	这个问题非常严重，需要立即解决。	This problem is very serious and needs to be solved immediately.
+严重	交通事故造成了严重的后果。	The traffic accident caused serious consequences.
+研究	他在研究新的治疗方法。	He is researching new treatment methods.
+研究	这个课题需要深入研究。	This topic needs in-depth research.
+研究	他们的研究成果非常重要。	Their research findings are very important.
+演出	今晚有一场精彩的演出。	There is a wonderful performance tonight.
+演出	他在这部电影中演出了一位医生。	He played a doctor in this movie.
+演出	这次演出吸引了很多观众。	This performance attracted a lot of audience.
+演员	她是一位著名的演员。	She is a famous actress.
+演员	这部电影的演员阵容很强大。	The cast of this movie is very strong.
+演员	他梦想成为一名演员。	He dreams of becoming an actor.
+眼镜	他戴了一副新眼镜。	He is wearing a new pair of glasses.
+眼镜	我的眼镜坏了，需要修理。	My glasses are broken and need to be repaired.
+眼镜	她的眼镜度数很高。	Her glasses have a high prescription.
+阳光	今天的阳光很明媚。	The sunshine is very bright today.
+阳光	他是一个阳光开朗的男孩。	He is a sunny and cheerful boy.
+阳光	阳光透过窗户照进来。	Sunshine comes through the window.
+养成	他养成了每天早起的习惯。	He has developed the habit of getting up early every day.
+养成	读书可以养成良好的思维习惯。	Reading can cultivate good thinking habits.
+养成	她养成了每天锻炼的习惯。	She has developed the habit of exercising every day.
+样子	她的样子很可爱。	She looks very cute.
+样子	他生气的样子很吓人。	He looks very scary when he is angry.
+样子	这件衣服的样子很时尚。	This dress looks very fashionable.
+邀请	他邀请我参加他的生日派对。	He invited me to his birthday party.
+邀请	我们收到了婚礼的邀请。	We received an invitation to the wedding.
+邀请	她邀请了很多朋友来家里做客。	She invited many friends to her home.
+要是	要是明天下雨，我们就不去爬山了。	If it rains tomorrow, we won't go hiking.
+要是	要是你有时间，我们一起去看电影吧。	If you have time, let's go to the movies together.
+要是	要是他来了，请告诉我。	If he comes, please tell me.
+钥匙	我找不到我的钥匙了。	I can't find my keys.
+钥匙	这把钥匙可以打开所有的门。	This key can open all the doors.
+钥匙	他把钥匙忘在家里了。	He forgot his keys at home.
+也许	也许他已经出发了。	Maybe he has already left.
+也许	也许明天会更好。	Maybe tomorrow will be better.
+也许	也许我们应该再考虑一下。	Maybe we should think about it again.
+页	请翻到书的第十页。	Please turn to page ten of the book.
+页	这本书有三百页。	This book has three hundred pages.
+页	每一页都有插图。	Each page has illustrations.
+叶子	树上的叶子变黄了。	The leaves on the tree have turned yellow.
+叶子	这片叶子很漂亮。	This leaf is very beautiful.
+叶子	秋天是叶子掉落的季节。	Autumn is the season when leaves fall.
+一切	一切都会好起来的。	Everything will be fine.
+一切	他为了一切努力工作。	He works hard for everything.
+一切	一切都在计划之中。	Everything is going according to plan.
+以	我们以诚相待。	We treat each other with sincerity.
+以	他以优异的成绩毕业。	He graduated with excellent grades.
+以	以这种方式解决问题最好。	It is best to solve the problem in this way.
+以为	我以为你已经走了。	I thought you had already left.
+以为	他以为今天是星期五。	He thought today was Friday.
+以为	我以为他不会来了。	I thought he wouldn't come.
+意见	你对这个计划有什么意见？	What do you think about this plan?
+意见	他们的意见不一致。	Their opinions are not consistent.
+意见	他提出了很多有建设性的意见。	He made many constructive suggestions.
+艺术	她对艺术很有兴趣。	She is very interested in art.
+艺术	这幅画是一件艺术品。	This painting is a piece of art.
+艺术	艺术可以丰富我们的生活。	Art can enrich our lives.
+因此	他努力工作，因此得到了提升。	He worked hard, and as a result, he got promoted.
+因此	天气不好，因此我们取消了旅行。	The weather was bad, so we canceled the trip.
+因此	他生病了，因此没来上班。	He was sick, so he didn't come to work.
+引起	他的言论引起了大家的注意。	His remarks drew everyone's attention.
+引起	这个问题引起了广泛的讨论。	This issue has caused widespread discussion.
+引起	他的行为引起了很多争议。	His behavior has caused a lot of controversy.
+印象	她给我留下了深刻的印象。	She left a deep impression on me.
+印象	这座城市给游客留下了美好的印象。	This city left a good impression on tourists.
+印象	他的演讲给大家留下了深刻的印象。	His speech left a deep impression on everyone.
+应聘	他应聘了这家公司。	He applied for a job at this company.
+应聘	她成功应聘上了这个职位。	She successfully applied for this position.
+应聘	很多人来应聘这个工作。	Many people came to apply for this job.
+赢	他在比赛中赢了。	He won the game.
+赢	我们队赢得了冠军。	Our team won the championship.
+赢	她赢得了大家的尊重。	She won everyone's respect.
+words covered	example sentence	translation
+勇敢	他是一个非常勇敢的消防员。	He is a very brave firefighter.
+勇敢	面对困难时，我们需要勇敢。	We need to be brave when facing difficulties.
+勇敢	她勇敢地表达了自己的意见。	She courageously expressed her opinion.
+永远	我会永远记住这一天。	I will remember this day forever.
+永远	友谊是永远的财富。	Friendship is an eternal treasure.
+永远	他永远不会忘记她的微笑。	He will never forget her smile.
+优点	他的优点是非常勤奋。	His strong point is that he is very diligent.
+优点	这个产品有很多优点。	This product has many advantages.
+优点	她的优点之一是善于沟通。	One of her merits is good communication skills.
+优秀	他是一个非常优秀的学生。	He is an outstanding student.
+优秀	这家公司有很多优秀的员工。	This company has many excellent employees.
+优秀	她的表现非常优秀。	Her performance is excellent.
+幽默	他讲的笑话非常幽默。	His jokes are very humorous.
+幽默	她是一个非常幽默的人。	She is a very humorous person.
+幽默	他的幽默感让大家都笑了。	His sense of humor made everyone laugh.
+由	这本书由他写的。	This book was written by him.
+由	由你来决定这件事。	It is for you to decide this matter.
+由	我们由这条路走过去。	We go through this road.
+由于	由于天气不好，比赛取消了。	Due to bad weather, the game was canceled.
+由于	由于他的努力，他成功了。	As a result of his hard work, he succeeded.
+由于	由于时间紧迫，我们得快点。	Since time is tight, we need to hurry.
+邮局	我去邮局寄包裹。	I went to the post office to send a package.
+邮局	邮局在银行旁边。	The post office is next to the bank.
+邮局	他在邮局工作。	He works at the post office.
+尤其	我尤其喜欢这个城市的夜景。	I especially like the night view of this city.
+尤其	他尤其擅长数学。	He is particularly good at math.
+尤其	这道菜尤其美味。	This dish is especially delicious.
+有趣	这个故事非常有趣。	This story is very interesting.
+有趣	他是一个有趣的人。	He is an interesting person.
+有趣	这本书很有趣。	This book is fascinating.
+友好	他们对我们非常友好。	They are very friendly to us.
+友好	我们有一个友好的邻居。	We have a friendly neighbor.
+友好	她和同事们关系友好。	She has a friendly relationship with her colleagues.
+友谊	我们的友谊非常深厚。	Our friendship is very deep.
+友谊	友谊需要时间来培养。	Friendship needs time to develop.
+友谊	他们之间的友谊很真诚。	The friendship between them is very sincere.
+愉快	我们度过了一个愉快的周末。	We had a pleasant weekend.
+愉快	她总是保持愉快的心情。	She always keeps a cheerful mood.
+愉快	这次旅行非常愉快。	This trip was very delightful.
+于是	他没带伞，于是淋湿了。	He didn't bring an umbrella, so he got wet.
+于是	她饿了，于是去找吃的。	She was hungry, so she went to find something to eat.
+于是	我们迷路了，于是问路人。	We got lost, so we asked a passerby.
+与	他与朋友一起去旅行。	He went traveling with friends.
+与	她与同事们合作完成了项目。	She collaborated with colleagues to complete the project.
+与	他与家人关系很好。	He has a good relationship with his family.
+语法	学习语法对学好语言很重要。	Learning grammar is important for mastering a language.
+语法	他的语法错误很多。	He makes many grammar mistakes.
+语法	这本书讲解了英语语法。	This book explains English grammar.
+语言	他会说多种语言。	He can speak multiple languages.
+语言	语言是沟通的工具。	Language is a tool for communication.
+语言	学习新语言需要时间。	Learning a new language takes time.
+羽毛球	我们周末去打羽毛球。	We play badminton on weekends.
+羽毛球	他是羽毛球高手。	He is a badminton expert.
+羽毛球	羽毛球比赛很激烈。	The badminton match is intense.
+预习	老师要求我们预习新课。	The teacher asked us to prepare the new lesson.
+预习	预习可以提高学习效果。	Preparing lessons can improve learning efficiency.
+预习	他每天晚上预习功课。	He prepares his lessons every night.
+原来	原来他是我的老同学。	It turns out he is my old classmate.
+原来	我原来住在这里。	I used to live here.
+原来	原来你也喜欢这本书。	So, you also like this book.
+原谅	请原谅我的错误。	Please forgive my mistake.
+原谅	他请求她的原谅。	He asked for her forgiveness.
+原谅	她原谅了他的过失。	She forgave his mistake.
+原因	这个问题的原因是什么？	What is the cause of this problem?
+原因	他迟到的原因是堵车。	The reason he was late is traffic.
+原因	找出问题的原因很重要。	It is important to find out the cause of the problem.
+约会	我们今晚有个约会。	We have a date tonight.
+约会	他忘记了我们的约会。	He forgot our appointment.
+约会	他们在咖啡馆约会。	They have a date at the café.
+阅读	我喜欢阅读小说。	I like to read novels.
+阅读	她每天晚上都会阅读一些书。	She reads some books every night.
+阅读	阅读是我日常的爱好之一。	Reading is one of my daily hobbies.
+云	天空中有很多云。	There are many clouds in the sky.
+云	这朵云看起来像一只动物。	This cloud looks like an animal.
+云	云层很厚，可能要下雨了。	The clouds are thick, it might rain.
+允许	老师允许我们提问。	The teacher allows us to ask questions.
+允许	这里不允许吸烟。	Smoking is not allowed here.
+允许	他父母允许他出去玩。	His parents allow him to go out and play.
+杂志	我喜欢看时尚杂志。	I like reading fashion magazines.
+杂志	这本杂志很有趣。	This magazine is very interesting.
+杂志	他订阅了很多杂志。	He subscribes to many magazines.
+咱们	咱们一起去吃饭吧。	Let's go eat together.
+咱们	咱们明天见。	See you tomorrow.
+咱们	咱们的计划是什么？	What is our plan?
+暂时	我暂时住在朋友家。	I am temporarily staying at a friend's house.
+暂时	这个问题暂时解决了。	This problem is temporarily solved.
+暂时	他暂时离开了办公室。	He temporarily left the office.
+脏	他的衣服很脏。	His clothes are dirty.
+脏	请不要把地板弄脏。	Please don't get the floor dirty.
+脏	这条河水很脏。	This river is very dirty.
+责任	每个人都有自己的责任。	Everyone has their own responsibilities.
+责任	他对这件事负有责任。	He is responsible for this matter.
+责任	她的责任是管理团队。	Her duty is to manage the team.
+增加	我们需要增加预算。	We need to increase the budget.
+增加	他的工资增加了。	His salary has increased.
+增加	公司计划增加员工人数。	The company plans to increase the number of employees.
+占线	我打电话时总是占线。	The line is always busy when I call.
+占线	他的电话占线了。	His phone line is busy.
+占线	请稍后再拨，电话占线。	Please call again later, the line is busy.
+招聘	公司正在招聘新员工。	The company is recruiting new employees.
+招聘	他们在网上发布了招聘信息。	They posted a job advertisement online.
+招聘	招聘会将在下周举行。	The job fair will be held next week.
+照	请照这个地址寄信。	Please send the letter to this address.
+照	他照镜子整理头发。	He looks in the mirror to fix his hair.
+照	她喜欢照相。	She likes to take photos.
+真正	他是真正的朋友。	He is a true friend.
+真正	这是真正的艺术品。	This is a genuine piece of art.
+真正	他真正理解了这个问题。	He truly understood the problem.
+整理	她在整理房间。	She is tidying up the room.
+整理	请整理你的书桌。	Please organize your desk.
+整理	他在整理文件。	He is sorting out the documents.
+正常	这是一种正常现象。	This is a normal phenomenon.
+正常	他的体温正常。	His body temperature is normal.
+正常	一切都恢复正常了。	Everything has returned to normal.
+正好	我正好有时间。	I just happen to have time.
+正好	我们正好遇见了他。	We happened to meet him.
+正好	这件衣服正好合适。	This dress fits just right.
+正确	你的答案是正确的。	Your answer is correct.
+正确	请确保信息的正确性。	Please ensure the accuracy of the information.
+正确	他做出了正确的决定。	He made the right decision.
+words covered	example sentence	translation
+正式	他穿了一套正式的西装。	He wore a formal suit.
+正式	会议将在明天正式开始。	The meeting will officially start tomorrow.
+正式	她被正式录取为公司员工。	She was officially hired as a company employee.
+证明	请出示你的身份证明。	Please show your identification.
+证明	他的成功证明了努力的重要性。	His success proves the importance of hard work.
+证明	这份文件可以作为你的证明。	This document can serve as your proof.
+之	这是我之所见。	This is what I have seen.
+之	他是我们之中的佼佼者。	He is the best among us.
+之	这是一本关于历史之书。	This is a book about history.
+支持	我全力支持你的决定。	I fully support your decision.
+支持	他得到了家人的支持。	He received support from his family.
+支持	我们需要更多的资金支持。	We need more financial backing.
+知识	他拥有丰富的知识。	He has a wealth of knowledge.
+知识	知识就是力量。	Knowledge is power.
+知识	她在学校里学到了很多新知识。	She learned a lot of new knowledge at school.
+值得	这本书很值得一读。	This book is worth reading.
+值得	他的努力值得表扬。	His efforts deserve praise.
+值得	这次旅行值得我们期待。	This trip is worth our anticipation.
+直接	请直接告诉我结果。	Please tell me the result directly.
+直接	他是我的直接上司。	He is my direct supervisor.
+直接	我们需要一个直接的解决方案。	We need a straightforward solution.
+植物	花园里有很多不同的植物。	There are many different plants in the garden.
+植物	这种植物需要很多阳光。	This plant needs a lot of sunlight.
+植物	他对植物学很感兴趣。	He is very interested in botany.
+职业	他的职业是医生。	His profession is a doctor.
+职业	她想换一个新的职业。	She wants to change to a new occupation.
+职业	职业道德非常重要。	Professional ethics are very important.
+指	他用手指指着那边。	He pointed over there with his finger.
+指	请指给我看。	Please show me.
+指	这本书指的是历史事件。	This book refers to historical events.
+只好	下雨了，我们只好待在家里。	It started raining, so we have no choice but to stay home.
+只好	他病了，只好请假。	He got sick, so he had to take leave.
+只好	我们只好等到明天。	We have no choice but to wait until tomorrow.
+只要	只要你努力，就会成功。	As long as you work hard, you will succeed.
+只要	只要有时间，我就去看你。	As long as I have time, I will visit you.
+只要	只要你喜欢，就买吧。	If you like it, just buy it.
+质量	这件衣服的质量很好。	The quality of this clothing is very good.
+质量	我们需要提高产品质量。	We need to improve product quality.
+质量	这家公司的服务质量很高。	This company's service quality is very high.
+至少	他至少有五本书。	He has at least five books.
+至少	我们至少需要三个人。	We need at least three people.
+至少	这项工作至少需要两天时间。	This job will take at least two days.
+重	这个箱子很重。	This box is heavy.
+重	他的话很有分量。	His words carry a lot of weight.
+重	我们要重视这个问题。	We need to take this issue seriously.
+重点	请注意重点。	Please pay attention to the key points.
+重点	这次会议的重点是讨论预算。	The focus of this meeting is to discuss the budget.
+重点	我们要把重点放在质量上。	We need to focus on quality.
+重视	公司非常重视员工培训。	The company attaches great importance to employee training.
+重视	他重视每一个细节。	He values every detail.
+重视	我们应该重视环境保护。	We should value environmental protection.
+周围	学校周围有很多商店。	There are many shops around the school.
+周围	他周围有很多朋友。	He has many friends around him.
+周围	我们周围的环境很美。	The environment around us is beautiful.
+主意	这是个好主意。	This is a good idea.
+主意	你有什么好主意吗？	Do you have any good ideas?
+主意	他改变了主意。	He changed his mind.
+祝贺	祝贺你取得了好成绩。	Congratulations on your good results.
+祝贺	我们祝贺他的新工作。	We congratulate him on his new job.
+祝贺	祝贺你们结婚。	Congratulations on your marriage.
+著名	他是一个著名的作家。	He is a famous writer.
+著名	这座城市以其著名的景点闻名。	This city is known for its famous attractions.
+著名	这家餐厅很著名。	This restaurant is very well-known.
+专门	他专门研究古代历史。	He specializes in ancient history.
+专门	这是一个专门为儿童设计的节目。	This is a program specially designed for children.
+专门	我们需要专门的设备。	We need specialized equipment.
+专业	他的专业是计算机科学。	His major is computer science.
+专业	她在专业领域很有名。	She is well-known in her specialized field.
+专业	我们需要专业的建议。	We need professional advice.
+转	他转身离开了。	He turned and left.
+转	地球绕着太阳转。	The Earth revolves around the Sun.
+转	请把这个消息转给他。	Please pass this message to him.
+赚	他在股票市场上赚了很多钱。	He made a lot of money in the stock market.
+赚	这家公司去年赚了很多利润。	This company made a lot of profit last year.
+赚	他通过兼职赚了一些额外收入。	He earned some extra income through part-time work.
+准确	他的回答非常准确。	His answer is very accurate.
+准确	请给我一个准确的时间。	Please give me an exact time.
+准确	这个数据非常准确。	This data is very precise.
+准时	他总是准时到达。	He always arrives on time.
+准时	会议准时开始。	The meeting started on schedule.
+准时	请准时参加会议。	Please attend the meeting punctually.
+仔细	请仔细阅读说明。	Please read the instructions carefully.
+仔细	他做事非常仔细。	He does things very attentively.
+仔细	我们需要仔细检查这个问题。	We need to carefully check this issue.
+自然	他喜欢大自然。	He likes nature.
+自然	她的行为很自然。	Her behavior is very natural.
+自然	我们应该保护自然环境。	We should protect the natural environment.
+自信	他对自己很自信。	He is very confident in himself.
+自信	自信是成功的关键。	Self-confidence is the key to success.
+自信	她说话很有自信。	She speaks with a lot of confidence.
+总结	他总结了会议的内容。	He summarized the content of the meeting.
+总结	我们需要总结经验教训。	We need to sum up the lessons learned.
+总结	这篇文章总结了研究结果。	This article summarizes the research results.
+租	我们打算租一辆车。	We plan to rent a car.
+租	他把房子租给了一个学生。	He rented the house to a student.
+租	我们需要租一些设备。	We need to hire some equipment.
+最好	你最好早点休息。	You had better rest early.
+最好	这是我吃过的最好的一餐。	This is the best meal I've ever had.
+最好	我们最好现在就出发。	We had better leave now.
+尊重	我们应该尊重别人的意见。	We should respect others' opinions.
+尊重	他很尊重他的老师。	He respects his teacher very much.
+尊重	尊重是相互的。	Respect is mutual.
+左右	他左右为难。	He is in a dilemma.
+左右	会议大约在两个小时左右。	The meeting will last approximately two hours.
+左右	他左右了这次比赛的结果。	He influenced the outcome of the game.
+座	请坐在你的座位上。	Please sit in your seat.
+座	这座山很高。	This mountain is very high.
+座	他是这座城市的市长。	He is the mayor of this city.
+作家	他是一位著名的作家。	He is a famous author.
+作家	这本书的作家是谁？	Who is the author of this book?
+作家	她梦想成为一名作家。	She dreams of becoming a writer.
+座位	请找到你的座位。	Please find your seat.
+座位	这辆车有很多空座位。	This car has many empty seats.
+座位	他坐在前排的座位上。	He sits in the front row seat.
+作用	这药对我没什么作用。	This medicine has no effect on me.
+作用	他的建议起了很大作用。	His advice had a great impact.
+作用	我们需要了解这个项目的作用。	We need to understand the function of this project.
+作者	这本书的作者很有名。	The author of this book is very famous.
+作者	你知道这篇文章的作者是谁吗？	Do you know who the writer of this article is?
+作者	他是这部小说的作者。	He is the author of this novel.

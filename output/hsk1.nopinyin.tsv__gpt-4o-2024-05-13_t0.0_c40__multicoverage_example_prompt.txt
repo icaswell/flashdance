@@ -1,0 +1,454 @@
+words covered	example sentence	translation
+我	我喜欢吃苹果。	I like to eat apples.
+我	这是我的书。	This is my book.
+我	我昨天去了公园。	I went to the park yesterday.
+我们	我们都是学生。	We are all students.
+我们	我们一起去看电影吧。	Let's go watch a movie together.
+我们	这是我们学校。	This is our school.
+你	你今天好吗？	How are you today?
+你	你喜欢什么颜色？	What color do you like?
+你	你会说中文吗？	Can you speak Chinese?
+他	他是我的朋友。	He is my friend.
+他	他昨天没来学校。	He didn't come to school yesterday.
+他	他喜欢看书。	He likes to read books.
+她	她是我的老师。	She is my teacher.
+她	她今天很高兴。	She is very happy today.
+她	她喜欢唱歌。	She likes to sing.
+这	这是我的家。	This is my home.
+这	这本书很好看。	This book is very interesting.
+这	这儿有很多人。	There are many people here.
+那	那是他的车。	That is his car.
+那	那儿有一家咖啡店。	There is a coffee shop there.
+那	那本书我看过了。	I have read that book.
+哪	你喜欢哪本书？	Which book do you like?
+哪	你住在哪个城市？	Which city do you live in?
+哪	你要去哪儿？	Where are you going?
+哪儿	你知道他在哪儿吗？	Do you know where he is?
+哪儿	你想去哪儿玩？	Where do you want to go for fun?
+哪儿	哪儿有好吃的饭馆？	Where are there good restaurants?
+谁	这是谁的书？	Whose book is this?
+谁	谁在敲门？	Who is knocking on the door?
+谁	你知道他是谁吗？	Do you know who he is?
+什么	你在做什么？	What are you doing?
+什么	你喜欢吃什么？	What do you like to eat?
+什么	这是什么东西？	What is this thing?
+多少	这本书多少钱？	How much is this book?
+多少	你有多少朋友？	How many friends do you have?
+多少	你知道他的电话号码是多少吗？	Do you know what his phone number is?
+几	你有几个兄弟姐妹？	How many siblings do you have?
+几	你几点起床？	What time do you get up?
+几	你家有几口人？	How many people are in your family?
+怎么	你怎么了？	What's wrong with you?
+怎么	这个字怎么读？	How do you read this character?
+怎么	你怎么去学校？	How do you go to school?
+怎么样	你觉得这本书怎么样？	What do you think of this book?
+怎么样	你今天过得怎么样？	How was your day today?
+怎么样	这个菜怎么样？	How is this dish?
+一	我有一个苹果。	I have an apple.
+一	他是一名医生。	He is a doctor.
+一	我们一起去吧。	Let's go together.
+二	我有两个妹妹。	I have two younger sisters.
+二	他买了两本书。	He bought two books.
+二	这个问题有两个答案。	This question has two answers.
+三	我有三只猫。	I have three cats.
+三	他三点钟回来。	He will come back at three o'clock.
+三	我们三个人一起去。	The three of us will go together.
+四	我家有四口人。	There are four people in my family.
+四	他四岁了。	He is four years old.
+四	我们四点见面。	We will meet at four o'clock.
+五	我有五个朋友。	I have five friends.
+五	他五点下班。	He gets off work at five o'clock.
+五	我们五个人一起吃饭。	The five of us will eat together.
+六	我有六本书。	I have six books.
+六	他六点起床。	He gets up at six o'clock.
+六	我们六个人一起去旅行。	The six of us will travel together.
+七	我有七个苹果。	I have seven apples.
+七	他七点上班。	He starts work at seven o'clock.
+七	我们七点见面。	We will meet at seven o'clock.
+八	我有八支笔。	I have eight pens.
+八	他八点上课。	He has class at eight o'clock.
+八	我们八个人一起去看电影。	The eight of us will go to watch a movie together.
+九	我有九本书。	I have nine books.
+九	他九点睡觉。	He goes to bed at nine o'clock.
+九	我们九点见面。	We will meet at nine o'clock.
+十	我有十个朋友。	I have ten friends.
+十	他十点上班。	He starts work at ten o'clock.
+十	我们十点见面。	We will meet at ten o'clock.
+个	我有一个问题。	I have a question.
+个	他是一个好人。	He is a good person.
+个	我们有一个计划。	We have a plan.
+岁	我今年二十岁。	I am twenty years old this year.
+岁	他五岁了。	He is five years old.
+岁	她三十岁生日。	She is thirty years old.
+本	我有三本书。	I have three books.
+本	这是一本好书。	This is a good book.
+本	这本书很有趣。	This book is very interesting.
+些	我有一些问题。	I have some questions.
+些	他买了一些水果。	He bought some fruits.
+些	这些书都是我的。	These books are all mine.
+块	我有一块蛋糕。	I have a piece of cake.
+块	他给了我一块钱。	He gave me one yuan.
+块	这块石头很大。	This rock is very big.
+不	我不喜欢吃鱼。	I don't like to eat fish.
+不	他不在家。	He is not at home.
+不	我不想去。	I don't want to go.
+没	我没吃早餐。	I didn't eat breakfast.
+没	他没来学校。	He didn't come to school.
+没	我没看到他。	I didn't see him.
+很	我很高兴。	I am very happy.
+很	他很聪明。	He is very smart.
+很	这本书很有趣。	This book is very interesting.
+太	这个太贵了。	This is too expensive.
+太	他太累了。	He is too tired.
+太	这件衣服太大了。	This piece of clothing is too big.
+都	我们都喜欢他。	We all like him.
+都	他们都是学生。	They are all students.
+都	这些书都是我的。	All these books are mine.
+一点儿	我有一点儿饿。	I am a little hungry.
+一点儿	他有一点儿忙。	He is a little busy.
+一点儿	这本书有一点儿难。	This book is a little difficult.
+和	我和他是朋友。	He and I are friends.
+和	她和她妈妈一起去购物。	She goes shopping with her mom.
+和	我喜欢苹果和香蕉。	I like apples and bananas.
+在	我在家。	I am at home.
+在	他在学校。	He is at school.
+在	我们在吃饭。	We are eating.
+的	这是我的书。	This is my book.
+的	他是我的朋友。	He is my friend.
+的	这本书是他的。	This book is his.
+了	我吃了饭。	I have eaten.
+了	他走了。	He has left.
+了	我们看了电影。	We have watched the movie.
+words covered	example sentence	translation
+吗	你喜欢吃苹果吗？	Do you like to eat apples?
+吗	他是医生吗？	Is he a doctor?
+吗	我们可以去看电影吗？	Can we go to watch a movie?
+呢	这件毛衣是用什么呢做的？	What woolen material is this sweater made of?
+呢	你在做什么呢？	What are you doing?
+呢	他怎么还没来呢？	Why hasn't he come yet?
+喂	妈妈在喂宝宝吃饭。	Mom is feeding the baby.
+喂	你可以喂我的猫吗？	Can you feed my cat?
+喂	他每天早上喂鸟。	He feeds the birds every morning.
+家	我家在北京。	My home is in Beijing.
+家	他是一位音乐家。	He is a musician.
+家	这家饭店的菜很好吃。	The food at this restaurant is very delicious.
+学校	我在这所学校上学。	I study at this school.
+学校	学校里有很多学生。	There are many students in the school.
+学校	他是学校的老师。	He is a teacher at the school.
+饭店	我们去那家饭店吃饭吧。	Let's go to that restaurant to eat.
+饭店	这家饭店很有名。	This restaurant is very famous.
+饭店	饭店的服务很好。	The service at the hotel is very good.
+商店	我在商店买了一件衣服。	I bought a piece of clothing at the store.
+商店	这家商店卖很多书。	This store sells many books.
+商店	商店里有很多人。	There are many people in the shop.
+医院	他在医院工作。	He works at the hospital.
+医院	我去医院看病。	I go to the hospital to see a doctor.
+医院	这家医院很大。	This hospital is very big.
+中国	我想去中国旅游。	I want to travel to China.
+中国	中国有很多美食。	China has a lot of delicious food.
+中国	他是中国人。	He is Chinese.
+北京	我住在北京。	I live in Beijing.
+北京	北京是中国的首都。	Beijing is the capital of China.
+北京	北京的冬天很冷。	Beijing's winter is very cold.
+上	他上楼去了。	He went upstairs.
+上	我上个月去了北京。	I went to Beijing last month.
+上	他在上课。	He is attending class.
+下	我们下午见面吧。	Let's meet in the afternoon.
+下	他下楼了。	He went downstairs.
+下	下个月我有一个考试。	I have an exam next month.
+前面	他走在我前面。	He is walking in front of me.
+前面	前面有一个商店。	There is a shop ahead.
+前面	请看前面。	Please look ahead.
+后面	他在我后面。	He is behind me.
+后面	房子的后面有一个花园。	There is a garden behind the house.
+后面	请坐在后面。	Please sit at the back.
+里	他在房间里。	He is in the room.
+里	书在包里。	The book is in the bag.
+里	我们在家里吃饭。	We eat at home.
+今天	今天是星期一。	Today is Monday.
+今天	今天我很忙。	I am very busy today.
+今天	今天的天气很好。	The weather is very good today.
+明天	明天我们去公园。	We will go to the park tomorrow.
+明天	明天是我的生日。	Tomorrow is my birthday.
+明天	明天见！	See you tomorrow!
+昨天	昨天我去了商店。	I went to the store yesterday.
+昨天	昨天的电影很好看。	Yesterday's movie was very good.
+昨天	昨天他没来。	He didn't come yesterday.
+上午	我上午有课。	I have class in the morning.
+上午	上午的会议很重要。	The morning meeting is very important.
+上午	他上午去医院了。	He went to the hospital in the morning.
+中午	我们中午吃饭。	We eat at noon.
+中午	中午的阳光很强。	The noon sunlight is very strong.
+中午	中午休息一下吧。	Let's take a break at noon.
+下午	我下午去图书馆。	I am going to the library in the afternoon.
+下午	下午三点见。	See you at 3 PM.
+下午	下午的天气很好。	The weather in the afternoon is very good.
+年	今年是2023年。	This year is 2023.
+年	他今年五岁。	He is five years old this year.
+年	每年我们都去旅行。	We travel every year.
+月	这个月我很忙。	I am very busy this month.
+月	月亮很美。	The moon is beautiful.
+月	他每个月都来一次。	He comes once every month.
+号	今天是几号？	What is the date today?
+号	我的房间号是101。	My room number is 101.
+号	他是我们班的号手。	He is the bugler of our class.
+星期	今天是星期几？	What day of the week is it today?
+星期	我们星期天去看电影。	We will go to watch a movie on Sunday.
+星期	一个星期有七天。	A week has seven days.
+点	现在几点了？	What time is it now?
+点	请点菜。	Please order the dishes.
+点	他在纸上点了一个点。	He made a dot on the paper.
+分钟	我等了十分钟。	I waited for ten minutes.
+分钟	电影还有五分钟开始。	The movie will start in five minutes.
+分钟	他每五分钟看一次手机。	He checks his phone every five minutes.
+现在	现在是下午三点。	It is 3 PM now.
+现在	我现在很忙。	I am very busy now.
+现在	现在我们开始吧。	Let's start now.
+时候	你什么时候来？	When will you come?
+时候	我小时候喜欢画画。	I liked to draw when I was a child.
+时候	什么时候吃饭？	When will we eat?
+爸爸	我爸爸是医生。	My dad is a doctor.
+爸爸	爸爸在看电视。	Dad is watching TV.
+爸爸	我爱我的爸爸。	I love my dad.
+妈妈	妈妈在做饭。	Mom is cooking.
+妈妈	我妈妈很漂亮。	My mom is very beautiful.
+妈妈	妈妈每天都很忙。	Mom is busy every day.
+儿子	他有一个儿子。	He has a son.
+儿子	儿子在学校上学。	The son is studying at school.
+儿子	我儿子喜欢踢足球。	My son likes to play soccer.
+女儿	她有一个女儿。	She has a daughter.
+女儿	女儿在画画。	The daughter is drawing.
+女儿	我女儿很聪明。	My daughter is very smart.
+老师	他是我的老师。	He is my teacher.
+老师	老师在上课。	The teacher is teaching.
+老师	老师很严格。	The teacher is very strict.
+学生	我是学生。	I am a student.
+学生	学生们在操场上玩。	The students are playing on the playground.
+学生	他是一个好学生。	He is a good student.
+同学	他是我的同学。	He is my classmate.
+同学	同学们都很友好。	The classmates are all very friendly.
+同学	我和同学一起学习。	I study with my classmates.
+朋友	他是我的朋友。	He is my friend.
+朋友	我有很多朋友。	I have many friends.
+朋友	朋友之间要互相帮助。	Friends should help each other.
+医生	他是一名医生。	He is a doctor.
+医生	医生在医院工作。	The doctor works in the hospital.
+医生	医生给我开了药。	The doctor prescribed me medicine.
+先生	张先生是我的老师。	Mr. Zhang is my teacher.
+先生	李先生在开会。	Mr. Li is in a meeting.
+先生	王先生是我的朋友。	Mr. Wang is my friend.
+小姐	王小姐很漂亮。	Miss Wang is very beautiful.
+小姐	李小姐在唱歌。	Miss Li is singing.
+小姐	张小姐是我的同事。	Miss Zhang is my colleague.
+words covered	example sentence	translation
+衣服	我买了一件新衣服。	I bought a new piece of clothing.
+衣服	这件衣服很适合你。	This piece of clothing suits you well.
+衣服	她正在洗衣服。	She is washing clothes.
+水	请给我一杯水。	Please give me a glass of water.
+水	河里的水很清澈。	The water in the river is very clear.
+水	这件衣服洗了三次水。	This piece of clothing has been washed three times.
+菜	我喜欢吃中国菜。	I like to eat Chinese food.
+菜	这道菜很好吃。	This dish is very delicious.
+菜	他的厨艺很菜。	His cooking skills are very poor.
+米饭	我每天都吃米饭。	I eat rice every day.
+米饭	请给我一碗米饭。	Please give me a bowl of rice.
+米饭	米饭已经煮好了。	The rice is already cooked.
+水果	我喜欢吃各种水果。	I like to eat various fruits.
+水果	这个水果很甜。	This fruit is very sweet.
+水果	她每天都吃水果。	She eats fruit every day.
+苹果	我买了几个苹果。	I bought a few apples.
+苹果	这个苹果很脆。	This apple is very crunchy.
+苹果	苹果是我最喜欢的水果。	Apple is my favorite fruit.
+茶	我每天早上喝茶。	I drink tea every morning.
+茶	这杯茶很香。	This cup of tea is very fragrant.
+茶	他喜欢收集各种茶叶。	He likes to collect various tea leaves.
+杯子	请给我一个杯子。	Please give me a cup.
+杯子	这个杯子很漂亮。	This cup is very beautiful.
+杯子	杯子里有水。	There is water in the cup.
+钱	我没有带钱。	I didn't bring money.
+钱	他赚了很多钱。	He made a lot of money.
+钱	这东西值很多钱。	This thing is worth a lot of money.
+飞机	我坐飞机去北京。	I take a plane to Beijing.
+飞机	飞机已经起飞了。	The plane has already taken off.
+飞机	他喜欢看飞机模型。	He likes to look at airplane models.
+出租车	我打了一辆出租车。	I hailed a taxi.
+出租车	出租车很快就来了。	The taxi came quickly.
+出租车	他每天都坐出租车上班。	He takes a taxi to work every day.
+电视	我在看电视。	I am watching TV.
+电视	这台电视很大。	This TV is very big.
+电视	他喜欢看体育节目。	He likes to watch sports programs.
+电脑	我需要一台新电脑。	I need a new computer.
+电脑	这台电脑很快。	This computer is very fast.
+电脑	他在用电脑工作。	He is working on the computer.
+电影	我们去看电影吧。	Let's go watch a movie.
+电影	这部电影很好看。	This movie is very good.
+电影	他喜欢看科幻电影。	He likes to watch science fiction movies.
+天气	今天的天气很好。	The weather is very good today.
+天气	明天天气会下雨。	It will rain tomorrow.
+天气	天气预报说会有风暴。	The weather forecast says there will be a storm.
+猫	我家有一只猫。	I have a cat at home.
+猫	这只猫很可爱。	This cat is very cute.
+猫	猫喜欢捉老鼠。	Cats like to catch mice.
+狗	他养了一只狗。	He has a dog.
+狗	这只狗很聪明。	This dog is very smart.
+狗	狗是人类的好朋友。	Dogs are human's good friends.
+东西	我买了一些东西。	I bought some things.
+东西	这个东西很贵。	This thing is very expensive.
+东西	他把东西放在桌子上。	He put the things on the table.
+人	这里有很多人。	There are many people here.
+人	他是一个好人。	He is a good person.
+人	人们都喜欢他。	People all like him.
+名字	我的名字叫李华。	My name is Li Hua.
+名字	你叫什么名字？	What is your name?
+名字	这个名字很好听。	This name sounds nice.
+书	我喜欢看书。	I like to read books.
+书	这本书很有趣。	This book is very interesting.
+书	他在写一本书。	He is writing a book.
+汉语	我在学习汉语。	I am learning Chinese.
+汉语	汉语很难学。	Chinese is difficult to learn.
+汉语	他会说流利的汉语。	He can speak fluent Chinese.
+字	这个字怎么写？	How do you write this character?
+字	他的字很漂亮。	His handwriting is very beautiful.
+字	我不认识这个字。	I don't recognize this character.
+桌子	请把书放在桌子上。	Please put the book on the table.
+桌子	这张桌子很大。	This table is very big.
+桌子	他在桌子上写作业。	He is doing homework on the table.
+椅子	请坐在椅子上。	Please sit on the chair.
+椅子	这把椅子很舒服。	This chair is very comfortable.
+椅子	他搬了一把椅子过来。	He moved a chair over.
+谢谢	谢谢你的帮助。	Thank you for your help.
+谢谢	我想谢谢你。	I want to thank you.
+谢谢	谢谢大家的支持。	Thank you all for your support.
+不客气	不客气，这是我应该做的。	You're welcome, it's what I should do.
+不客气	他对人很不客气。	He is very rude to people.
+不客气	你不客气地拒绝了他。	You bluntly refused him.
+再见	我们明天再见。	See you tomorrow.
+再见	再见，保重。	Goodbye, take care.
+再见	他挥手说再见。	He waved and said goodbye.
+请	请进，请坐。	Please come in, please sit.
+请	他请我吃饭。	He treated me to a meal.
+请	请你帮我一个忙。	Please do me a favor.
+对不起	对不起，我迟到了。	I'm sorry, I am late.
+对不起	对不起，打扰了。	I'm sorry to bother you.
+对不起	对不起，我不小心。	I'm sorry, I was careless.
+没关系	没关系，我不介意。	It doesn't matter, I don't mind.
+没关系	没关系，你继续说。	It doesn't matter, you continue talking.
+没关系	没关系，我们可以再试一次。	It doesn't matter, we can try again.
+是	他是我的朋友。	He is my friend.
+是	今天是星期五。	Today is Friday.
+是	这是一本好书。	This is a good book.
+有	我有很多书。	I have many books.
+有	这里有一个问题。	There is a problem here.
+有	他有很多朋友。	He has many friends.
+看	我在看书。	I am reading a book.
+看	他去看医生了。	He went to see a doctor.
+看	我们去看电影吧。	Let's go watch a movie.
+听	我喜欢听音乐。	I like to listen to music.
+听	你听见了吗？	Did you hear that?
+听	他在听老师讲课。	He is listening to the teacher's lecture.
+说	他说他不来了。	He said he is not coming.
+说	请你再说一遍。	Please say it again.
+说	他说得很清楚。	He speaks very clearly.
+读	我在读一本小说。	I am reading a novel.
+读	他在大学读书。	He is studying at the university.
+读	请大声读出来。	Please read it out loud.
+写	我在写信。	I am writing a letter.
+写	他写了一本书。	He wrote a book.
+写	请你写下来。	Please write it down.
+看见	我看见他了。	I saw him.
+看见	你看见我的手机了吗？	Did you see my phone?
+看见	她在街上看见了一只猫。	She saw a cat on the street.
+叫	我叫李华。	My name is Li Hua.
+叫	他叫了一辆出租车。	He called a taxi.
+叫	请你叫他过来。	Please call him over.
+words covered	example sentence	translation
+来	他明天会来我家。	He will come to my house tomorrow.
+来	我们来讨论一下这个问题。	Let's discuss this issue.
+来	他从小到大一直很努力。	He has been hardworking ever since he was a child.
+回	我忘了带钥匙，得回去拿。	I forgot my keys, I need to go back and get them.
+回	他每年都会回老家看望父母。	He goes back to his hometown to visit his parents every year.
+回	请你回一下我的邮件。	Please reply to my email.
+去	我们明天去海边玩吧。	Let's go to the beach tomorrow.
+去	他已经去世了。	He has passed away.
+去	我去买点东西。	I'm going to buy something.
+吃	我们一起去吃饭吧。	Let's go eat together.
+吃	他吃不来辣的食物。	He can't eat spicy food.
+吃	你吃过早饭了吗？	Have you had breakfast?
+喝	他喝了一杯水。	He drank a glass of water.
+喝	他们在酒吧里喝酒。	They are drinking at the bar.
+喝	他大声喝道：“站住！”	He shouted loudly, "Stop!"
+睡觉	我每天晚上十点睡觉。	I go to bed at ten every night.
+睡觉	他睡觉很轻，一点声音都会吵醒他。	He sleeps lightly, any noise will wake him up.
+睡觉	孩子们已经睡觉了。	The children have already gone to bed.
+打电话	我需要打电话给医生。	I need to call the doctor.
+打电话	他正在打电话给客户。	He is calling a client.
+打电话	你可以帮我打电话叫外卖吗？	Can you help me call for takeout?
+做	他喜欢做饭。	He likes to cook.
+做	她在做作业。	She is doing her homework.
+做	他做了一个重要的决定。	He made an important decision.
+买	我想买一件新衣服。	I want to buy a new piece of clothing.
+买	他买了一辆新车。	He bought a new car.
+买	你买票了吗？	Did you buy the tickets?
+开	请把门开开。	Please open the door.
+开	他会开车。	He can drive.
+开	会议马上就要开了。	The meeting is about to start.
+坐	请坐下。	Please sit down.
+坐	我们坐公交车去吧。	Let's take the bus.
+坐	他坐在椅子上看书。	He is sitting on the chair reading a book.
+住	我住在北京。	I live in Beijing.
+住	他住在这家酒店。	He is staying at this hotel.
+住	我们住在同一个小区。	We live in the same neighborhood.
+学习	我喜欢学习中文。	I like studying Chinese.
+学习	他每天都学习到很晚。	He studies until late every day.
+学习	学习新技能很重要。	Learning new skills is important.
+工作	他在银行工作。	He works at a bank.
+工作	她的工作很忙。	Her job is very busy.
+工作	这台机器工作正常。	This machine is operating normally.
+下雨	今天下雨了。	It rained today.
+下雨	下雨天我们不出去。	We don't go out on rainy days.
+下雨	明天可能会下雨。	It might rain tomorrow.
+爱	我爱我的家人。	I love my family.
+爱	他爱看书。	He loves reading.
+爱	她对音乐有很大的爱好。	She has a great love for music.
+喜欢	我喜欢吃水果。	I like eating fruit.
+喜欢	他喜欢运动。	He likes sports.
+喜欢	她喜欢旅行。	She likes traveling.
+想	我想去旅游。	I want to travel.
+想	他在想一个好主意。	He is thinking of a good idea.
+想	我很想念你。	I miss you very much.
+认识	我认识他。	I know him.
+认识	我们在学校认识的。	We met at school.
+认识	他对这个地方很熟悉。	He is very familiar with this place.
+会	我会说中文。	I can speak Chinese.
+会	他会开车。	He can drive.
+会	我们下周会开会。	We will have a meeting next week.
+能	我能帮你吗？	Can I help you?
+能	他能完成这个任务。	He can complete this task.
+能	你能来参加吗？	Can you come to the event?
+好	他很好学。	He is very studious.
+好	这本书很好看。	This book is very interesting.
+好	她对人很好。	She is very kind to people.
+大	这座城市很大。	This city is very big.
+大	他有一个大房子。	He has a big house.
+大	这个问题很大。	This is a big problem.
+小	这个房间很小。	This room is very small.
+小	他是个小孩子。	He is a little kid.
+小	这件衣服太小了。	This piece of clothing is too small.
+多	这里的人很多。	There are many people here.
+多	他有很多朋友。	He has many friends.
+多	请给我多一点时间。	Please give me more time.
+少	这里的人很少。	There are few people here.
+少	他很少生病。	He rarely gets sick.
+少	请少放点盐。	Please put less salt.
+冷	今天很冷。	It is very cold today.
+冷	冬天的夜晚很冷。	Winter nights are very cold.
+冷	他感冒了，觉得很冷。	He caught a cold and feels very cold.
+热	夏天很热。	Summer is very hot.
+热	他喜欢喝热茶。	He likes drinking hot tea.
+热	这个房间太热了。	This room is too hot.
+高兴	我很高兴见到你。	I am very happy to see you.
+高兴	他听到这个消息很高兴。	He was very happy to hear the news.
+高兴	她今天看起来很高兴。	She looks very happy today.
+漂亮	她很漂亮。	She is very beautiful.
+漂亮	这幅画很漂亮。	This painting is very beautiful.
+漂亮	他有一双漂亮的眼睛。	He has a pair of beautiful eyes.

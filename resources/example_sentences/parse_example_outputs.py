@@ -18,10 +18,16 @@ def process_line(line):
   if len(parts) < 2: 
     return False, ["too short"]
 
+  if len(parts) == 2 and re.search(HAN_REGEX, parts[0]) and not re.search(HAN_REGEX, parts[1]):
+    # special case where the input is a simple TSV 
+    return True, ['NA'] + parts
+
   # the second field may optionally be a definition (or empty); if so we ignore it
   # AKA we require it have at least one Hanzi
   if not parts[1] or not re.search(HAN_REGEX, parts[1][0]):
     parts = [parts[0]] + parts[2:]
+
+
   if len(parts) < 2: 
     return False, ["too short B"]
 
@@ -58,6 +64,8 @@ def parse_glob(inglob, outfile):
   print(outfile)
   
 
-parse_glob("output/*cql*", "resources/example_sentences/cql.tsv")
-parse_glob("output/*general*", "resources/example_sentences/general2.tsv")
-parse_glob("output/*raccoon*", "resources/example_sentences/raccoon.tsv")
+parse_glob("output/*4o*multicoverage*", "resources/example_sentences/multicoverage_4o.tsv")
+
+# parse_glob("output/*cql*", "resources/example_sentences/cql.tsv")
+# parse_glob("output/*general*", "resources/example_sentences/general2.tsv")
+# parse_glob("output/*raccoon*", "resources/example_sentences/raccoon.tsv")

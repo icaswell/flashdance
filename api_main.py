@@ -7,6 +7,8 @@ python3 api_main.py \
 
 
 see prompts/ dir for available prompts.
+
+See resources/vocab_separate/ for example inputs.
 """
 
 from openai import OpenAI
@@ -102,10 +104,13 @@ def main():
     # Concatenate the rows in the chunk into a single string
     inp_chunk_str = ''.join(inp_chunk)
 
-    print(f'chunk {i}: \n{inp_chunk_str}')
+    print("\n\n#================================================#")
+    print(f'# chunk {i} input: \n{inp_chunk_str}')
 
     output = generate(client, model_name=args.model_name, system_prompt=system_prompt, input_data=inp_chunk_str, temp=args.temp)
 
+    print("\n#------------------------------------------------#")
+    print("# Output:")
     print(output)
 
     output_file.write(output + '\n')

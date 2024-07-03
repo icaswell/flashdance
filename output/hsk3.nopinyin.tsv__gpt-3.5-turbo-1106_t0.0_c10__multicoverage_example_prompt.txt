@@ -1,0 +1,77 @@
+words covered	example sentence	translation
+阿姨	阿姨，您好！我来看您了。	Auntie, hello! I came to see you.
+啊	你想喝点儿茶啊？	Do you want to drink some tea?
+矮	他个子很矮，但是很有幽默感。	He is very short, but very humorous.
+爱好	她的爱好是画画和弹钢琴。	Her hobbies are painting and playing the piano.
+安静	请保持安静，考试正在进行中。	Please keep quiet, the exam is in progress.
+把	把这个苹果给我。	Give me this apple.
+班	我在一所小学教三年级的班。	I teach the third grade class in an elementary school.
+搬	我们要搬家了，需要你的帮助。	We are moving, we need your help.
+半	我等了半个小时了，他还没来。	I have been waiting for half an hour, he hasn't come yet.
+办法	我想不出解决这个问题的办法。	I can't think of a way to solve this problem.
+words covered	example sentence	translation
+办公室	我在办公室工作。	I work in the office.
+帮忙	你能帮忙我一下吗？	Can you help me for a moment?
+包	她用手绢包着礼物。	She wrapped the gift with a handkerchief.
+饱	我吃得很饱。	I ate until I was full.
+北方	我来自中国的北方。	I come from the north of China.
+被	这本书被我读完了。	This book was read by me.
+鼻子	他的鼻子很高。	His nose is high.
+比较	这个城市比较安静。	This city is relatively quiet.
+比赛	我们下周有一场篮球比赛。	We have a basketball match next week.
+笔记本	我需要一本笔记本来记笔记。	I need a notebook to take notes.
+words covered	example sentence	translation
+必须	我必须去图书馆借书。	I must go to the library to borrow books.
+变化	这个城市的变化很大。	The changes in this city are significant.
+别人	别人的意见也很重要。	Other people's opinions are also very important.
+冰箱	冰箱里有很多食物。	There is a lot of food in the refrigerator.
+菜单	你可以在菜单上找到你喜欢的食物。	You can find your favorite food on the menu.
+参加	我想参加明天的比赛。	I want to participate in tomorrow's competition.
+草	草地上有很多小花。	There are many small flowers on the grass.
+层	这栋建筑有很多层。	This building has many floors.
+差	他们之间的差距很大。	Their gap is very big.
+超市	我通常在超市买菜。	I usually buy groceries at the supermarket.
+words covered	example sentence	translation
+阿姨	阿姨，您好！您今天看起来很漂亮。	Auntie, hello! You look very pretty today.
+啊	你想吃冰淇淋啊？ Do you want to eat ice cream?
+矮	他比我矮一点。 He is a little shorter than me.
+爱好	她的爱好是画画和弹钢琴。 Her hobbies are painting and playing the piano.
+安静	请保持安静，考试正在进行中。 Please keep quiet, the exam is in progress.
+把	把这个苹果给我。 Give me this apple.
+班	我是这个班的班长。 I am the monitor of this class.
+搬	我们需要搬家到新的城市。 We need to move to a new city.
+半	这个苹果被切成了两半。 This apple is cut in half.
+办法	我们必须想办法解决这个问题。 We must find a way to solve this problem.
+words covered	example sentence	translation
+阿姨	我阿姨是一位护士。	My aunt is a nurse.
+啊	好啊，我们一起去吧！	Okay, let's go together!
+矮	他很矮，但是很有幽默感。	He is short, but very humorous.
+爱好	她的爱好是画画和弹钢琴。	Her hobbies are painting and playing the piano.
+安静	请保持安静，我在学习。	Please keep quiet, I'm studying.
+把	把这个苹果给我。	Give me this apple.
+班	我在一所小学教三年级的班。	I teach the third grade class in an elementary school.
+搬	我们要搬到新家去了。	We are moving to a new house.
+半	这个西瓜切成了两半。	This watermelon is cut in half.
+办法	我们必须想办法解决这个问题。	We must find a way to solve this problem.
+words covered	example sentence	translation
+办公室	我在办公室工作。	I work in the office.
+帮忙	你能帮忙我一下吗？	Can you help me for a moment?
+包	她用手绢包着礼物。	She wrapped the gift with a handkerchief.
+饱	我吃得很饱。	I ate until I was full.
+北方	我来自中国的北方。	I come from the north of China.
+被	这本书被我读过了。	This book has been read by me.
+鼻子	他的鼻子很高。	His nose is very high.
+比较	这个城市比较安静。	This city is relatively quiet.
+比赛	我们下周有一场篮球比赛。	We have a basketball match next week.
+笔记本	我需要一本新的笔记本。	I need a new notebook.
+words covered	example sentence	translation
+必须	我必须去图书馆借书。	I must go to the library to borrow books.
+变化	这个城市的变化很大。	The changes in this city are significant.
+别人	别人的想法可能会不同。	Other people's ideas may be different.
+冰箱	冰箱里有很多食物。	There is a lot of food in the refrigerator.
+菜单	你可以在菜单上找到你喜欢的食物。	You can find your favorite food on the menu.
+参加	我想参加这个活动。	I want to participate in this event.
+草	草地上有很多小花。	There are many small flowers on the grass.
+层	这栋建筑有很多层。	This building has many floors.
+差	他们之间的差距很大。	The difference between them is significant.
+超市	我通常在超市买菜。	I usually buy groceries at the supermarket.

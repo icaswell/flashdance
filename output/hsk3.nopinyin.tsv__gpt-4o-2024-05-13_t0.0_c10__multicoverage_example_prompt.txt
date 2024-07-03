@@ -1,0 +1,62 @@
+words covered	example sentence	translation
+阿姨	我去看望了我的阿姨。	I went to visit my aunt.
+阿姨	阿姨在照顾孩子。	The nursemaid is taking care of the children.
+阿姨	小朋友们都叫她阿姨。	The children all call her "auntie."
+啊	你来了啊！	You came, huh!
+啊	好啊，我们一起去吧。	Sure, let's go together.
+啊	真漂亮啊！	It's really beautiful!
+矮	他比我矮。	He is shorter than me.
+矮	这张桌子太矮了。	This table is too low.
+矮	她个子矮，但很灵活。	She is short but very agile.
+爱好	我的爱好是画画。	My hobby is painting.
+爱好	他爱好音乐。	He is fond of music.
+爱好	你有什么爱好？	What are your hobbies?
+安静	请保持安静。	Please keep quiet.
+安静	这个地方很安静。	This place is very peaceful.
+安静	她喜欢安静的环境。	She likes a calm environment.
+把	请把门关上。	Please close the door.
+把	他把书放在桌子上。	He put the book on the table.
+把	你能把这个拿给我吗？	Can you hand this to me?
+班	我们班有三十个学生。	There are thirty students in our class.
+班	他在夜班工作。	He works the night shift.
+班	这个班的同学都很友好。	The students in this class are all very friendly.
+搬	我们下个月要搬家。	We are moving next month.
+搬	他在搬桌子。	He is moving the table.
+搬	你能帮我搬这个箱子吗？	Can you help me move this box?
+半	我吃了半个苹果。	I ate half an apple.
+半	电影已经放了一半。	The movie is already halfway through.
+半	他只完成了任务的一半。	He only completed half of the task.
+办法	你有什么好办法吗？	Do you have any good ideas?
+办法	这是解决问题的好办法。	This is a good way to solve the problem.
+办法	我没有其他办法了。	I have no other way.
+words covered	example sentence	translation
+办公室	我在办公室工作。	I work in an office.
+办公室	她的办公室很大。	Her office is very big.
+办公室	我们在办公室开会。	We have meetings in the office.
+帮忙	你能帮忙吗？	Can you help?
+帮忙	谢谢你的帮忙。	Thank you for your help.
+帮忙	他经常帮忙邻居。	He often helps his neighbors.
+包	我买了一个新包。	I bought a new bag.
+包	请把礼物包起来。	Please wrap the gift.
+包	这个项目由他包了。	He took charge of this project.
+饱	我吃饱了。	I'm full.
+饱	这顿饭真让人饱。	This meal is really filling.
+饱	他对结果很饱。	He is very satisfied with the result.
+北方	我来自北方。	I come from the north.
+北方	北方的冬天很冷。	The winters in the north are very cold.
+北方	北方菜很有特色。	Northern cuisine is very distinctive.
+被	他被老师表扬了。	He was praised by the teacher.
+被	她被雨淋湿了。	She was soaked by the rain.
+被	这个消息被证实了。	This news has been confirmed.
+鼻子	他的鼻子很高。	His nose is very high.
+鼻子	她的鼻子很灵敏。	Her nose is very sensitive.
+鼻子	我鼻子不通气。	My nose is blocked.
+比较	这两个产品比较一下。	Compare these two products.
+比较	他比较喜欢喝茶。	He prefers drinking tea.
+比较	这个方法比较好。	This method is relatively better.
+比赛	我们赢了比赛。	We won the match.
+比赛	比赛很激烈。	The competition is intense.
+比赛	他参加了篮球比赛。	He participated in the basketball game.
+笔记本	我有一个新笔记本。	I have a new notebook.
+笔记本	请把笔记本拿出来。	Please take out your notebook.
+笔记本	他的笔记本电脑坏了。	His laptop is broken.

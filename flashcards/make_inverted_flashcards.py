@@ -34,7 +34,7 @@ class Example():
 
 parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
 parser.add_argument('--level', type=str)
-parser.add_argument('--mode', type=str)
+parser.add_argument('--mode', default="iphone", type=str)
 args = parser.parse_args()
 
 # These are the full definitions
@@ -46,6 +46,7 @@ multizi_definitions_fname = "resources/definitions_and_pinyin/multizi_singleword
 
 examples_fnames = [
         "resources/example_sentences/general2.tsv",
+        "resources/example_sentences/multicoverage_4o.tsv",
         "resources/example_sentences/cql.tsv",
         "resources/example_sentences/raccoon.tsv",
 ]
@@ -87,7 +88,7 @@ with open(f"resources/vocab_separate/{args.level}.tsv", "r") as f:
     # another sad approximation: structures with ellipses
     # e.g. 不但……而且……
     ci = re.sub(".*……(.*)……",   "\1", ci)
-    TARGET_CI.add(ci)
+    TARGET_CI.add(ci.strip())
 
 
 # We only want to consider shorter examples, so discard
@@ -127,7 +128,8 @@ for examples_fname in examples_fnames:
 print(f'{len(ALL_EXAMPLES)} example sentences loaded')
 # handle each level separately
 
-print(f"No example sentences for: " + " ".join(TARGET_CI - ALL_CI_WITH_EXAMPLES))
+print("等" in TARGET_CI)
+print(f"No example sentences for: |" + "|".join(TARGET_CI - ALL_CI_WITH_EXAMPLES) + "|")
 TARGET_CI &= ALL_CI_WITH_EXAMPLES
 del ALL_CI_WITH_EXAMPLES
 

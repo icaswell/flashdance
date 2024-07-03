@@ -7,7 +7,7 @@ Miao miao meo meowst Meowmst.
 
 1. make various text files in the `resources/` directory from online resources. Usually, if these are for feeding into `api_main.py/`, they will have 'input` in the name somewhere.
 2. use `api_main.py` and a prompt from `prompts/' to make AI-generated files. These are put in the `output/` directory.
-3. Parse the AI-generated outputs into new resources, putting them back in the `resources/` folder. Generally, for some particular irectory in `resources/`, there will be a python script in that directory that parses the outputs into a well-behaved file.
+3. Parse the AI-generated outputs into new resources, putting them back in the `resources/` folder. Generally, for some particular directory in `resources/`, there will be a python script in that directory that parses the outputs into a well-behaved file.
 4. Generate flashcards with `flashcards/make_flashcards.py`
 
 
