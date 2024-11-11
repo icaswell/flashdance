@@ -1,0 +1,63 @@
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+我们做了十一年（～个）朋友了/我们做朋友做了十一年了	We have been friends for eleven years/We have been friends for eleven years;	我们做了十一年（～个）朋友了。	We have been friends for eleven years.	我们做朋友做了十一年了。	We have been friends for eleven years.	我们俩是十多年的朋友了。	We've been friends for over ten years.
+他对我有好印象	He has a good impression of me;	我对他的印象很好。	I have a good impression of him.	他对她的印象很深刻。	He has a deep impression of her.	老师对他的学习态度印象深刻。	The teacher is impressed by his attitude towards learning.
+师徒	master and apprentice/teacher and student; master and disciple	他们师徒关系很好。	Their relationship as master and apprentice is very good.	师父带着徒弟学习手艺。	The master teaches his apprentice the craft.	这位大师收了很多徒弟。	This master has taken on many apprentices.
+民调（=民意调查）	poll (=opinion poll);	最近的民调显示，大多数人支持这项政策。	Recent polls show that most people support this policy.	我们进行了一项民意调查，了解人们对这个项目的看法。	We conducted an opinion poll to see how people feel about this project.	这项民调结果显示，人们对政府的信任度下降了。	The results of this poll show that public trust in the government has declined.
+他去了专门的学校学Python	He went to a specialized school to learn Python;	他去了专门的学校学音乐。	He went to a specialized school to study music.	她想去专门的机构学习舞蹈。	She wants to go to a specialized institution to learn dance.	这家公司专门为年轻人提供培训课程。	This company provides specialized training courses for young people. 
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+宇宙飞船	UFO; spacecraft	科学家们正在研究如何制造更先进的宇宙飞船。	Scientists are researching how to build more advanced spacecraft.	据说有许多UFO目击事件，但还没有得到证实。	There are said to be many UFO sightings, but they have not been verified.	一些人认为宇宙飞船可能是外星文明的产物。	Some people think spacecraft may be the product of alien civilizations.
+探索内心世界	Explore inner world; 	通过冥想和瑜伽，我们可以探索内心世界，了解自己的内心。	Through meditation and yoga, we can explore the inner world and understand our inner selves.	艺术家们常常通过他们的作品探索内心世界，表达自己的情绪和想法。	Artists often explore their inner worlds through their works, expressing their emotions and thoughts.	探索内心世界是一个充满挑战但有意义的旅程。	Exploring the inner world is a challenging but meaningful journey.
+薛定谔的猫	Schrodinger's cat; 	薛定谔的猫是一个著名的量子力学思想实验。	Schrödinger's cat is a famous thought experiment in quantum mechanics.	薛定谔的猫的悖论描述了量子叠加的概念。	The paradox of Schrödinger's cat describes the concept of quantum superposition.	薛定谔的猫的实验结果取决于观察者的行为。	The outcome of Schrödinger's cat experiment depends on the observer's actions.
+审核	censorship; o audit; to investigate thoroughl	政府部门对出版物进行审核，以确保内容符合社会规范。	Government departments censor publications to ensure that content conforms to social norms.	财务部门每年都会进行一次审核，确保公司财务状况良好。	The finance department conducts an audit every year to ensure that the company's finances are sound.	警方对这起案件进行了彻底的审核，以找到凶手。	The police conducted a thorough investigation into the case to find the killer.
+米索不达米亚	Mesopotamia; 	米索不达米亚是古代文明的发源地之一。	Mesopotamia is one of the birthplaces of ancient civilizations.	米索不达米亚人创造了楔形文字和数学系统。	Mesopotamians created cuneiform writing and mathematical systems.	米索不达米亚的古代遗迹至今仍吸引着许多考古学家和游客。	The ancient ruins of Mesopotamia still attract many archaeologists and tourists today. 
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+你已经工作了？	Are you already working?;	你已经工作了？	Are you already working?	他毕业后就找工作了，现在已经工作了。	He found a job after graduation and is already working.	她已经工作很多年了，经验丰富。	She has been working for many years and is very experienced.
+做惯了羊的	Used to being a sheep;	做惯了羊的，突然要他做狼，他很不适应。	Used to being a sheep, he is very uncomfortable being asked to suddenly act like a wolf.	他做惯了经理，现在要他做普通员工，他很不习惯。	He is used to being a manager, and now he is not used to being an ordinary employee.	做惯了家务，突然要他去工作，他觉得很不适应。	Used to doing housework, he feels uncomfortable suddenly going to work.
+我差不多学完HSK4了	I've almost finished learning HSK4;	我差不多学完HSK4了，准备考下一级了。	I've almost finished learning HSK4, and I'm going to take the next level.	我差不多学完这门课了，下周就可以考试了。	I've almost finished this course, and I can take the exam next week.	他差不多学完大学课程了，准备毕业了。	He's almost finished his university course, and he's ready to graduate.
+前苏联	former Soviet Union	前苏联是一个超级大国。	The former Soviet Union was a superpower.	前苏联解体后，世界格局发生了巨大变化。	The world order has changed dramatically since the collapse of the former Soviet Union.	前苏联的文化对俄罗斯的影响很大。	The culture of the former Soviet Union has a great impact on Russia.
+难怪你常常生病	No wonder you often get sick;	难怪你常常生病，原来你总是熬夜。	No wonder you often get sick, you always stay up late.	难怪他学习成绩不好，原来他上课总是睡觉。	No wonder he doesn't do well in his studies, he always sleeps in class.	难怪她心情不好，原来她失恋了。	No wonder she is in a bad mood, she's broken up with her boyfriend.
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+台湾	Taiwan	台湾是一个美丽的岛屿。	Taiwan is a beautiful island.	我梦想去台湾旅行。	I dream of traveling to Taiwan.	台湾的文化非常丰富多彩。	Taiwanese culture is very rich and colorful.
+演奏音阶	play a musical scale	钢琴老师要求学生演奏音阶。	The piano teacher requires students to play musical scales.	她演奏音阶时，手指非常灵活。	Her fingers are very flexible when she plays musical scales.	演奏音阶有助于提高手指的灵活性。	Playing musical scales helps to improve finger flexibility.
+一段爱情	a love; 	一段爱情需要两个人共同经营。	A love requires two people to work together.	他们经历了一段刻骨铭心的爱情。	They experienced a heart-wrenching love.	一段爱情的结束并不意味着人生的结束。	The end of a love does not mean the end of life.
+有思想	profound; 	这篇文章很有思想，值得反复阅读。	This article is very profound and worth reading again and again.	他是一个有思想的人，总是能提出一些独到的见解。	He is a profound person who always can come up with unique insights.	她的演讲内容很有思想，让大家受益匪浅。	Her speech content is very profound and has benefited everyone greatly.
+词语搭配	Word collocation; 	词语搭配要符合语法规则。	Word collocation must conform to grammatical rules.	学习词语搭配可以提高写作水平。	Learning word collocation can improve writing skills.	老师讲解了词语搭配的用法。	The teacher explained the usage of word collocation.
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+首先...其次...最后...	Firstly...Secondly...Finally...	首先，我们应该制定一个计划。其次，我们要执行计划。最后，我们要评估结果。	Firstly, we should make a plan. Secondly, we should execute the plan. Finally, we should evaluate the results.	首先，你要做好准备。其次，你要自信。最后，你要努力。	First, you have to be prepared. Secondly, you have to be confident. Finally, you have to work hard.	首先，我想要感谢你的帮助。其次，我想告诉你，我很感激你的支持。最后，我想说我很高兴认识你。	Firstly, I want to thank you for your help. Secondly, I want to tell you that I appreciate your support. Finally, I want to say that I'm glad to know you.
+脚趾	toe	我的脚趾受伤了。	My toe is injured.	她穿着一双露出脚趾的凉鞋。	She is wearing a pair of sandals that show her toes.	我用脚趾踢了足球。	I kicked the soccer ball with my toe.
+交流新想法	exchange new ideas	这次会议的主要目的是交流新想法。	The main purpose of this meeting is to exchange new ideas.	我们应该鼓励员工之间交流新想法。	We should encourage employees to exchange new ideas with each other.	交流新想法可以帮助我们更好地解决问题。	Exchanging new ideas can help us solve problems better.
+讲普通话，写规范字	Speak Mandarin and write standard Chinese characters	他讲普通话很流利。	He speaks Mandarin fluently.	她写规范字很漂亮。	She writes standard Chinese characters beautifully.	我们应该努力讲普通话，写规范字。	We should strive to speak Mandarin and write standard Chinese characters.
+齿龈后音	postalveolar sound	/tʃ/ 和 /dʒ/ 是齿龈后音。	/tʃ/ and /dʒ/ are postalveolar sounds.	英语中的“ch”和“j”通常发齿龈后音。	The "ch" and "j" sounds in English are usually postalveolar sounds.	学习发齿龈后音需要练习。	Learning to pronounce postalveolar sounds requires practice.
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+龙虾	lobster	我喜欢吃龙虾。	I like to eat lobster.	这道菜里有龙虾肉。	This dish contains lobster meat.	海鲜市场出售各种龙虾。	The seafood market sells various lobsters.
+反义词/同义词/近义词	Antonyms/synonyms/near synonyms	这个词的同义词是什么？	What are the synonyms for this word?	你知道这个词的反义词吗？	Do you know the antonyms of this word?	近义词和同义词的区别是什么？	What is the difference between near synonyms and synonyms?
+鲱鱼	herring	我喜欢吃熏鲱鱼。	I like to eat smoked herring.	这个罐头里装着鲱鱼。	This can contains herring.	鲱鱼是种很常见的鱼类。	Herring is a very common type of fish.
+稳定的时间安排	stable schedule	她有稳定的时间安排，所以工作很有效率。	She has a stable schedule, so she is very efficient at work.	想要保持稳定的时间安排，就需要做好计划。	To maintain a stable schedule, you need to plan well.	稳定的时间安排可以提高工作效率。	A stable schedule can improve work efficiency.
+经济学者	economist	这个经济学者对目前的经济形势发表了自己的看法。	This economist gave his opinion on the current economic situation.	经济学者们正在研究如何解决通货膨胀问题。	Economists are studying how to solve the problem of inflation.	我们要听取经济学者的建议。	We should listen to the advice of economists.
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+努力	Work hard; exert effort; strive	他一直都很努力地学习。	He has always been studying hard.	如果我们努力，就能实现目标。	If we work hard, we can achieve our goals.	她努力工作，为家人创造更好的生活。	She works hard to create a better life for her family.
+纠正错误	correct errors; rectify mistakes	老师会及时纠正我们的错误。	The teacher will correct our mistakes in a timely manner.	他很乐意纠正我的错误。	He is happy to correct my mistakes.	我们应该尽力纠正过去的错误。	We should try our best to correct past mistakes.
+行李牌	Luggage tag; baggage tag	我的行李牌不见了。	My luggage tag is missing.	请确保你的行李牌贴在你的行李箱上。	Please make sure your luggage tag is attached to your suitcase.	机场的工作人员会帮你检查行李牌。	Airport staff will help you check your luggage tag.
+投入时间/钱/...	Invest time/money/…; devote; dedicate; put in	他投入了大量时间和精力在学习上。	He has invested a lot of time and energy in studying.	我们应该投入更多的资金在教育事业上。	We should invest more funds in education.	她投入了全部的感情在这段感情中。	She has poured all her emotions into this relationship.
+做房子的材料	materials for building a house; building materials	这些材料都是做房子的。	These materials are for building a house.	我们需要去商店购买做房子的材料。	We need to go to the store to buy building materials.	木材、水泥和砖块是做房子的常见材料。	Wood, cement, and bricks are common materials for building houses. 
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+足迹	footprint; trace; track	他的足迹遍布全世界。	His footprints are all over the world.	旅行者在沙滩上留下了足迹。	Travelers left footprints on the beach.	你可以在雪地上看到动物的足迹。	You can see animal tracks in the snow.
+未必	not necessarily; may not be; might not	他未必会来参加聚会。	He might not come to the party.	这个计划未必能成功。	This plan may not succeed.	所有的事情未必都是如你所愿。	Not everything is necessarily as you wish.
+寄生虫	parasite	寄生虫会对人体造成危害。	Parasites can harm the human body.	这种植物是一种寄生虫。	This plant is a parasite.	寄生虫会吸取宿主的营养。	Parasites absorb nutrients from their host.
+尽管这样	in spite of this; despite this; even so; nevertheless	尽管天气很冷，他还是坚持跑步。	Despite the cold weather, he still insisted on running.	尽管他很努力，但还是没有成功。	Even though he worked hard, he still didn't succeed.	尽管这样，我还是会继续尝试。	Even so, I will continue to try.
+气候	climate	我们的气候不够暖和，不适合种植这种水果。	Our climate is not warm enough to grow this kind of fruit.	全球气候变化对环境造成了巨大影响。	Global climate change has had a huge impact on the environment.	这里的气候温和，四季分明。	The climate here is mild and has four distinct seasons.
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+标点符号	Punctuation;	标点符号是书面语的重要组成部分。	Punctuation is an important part of written language.	我经常忘记在句末加上标点符号。	I often forget to add punctuation marks at the end of sentences.	你对标点符号的运用很熟练。	You are very skilled in the use of punctuation.
+安定下来	settle down;	毕业后，他终于在北京安定下来了。	After graduation, he finally settled down in Beijing.	她需要一些时间安定下来，才能开始新的生活。	She needs some time to settle down before starting a new life.	孩子们玩累了，终于安定下来睡觉了。	The children were tired from playing and finally settled down to sleep.
+情绪崩溃	emotional breakdown;	她经历了情绪崩溃，需要专业人士的帮助。	She had an emotional breakdown and needed professional help.	压力过大容易导致情绪崩溃。	Excessive stress can easily lead to an emotional breakdown.	他的情绪崩溃让所有人都感到震惊。	His emotional breakdown shocked everyone.
+金枪鱼	tuna	我今天吃了金枪鱼三明治。	I had a tuna sandwich today.	金枪鱼罐头是一种常见的食物。	Tuna in a can is a common food.	金枪鱼是海洋中一种重要的鱼类。	Tuna is an important fish species in the ocean.
+知足	contented;	她很知足，对现在的生活很满意。	She is very contented and satisfied with her current life.	知足常乐，才是人生的真谛。	Contentment is the true meaning of life.	不要总是贪婪，要学会知足。	Don't always be greedy, learn to be contented. 
+

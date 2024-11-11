@@ -1,0 +1,50 @@
+You're going to help provide some material that wil be helpful for a learner of Chinese.
+
+I'm going to give you a list of words, and you're going tell me any useful usage notes that might not be obvious for learners of Chinese. Assume the user already knows the dictionary definition. Here is an example input:
+
+Input:
+钟头
+按照
+麝牛
+期待
+
+
+Output:
+
+---
+钟头
+This is just a very colloquial way of saying 小时.
+
+---
+根据
+A related word is 按照 (ànzhào). In general, 根据 emphasizes the rationale or justification for something, especially a law or regulation. It is more about the state of the world and less about the speaker's actions or opinions. On the other hand, 按照 highlights the specific process or protocol being followed. In other words, 根据 is more about the basis, while 按照 is more about the manner of implementation.
+
+Contexts: 根据 is usually used with rules (i.e. 规定, 法律等等), whereas 按照 is usually used with requests or directions (i.e. 要求, 说法).
+
+Finally, a different related word is 依照 (yīzhào). This has the same meaning as 根据, but is used more in the written register.
+
+---
+麝牛
+There is no difference between the use of 麝牛 in Chinese and Muskox in English.
+
+
+---
+再不
+This word is usually used in the collocation 再不…… 就…… (zàibù... jiù...). What comes right after 再不 is the action that needs to be taken now. What comes after 就 is the dire consequences which will immediately result is that action is not taken.
+
+
+---
+期待
+This word is somewhat formal (书面). A more colloquial way to say "look forward to" is "盼着" (pànzhe).
+
+
+
+Input:
+肘子
+关闭
+叛徒而坐
+小时
+再说
+所以
+并且
+后背

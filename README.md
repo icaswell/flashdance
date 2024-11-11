@@ -2,15 +2,6 @@
 
 Miao miao meo meowst Meowmst.
 
-
-## Workflow
-
-1. make various text files in the `resources/` directory from online resources. Usually, if these are for feeding into `api_main.py/`, they will have 'input` in the name somewhere.
-2. use `api_main.py` and a prompt from `prompts/' to make AI-generated files. These are put in the `output/` directory.
-3. Parse the AI-generated outputs into new resources, putting them back in the `resources/` folder. Generally, for some particular directory in `resources/`, there will be a python script in that directory that parses the outputs into a well-behaved file.
-4. Generate flashcards with `flashcards/make_flashcards.py`
-
-
 ## Adding new flashcards
 
 1. add a new set of flashcards in `vocab_separate`
@@ -26,7 +17,13 @@ python3 flashcards/make_flashcards.py --mode=iphone --level=stront2
 bash missing/api_commands.sh
 ```
 
-This will also output the four relevant files.
+This will also output the four relevant files, e.g.:
+
+```
+output/examples.tsv__gemini-1.5-flash_c25__general_example_prompt_3examples.txt
+output/single_defs_for_shared_zi_multici.tsv__gemini-1.5-flash_c80__multizi_prompt.txt
+output/zi_defs.tsv__gemini-1.5-flash_c80__singlezi_prompt.txt
+```
 
 
 4. Run `python3 resources/example_sentences/parse_example_outputs.py`. Then see the errors it reports and fix them. Then run it again.
@@ -38,7 +35,11 @@ Optional:
 
 6. Run ` python3  resources/definitions_and_pinyin/add_to_multici_singleword_defs.py  `. Sehe oben
 
-7. Run `python3 flashcards/make_flashcards.py` againnnnn
+7. Run ` python3 resources/pos/parse_pos_outputs.py --inglob=output/pos.txt__gemini-1.5-flash_c80__pos_prompt.txt --outfile=resources/pos/pos.tsv  `. As before.
 
-8. profit
+8. Run `python3 resources/usage_notes/parse_usage_notes.py`
+
+9. Run `python3 flashcards/make_flashcards.py` againnnnn
+
+10. profit
 

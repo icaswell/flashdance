@@ -5,29 +5,46 @@ import random
 from collections import defaultdict
 import argparse
 from typing import List, Dict
+import time
 
 # This is a module in this package
 from pinyin import get_pinyin
 
 parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
+parser.add_argument('--verbose', type=bool, default=False)
 parser.add_argument('--level', type=str)
-parser.add_argument('--mode', type=str)
+parser.add_argument('--exclude_levels', type=str, default="", help="whether to ignore ci in --level that occur in one of these levels (comma-separated)")
+parser.add_argument('--mode', default='iphone', type=str)
 parser.add_argument('--existing_defs', type=str, default="concat", help="what to do with the pinyin and definitions in the input TSV")
 args = parser.parse_args()
 
+VTIME = time.time()
+def vprint(s):
+  if not args.verbose:
+    return
+  global VTIME
+  t = time.time()
+  print(f"\033[92m...[{t - VTIME:.2f}s]\n{s}...\033[0m")
+  VTIME = t
+
 # These are the full definitions
 definitions_fname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
+
+# These are the POS annotations
+pos_fname = "resources/pos/pos.tsv"
 
 # These are the one-word definitions. used in 
 zi_definitions_fname = "resources/definitions_and_pinyin/zi_singleword_defs.tsv"
 multizi_definitions_fname = "resources/definitions_and_pinyin/multizi_singleword_defs.tsv"
 
 # relatedwords_fname = "resources/related_words/hsk1to6.tsv"
-relatedwords_explanation_fname = "resources/hsk1to6.tsv__gpt-3.5-turbo-1106_t0.0__related_words_prompt.csv"
+# relatedwords_explanation_fname = "resources/hsk1to6.tsv__gpt-3.5-turbo-1106_t0.0__related_words_prompt.csv"
+usage_notes_fname = "resources/usage_notes/usage_notes.tsv"
 
 # https://en.wikipedia.org/wiki/List_of_Unicode_characters#Miscellaneous_Symbols
 examples_fnames = [
         ["❈", 3, "resources/example_sentences/general2.tsv"],  # ❈ is "heavy sparkle"
+        ["❈", 3, "resources/example_sentences/general3.tsv"],  # ❈ is "heavy sparkle"
         ["🐇", 2, "resources/example_sentences/cql.tsv"],
         ["🦝", 2, "resources/example_sentences/raccoon.tsv"],
         # ☯️ ☯ ☾𖤓࿊
@@ -72,6 +89,8 @@ LEVELS = {
     "hsk5": 5,
     "hsk6": 6,
     "stront1": 6,
+    "stront2": 6,
+    "stront3": 6,
     "weeb1": 6,
 }
 if args.level not in LEVELS:
@@ -79,16 +98,23 @@ if args.level not in LEVELS:
 
 
 LEVELED_CI = defaultdict(list)
+ORIGIN_NOTE_PERCI = defaultdict(list)
 
+vprint("getting all zi....")
 ALL_ZI_IN_LEVELS = set()
 for level in LEVELS:
   with open(f"resources/vocab_separate/{level}.tsv", "r") as f:
     for i, line in enumerate(f):
       parts = line.split("\t")
-      if len(parts) != 3:
-        raise ValueError(f"Line {i} should have three tab-separated values but doesn't: {line}")
+      if len(parts) not in {3, 4}:
+        raise ValueError(f"Line {i} should have 3-4 tab-separated values but doesn't: {line}")
+      if len(parts) == 4:
+        note = parts[3].strip()
+        ORIGIN_NOTE_PERCI[parts[0]].append(note)
+        parts = parts[0:3]
       ci, _, _ = parts
       LEVELED_CI[level].append(ci)
+      
       ALL_ZI_IN_LEVELS |= {zi for zi in ci}
 
 def get_ci_with_this_zi_conditioned_on_level(zi, level_name):
@@ -102,24 +128,47 @@ def get_ci_with_this_zi_conditioned_on_level(zi, level_name):
         output_ci.append(ci)
   return output_ci
 
+vprint("getting all leveled zi....")
 # zi: {level_name: [ci_0, ci_1, ...]}
 ZI_TO_LEVELED_CI = defaultdict(lambda: defaultdict(list))
 for zi in ALL_ZI_IN_LEVELS:
   for level_name in LEVELS:
     ZI_TO_LEVELED_CI[zi][level_name] = get_ci_with_this_zi_conditioned_on_level(zi, level_name)
 
+# Read in the ci that you are making flashcards for. Ignore definitions and pinyin for now.
+# existing definitions will be added in if --args.existing_defs has the right value.
+vprint("getting target ci....")
 TARGET_CI = []
 with open(f"resources/vocab_separate/{args.level}.tsv", "r") as f:
+  seen = set()  # 🎵 did it all for the O(1) 
   for line in f:
-    TARGET_CI.append(line.strip().split("\t")[0])
+    ci = line.strip().split("\t")[0]
+    if ci in seen:
+      continue
+    seen.add(ci)
+    TARGET_CI.append(ci)
 
+for anti_level in args.exclude_levels.split(','):
+  if not anti_level: continue
+  if anti_level not in LEVELED_CI:
+    raise ValueError(f"level {anti_level} not in LEVELED_CI")
+  to_exclude = set(LEVELED_CI[anti_level])
+  TARGET_CI = [ci for ci in TARGET_CI if ci not in to_exclude]
+
+
+vprint("getting pos....")
+POS_ANNOTATIONS = {}
+with open(pos_fname, "r") as f:
+  for line in f:
+    ci, pos = line.strip().split("\t")
+    POS_ANNOTATIONS[ci] = pos
 
 def format_cedict_cls(s):
   """Format the counter words in CEDICT so they use normal pinyin and don't include Traditional
   """
   s = re.sub("\p{Han}\|(\p{Han})\[", "\\1[", s)
   for _ in range(2):
-    pinyins = re.findall("[^a-z]([a-z]{1,7}[1-5])[^a-z0-9]", s)
+    pinyins = re.findall("[^a-z]([a-zA-Z]{1,7}[1-5])[^a-z0-9]", s)
     for p in pinyins:
       p_better = pinyin_jyutping_sentence.romanization_conversion.decode_pinyin(p, False, False) 
       s = s.replace(p, p_better)
@@ -128,37 +177,46 @@ def format_cedict_cls(s):
 def fix_cedict_deff(deff):
   deff = format_cedict_cls(deff) 
   parts = deff.split("; ")
+  parts = [p for p in parts if p]
   cls = [p for p in parts if p.startswith("CL")]
   prs = [p for p in parts if " pr. " in p]
   proper_nouns = [p for p in parts if p[0].isupper() and p not in cls and p not in prs]
   surnames = [p for p in parts if p.startswith("surname ")]
   other = [p for p in parts if p not in cls + proper_nouns + surnames + prs]
   out_parts = other + surnames + proper_nouns + cls
-  return "; ".join(out_parts)
+  return DEF_DELIM.join(out_parts)
 
+vprint("getting official definitions.")
+# get the "official" ccdict definitions
 DEFINITIONS = {}
+DEF_DELIM = "; "  # the delimtor to separate definitions in the flashcard with
 with open(definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     if len(parts) >=3:
       deff = parts[2]
-      if deff.startswith("/"):
+      # I think this is no longer relevant, but doesn't hurt
+      if deff.startswith("/") and deff.endswith("/"):
         deff = deff[1:-1].replace("/", "; ")
+      if re.findall("[a-z]/[a-z]", deff):
+        deff = deff.replace("/", DEF_DELIM)
       deff = fix_cedict_deff(deff)
       DEFINITIONS[parts[0]] = deff
-if args.existing_defs in ["concat"]:
-  with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
-    for line in f:
-      parts = line.strip().split("\t")
-      if len(parts) >=3:
-        addendum = ""
-        if parts[0] in DEFINITIONS:
-          addendum = parts[2] + "/" + DEFINITIONS[parts[0]]
-        if args.existing_defs == "concat":
-          DEFINITIONS[parts[0]] = addendum
-        else: 
-          assert False  # TODO lol
 
+vprint("adding preeixisting defs....")
+# add in the existing definitions
+with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
+  for line in f:
+    parts = line.strip().split("\t")
+    if len(parts) >=3:
+      ci, unused_pinyin, deff = parts[0:3]
+      existing_defs_lower = DEFINITIONS.get(ci, '').lower().split(DEF_DELIM)
+      if deff.lower() in existing_defs_lower: continue
+
+      existing_defs = DEFINITIONS.get(ci, '').split(DEF_DELIM)
+      DEFINITIONS[ci] = DEF_DELIM.join([deff] + existing_defs)
+
+vprint("getting single zi and multizi defs....")
 ZI_DEFS = {}
 with open(zi_definitions_fname, "r") as f:
   for line in f:
@@ -168,23 +226,42 @@ with open(zi_definitions_fname, "r") as f:
 with open(multizi_definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
-    ZI_DEFS[parts[0]] = parts[1]
+    if len(parts) == 2:
+      ZI_DEFS[parts[0]] = parts[1]
 
 
-
-def format_related_words(s):
-  f = re.findall("([^\)])\n([A-Za-z, ]{0,20}(oth |summary|example|hese words|hese two words|hese three words|hese four words|The words|While|So, ))", s)
-  if not f: return s
-  for g in f:
-    s = s.replace(g[1], "\n" + g[1])
-  return s
+# Deprecating this until we have a better source
 RELATED_WORDS = {}
-with open(relatedwords_explanation_fname, "r") as f:
-  reader = csv.reader(f, delimiter=';')
-  for row in reader:
-    if not re.match("\p{Han}", row[1]): continue
-    RELATED_WORDS[row[0]] = format_related_words(row[1])
+# def format_related_words(s):
+#   f = re.findall("([^\)])\n([A-Za-z, ]{0,20}(oth |summary|example|hese words|hese two words|hese three words|hese four words|The words|While|So, ))", s)
+#   if not f: return s
+#   for g in f:
+#     s = s.replace(g[1], "\n" + g[1])
+#   return s
+# with open(relatedwords_explanation_fname, "r") as f:
+#   reader = csv.reader(f, delimiter=';')
+#   for row in reader:
+#     if not re.match("\p{Han}", row[1]): continue
+#     RELATED_WORDS[row[0]] = format_related_words(row[1])
 
+vprint("getting usage notes....")
+USAGE_NOTES = {}
+with open(usage_notes_fname, "r") as f:
+  for line in f:
+    ci, note = line.strip().split("\t")
+    note = note.replace("<NEWLINE>", NEWLINE)
+    USAGE_NOTES[ci] = note
+
+def ignore_usage_note(note):
+  # One might want to include these, e.g.:
+  # There is no difference between the use of 玩儿 (wánr) in Chinese and "to play" or "to have fun" in English.
+  # howeve,r in practice this probably mainly adds to the noise.
+  punts = ["There is no difference", "No special notes.", "No additional notes."]
+  for punt in punts:
+    if punt in note: return True
+  return False
+
+vprint("getting all examples....")
 EXAMPLES = defaultdict(list)
 for example_emoji, n_examples, examples_fname in examples_fnames:
   with open(examples_fname, "r") as f:
@@ -209,6 +286,7 @@ for example_emoji, n_examples, examples_fname in examples_fnames:
         EXAMPLES[ci].append((example_emoji, zhex, enex))
 
 
+vprint("getting inverted examples...")
 INVERTED_EXAMPLES = defaultdict(list)
 for ci in TARGET_CI:
   for cj, example_tups in EXAMPLES.items():
@@ -253,6 +331,13 @@ def get_other_ci_list(zi_j, level) -> List[str]:
 
 
 
+RADICAL_ANNOTATIONS = {}  # TODO :(
+
+MISSING_POS = set()
+MISSING_USAGE_NOTES = set()
+MISSING_RADICALS = set()
+
+vprint("making flashcards...")
 #===================================================================
 # Now that we have prepared all the resources, we actually make the floshcards!
 out_lines = []
@@ -264,10 +349,15 @@ for ci_j in TARGET_CI:
   if ci_j in DEFINITIONS:
     out_line.append(DEFINITIONS[ci_j])
 
-  # TODO add this back in once LLMs work
-  # if ci_j in RELATED_WORDS:
-  #   out_line.append("related words")
-  #   out_line.append(RELATED_WORDS[ci_j])
+  if ci_j in USAGE_NOTES:
+    if ignore_usage_note(USAGE_NOTES[ci_j]):
+      # note: we don't add it to MISSING_USAGE_NOTES since this was probably a punt
+      continue
+    out_line.append("usage notes")
+    out_line.append(USAGE_NOTES[ci_j])
+  else:
+    MISSING_USAGE_NOTES.add(ci_j)
+
 
   for zi_j in ci_j:
     if not re.match("\p{Han}", zi_j): continue
@@ -279,6 +369,20 @@ for ci_j in TARGET_CI:
     out_line.append(zi_j_decorated)
     out_line.append(content)
 
+  if ci_j in POS_ANNOTATIONS:
+    # prepend to English definition
+    out_line[2] = f"[POS_ANNOTATIONS[ci_j]] {out_line[2]}"
+    # out_line += ["parts of speech", POS_ANNOTATIONS[ci_j]]
+  else:
+    MISSING_POS.add(ci_j)
+
+  if ci_j in RADICAL_ANNOTATIONS:
+    out_line += ["radicals", RADICAL_ANNOTATIONS[ci_j]]
+  else:
+    MISSING_RADICALS.add(ci_j)
+
+  if ci_j in ORIGIN_NOTE_PERCI:
+    out_line += ["notes", '/'.join(ORIGIN_NOTE_PERCI[ci_j])]
 
   if ci_j in EXAMPLES:
     seen_examples = set()
@@ -318,15 +422,16 @@ else:
 
 
 
-def write_missing(ci, name):
-  if not ci:
+def write_missing(missing, name, max_chars=None):
+  if not missing:
     print(f"Nothing missing from {name}!")
     return
+  missing = {m for m in missing if max_chars is None or len(m) <= max_chars}
   print(f"missing from {name}: {'; '.join(missing)}")
   fname = f"missing/{name}.tsv"
   with open(fname, "w") as f:
-    for cij in ci:
-      f.write(f"{cij}\t{DEFINITIONS.get(cij, 'no definition')}\n")
+    for ci in missing:
+      f.write(f"{ci}\t{DEFINITIONS.get(ci, 'no definition')}\n")
       # f.write(f"{cij}\t{get_pinyin(cij)}\t{DEFINITIONS.get(cij, 'no definition')}\n")
   print(f"wrote to {fname}\n")
 
@@ -334,28 +439,34 @@ TARGET_CI = set(TARGET_CI)
 # TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if not re.match("[a-zA-Z\p{punctuation}]", zi)}
 TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if re.match("\p{Han}", zi)}
 
+
+write_missing(MISSING_USAGE_NOTES, "usage notes", max_chars=3) # no exmple sentences for things > 4 Hanzi long
+
 missing = TARGET_CI - DEFINITIONS.keys() 
 write_missing(missing, "definitions")
 
 missing = TARGET_CI - EXAMPLES.keys() 
-write_missing(missing, "examples")
+write_missing(missing, "examples", max_chars=4) # no exmple sentences for things > 4 Hanzi long
 
 missing = TARGET_ZI - ZI_DEFS.keys()
 write_missing(missing, "zi_defs")
 
-missing = MISSING_CI_WITH_SAME_ZI_MEANING
-write_missing(missing, "single_defs_for_shared_zi_multici")
+write_missing(MISSING_CI_WITH_SAME_ZI_MEANING, "single_defs_for_shared_zi_multici")
+
+write_missing(MISSING_POS, "pos", max_chars=3)
 
 
+#    ("examples.tsv", "cql_example_prompt3_3examples.txt"),
 api_cmd_fname = "missing/api_commands.sh"
 with open(api_cmd_fname, "w") as f:
-  for (infile, promptfile) in [
-    ("examples.tsv", "cql_example_prompt3_3examples.txt"),
-    ("examples.tsv", "general_example_prompt_3examples.txt"),
-    ("single_defs_for_shared_zi_multici.tsv", "multizi_prompt.txt"),
-    ("zi_defs.tsv", "singlezi_prompt.txt")]:
-    f.write(f"python3 api_main.py --input=missing/{infile} --system_prompt=prompts/{promptfile}\n")
-  f.write("tail -n 4 output/LOG.tsv | cut -f 1\n")
+  f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/usage_notes.tsv --system_prompt=prompts/usage_notes_prompt.txt --model=gemini-1.5-pro\n")
+  f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/examples.tsv --system_prompt=prompts/general_example_prompt_3examples.txt\n")
+  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/single_defs_for_shared_zi_multici.tsv --system_prompt=prompts/multizi_prompt.txt\n")
+  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/pos.txt --system_prompt=prompts/pos_prompt.txt\n")
+  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/zi_defs.tsv --system_prompt=prompts/singlezi_prompt.txt\n")
+  f.write("tail -n 5 output/LOG.tsv | cut -f 1\n")
+
 
 print(f"Wrote flashcards to {fname_out}")
 print(f"Wrote api commands to {api_cmd_fname}")
+vprint("done!")

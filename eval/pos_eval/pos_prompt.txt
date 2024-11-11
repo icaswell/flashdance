@@ -1,0 +1,53 @@
+Please provide the part of speech for each of the following Chinese words.
+
+Use the labels n,vb,adj,pp,adv,conj,interj,measure (These stand for noun, verb, etc.)
+
+Example input:
+项
+诗
+参考
+浅
+可靠
+
+Example output:
+项: measure/n
+诗: n
+参考: n/vb
+浅: adj
+可靠: adj/adv/n
+
+
+Input:
+恭喜
+题目
+透明
+假装
+印刷
+成语
+支
+咬
+名牌
+展览
+完美
+人事
+运输
+输运
+破坏
+竹子
+偶然
+浓
+采访
+采取
+团
+叉子
+不然
+不如
+不得了
+再三
+悲观
+假如
+万一
+则
+
+Output:
+

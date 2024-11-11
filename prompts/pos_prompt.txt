@@ -1,0 +1,21 @@
+Please provide the part of speech for each of the following Chinese words.
+
+Use the labels n,vb,adj,pp,adv,conj,interj,measure (These stand for noun, verb, etc.)
+
+Example input:
+项
+诗
+参考
+浅
+可靠
+
+Example output:
+项	measure/n
+诗	n
+参考	n/vb
+浅	adj
+可靠	adj/adv/n
+
+Provide only the part-of-speech annotations, and no other chattiness. Provide your output as a TSV, and if a word can have multiple parts of speech, separate them with a slash, as in the example above.
+
+Here is your input:
