@@ -4,6 +4,7 @@ ZIDEF = []
 mothership = "resources/definitions_and_pinyin/multizi_singleword_defs.tsv"
 with open(mothership, "r") as f:
   for i, line in enumerate(f):
+    if not line.strip(): continue
     try:
       zi, deff = line.strip().split("\t")
     except Exception as e:

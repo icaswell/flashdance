@@ -43,8 +43,7 @@ usage_notes_fname = "resources/usage_notes/usage_notes.tsv"
 
 # https://en.wikipedia.org/wiki/List_of_Unicode_characters#Miscellaneous_Symbols
 examples_fnames = [
-        ["❈", 3, "resources/example_sentences/general2.tsv"],  # ❈ is "heavy sparkle"
-        ["❈", 3, "resources/example_sentences/general3.tsv"],  # ❈ is "heavy sparkle"
+        ["❈", 3, "resources/example_sentences/general.tsv"],  # ❈ is "heavy sparkle"
         ["🐇", 2, "resources/example_sentences/cql.tsv"],
         ["🦝", 2, "resources/example_sentences/raccoon.tsv"],
         # ☯️ ☯ ☾𖤓࿊
@@ -256,7 +255,8 @@ def ignore_usage_note(note):
   # One might want to include these, e.g.:
   # There is no difference between the use of 玩儿 (wánr) in Chinese and "to play" or "to have fun" in English.
   # howeve,r in practice this probably mainly adds to the noise.
-  punts = ["There is no difference", "No special notes.", "No additional notes."]
+  # punts = ["There is no difference", "No special notes.", "No additional notes.", "Nothing special to note.",  "There's nothing special about this word."]
+  punts = ["There is no difference", "No special notes.", "No additional notes.", "othing special"]
   for punt in punts:
     if punt in note: return True
   return False
@@ -462,7 +462,7 @@ with open(api_cmd_fname, "w") as f:
   f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/usage_notes.tsv --system_prompt=prompts/usage_notes_prompt.txt --model=gemini-1.5-pro\n")
   f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/examples.tsv --system_prompt=prompts/general_example_prompt_3examples.txt\n")
   f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/single_defs_for_shared_zi_multici.tsv --system_prompt=prompts/multizi_prompt.txt\n")
-  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/pos.txt --system_prompt=prompts/pos_prompt.txt\n")
+  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/pos.tsv --system_prompt=prompts/pos_prompt.txt\n")
   f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/zi_defs.tsv --system_prompt=prompts/singlezi_prompt.txt\n")
   f.write("tail -n 5 output/LOG.tsv | cut -f 1\n")
 

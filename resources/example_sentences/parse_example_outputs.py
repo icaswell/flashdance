@@ -1,14 +1,12 @@
 import regex as re
 from glob import glob
-import argparse
+# import argparse
 
-parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
-parser.add_argument('--inglob', dest='inglob', required=True, help='Input file glob')
-parser.add_argument('--outfile', dest='outfile', required=True, help='File in resources/ to write the parsed outputs to')
-parser.add_argument('--overwrite', action='store_true', help='')
-args = parser.parse_args()
-
-
+# parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
+# parser.add_argument('--inglob', dest='inglob', required=True, help='Input file glob')
+# parser.add_argument('--outfile', dest='outfile', required=True, help='File in resources/ to write the parsed outputs to')
+# parser.add_argument('--overwrite', action='store_true', help='')
+# args = parser.parse_args()
 
 HAN_REGEX = "[《\p{Han}]"
 HAN_REGEX_INC = "[《\p{Han}0-9““<>]"
@@ -66,44 +64,66 @@ def process_line(line):
       return False, [f"en field {i} Han: {part}"] + parts
   return True, parts
 
+def pair_examples(examples):
+  out = []
+  if len(examples)%2:
+    raise ValueError(f"examples should have an even number of fields; got {examples}")
+  for i, ex in enumerate(examples):
+    if i%2:
+      out[-1].append(ex)
+    else:
+      out.append([ex])
+  return [tuple(pair) for pair in out]
 
-def hash_string(line):
-  return re.sub("\s", "", line)
+def add_examples(ci, new_examples, existing_dict):
+  existing_examples = existing_dict.get(ci, [])
+  merged_examples = existing_examples + [pair for pair in new_examples if pair not in existing_examples]
+  existing_dict[ci] = merged_examples
 
 
-def parse_glob(inglob, outfile, overwrite):
-  already_seen = set()
-  if not overwrite:
-    with open(outfile, "r") as f:
-      old_lines = [line for line in f]
-    # don't acidentally keep appending to same file
-    already_seen = {hash_string(line) for line in old_lines}
+def parse_glob(inglob, outfile):
+  existing_lines = {}
+  with open(outfile, "r") as f:
+    for i, line in enumerate(f):
+      ci, examples = line.strip().split("\t", maxsplit=1)
+      try:
+        add_examples(ci, pair_examples(examples.split("\t")), existing_lines)
+      except Exception as e:
+        print(e)
+        print(f"line={i}; fname={outfile}")
+        raise ValueError("tralala")
+  print(f"Read examples for {len(existing_lines)} words.")
   n_errors = 0
   n_good = 0
-  with open(outfile, "w" if args.overwrite else "a") as outf:
-    for infile in glob(inglob):
-      print("\n\n" + '-'*80 + f"\nREADING {infile}")
-      with open(infile, "r") as f:
-        for i, line in enumerate(f):
-          is_ok, parts = process_line(line)
-          outline = "\t".join(parts) + "\n"
-          if hash_string(outline) in already_seen:
-            continue
-          if is_ok:
-            n_good += 1
-            outf.write(outline)
-          elif re.match(HAN_REGEX, line):
-            n_errors += 1
-            print("\nError: ", parts[0])
-            print(i + 1, line.strip().replace("\t", "<   TAB   >"))
-            for j, p_i in enumerate(parts[1:]):
-              print(f"    {j}: {p_i}")
-      print(f"^^ {n_errors} errors of {n_good + n_errors} lines")
-      print(f"^^ {infile}")
+
+  for infile in glob(inglob):
+    print("\n\n" + '-'*80 + f"\nREADING {infile}")
+    with open(infile, "r") as f:
+      for i, line in enumerate(f):
+        is_ok, parts = process_line(line)
+        if is_ok:
+          n_good += 1
+          ci = parts[0]
+          add_examples(ci, pair_examples(parts[1:]), existing_lines)
+        elif re.match(HAN_REGEX, line):
+          n_errors += 1
+          print("\nError: ", parts[0])
+          print(i + 1, line.strip().replace("\t", "<   TAB   >"))
+          for j, p_i in enumerate(parts[1:]):
+            print(f"    {j}: {p_i}")
+    print(f"^^ {n_errors} errors of {n_good + n_errors} lines")
+    print(f"^^ {infile}")
+
+  print(f"Now we have examples for {len(existing_lines)} words.")
+  # with open(outfile, "w" if args.overwrite else "a") as outf:
+  #       outline = "\t".join(parts) + "\n"
   print(outfile)
   
 
-parse_glob(args.inglob, args.outfile, args.overwrite)
+mothership = "resources/example_sentences/general.tsv"
+inglob = "output/examples.tsv*"
+parse_glob(inglob, mothership)
+# parse_glob(args.inglob, args.outfile, args.overwrite)
 # parse_glob("output/*4o*multicoverage*", "resources/example_sentences/multicoverage_4o.tsv")
 # parse_glob("output/*cql*", "resources/example_sentences/cql.tsv")
 # parse_glob("output/*general*", "resources/example_sentences/general2.tsv")
