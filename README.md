@@ -35,7 +35,7 @@ Optional:
 
 6. Run ` python3  resources/definitions_and_pinyin/add_to_multici_singleword_defs.py  `. Sehe oben
 
-7. Run ` python3 resources/pos/parse_pos_outputs.py --inglob=output/pos.txt__gemini-1.5-flash_c80__pos_prompt.txt --outfile=resources/pos/pos.tsv  `. As before.
+7. Run ` python3 resources/pos/parse_pos_outputs.py`. As before.
 
 8. Run `python3 resources/usage_notes/parse_usage_notes.py`
 
