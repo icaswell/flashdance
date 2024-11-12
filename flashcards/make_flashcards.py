@@ -109,7 +109,8 @@ for level in LEVELS:
         raise ValueError(f"Line {i} should have 3-4 tab-separated values but doesn't: {line}")
       if len(parts) == 4:
         note = parts[3].strip()
-        ORIGIN_NOTE_PERCI[parts[0]].append(note)
+        if note not in ORIGIN_NOTE_PERCI[parts[0]]:
+          ORIGIN_NOTE_PERCI[parts[0]].append(note)
         parts = parts[0:3]
       ci, _, _ = parts
       LEVELED_CI[level].append(ci)
@@ -120,11 +121,13 @@ def get_ci_with_this_zi_conditioned_on_level(zi, level_name):
   # applicable_levels: levels that are at this level or below
   applicable_levels = [lev for lev in LEVELS if LEVELS[lev] <= LEVELS[level_name]]
   output_ci = []
+  output_ci_set = set()
   for lev in applicable_levels:
     for ci in LEVELED_CI[lev]:
-      if ci in output_ci: continue
+      if ci in output_ci_set: continue # using a set 2xed the speed
       if zi in ci:
         output_ci.append(ci)
+        output_ci_set.add(ci)
   return output_ci
 
 vprint("getting all leveled zi....")
@@ -141,7 +144,7 @@ TARGET_CI = []
 with open(f"resources/vocab_separate/{args.level}.tsv", "r") as f:
   seen = set()  # 🎵 did it all for the O(1) 
   for line in f:
-    ci = line.strip().split("\t")[0]
+    ci = line.strip().split("\t")[0].strip()
     if ci in seen:
       continue
     seen.add(ci)
@@ -162,6 +165,9 @@ with open(pos_fname, "r") as f:
     ci, pos = line.strip().split("\t")
     POS_ANNOTATIONS[ci] = pos
 
+
+vprint("getting official definitions.")
+# get the "official" ccdict definitions
 def format_cedict_cls(s):
   """Format the counter words in CEDICT so they use normal pinyin and don't include Traditional
   """
@@ -185,24 +191,41 @@ def fix_cedict_deff(deff):
   out_parts = other + surnames + proper_nouns + cls
   return DEF_DELIM.join(out_parts)
 
-vprint("getting official definitions.")
-# get the "official" ccdict definitions
+def get_pinyin_for_definition(ci):
+  """Wrapper that gives multipinyin specifically for the main pinyin field in the flashcards.
+
+  e.g. 'shù||shǔ'
+  """
+  if ci in CI_TO_MULTI_PINYIN:
+    return CI_TO_MULTI_PINYIN[ci]
+  return get_pinyin(ci)
+
+def decode_multipinyin(pinyins):
+  """decode_multipinyin('shu4||shu3') == 'shù||shǔ'
+  """
+  out = [pinyin_jyutping_sentence.romanization_conversion.decode_pinyin(p, False, False) for p in pinyins.split("||") ]
+  return "||".join(out)
+
 DEFINITIONS = {}
 DEF_DELIM = "; "  # the delimtor to separate definitions in the flashcard with
+CI_TO_MULTI_PINYIN = {}  #  special cases where there are multiple pinyins
+#                           that have to be kept in sync with the definitions
 with open(definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
     if len(parts) >=3:
-      deff = parts[2]
+      ci, pinyins, deff = parts[0:3]
       # I think this is no longer relevant, but doesn't hurt
       if deff.startswith("/") and deff.endswith("/"):
         deff = deff[1:-1].replace("/", "; ")
       if re.findall("[a-z]/[a-z]", deff):
         deff = deff.replace("/", DEF_DELIM)
       deff = fix_cedict_deff(deff)
-      DEFINITIONS[parts[0]] = deff
+      if "||" in pinyins:
+        CI_TO_MULTI_PINYIN[ci] = decode_multipinyin(pinyins)
+      DEFINITIONS[ci] = deff
 
-vprint("adding preeixisting defs....")
+vprint("adding preexisting defs....")
 # add in the existing definitions
 with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
   for line in f:
@@ -290,11 +313,13 @@ vprint("getting inverted examples...")
 INVERTED_EXAMPLES = defaultdict(list)
 for ci in TARGET_CI:
   for cj, example_tups in EXAMPLES.items():
+    if cj == ci: continue
+    n_existing = len(EXAMPLES[ci]) if ci in EXAMPLES else 0
     for example_emoji, zhex, enex in example_tups:
-      if cj == ci: continue
+      if len(INVERTED_EXAMPLES[ci]) + n_existing > MAX_EXAMPLES : continue
       if ci in zhex:
-        # INVERTED_EXAMPLES[ci].append(("⏿" + example_emoji, zhex, enex))
-        INVERTED_EXAMPLES[ci].append(("♻" + example_emoji, zhex, enex))
+        recycle_emoji = "♸"
+        INVERTED_EXAMPLES[ci].append((recycle_emoji + example_emoji, zhex, enex))
 
 for ci, example_tups in INVERTED_EXAMPLES.items():
   EXAMPLES[ci] += example_tups
@@ -322,13 +347,29 @@ def get_other_ci_list(zi_j, level) -> List[str]:
 
     if ci_k in ZI_DEFS:
       addenda.append(ZI_DEFS[ci_k])
+    elif re.sub(chinese_pos_regex, "", ci_k) in ZI_DEFS:  
+      addenda.append(ZI_DEFS[re.sub(chinese_pos_regex, "", ci_k)])
     else:
       MISSING_CI_WITH_SAME_ZI_MEANING.add(ci_k)
+    addenda.append(get_pinyin(ci_k))
     if addenda:
       ci_k = f"{ci_k} ({'; '.join(addenda)})"
     other_ci_list.append(ci_k)
   return other_ci_list[0:MAX_SAME_ZI_EXAMPLES]
 
+chinese_pos_regex = "（[" +  "".join({
+    "动",  # verb
+    "代",  # pronoun
+    "名",  # noun
+    "量",  # measure
+    "叹",  # exclamation
+    "连",  # conjunction
+    "数",  # number
+    "副",  # adverb
+    "助",  # auxiliary
+    "介",  # medial
+    "形",  # adjective
+}) + "]）"
 
 
 RADICAL_ANNOTATIONS = {}  # TODO :(
@@ -344,10 +385,23 @@ out_lines = []
 for ci_j in TARGET_CI:
   out_line = [ci_j + OBFUSTICATOR]
 
-  out_line.append(get_pinyin(ci_j))
+  out_line.append(get_pinyin_for_definition(ci_j))
 
   if ci_j in DEFINITIONS:
     out_line.append(DEFINITIONS[ci_j])
+
+
+  # Break down meaning of each constituent zi
+  for zi_j in ci_j:
+    if not re.match("\p{Han}", zi_j): continue
+    other_ci_list = get_other_ci_list(zi_j, args.level)  # other ci using this zi
+    zi_j_decorated = f"{zi_j} ({ZI_DEFS[zi_j]})" if zi_j in ZI_DEFS else zi_j
+    content = "There are no other HSK words in this level (or before) using this character."
+    if other_ci_list:
+      content = "Other words using this character: " + "; ".join(other_ci_list)
+    out_line.append(zi_j_decorated)
+    out_line.append(content)
+
 
   if ci_j in USAGE_NOTES:
     if ignore_usage_note(USAGE_NOTES[ci_j]):
@@ -358,21 +412,10 @@ for ci_j in TARGET_CI:
   else:
     MISSING_USAGE_NOTES.add(ci_j)
 
-
-  for zi_j in ci_j:
-    if not re.match("\p{Han}", zi_j): continue
-    other_ci_list = get_other_ci_list(zi_j, args.level)
-    zi_j_decorated = f"{zi_j} ({ZI_DEFS[zi_j]})" if zi_j in ZI_DEFS else zi_j
-    content = "There are no other HSK words in this level (or before) using this character."
-    if other_ci_list:
-      content = "Other words using this character: " + "; ".join(other_ci_list)
-    out_line.append(zi_j_decorated)
-    out_line.append(content)
-
   if ci_j in POS_ANNOTATIONS:
     # prepend to English definition
-    out_line[2] = f"[POS_ANNOTATIONS[ci_j]] {out_line[2]}"
-    # out_line += ["parts of speech", POS_ANNOTATIONS[ci_j]]
+    # out_line[2] = f"{[POS_ANNOTATIONS[ci_j]]} {out_line[2]}"
+    out_line += ["parts of speech", POS_ANNOTATIONS[ci_j]]
   else:
     MISSING_POS.add(ci_j)
 
@@ -381,11 +424,17 @@ for ci_j in TARGET_CI:
   else:
     MISSING_RADICALS.add(ci_j)
 
-  if ci_j in ORIGIN_NOTE_PERCI:
-    out_line += ["notes", '/'.join(ORIGIN_NOTE_PERCI[ci_j])]
+  # below clause triggers largely for NHSK vocabs that have the POS
+  # in parens afterwards, but the example sentence ignored it
+  if ci_j not in EXAMPLES:
+    stripped = re.sub(chinese_pos_regex, "", ci_j)
+    if stripped in EXAMPLES:
+      EXAMPLES[ci_j] = EXAMPLES[stripped]
 
   if ci_j in EXAMPLES:
     seen_examples = set()
+    to_add = EXAMPLES[ci_j][0:MAX_EXAMPLES]
+
     for ex_emoji, ex_zh, ex_en in EXAMPLES[ci_j][0:MAX_EXAMPLES]:
       if ex_zh in seen_examples: continue
       seen_examples.add(ex_zh)
@@ -395,9 +444,9 @@ for ci_j in TARGET_CI:
       out_line.append(ex_en)
   out_lines.append(out_line)
 
-# print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
-# for xx in out_lines:
-#     print(xx)
+
+  if ci_j in ORIGIN_NOTE_PERCI:
+    out_line += ["origin", '/'.join(ORIGIN_NOTE_PERCI[ci_j])]
   
 out_lines = [
         [field.replace("\n", NEWLINE) for field in out_line]
@@ -440,7 +489,7 @@ TARGET_CI = set(TARGET_CI)
 TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if re.match("\p{Han}", zi)}
 
 
-write_missing(MISSING_USAGE_NOTES, "usage notes", max_chars=3) # no exmple sentences for things > 4 Hanzi long
+write_missing(MISSING_USAGE_NOTES, "usage_notes", max_chars=3) # no exmple sentences for things > 4 Hanzi long
 
 missing = TARGET_CI - DEFINITIONS.keys() 
 write_missing(missing, "definitions")

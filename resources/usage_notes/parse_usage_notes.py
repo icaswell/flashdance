@@ -6,7 +6,7 @@ def ignore_usage_note(note):
   # There is no difference between the use of 玩儿 (wánr) in Chinese and "to play" or "to have fun" in English.
   # howeve,r in practice this probably mainly adds to the noise.
   # punts = ["There is no difference", "No special notes.", "No additional notes.", "Nothing special to note.",  "There's nothing special about this word."]
-  punts = ["There is no difference", "No special notes.", "No additional notes.", "othing special"]
+  punts = ["There is no difference", "No special notes.", "No additional notes.", "othing special", "No unusual notes.", "No special usage notes."]
   for punt in punts:
     if punt in note: return True
   return False
@@ -27,6 +27,13 @@ with open(mothership, "r") as f:
     note = note.replace(NEWLINE, "\n").strip()
     notes = {n.strip() for n in note.split(DUPLICATE_OUTPUT_DELIM) if n.strip()}
     USAGE.append((ci, notes))
+
+def strip_pinyin(ci):
+  # e.g. "毛笔 (máobǐ)" -> "毛笔"
+  if "(" not in ci: return ci
+  # ensure that there is exactly one Han char in the beginning bit
+  # m = re.match("(.*\p{Han}.*) \(\p{Latn}*\)", s)
+  return re.sub(" \([^\p{Han}]*\)", "", ci)
 
 USAGE_DICT = dict(USAGE)
 # NEW_USAGE = []
@@ -70,6 +77,7 @@ for fname in glob("output/usage_notes.*"):
 
 def process_notes(raw_notes):
   raw_notes = list(raw_notes)
+  # contains_punt = any([ignore_usage_note(n_i) for n_i in raw_notes])
   notes = [n_i for n_i in raw_notes if n_i and not ignore_usage_note(n_i)]
   out = notes[0] if notes else raw_notes[0]
   for n_i in notes[1:]:

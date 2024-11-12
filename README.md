@@ -8,7 +8,7 @@ Miao miao meo meowst Meowmst.
 2. generate flashcards by pointing at it:
 
 ```
-python3 flashcards/make_flashcards.py --mode=iphone --level=stront2
+python3 flashcards/make_flashcards.py  --level=stront3 --exclude_levels=hsk1,hsk2,hsk3,hsk4,hsk5,stront1,stront2 --verbose=true
 ```
 
 3. This will report the missing things that need to be generated with AI. It will write the relevant commands to `missing/api_commands.sh`. You can now run this file to call the API:
@@ -25,6 +25,7 @@ output/single_defs_for_shared_zi_multici.tsv__gemini-1.5-flash_c80__multizi_prom
 output/zi_defs.tsv__gemini-1.5-flash_c80__singlezi_prompt.txt
 ```
 
+However, these files are automatically recgnized by the other scripts based on their name, so no need to worry about them.
 
 4. Run `python3 resources/example_sentences/parse_example_outputs.py`. Then see the errors it reports and fix them. Then run it again.
 

@@ -115,8 +115,11 @@ def parse_glob(inglob, outfile):
     print(f"^^ {infile}")
 
   print(f"Now we have examples for {len(existing_lines)} words.")
-  # with open(outfile, "w" if args.overwrite else "a") as outf:
-  #       outline = "\t".join(parts) + "\n"
+  with open(outfile, "w") as outf:
+    for ci, examples in existing_lines.items():
+      paired = ["%s\t%s"%pair for pair in examples]
+      outline = "\t".join([ci] + paired)
+      outf.write(outline + "\n")
   print(outfile)
   
 

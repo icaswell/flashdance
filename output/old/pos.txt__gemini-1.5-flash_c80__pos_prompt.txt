@@ -1,4781 +1,1837 @@
-Here's the breakdown of the parts of speech for the provided Chinese words:
-
-**Numbers and Quantities:**
-
-* "laidies" = nineties: **adj** (informal, slang for the 1990s)
-* 20几个人: **n** (literally "20-some people")
-* 20个其他的人: **n** (literally "20 other people")
-* 4-5小时: **n** (literally "4-5 hours")
-* 50 billion- 500亿: **n** (literally "50 billion-500 hundred million") 
-* 500亿: **n** (literally "500 hundred million")
-* 50集: **n** (literally "50 episodes")
-* 50个集-50集: **n** (literally "50 episodes")
-
-**Grammar and Phrases:**
-
-* A变了: **vb** (literally "A changed")
-* A变成+noun: **vb + n** (literally "A became + noun")
-* A改变B: **vb + n** (literally "A changed B")
-* A变（得）+adj.: **vb + adj** (literally "A became + adjective")
-* E人 = 外向的人: **n = n** (literally "E-person = outgoing person")
-* E人/ 外向的人: **n/n** (literally "E-person/outgoing person")
-* I人 = 内向的人: **n = n** (literally "I-person = introverted person")
-* I人/ 内向的人: **n/n** (literally "I-person/introverted person")
-* Silicon Valley: **n**
-* T恤: **n** (literally "T-shirt")
-* X以上: **adj** (literally "above X")
-* anhuihefei: **n** (place name, Anhui Hefei)
-* fu: **n/vb/adj** (can be a noun, verb, or adjective depending on context)
-* h -k: **n** (abbreviation for a range, "h to k")
-* h-f f-h: **n** (abbreviation for a range, "h to f f to h")
-* mindset: **n** (loanword from English)
-* usb: **n** (loanword from English)
-
-**Words and Verbs:**
-
-* 判: **vb** (to judge, sentence)
-* 剪: **vb** (to cut, snip)
-* 卵: **n** (egg)
-* 发: **vb** (to release, send out, grow hair)
-* 叫: **vb** (to call, shout)
-* 吐: **vb** (to vomit, spit out)
-* 咬: **vb** (to bite)
-* 咸: **adj** (salty)
-* 响: **adj/vb** (loud/make a sound)
-* 喂: **interj** (hey, hello)
-* 圣: **adj/n** (holy/saint)
-* 夸: **vb** (to praise)
-* 奖: **n/vb** (prize/to award)
-* 寄: **vb** (to send, mail)
-* 州: **n** (state, province)
-* 建: **vb** (to build, construct)
-* 式: **n** (style, type)
-* 弦: **n** (string, chord)
-* 弱: **adj** (weak)
-* 强: **adj** (strong)
-* 当: **vb** (to be, to serve as)
-* 扫: **vb** (to sweep, scan)
-* 拆: **vb** (to dismantle, demolish)
-* 招: **vb** (to recruit, attract)
-* 插: **vb** (to insert, plug in)
-* 搭: **vb** (to build, construct)
-* 摘: **vb** (to pick, pluck)
-* 撩: **vb** (to flirt, tease)
-* 收: **vb** (to collect, receive)
-* 敏: **adj** (sensitive, quick)
-* 敢: **adj/vb** (brave/to dare)
-* 数: **vb/n** (to count/number)
-* 是: **vb** (to be, to be right)
-* 枪: **n** (gun)
-* 梗: **n** (stalk, plot)
-* 波: **n** (wave, ripple)
-* 流: **vb/n** (to flow/stream)
-* 浅: **adj** (shallow)
-* 海: **n** (sea, ocean)
-* 湿: **adj** (wet)
-* 漏: **vb** (to leak, miss)
-* 炒: **vb** (to stir-fry)
-* 炸: **vb** (to deep-fry)
-* 点: **vb** (to light, ignite)
-* 烤: **vb** (to bake, roast)
-* 煎: **vb** (to pan-fry)
-* 熟: **adj** (cooked, ripe)
-* 牛: **n** (cow, ox)
-* 狼: **n** (wolf)
-* 猜: **vb** (to guess)
-* 生: **vb/adj** (to give birth/raw)
-* 盾: **n** (shield)
-* 省: **n/vb** (province/to save)
-* 矛: **n** (spear)
-* 硬: **adj** (hard, tough) 
-
-Here's the breakdown of the parts of speech for the provided Chinese words and phrases:
-
-**Words:**
-
-* **税**: n (tax)
-* **粗**: adj (rough, coarse)
-* **粥**: n (congee, porridge)
-* **糊**: vb (to paste, to glue) / adj (blurry)
-* **细**: adj (fine, delicate) / adv (carefully)
-* **聊**: vb (to chat)
-* **聚**: vb (to gather, to assemble)
-* **肝**: n (liver)
-* **肾**: n (kidney)
-* **胃**: n (stomach)
-* **背**: n (back) / vb (to carry on one's back)
-* **腰**: n (waist)
-* **舔**: vb (to lick)
-* **薄**: adj (thin)
-* **虾**: n (shrimp)
-* **蛋**: n (egg)
-* **误**: vb (to mistake) 
-* **说**: vb (to speak, to say)
-* **躺**: vb (to lie down)
-* **转**: vb (to turn, to rotate)
-* **软**: adj (soft)
-* **醉**: vb (to get drunk) / adj (drunk)
-* **锣**: n (gong)
-* **音**: n (sound, tone)
-* **代**: n (generation, era) / vb (to represent, to stand in for)
-* **敲**: vb (to knock, to strike)
-* **低**: adj (low) 
-* **高**: adj (high)
-* **两-三年**: num (two to three years)
-* **以...为...**: pp (to regard...as...) 
-* **以...为生**: pp (to make a living by...)
-* **对...好奇**: pp (to be curious about...)
-* **对...着迷**: pp (to be fascinated by...)
-* **对...讲究**: pp (to be particular about...)
-* **给...丢脸**: pp (to lose face for...)
-* **先...然后...最后**: conj (first...then...finally)
-* **对...很熟悉**: pp (to be very familiar with...)
-* **当...的时候**: pp (when...)
-* **把...拿出来**: vb (to take out...)
-* **把...放进去**: vb (to put in...)
-* **长/ 短**: adj (long / short) 
-* **高/ 低**: adj (high / low)
-* **高/ 矮**: adj (tall / short)
-* **我2017年大学毕业了。**: sent (I graduated from college in 2017.)
-* **我9点1刻才起床**: sent (I didn't get up until 9:15.)
-* **把A跟B联系在一起**: vb (to link A and B together)
-* **“grammar hsk1-3 needs review, need longer phrases with conjunctions, not mix in kouyu"**: sent (grammar for HSK 1-3 needs review, need longer phrases with conjunctions, not mix in colloquial language)
-* **一切**: pron (everything) 
-* **一旦**: conj (once, as soon as)
-* **一直**: adv (continuously, all along) 
-* **一集**: measure (one episode)
-* **丈夫**: n (husband) 
-* **上传**: vb (to upload)
-* **上火**: vb (to get angry, to get inflamed)
-* **上线**: vb (to go online)
-* **下期**: n (next issue, next episode)
-* **不安**: adj (uneasy, restless)
-* **不断**: adv (constantly, continuously)
-* **不论**: conj (regardless of, no matter)
-* **不足**: adj (insufficient, inadequate)
-* **不过**: conj (but, however)
-* **专业**: n (profession) / adj (professional)
-* **专家**: n (expert)
-* **专心**: adj (focused, concentrated)
-* **专门**: adv (specially, specifically)
-* **世俗**: n (worldly matters) / adj (worldly)
-* **世界**: n (world)
-* **世纪**: n (century)
-* **东亚**: n (East Asia)
-* **东岸**: n (east coast)
-* **丢失**: vb (to lose)
-* **严格**: adj (strict)
-* **严肃**: adj (serious)
-* **中东**: n (Middle East)
-* **中式**: adj (Chinese style)
-* **中性**: adj (neutral)
-* **中风**: n (stroke) 
-* **丹麦**: n (Denmark)
-* **为了**: prep (for the sake of, in order to) 
-* **主动**: adj (active, proactive)
-* **主席**: n (chairman, president)
-
-Let me know if you have any other words or phrases you'd like me to analyze! 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**主教:** n (bishop) 
-**主要:** adj (main, primary)
-**主观:** adj (subjective)
-**主角:** n (protagonist)
-**主语:** n (subject)
-**举手:** vb (raise one's hand)
-**举报:** vb (report, denounce)
-**举重:** vb (weightlifting)
-**义乌:** n (Yiwu, a city in China) 
-**乐器:** n (musical instrument)
-**乐观:** adj (optimistic)
-**乐队:** n (band, orchestra)
-**习得:** vb (to acquire, learn)
-**习惯:** n/vb (habit)
-**乡村:** n (countryside, village)
-**书柜:** n (bookshelf)
-**买单:** vb (to pay the bill)
-**买方:** n (buyer)
-**了解:** vb (to understand, to know)
-**争取:** vb (to strive for, to win over)
-**事业:** n (career, undertaking)
-**事实:** n (fact)
-**互相:** adv (mutually)
-**亚洲:** n (Asia)
-**交叉:** vb/n (cross, intersection)
-**交换:** vb (to exchange)
-**交流:** vb/n (communication, exchange)
-**交税:** vb (to pay taxes)
-**交通:** n (transportation)
-**享受:** vb (to enjoy)
-**亲密:** adj (intimate, close)
-**亲情:** n (family affection)
-**亲戚:** n (relative)
-**人们:** n (people)
-**人才:** n (talent)
-**人民:** n (people)
-**人生:** n (life)
-**人脉:** n (connections, network)
-**付出:** vb (to pay, to give)
-**付钱:** vb (to pay money)
-**仙子:** n (fairy)
-**代替:** vb (to replace)
-**代码:** n (code)
-**代笔:** vb (to write for someone else)
-**代表:** n/vb (representative)
-**代词:** n (pronoun)
-**代购:** vb/n (buying on behalf of someone)
-**仪式:** n (ceremony)
-**价值:** n (value)
-**价格:** n (price)
-**伏笔:** n (foreshadowing)
-**休假:** n/vb (vacation)
-**优点:** n (advantage, merit)
-**优秀:** adj (excellent)
-**会计:** n (accountant)
-**会议:** n (meeting)
-**传统:** n/adj (tradition)
-**伤口:** n (wound)
-**伤害:** vb/n (harm, injury)
-**伪装:** vb/n (disguise)
-**伴侣:** n (partner)
-**似乎:** adv (seemingly, it seems)
-**位置:** n (location, position)
-**低调:** adj (low-key)
-**体力:** n (physical strength)
-**体现:** vb (to embody, to reflect)
-**体谅:** vb (to understand, to be considerate)
-**体重:** n (weight)
-**体验:** vb/n (experience)
-**何况:** conj (let alone, much less)
-**佛教:** n (Buddhism)
-**作家:** n (writer)
-**你呀:** pron (you)
-**侄女:** n (niece)
-**侄子:** n (nephew)
-**例子:** n (example)
-**侥幸:** adj/vb (lucky)
-**侵略:** vb/n (invasion)
-**俄语:** n (Russian language)
-**俏皮:** adj (playful, witty) 
-
-Here's the breakdown of the parts of speech for the provided Chinese words:
-
-**俗语 (súyǔ):** n (idiom/proverb)
-**保姆 (bǎomǔ):** n (nanny)
-**保存 (bǎocún):** vb (to save, to preserve)
-**保护 (bǎohù):** vb (to protect)
-**保持 (bǎochí):** vb (to maintain, to keep)
-**信仰 (xìnyǎng):** n/vb (belief/to believe)
-**信任 (xìnrèn):** n/vb (trust/to trust)
-**倒下 (dǎo xià):** vb (to fall down)
-**借口 (jièkǒu):** n (excuse)
-**值得 (zhíde):** adj (worthwhile)
-**假如 (jiǎrú):** conj (if)
-**假定 (jiǎdìng):** vb (to assume)
-**假期 (jiàqī):** n (holiday)
-**假装 (jiǎzhuāng):** vb (to pretend)
-**做作 (zuòzuò):** adj (artificial, affected)
-**做客 (zuò kè):** vb (to be a guest)
-**做梦 (zuò mèng):** vb (to dream)
-**健康 (jiànkāng):** adj/n (healthy/health)
-**健身 (jiànshēn):** vb (to exercise)
-**偶像 (ǒuxiàng):** n (idol)
-**偶然 (ǒurán):** adv (accidentally, by chance)
-**偷听 (tōutīng):** vb (to eavesdrop)
-**傻逼 (shǎbī):** n (idiot, stupid person) - **Note:** This word is considered vulgar and offensive in most contexts.
-**元素 (yuánsù):** n (element)
-**元音 (yuányīn):** n (vowel)
-**兄长 (xiōngzhǎng):** n (elder brother)
-**充电 (chōngdiàn):** vb (to charge)
-**光谱 (guāngpǔ):** n (spectrum)
-**入口 (rùkǒu):** n (entrance)
-**全职 (quánzhí):** adj/n (full-time/full-time job)
-**全音 (quányīn):** n (whole note)
-**公厕 (gōngcè):** n (public toilet)
-**公司 (gōngsī):** n (company)
-**公安 (gōng'ān):** n (public security)
-**公寓 (gōngyù):** n (apartment)
-**公平 (gōngpíng):** adj (fair)
-**公开 (gōngkāi):** vb/adj (to make public/public)
-**公式 (gōngshì):** n (formula)
-**公母 (gōngmǔ):** n (male and female)
-**关于 (guānyú):** pp (about)
-**关心 (guānxīn):** vb (to care about)
-**关注 (guānzhù):** vb (to pay attention to)
-**关系 (guānxì):** n (relationship)
-**关键 (guānjiàn):** n (key, crucial point)
-**典型 (diǎnxíng):** adj/n (typical/example)
-**养活 (yǎnghuó):** vb (to support, to make a living)
-**养猫 (yǎngmāo):** vb (to raise a cat)
-**兼职 (jiānzhí):** adj/n (part-time/part-time job)
-**兽医 (shòuyī):** n (veterinarian)
-**内向 (nèixiàng):** adj (introverted)
-**内容 (nèiróng):** n (content)
-**内耗 (nèihào):** n (internal friction)
-**再会 (zàihui):** interj (goodbye)
-**冒号 (màohào):** n (colon)
-**冒险 (màoxiǎn):** vb/n (to take a risk/risk)
-**军队 (jūnduì):** n (army)
-**农业 (nóngyè):** n (agriculture)
-**农民 (nóngmín):** n (farmer)
-**农田 (nóngtián):** n (farmland)
-**冥想 (míngxiǎng):** vb/n (to meditate/meditation)
-**冬天 (dōngtiān):** n (winter)
-**冬眠 (dōngmián):** vb (to hibernate)
-**冰川 (bīngchuān):** n (glacier)
-**冰沙 (bīngshā):** n (slush)
-**冲突 (chōngtú):** n/vb (conflict/to conflict)
-**决定 (juédìng):** vb/n (to decide/decision)
-**冷漠 (lěngmò):** adj (indifferent, cold)
-**准时 (zhǔnshí):** adj/adv (punctual/on time)
-**准确 (zhǔnquè):** adj (accurate)
-**凌晨 (língchén):** n (early morning)
-**出发 (chūfā):** vb (to set out)
-**出口 (chūkǒu):** n (exit)
-**出国 (chūguó):** vb (to go abroad)
-**出现 (chūxiàn):** vb (to appear)
-**出轨 (chūguǐ):** vb (to have an affair)
-**分享 (fēnxiǎng):** vb (to share)
-**分号 (fēnhào):** n (semicolon)
-**分担 (fēndān):** vb (to share, to bear a part)
-**分析 (fēnxī):** vb/n (to analyze/analysis)
-**分辨 (fēnbiàn):** vb (to distinguish, to discern) 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**刑法**: n (criminal law)
-**创业**: vb (to start a business)
-**初中**: n (junior high school)
-**删除**: vb (to delete)
-**判决**: vb/n (to judge/judgment)
-**判断**: vb/n (to judge/judgment)
-**别致**: adj (unique, stylish)
-**刷剧**: vb (to binge-watch)
-**刻薄**: adj (mean, harsh)
-**前排**: n (front row)
-**前端**: n (front end)
-**剑鱼**: n (swordfish)
-**剧本**: n (script)
-**剧透**: vb/n (to spoil/spoiler)
-**剧院**: n (theater)
-**副词**: n (adverb)
-**力量**: n (power, strength)
-**办法**: n (method, way)
-**加入**: vb (to join)
-**加州**: n (California)
-**加强**: vb (to strengthen)
-**动力**: n (motivation, power)
-**动词**: n (verb)
-**包含**: vb (to contain, include)
-**包围**: vb (to surround)
-**包容**: vb/n (to tolerate, include/tolerance)
-**包括**: vb (to include)
-**化解**: vb (to resolve, defuse)
-**北京**: n (Beijing)
-**北边**: n (north)
-**匿名**: adj/n (anonymous)
-**午夜**: n (midnight)
-**半年**: n (half a year)
-**半音**: n (half-tone)
-**华人**: n (Chinese people)
-**华裔**: n (people of Chinese descent)
-**单位**: n (unit)
-**单独**: adj/adv (separate, alone)
-**卖方**: n (seller)
-**卖艺**: vb (to perform for money)
-**南京**: n (Nanjing)
-**博主**: n (blogger)
-**博士**: n (doctorate)
-**占星**: n/vb (astrology/to practice astrology)
-**占领**: vb (to occupy)
-**卡车**: n (truck)
-**印象**: n (impression)
-**卷入**: vb (to be involved)
-**卷发**: n (curly hair)
-**历史**: n (history)
-**历经**: vb (to experience, go through)
-**压力**: n (pressure)
-**原则**: n (principle)
-**原因**: n (reason)
-**原来**: adv (originally, it turns out)
-**原版**: n (original version)
-**厨房**: n (kitchen)
-**县城**: n (county town)
-**参加**: vb (to participate)
-**及时**: adv (timely)
-**友好**: adj (friendly)
-**友情**: n (friendship)
-**友谊**: n (friendship)
-**反应**: vb/n (to react/reaction)
-**发圈**: n (hair tie)
-**发现**: vb (to discover)
-**发生**: vb (to happen)
-**发票**: n (receipt)
-**发达**: adj (developed)
-**发音**: n/vb (pronunciation/to pronounce)
-**取消**: vb (to cancel)
-**变化**: n/vb (change/to change)
-**变性**: vb/n (to change gender/gender change)
-**叙述**: vb/n (to narrate/narrative)
-**口味**: n (taste)
-**口语**: n (spoken language)
-**口音**: n (accent)
-**古代**: n (ancient times)
-**召唤**: vb (to summon)
-**可怕**: adj (scary, terrible) 
-
-Here are the parts of speech for the given Chinese words:
-
-**可惜**  adj/adv 
-**可数**  adj/vb
-**可能**  adj/adv/vb
-**可靠**  adj/adv/n
-**台湾**  n
-**台灯**  n
-**台风**  n
-**司机**  n
-**吃素**  vb
-**各种**  adj/adv
-**合作**  vb/n
-**合法**  adj
-**合适**  adj/adv
-**吊瓶**  n
-**同事**  n
-**名词**  n
-**后天**  n
-**后排**  n
-**后果**  n
-**后端**  n
-**后院**  n
-**否则**  conj
-**否定**  vb/n
-**听力**  n
-**吵架**  vb
-**吸引**  vb
-**吸毒**  vb
-**告诉**  vb
-**员工**  n
-**周围**  adv/n
-**味道**  n
-**命案**  n
-**咒语**  n
-**咪雅**  n
-**咬肌**  n
-**咽化**  vb
-**咽音**  n
-**品味**  vb/n
-**哲学**  n
-**唐朝**  n
-**唠嗑**  vb
-**唤醒**  vb
-**唯独**  adj/adv
-**商业**  n
-**商科**  n
-**善良**  adj
-**嘹亮**  adj
-**回复**  vb/n
-**回头**  vb/n
-**回家**  vb
-**回答**  vb
-**回见**  vb
-**因为**  conj
-**因果**  n
-**团队**  n
-**困惑**  adj/vb/n
-**困难**  n/adj
-**围墙**  n
-**围裙**  n
-**国际**  n/adj
-**土猫**  n
-**土著**  n
-**土豪**  n
-**圣木**  n
-**圣经**  n
-**在乎**  vb
-**地图**  n
-**地标**  n
-**地毯**  n
-**坍塌**  vb
-**坏处**  n
-**坐牢**  vb
-**坦然**  adj/adv
-**垫子**  n
-**埃及**  n
-**培育**  vb
-**基因**  n
-**基础**  n/adj
-**堕胎**  vb
-**堕落**  vb/adj 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**塞音:** n
-**墓碑:** n
-**墨鱼:** n
-**复习:** vb
-**复制:** vb
-**复杂:** adj
-**复活:** vb
-**夏天:** n
-**外人:** n
-**外在:** adj/adv/n
-**外套:** n
-**外语:** n
-**外貌:** n
-**多元:** adj
-**大会:** n
-**大方:** adj/adv
-**大陆:** n
-**天气:** n
-**天津:** n
-**天然:** adj
-**天赋:** n
-**天黑:** adj/vb
-**夫妇:** n
-**失去:** vb
-**头皮:** n
-**夸张:** vb/adj
-**奇妙:** adj
-**奇特:** adj
-**奇观:** n
-**奖励:** n/vb
-**奴才:** n
-**好坏:** adj/n
-**好处:** n
-**好奇:** adj/n
-**好客:** adj/n
-**妥协:** vb/n
-**婚礼:** n
-**子女:** n
-**字体:** n
-**字幕:** n
-**存在:** vb/n
-**存钱:** vb
-**孤独:** adj/n
-**学期:** n
-**学术:** n/adj
-**学渣:** n
-**学霸:** n
-**守旧:** adj/vb
-**安慰:** vb/n
-**安抚:** vb/n
-**安排:** vb/n
-**完整:** adj
-**宗教:** n
-**官方:** adj/n
-**定义:** n/vb
-**定居:** vb
-**实习:** n/vb
-**宠坏:** vb
-**审判:** vb/n
-**审核:** vb/n
-**审美:** n/adj
-**客观:** adj/n
-**宣传:** vb/n
-**室友:** n
-**家乡:** n
-**家人:** n
-**家务:** n
-**家庭:** n
-**家族:** n
-**宾语:** n
-**富人:** n
-**富裕:** adj/n
-**寒假:** n
-**对待:** vb
-**对方:** pron
-**对比:** vb/n
-**对称:** adj
-**对象:** n
-**对面:** n/adv
-**寺庙:** n 
-
-Here are the parts of speech for the Chinese words you provided:
-
-* **寻求:** vb 
-* **寿司:** n 
-* **寿命:** n
-* **封闭:** vb/adj 
-* **将军:** n
-* **将来:** n/adv
-* **尊重:** vb/n 
-* **小众:** n/adj
-* **小气:** adj
-* **小篆:** n
-* **小费:** n
-* **尝尝:** vb
-* **尴尬:** adj/n
-* **居民:** n 
-* **展示:** vb/n 
-* **山羊:** n
-* **山脉:** n 
-* **山脊:** n 
-* **山脚:** n
-* **山腰:** n 
-* **山顶:** n
-* **岁数:** n 
-* **崩溃:** vb/n 
-* **川普:** n 
-* **巡抚:** n
-* **工业:** n 
-* **工作:** n/vb
-* **工具:** n 
-* **工资:** n 
-* **巧了:** interj
-* **巧合:** n 
-* **差别:** n
-* **已经:** adv
-* **市场:** n 
-* **布置:** vb/n 
-* **师徒:** n 
-* **师父:** n 
-* **希望:** vb/n 
-* **帖子:** n 
-* **帝国:** n
-* **带头:** vb
-* **常见:** adj 
-* **平台:** n
-* **平时:** adv 
-* **平淡:** adj 
-* **平静:** adj/vb
-* **年代:** n 
-* **年龄:** n 
-* **幸福:** adj/n
-* **幸运:** adj/n 
-* **广泛:** adj/adv
-* **庇护:** vb/n 
-* **应战:** vb
-* **应用:** vb/n 
-* **应聘:** vb
-* **底部:** n 
-* **庭院:** n 
-* **延迟:** vb/n 
-* **建筑:** vb/n 
-* **建议:** vb/n 
-* **开会:** vb
-* **开发:** vb
-* **开心:** adj/vb 
-* **弥补:** vb/n
-* **强令:** vb
-* **强奸:** vb
-* **当做:** vb
-* **当地:** n/adj
-* **当成:** vb
-* **当时:** adv
-* **录取:** vb
-* **录音:** vb/n
-* **形容:** vb
-* **形象:** n
-* **影响:** vb/n 
-* **很烦:** adj
-* **律师:** n 
-* **律法:** n 
-* **徒步:** vb/n
-* **微妙:** adj 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**心态:** n
-**心水:** n/adj
-**必须:** adv/vb
-**忍着:** vb
-**志向:** n
-**忧伤:** n/adj/vb
-**快乐:** n/adj/vb
-**怀孕:** vb
-**怀念:** vb/n
-**怀疑:** vb/n
-**思维:** n/vb
-**思考:** vb/n
-**性情:** n
-**性格:** n
-**性质:** n
-**恐惧:** n/vb/adj
-**恒星:** n
-**恰好:** adv
-**恶心:** n/adj/vb
-**悲剧:** n/adj/vb
-**情侣:** n
-**情况:** n
-**情绪:** n
-**情节:** n
-**惊讶:** n/vb/adj
-**愉快:** n/adj/vb
-**愉悦:** n/adj/vb
-**意义:** n
-**意外:** n/adj/vb
-**意识:** n/vb
-**感人:** adj/vb
-**感动:** vb/adj
-**感受:** vb/n
-**感应:** vb/n
-**感觉:** vb/n
-**愿意:** vb/adj
-**慢热:** adj/vb
-**成为:** vb
-**成人:** n/vb
-**成熟:** adj/vb
-**成语:** n
-**戒指:** n
-**戒毒:** vb/n
-**战争:** n
-**截图:** n/vb
-**房间:** n
-**所以:** conj
-**所做:** n/adj
-**所在:** adj/n
-**手指:** n
-**手腕:** n
-**手语:** n
-**才华:** n
-**打印:** vb/n
-**打工:** vb/n
-**打折:** vb/n
-**打断:** vb
-**打架:** vb
-**打钩:** vb
-**打鼾:** vb
-**扶手:** n
-**批判:** vb/n
-**批评:** vb/n
-**承诺:** n/vb
-**技术:** n
-**抄袭:** vb/n
-**投入:** vb/n
-**投票:** vb/n
-**抗议:** vb/n
-**抚养:** vb
-**抢亲:** vb
-**报告:** vb/n
-**报销:** vb/n
-**抽样:** vb/n
-**拉伸:** vb/n
-**拍照:** vb/n
-**拒绝:** vb
-**招聘:** vb/n
-**拥挤:** adj/vb
-**持续:** vb/adj 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**指甲:** n (fingernail)
-**按摩:** vb (to massage)
-**挑水:** vb (to fetch water)
-**振动:** vb/n (to vibrate/vibration)
-**换季:** vb (to change seasons)
-**换算:** vb (to convert)
-**排队:** vb (to queue up)
-**探索:** vb (to explore)
-**接受:** vb (to accept)
-**控制:** vb/n (to control/control)
-**推荐:** vb/n (to recommend/recommendation)
-**推迟:** vb (to postpone)
-**描述:** vb/n (to describe/description)
-**提到:** vb (to mention)
-**提前:** adv (in advance)
-**提示:** vb/n (to prompt/hint)
-**提醒:** vb (to remind)
-**提高:** vb (to improve)
-**插件:** n (plug-in)
-**插座:** n (socket)
-**插队:** vb (to cut in line)
-**揣测:** vb (to speculate)
-**搅拌:** vb (to stir)
-**搞乱:** vb (to mess up)
-**搞混:** vb (to confuse)
-**搞笑:** adj/vb (funny/to make fun of)
-**搬到:** vb (to move to)
-**搭配:** vb/n (to match/match)
-**摆着:** vb (to display)
-**撒谎:** vb (to lie)
-**播客:** n (podcast)
-**操纵:** vb (to manipulate)
-**擦音:** vb (to make a rubbing sound)
-**支付:** vb (to pay)
-**支出:** n (expenditure)
-**支票:** n (check)
-**收据:** n (receipt)
-**收藏:** vb/n (to collect/collection)
-**改正:** vb (to correct)
-**放假:** vb (to take a holiday)
-**放大:** vb (to enlarge)
-**放弃:** vb (to give up)
-**放松:** vb (to relax)
-**放牛:** vb (to herd cattle)
-**政客:** n (politician)
-**政府:** n (government)
-**政治:** n (politics)
-**政策:** n (policy)
-**故意:** adv (deliberately)
-**效果:** n (effect)
-**敏感:** adj (sensitive)
-**教会:** n (church)
-**教堂:** n (church)
-**教授:** n/vb (professor/to teach)
-**教练:** n (coach)
-**教育:** n/vb (education/to educate)
-**散漫:** adj (sloppy)
-**数据:** n (data)
-**数数:** vb (to count)
-**数量:** n (quantity)
-**敲字:** vb (to type)
-**敲门:** vb (to knock on the door)
-**整齐:** adj (neat)
-**文件:** n (document)
-**文具:** n (stationery)
-**文学:** n (literature)
-**文章:** n (article)
-**料子:** n (material)
-**新手:** n (beginner)
-**新教:** n (Protestantism)
-**新鲜:** adj (fresh)
-**方向:** n (direction)
-**方式:** n (way)
-**方法:** n (method)
-**方言:** n (dialect)
-**方面:** n (aspect)
-**旅游:** vb/n (to travel/tourism)
-**旅行:** n/vb (journey/to travel)
-**旋律:** n (melody)
-**无知:** adj/n (ignorant/ignorance) 
-
-Here's the breakdown of the part of speech for each word:
-
-**无聊** (wúliáo) - adj 
-**既然** (jìrán) - conj
-**日剧** (rìjù) - n
-**日历** (rìlì) - n
-**日料** (rìliào) - n
-**日程** (rìchéng) - n
-**日落** (rìluò) - n/vb
-**日食** (rìshí) - n
-**早点** (zǎodiǎn) - n/vb
-**时尚** (shíshàng) - n/adj
-**时薪** (shíxīn) - n
-**明明** (míngmíng) - adv
-**明显** (míngxiǎn) - adj/adv
-**春天** (chūntiān) - n
-**晒黑** (shài hēi) - vb
-**普通** (pǔtōng) - adj
-**暑假** (shǔjià) - n
-**暖和** (nuǎnhuo) - adj
-**暖气** (nuǎnqì) - n
-**曾经** (céngjīng) - adv
-**最近** (zuìjìn) - adv
-**月薪** (yuèxīn) - n
-**有趣** (yǒuqù) - adj
-**服务** (fúwù) - n/vb
-**未来** (wèilái) - n
-**本地** (běndì) - adj/n
-**机会** (jīhuì) - n
-**机考** (jīkǎo) - n/vb
-**杀手** (shāshǒu) - n
-**杀死** (shāsǐ) - vb
-**杂草** (zácǎo) - n
-**权利** (quánlì) - n
-**权力** (quánlì) - n
-**村子** (cūnzi) - n
-**村庄** (cūnzhuāng) - n
-**村里** (cūnlǐ) - n/adv
-**条件** (tiáojiàn) - n
-**来自** (láizì) - vb
-**枪手** (qiāngshǒu) - n
-**某事** (mǒushì) - pron
-**某人** (mǒurén) - pron
-**柿子** (shìzi) - n
-**标准** (biāozhǔn) - n/adj
-**标语** (biāoyǔ) - n
-**树根** (shùgēn) - n
-**校内** (xiàonèi) - n/adj
-**校园** (xiàoyuán) - n
-**校外** (xiàowài) - n/adj
-**桂花** (guìhuā) - n
-**桌子** (zhuōzi) - n
-**梦到** (mèngdào) - vb
-**梳子** (shūzi) - n
-**梵语** (fányǔ) - n
-**棕色** (zōngsè) - adj
-**棘手** (jíshǒu) - adj
-**森林** (sēnlín) - n
-**棺材** (guāncai) - n
-**椰枣** (yēzǎo) - n
-**榨汁** (zhàzhī) - vb
-**樱桃** (yīngtao) - n
-**橘猫** (júmāo) - n
-**次要** (cìyào) - adj
-**次货** (cìhuò) - n
-**欢迎** (huānyíng) - vb
-**欣赏** (xīnshǎng) - vb
-**欧元** (ōuyuán) - n
-**欧洲** (ōuzhōu) - n
-**欧盟** (ōuméng) - n
-**欧美** (ōuměi) - n
-**欺负** (qīfù) - vb
-**正宗** (zhèngzōng) - adj
-**正式** (zhèngshì) - adj/adv
-**正念** (zhèngniàn) - n
-**正确** (zhèngquè) - adj
-**步骤** (bùzhòu) - n
-**武术** (wǔshù) - n
-**歧视** (qíshì) - vb/n
-**残忍** (cánrěn) - adj
-**残酷** (cánkù) - adj
-**比起** (bǐqǐ) - prep 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**毛毯:** n (blanket)
-**毛衣:** n (sweater)
-**民主:** n/adj (democracy/democratic)
-**民宿:** n (bed and breakfast)
-**民法:** n (civil law)
-**气度:** n (bearing, magnanimity)
-**气氛:** n (atmosphere)
-**气球:** n (balloon)
-**水槽:** n (sink)
-**水疗:** n (hydrotherapy)
-**永远:** adv (forever)
-**求婚:** vb (propose marriage)
-**汉族:** n (Han ethnicity)
-**沉浸:** vb (immerse, be absorbed in)
-**沙漠:** n (desert)
-**沟通:** vb/n (communicate/communication)
-**沪语:** n (Shanghai dialect)
-**法官:** n (judge)
-**法庭:** n (courtroom)
-**法律:** n (law)
-**泡沫:** n (foam)
-**泡泡:** n (bubble)
-**泡茶:** vb (brew tea)
-**泡面:** n (instant noodles)
-**泥板:** n (mud brick)
-**注册:** vb (register)
-**注释:** n/vb (annotation/annotate)
-**泰语:** n (Thai language)
-**活动:** n/vb (activity/to move around)
-**流利:** adj (fluent)
-**流星:** n (meteor)
-**流汗:** vb (sweat)
-**流血:** vb (bleed)
-**流行:** adj/vb (popular/become popular)
-**流通:** vb (circulate)
-**测评:** n/vb (evaluation/evaluate)
-**浙江:** n (Zhejiang Province)
-**浴袍:** n (bathrobe)
-**海鲈:** n (sea bass)
-**海鲜:** n (seafood)
-**消失:** vb (disappear)
-**消息:** n (news)
-**消耗:** vb (consume)
-**消费:** vb/n (consume/consumption)
-**淡水:** n (fresh water)
-**深刻:** adj (deep, profound)
-**清真:** adj (halal)
-**清蒸:** vb (steam)
-**渣男:** n (scumbag man)
-**温泉:** n (hot spring)
-**温馨:** adj (warm, cozy)
-**游客:** n (tourist)
-**湾区:** n (bay area)
-**演员:** n (actor)
-**潜力:** n (potential)
-**澳洲:** n (Australia)
-**激情:** n (passion)
-**火盆:** n (brazier)
-**火警:** n (fire alarm)
-**灵魂:** n (soul)
-**灾难:** n (disaster)
-**炫耀:** vb (show off)
-**炸弹:** n (bomb)
-**点心:** n (snack)
-**点赞:** vb (like, give a thumbs up)
-**烤箱:** n (oven)
-**烦恼:** n (trouble, worry)
-**烧水:** vb (boil water)
-**热心:** adj (enthusiastic, warm-hearted)
-**热情:** n/adj (enthusiasm/enthusiastic)
-**然而:** conj (however)
-**煤气:** n (gas)
-**照顾:** vb (take care of)
-**熬夜:** vb (stay up late)
-**燃料:** n (fuel)
-**爆炸:** vb/n (explode/explosion)
-**爬山:** vb (climb a mountain)
-**爱好:** n (hobby)
-**爱情:** n (love)
-**爱玩:** adj (fond of playing) 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**版本:** n (version)
-**牌子:** n (brand)
-**牡蛎:** n (oyster)
-**物体:** n (object)
-**物理:** n (physics)
-**特征:** n (characteristic)
-**特色:** n (specialty, characteristic)
-**特质:** n (trait, characteristic)
-**犯罪:** n/vb (crime/to commit a crime)
-**状态:** n (state, condition)
-**狩猎:** vb (to hunt)
-**独特:** adj (unique)
-**独立:** adj/n/vb (independent/independence/to be independent)
-**猜想:** vb (to guess, to conjecture)
-**猥琐:** adj (lewd, indecent)
-**猫粮:** n (cat food)
-**环境:** n (environment)
-**现代:** adj/n (modern/modern times)
-**现象:** n (phenomenon)
-**理性:** n/adj (reason/rational)
-**理由:** n (reason)
-**理解:** vb/n (to understand/understanding)
-**理论:** n (theory)
-**瑜伽:** n (yoga)
-**生命:** n (life)
-**生存:** vb/n (to survive/survival)
-**生活:** n/vb (life/to live)
-**生肖:** n (Chinese zodiac animal)
-**生词:** n (new word)
-**申请:** vb/n (to apply/application)
-**电梯:** n (elevator)
-**电池:** n (battery)
-**画家:** n (painter)
-**画画:** vb (to draw)
-**留言:** n/vb (message/to leave a message)
-**疲劳:** n/adj (fatigue/tired)
-**病床:** n (hospital bed)
-**症状:** n (symptom)
-**痕迹:** n (trace, mark)
-**痛快:** adj (happy, refreshing)
-**痛苦:** n/adj (pain/painful)
-**癌症:** n (cancer)
-**白塔:** n (white pagoda)
-**白菜:** n (Chinese cabbage)
-**白领:** n (white-collar worker)
-**盔甲:** n (armor)
-**目标:** n (target, goal)
-**直接:** adj/adv (direct/directly)
-**直播:** vb/n (to broadcast live/live broadcast)
-**直男:** n (straight male, stereotypical man)
-**直觉:** n (intuition)
-**相信:** vb (to believe)
-**相反:** adj/adv (opposite/oppositely)
-**相处:** vb (to get along)
-**相爱:** vb (to love each other)
-**看法:** n (viewpoint, opinion)
-**真正:** adj/adv (real/truly)
-**真诚:** adj (sincere)
-**眼中:** pp (in the eyes)
-**眼影:** n (eyeshadow)
-**睡衣:** n (pajamas)
-**睫毛:** n (eyelashes)
-**瞎扯:** vb (to talk nonsense)
-**瞎说:** vb (to lie, to talk nonsense)
-**矛盾:** n/adj (contradiction/contradictory)
-**知识:** n (knowledge)
-**石头:** n (stone)
-**破产:** vb/n (to go bankrupt/bankruptcy)
-**破案:** vb (to solve a case)
-**破解:** vb (to crack, to decipher)
-**硅谷:** n (Silicon Valley)
-**硕士:** n (Master's degree)
-**确实:** adv (indeed, really)
-**碰见:** vb (to meet, to encounter)
-**磨砂:** n/adj (sandblasting/matte)
-**礼堂:** n (auditorium)
-**社会:** n (society)
-**社区:** n (community)
-**祈祷:** vb/n (to pray/prayer)
-**祖传:** adj (inherited from ancestors) 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**祖先 (zǔxiān):** n (ancestor)
-**祖宗 (zǔzōng):** n (ancestor)
-**祝福 (zhùfú):** vb/n (to bless/blessing)
-**神殿 (shéndiàn):** n (temple)
-**神经 (shénjīng):** n (nerve)
-**离婚 (líhūn):** vb/n (to divorce/divorce)
-**秋天 (qiūtiān):** n (autumn)
-**种族 (zhǒngzú):** n (race)
-**科目 (kēmù):** n (subject)
-**秘书 (mìshū):** n (secretary)
-**积累 (jīlěi):** vb (to accumulate)
-**移民 (yímín):** vb/n (to immigrate/immigrant)
-**稳定 (wěndìng):** adj/vb (stable/to stabilize)
-**穷人 (qióngrén):** n (poor people)
-**空调 (kōngdiào):** n (air conditioner)
-**窗帘 (chuānglián):** n (curtain)
-**立体 (lìtǐ):** adj (three-dimensional)
-**立法 (lìfǎ):** vb/n (to legislate/legislation)
-**竞争 (jìngzhēng):** vb/n (to compete/competition)
-**笑话 (xiàohuà):** n (joke)
-**笔名 (bǐmíng):** n (pen name)
-**笔试 (bǐshì):** n (written test)
-**符号 (fúhào):** n (symbol)
-**笼子 (lóngzi):** n (cage)
-**答案 (dá'àn):** n (answer)
-**签证 (qiānzhèng):** n (visa)
-**算了 (suànle):** vb (forget it)
-**算是 (suànshi):** vb (can be considered)
-**籍贯 (jìguàn):** n (native place)
-**类似 (lèisì):** adj/vb (similar/to be similar to)
-**类型 (lèixíng):** n (type)
-**粉末 (fěnmò):** n (powder)
-**粗鲁 (cūlǔ):** adj (rude)
-**粘贴 (niántiē):** vb (to paste)
-**粤菜 (yuècài):** n (Cantonese cuisine)
-**精神 (jīngshén):** n (spirit)
-**精致 (jīngzhì):** adj (exquisite)
-**系统 (xìtǒng):** n (system)
-**素质 (sùzhì):** n (quality)
-**素食 (sùshí):** n (vegetarian food)
-**纠正 (jiūzhèng):** vb (to correct)
-**约会 (yuēhuì):** vb/n (to make an appointment/date)
-**纯律 (chúnlǜ):** n (pure law)
-**纳粹 (nàcuì):** n (Nazi)
-**纽约 (niǔyuē):** n (New York)
-**线下 (xiàxiàn):** adv (offline)
-**细胞 (xìbāo):** n (cell)
-**细致 (xìzhì):** adj (detailed)
-**经历 (jīnglì):** vb/n (to experience/experience)
-**经商 (jīngshāng):** vb (to do business)
-**经济 (jīngjì):** n/adj (economy/economic)
-**经验 (jīngyàn):** n (experience)
-**结果 (jiéguǒ):** n (result)
-**结账 (jiézhàng):** vb (to check out)
-**绝对 (juéduì):** adj/adv (absolute/absolutely)
-**绦虫 (tāochóng):** n (tapeworm)
-**绩点 (jìdiǎn):** n (GPA)
-**绵羊 (miányáng):** n (sheep)
-**编剧 (biānjù):** n/vb (screenwriter/to write a screenplay)
-**编程 (biānchéng):** vb (to program)
-**缩写 (suōxiě):** vb/n (to abbreviate/abbreviation)
-**缺点 (quēdiǎn):** n (shortcoming)
-**罐头 (guàntou):** n (canned food)
-**网络 (wǎngluò):** n (network)
-**罗锅 (luógō):** n (hunchback)
-**羊毛 (yángmáo):** n (wool)
-**羊绒 (yángróng):** n (cashmere)
-**美食 (měishí):** n (delicious food)
-**羞愧 (xiūkuì):** vb/n (to feel ashamed/shame)
-**群体 (qúntǐ):** n (group)
-**翻译 (fānyì):** vb/n (to translate/translation)
-**老实 (lǎoshi):** adj/adv (honest/honestly)
-**老总 (lǎozǒng):** n (boss)
-**老鼠 (lǎoshǔ):** n (rat)
-**考验 (kǎoyàn):** vb/n (to test/test)
-**而且 (érqiě):** conj (moreover)
-**而是 (érshì):** conj (but rather)
-**耳机 (ěrjī):** n (earphone)
-**职业 (zhíyè):** n (profession)
-**联系 (liányì):** vb/n (to contact/contact) 
-
-Here are the parts of speech for the Chinese words you provided:
-
-* 肌肉: n (muscle)
-* 肌酸: n (creatine)
-* 股票: n (stock)
-* 胡同: n (hutong, alleyway)
-* 能力: n (ability)
-* 能量: n (energy)
-* 脆弱: adj (fragile)
-* 脊柱: n (spinal column)
-* 脚趾: n (toe)
-* 脚面: n (instep)
-* 脱欧: vb (to leave the EU)
-* 腐烂: vb (to rot)
-* 自信: n/adj (confidence)
-* 自律: n/adj (self-discipline)
-* 自然: n/adj/adv (nature)
-* 自由: n/adj (freedom)
-* 至少: adv (at least)
-* 艺术: n (art)
-* 节目: n (program)
-* 花生: n (peanut)
-* 花钱: vb (to spend money)
-* 芹菜: n (celery)
-* 苍蝇: n (fly)
-* 荆棘: n (thorns)
-* 草原: n (grassland)
-* 草地: n (grassland)
-* 荒凉: adj (desolate)
-* 荒郊: n (wilderness)
-* 药店: n (pharmacy)
-* 药物: n (medicine)
-* 莫言: n (Mo Yan, a writer's name)
-* 菜花: n (cauliflower)
-* 萝卜: n (radish)
-* 营养: n (nutrition)
-* 营造: vb (to create)
-* 著名: adj (famous)
-* 葫芦: n (gourd)
-* 葬礼: n (funeral)
-* 蓝领: n (blue collar)
-* 藏族: n (Tibetan people)
-* 藏语: n (Tibetan language)
-* 藐视: vb (to despise)
-* 虎妈: n (tiger mom)
-* 虚伪: adj (hypocritical)
-* 虚假: adj (false)
-* 虚弱: adj (weak)
-* 虽然: conj (although)
-* 蚊子: n (mosquito)
-* 蜘蛛: n (spider)
-* 蜻蜓: n (dragonfly)
-* 蝴蝶: n (butterfly)
-* 蟑螂: n (cockroach)
-* 行业: n (industry)
-* 行为: n (behavior)
-* 行星: n (planet)
-* 街区: n (street block)
-* 表亲: n (cousin)
-* 表情: n (expression)
-* 表格: n (form)
-* 表演: vb (to perform)
-* 表现: vb (to perform/express)
-* 表示: vb (to express)
-* 表达: vb (to express)
-* 裁员: vb (to lay off employees)
-* 装修: vb (to renovate)
-* 西岸: n (west coast)
-* 西式: adj (Western style)
-* 西方: n (the West)
-* 西藏: n (Tibet)
-* 要求: vb (to request)
-* 观光: vb (to sightsee)
-* 观察: vb (to observe)
-* 观点: n (viewpoint)
-* 规则: n (rule)
-* 规律: n (rule/law)
-* 视角: n (perspective)
-* 视频: n (video)
-* 觉悟: n (awakening)
-* 觉醒: vb/n (to awaken/awakening)
-* 角度: n (angle) 
-
-Here's the breakdown of the parts of speech for each word:
-
-**角色:** n (role)
-**解决:** vb (to solve)
-**解开:** vb (to untie, to solve)
-**解聘:** vb (to dismiss, to fire)
-**解读:** vb (to interpret)
-**解释:** vb (to explain)
-**警告:** vb/n (to warn, warning)
-**计划:** n/vb (plan, to plan)
-**计算:** vb (to calculate)
-**订婚:** vb/n (to get engaged, engagement)
-**订阅:** vb/n (to subscribe, subscription)
-**认同:** vb (to agree with)
-**讨厌:** vb (to hate, to dislike)
-**讨好:** vb (to please, to flatter)
-**讨论:** vb/n (to discuss, discussion)
-**训练:** vb/n (to train, training)
-**训诫:** vb (to reprimand, to admonish)
-**记住:** vb (to remember)
-**讲究:** vb (to pay attention to, to be particular about)
-**讲述:** vb (to narrate)
-**论文:** n (thesis, essay)
-**设计:** vb/n (to design, design)
-**证据:** n (evidence)
-**证明:** vb/n (to prove, proof)
-**评价:** vb/n (to evaluate, evaluation)
-**评判:** vb (to judge)
-**评测:** vb/n (to evaluate, evaluation)
-**诅咒:** vb/n (to curse, curse)
-**词根:** n (word root)
-**词汇:** n (vocabulary)
-**试试:** vb (to try)
-**诚实:** adj/n (honest, honesty)
-**话题:** n (topic)
-**诞生:** vb (to be born)
-**语境:** n (context)
-**语法:** n (grammar)
-**语源:** n (etymology)
-**语系:** n (language family)
-**误会:** vb/n (to misunderstand, misunderstanding)
-**误解:** vb/n (to misunderstand, misunderstanding)
-**说到:** vb (to speak of)
-**说谎:** vb (to lie)
-**调头:** vb (to turn around)
-**调情:** vb (to flirt)
-**调料:** n (seasoning)
-**谈话:** n/vb (conversation, to talk)
-**谣言:** n (rumor)
-**谦虚:** adj/n (humble, humility)
-**豌豆:** n (pea)
-**负伤:** vb/n (to be injured, injury)
-**负债:** vb/n (to be in debt, debt)
-**负责:** vb/adj (to be responsible, responsible)
-**财富:** n (wealth)
-**责任:** n (responsibility)
-**责备:** vb (to blame)
-**货币:** n (currency)
-**质量:** n (quality)
-**贪心:** adj/n (greedy, greed)
-**购买:** vb (to buy)
-**购物:** vb/n (to shop, shopping)
-**贴纸:** n (sticker)
-**资料:** n (materials, information)
-**资源:** n (resources)
-**赌博:** vb/n (to gamble, gambling)
-**赌场:** n (casino)
-**赌输:** vb (to lose in gambling)
-**赛马:** n/vb (horse racing, to race horses)
-**赞美:** vb/n (to praise, praise)
-**赶上:** vb (to catch up with)
-**超过:** vb (to surpass)
-**越南:** n (Vietnam)
-**足够:** adj/adv (enough, sufficiently)
-**足迹:** n (footprints)
-**身份:** n (identity)
-**躲开:** vb (to avoid)
-**躺平:** vb (to lie flat, to give up)
-**转发:** vb (to forward)
-**转身:** vb (to turn around)
-**轻声:** adv (softly)
-**轻松:** adj/adv (relaxed, easily) 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**辅导:** vb
-**辅音:** n
-**输出:** vb/n
-**辞职:** vb
-**达到:** vb
-**过塑:** vb
-**过敏:** adj/vb
-**过期:** adj/vb
-**过节:** vb
-**过长:** adj
-**近代:** n/adj
-**近似:** adj/vb
-**近音:** adj/n
-**进化:** vb/n
-**进取:** adj/vb
-**进步:** n/vb
-**违背:** vb
-**连词:** n/vb
-**退休:** vb/n
-**退步:** vb/n
-**送气:** vb/n
-**适合:** adj/vb
-**适应:** vb/n
-**逃脱:** vb
-**选举:** vb/n
-**选择:** vb/n
-**选票:** n
-**通电:** vb
-**通知:** vb/n
-**通过:** vb/prep
-**逛街:** vb
-**造句:** vb
-**遇到:** vb
-**遍布:** vb
-**道家:** n
-**道德:** n/adj
-**遗传:** vb/n
-**遛狗:** vb
-**邮件:** n
-**邮差:** n
-**邮箱:** n
-**邻居:** n
-**郊区:** n
-**部落:** n
-**鄙视:** vb
-**配音:** vb/n
-**酒店:** n
-**采访:** vb/n
-**采集:** vb
-**重视:** vb
-**野人:** n
-**野兽:** n
-**野外:** n
-**野餐:** n/vb
-**金色:** adj/n
-**鑄鐵:** n
-**钟头:** measure/n
-**铸铁:** n
-**链接:** vb/n
-**错过:** vb
-**锤子:** n
-**长城:** n
-**闪婚:** vb/n
-**闪离:** vb/n
-**闪音:** n
-**间谍:** n
-**闹钟:** n
-**阶级:** n
-**陌生:** adj/n
-**降临:** vb
-**限制:** vb/n
-**隐喻:** n/vb
-**隐私:** n
-**隧洞:** n
-**难忘:** adj
-**雅思:** n
-**集体:** n/adj
-**雕像:** n
-**雪山:** n
-**雪糕:** n 
-
-Here's the breakdown of the Chinese words and their part of speech:
-
-**露营 (lù yíng):** vb (verb - to camp)
-**霸道 (bà dào):** adj (adjective - domineering, tyrannical)
-**青旅 (qīng lǚ):** n (noun - youth hostel)
-**非得 (fēi de):** adv (adverb - absolutely must, have to)
-**非洲 (fēi zhōu):** n (noun - Africa)
-**面临 (miàn lín):** vb (verb - to face, to be confronted with)
-**面团 (miàn tuán):** n (noun - dough)
-**面筋 (miàn jīn):** n (noun - gluten)
-**面试 (miàn shì):** vb (verb - to interview)
-**韭菜 (jiǔ cài):** n (noun - chives)
-**音程 (yīn chéng):** n (noun - musical interval)
-**音阶 (yīn jiē):** n (noun - musical scale)
-**项目 (xiàng mù):** n (noun - project, item)
-**顾客 (gù kè):** n (noun - customer)
-**预测 (yù cè):** vb (verb - to predict, to forecast)
-**预约 (yù yuē):** vb (verb - to make an appointment)
-**领养 (lǐng yǎng):** vb (verb - to adopt)
-**题目 (tī mù):** n (noun - title, question)
-**颧骨 (quán gǔ):** n (noun - cheekbone)
-**风景 (fēng jǐng):** n (noun - scenery, landscape)
-**风格 (fēng gé):** n (noun - style)
-**风铃 (fēng líng):** n (noun - wind chime)
-**饥荒 (jī huāng):** n (noun - famine)
-**首相 (shǒu xiàng):** n (noun - prime minister)
-**首要 (shǒu yào):** adj (adjective - primary, most important)
-**首选 (shǒu xuǎn):** n/vb (noun - first choice, verb - to choose first)
-**首饰 (shǒu shì):** n (noun - jewelry)
-**香料 (xiāng liào):** n (noun - spice)
-**马蜂 (mǎ fēng):** n (noun - wasp)
-**驼背 (tuó bèi):** n (noun - hunchback)
-**骄傲 (jiāo ào):** adj (adjective - proud)
-**骆驼 (luò tuó):** n (noun - camel)
-**骑着 (qí zhe):** vb (verb - riding, mounted on)
-**骨折 (gǔ zhé):** n/vb (noun - fracture, verb - to break a bone)
-**骨肉 (gǔ ròu):** n (noun - flesh and blood, relatives)
-**高兴 (gāo xìng):** adj/vb (adjective - happy, verb - to be happy)
-**高冷 (gāo lěng):** adj (adjective - aloof, cool)
-**高管 (gāo guǎn):** n (noun - senior executive)
-**高级 (gāo jí):** adj (adjective - high-level, advanced)
-**高调 (gāo diào):** adj/adv (adjective - high-profile, adverb - in a high-profile manner)
-**高铁 (gāo tiě):** n (noun - high-speed rail)
-**鱼缸 (yú gāng):** n (noun - fish tank)
-**鱿鱼 (yóu yú):** n (noun - squid)
-**鲜花 (xiān huā):** n (noun - fresh flowers)
-**鲟鱼 (xún yú):** n (noun - sturgeon)
-**鲱鱼 (fēi yú):** n (noun - herring)
-**鳕鱼 (xuě yú):** n (noun - cod)
-**鳗鱼 (mán yú):** n (noun - eel)
-**鳟鱼 (zūn yú):** n (noun - trout)
-**麝牛 (shè niú):** n (noun - muskox)
-**麸质 (fū zhì):** n (noun - gluten)
-**默认 (mò rèn):** vb (verb - to assume, to default)
-**鼓励 (gǔ lì):** vb (verb - to encourage)
-**鼻炎 (bí yán):** n (noun - rhinitis)
-**齿音 (chǐ yīn):** n (noun - dental sound)
-**龙虾 (lóng xiā):** n (noun - lobster)
-**乱象 (luàn xiàng):** n (noun - chaos, disorder)
-**天使 (tiān shǐ):** n (noun - angel)
-**尖脸 (jiān liǎn):** n (noun - pointed face)
-**生火 (shēng huǒ):** vb (verb - to start a fire)
-**知足 (zhī zú):** adj (adjective - content, satisfied)
-**短语 (duǎn yǔ):** n (noun - phrase)
-**程度 (chéng dù):** n (noun - degree, extent)
-**街区 (jiē qū):** n (noun - block, neighborhood)
-**贪钱 (tān qián):** adj/vb (adjective - greedy for money, verb - to be greedy for money)
-**过道 (guò dào):** n (noun - corridor, aisle)
-**打扮 (dǎ bàn):** vb (verb - to dress up, to make up)
-**鼻音 (bí yīn):** n (noun - nasal sound) 
-**颤音 (chàn yīn):** n (noun - trill) 
-**视角 (shì jiǎo):** n (noun - perspective, viewpoint)
-**未必 (wèi bì):** adv (adverb - not necessarily)
-**云端 (yún duān):** n (noun - cloud)
-**内在 (nèi zài):** adj (adjective - intrinsic, inner)
-**总统 (zǒng tǒng):** n (noun - president)
-**票数 (piào shù):** n (noun - number of votes)
-**无论 (wú lùn):** conj (conjunction - no matter)
-**到底 (dào dǐ):** adv (adverb - after all, in the end)
-**要想 (yào xiǎng):** vb (verb - to want to, to intend to)
-**即使 (jí shǐ):** conj (conjunction - even if)
-**尽管 (jǐn guǎn):** conj (conjunction - although)
-**也/还 (yě/hái):** adv (adverb - also, still)
-**但是 (dàn shì):** conj (conjunction - but) 
-
-**Notes:**
-
-* Some words can have multiple parts of speech depending on context. 
-* Some words, like "总统" (president), are often used in conjunction with a specific country. 
-* The phrases "无论+question" and "到底+question word" are complete grammatical structures, not single words. 
-
-Here are the parts of speech for the Chinese words you provided:
-
-**Phrases:**
-
-* 符合...水平: vb/adj + n
-* 虽然...但是: conj + conj
-* 与其...不如...: conj + conj
-* 尽管...但是...: conj + conj
-* 虽然...但是...: conj + conj
-* 首先...其次...最后...: adv + adv + adv
-* 不管...还是/都...: conj + conj/adv
-* 无论..都: conj + adv
-* 说起/ 提起...，我会联想到...: vb/n + n + vb + vb
-* 总结/归纳: vb/n
-* 故意/意图: adj/vb
-* 住在Airbnb: vb + n
-* 职场PUA: n + n
-* 一个湖: num + n
-* 一会儿: num + n
-* 一封信: num + n
-* 一幅画: num + n
-* 一米九: num + measure
-* 一美分: num + n
-* 一辈子: num + n
-* 一首诗: num + n
-* 万圣节: n
-* 三文鱼: n
-* 上天堂: vb + n
-* 下地狱: vb + n
-* 丢垃圾: vb + n
-* 两个月: num + n
-* 中年人: n
-* 中美洲: n
-* 主旋律: n
-* 亚洲人: n
-* 交朋友: vb + n
-* 交网费: vb + n
-* 人事部: n
-* 以色列: n
-* 价值观: n
-* 优惠券: n
-* 伸懒腰: vb
-* 体力活: n
-* 何必？: interj
-* 俄罗斯: n
-* 信任他: vb + pron
-* 信用卡: n
-* 候选人: n
-* 做标记: vb + n
-* 健身房: n
-* 充电宝: n
-* 光是吃: adv + vb
-* 八爪鱼: n
-* 公务员: n
-* 公司法: n
-* 养老院: n
-* 内华达: n
-* 内在美: n
-* 内爆音: n
-* 内蒙古: n
-* 农民工: n
-* 净效应: n
-* 出租车: n
-* 分开付: vb + vb
-* 创可贴: n
-* 前三天: num + n
-* 前些年: num + n
-
-**Individual Words:**
-
-* 罪犯: n
-* 犯人: n
-* 误会: n/vb
-* 误解: n/vb
-* 符合: vb/adj
-* 水平: n
-* 虽然: conj
-* 但是: conj
-* 与其: conj
-* 不如: conj
-* 尽管: conj
-* 首先: adv
-* 其次: adv
-* 最后: adv
-* 不管: conj
-* 还是: conj/adv
-* 都: adv
-* 无论: conj
-* 提起: vb/n
-* 联想到: vb
-* 总结: vb/n
-* 归纳: vb/n
-* 故意: adj/vb
-* 意图: n/vb
-* 川普/特朗普: n
-* 浊音: n
-* 有声音: adj
-* 清音: n
-* 无声音: adj
-* 左派: n
-* 左翼: n
-* 右派: n
-* 右翼: n
-* 住: vb
-* 职场: n
-* PUA: n
-* 一个: num
-* 湖: n
-* 一会儿: num + n
-* 一封: num
-* 信: n
-* 一幅: num
-* 画: n
-* 一米: num
-* 九: num
-* 一美: num
-* 分: measure
-* 一辈子: num + n
-* 一首: num
-* 诗: n
-* 万圣节: n
-* 三文鱼: n
-* 上: vb
-* 天堂: n
-* 下: vb
-* 地狱: n
-* 不可数: adj
-* 不合理: adj
-* 不吉利: adj
-* 不同的: adj
-* 不夜城: n
-* 不甚至: adj/adv
-* 不自在: adj
-* 不要脸: adj
-* 不送气: adj
-* 丢: vb
-* 垃圾: n
-* 两个: num
-* 月: n
-* 中年: n
-* 人: n
-* 中美洲: n
-* 主旋律: n
-* 了不起: adj
-* 亚洲: n
-* 交: vb
-* 朋友: n
-* 网费: n
-* 人事: n
-* 部: measure
-* 人情: n
-* 美: adj
-* 以色列: n
-* 价值: n
-* 观: n
-* 优惠券: n
-* 伸: vb
-* 懒腰: n
-* 体力: n
-* 活: n
-* 何必: interj
-* 俄罗斯: n
-* 信任: vb
-* 他: pron
-* 信用卡: n
-* 候选: n
-* 人: n
-* 做: vb
-* 标记: n
-* 健身: n
-* 房: n
-* 充电: n
-* 宝: n
-* 光是: adv
-* 吃: vb
-* 八爪: n
-* 鱼: n
-* 公务: n
-* 员: n
-* 公司: n
-* 法: n
-* 养老: n
-* 院: n
-* 内华达: n
-* 内在: n
-* 美: adj
-* 内爆: n
-* 音: n
-* 内蒙古: n
-* 农民: n
-* 工: n
-* 净: adj
-* 效应: n
-* 出租: n
-* 车: n
-* 分开: vb
-* 付: vb
-* 创可贴: n
-* 前: num
-* 天: n
-* 年: n
-
-Here are the parts of speech for the provided Chinese words:
-
-**前苏联**: n (former Soviet Union)
-**剪羊毛**: vb (to shear sheep)
-**办公室**: n (office)
-**加班费**: n (overtime pay)
-**动作片**: n (action film)
-**助学金**: n (scholarship)
-**努力**: vb/n/adj (effort) 
-**💪**: interj (emoji representing strength/effort)
-**北美洲**: n (North America)
-**匿名的**: adj (anonymous)
-**十个组**: n (ten groups)
-**华尔兹**: n (waltz)
-**华尔街**: n (Wall Street)
-**单人床**: n (single bed)
-**单词卡**: n (flashcard)
-**南极洲**: n (Antarctica)
-**南美洲**: n (South America)
-**博士后**: n (postdoctoral fellow)
-**博物馆**: n (museum)
-**占有欲**: n (possessiveness)
-**卡通片**: n (cartoon)
-**印地语**: n (Hindi)
-**印度人**: n (Indian)
-**卷心菜**: n (cabbage)
-**卷舌音**: n (retroflex)
-**参议员**: n (senator)
-**双人床**: n (double bed)
-**双关语**: n (pun)
-**双唇音**: n (bilabial)
-**双性恋**: n/adj (bisexual)
-**双胞胎**: n (twins)
-**反义词**: n (antonym)
-**发帖子**: vb (to post)
-**发微信**: vb (to send a WeChat message)
-**发短信**: vb (to send a text message)
-**发邮件**: vb (to send an email)
-**受欢迎**: adj (popular)
-**变老了**: vb (to become old)
-**古希腊**: n (ancient Greece)
-**古罗马**: n (ancient Rome)
-**叫外卖**: vb (to order takeout)
-**可比性**: n (comparability)
-**可许证**: adj (permissible)
-**合唱团**: n (choir)
-**合肥话**: n (Hefei dialect)
-**同义词**: n (synonym)
-**同性恋**: n/adj (homosexual)
-**同质的**: adj (homogeneous)
-**后三天**: n (the next three days)
-**吸血鬼**: n (vampire)
-**唇音化**: vb (to become labialized)
-**唇齿音**: n (labiodental)
-**唐人街**: n (Chinatown)
-**图瓦人**: n (Tuvan)
-**圈内人**: n (insider)
-**圈外人**: n (outsider)
-**基本上**: adv (basically)
-**基督徒**: n (Christian)
-**基督教**: n (Christianity)
-**塔罗牌**: n (Tarot cards)
-**声门音**: n (glottal stop)
-**多元化**: n/adj (diversity)
-**多巴胺**: n (dopamine)
-**大后天**: n (the day after tomorrow)
-**大洋洲**: n (Oceania)
-**大脑**: n (brain)
-**🧠**: interj (emoji representing brain)
-**大自然**: n (nature)
-**大部分**: n/adv (majority)
-**天主教**: n (Catholicism)
-**奖学金**: n (scholarship)
-**奢侈品**: n (luxury goods)
-**奴才样**: n (servile manner)
-**好奇心**: n (curiosity)
-**好莱坞**: n (Hollywood)
-**威尔士**: n (Wales)
-**威尼斯**: n (Venice)
-**娃娃菜**: n (baby bok choy)
-**娱乐圈**: n (entertainment industry)
-**嬉皮士**: n (hippie)
-**存起来**: vb (to save)
-**学武术**: vb (to learn martial arts) 
-
-Here's the breakdown of the part of speech for each Chinese word:
-
-**安乐死:** n (euthanasia)
-**家人们:** n (family members)
-**家养的:** adj (domesticated)
-**富二代:** n (second generation rich)
-**小扁豆:** n (lentil)
-**小提琴:** n (violin)
-**小柴胡:** n (Xiao Chai Hu, a type of traditional Chinese medicine)
-**小红书:** n (Xiaohongshu, a social media platform)
-**小舌音:** n (uvular sound)
-**尤其是:** adv (especially)
-**局限性:** n (limitation)
-**屏幕🖥:** n (screen)
-**属于我:** vb (belong to me)
-**山寨品:** n (counterfeit product)
-**工作室:** n (studio)
-**工作狂:** n (workaholic)
-**工程师:** n (engineer)
-**差不多:** adv (almost, approximately)
-**希腊语:** n (Greek language)
-**年收入:** n (annual income)
-**幸福感:** n (feeling of happiness)
-**幽默感:** n (sense of humor)
-**开心果:** n (a cheerful person)
-**开派对:** vb (to throw a party)
-**开聚会:** vb (to have a gathering)
-**式体验:** n (style experience)
-**张个儿:** vb (to grow taller)
-**弥赛亚:** n (Messiah)
-**强奸犯:** n (rapist)
-**强迫症:** n (obsessive-compulsive disorder)
-**归属感:** n (sense of belonging)
-**当爸爸:** vb (to be a father)
-**当老师:** vb (to be a teacher)
-**形容词:** n (adjective)
-**很可惜:** adv (it's a pity)
-**很自信:** adv (very confident)
-**很麻烦:** adv (very troublesome)
-**微信群:** n (WeChat group)
-**心理学:** n (psychology)
-**忍不住:** vb (cannot help but)
-**性丑闻:** n (sex scandal)
-**总体上:** adv (generally)
-**恋亚癖:** n (Asian fetish)
-**恐怖片:** n (horror movie)
-**情绪化:** adj (emotional)
-**惊悚片:** n (suspense film)
-**感应器:** n (sensor)
-**慢性病:** n (chronic illness)
-**慰安妇:** n (comfort woman)
-**我醒了:** vb (I woke up)
-**手痒痒:** vb (my hands are itchy)
-**打八折:** vb (to give an 80% discount)
-**打印机:** n (printer)
-**打哈欠:** vb (to yawn)
-**打广告:** vb (to advertise)
-**打招呼:** vb (to greet)
-**打疫苗:** vb (to get vaccinated)
-**找借口:** vb (to make excuses)
-**找原因:** vb (to find the reason)
-**抑郁症:** n (depression)
-**抚养权:** n (custody rights)
-**抢工作:** vb (to steal a job)
-**护肤品:** n (skin care products)
-**抽大麻:** vb (to smoke marijuana)
-**拆二代:** n (second generation demolition)
-**拆哪儿:** vb (where to dismantle)
-**拉肚子:** vb (to have diarrhea)
-**拍照片:** vb (to take pictures)
-**拖拉机:** n (tractor)
-**招财猫:** n (lucky cat)
-**拿绿卡:** vb (to get a green card)
-**拿走狗:** vb (to take away the dog)
-**指示牌:** n (signpost)
-**挤喉音:** vb (to make a uvular sound)
-**掉头发:** vb (to lose hair)
-**推开门:** vb (to open the door)
-**揉面团:** vb (to knead dough)
-**插头🔌:** n (plug)
-**搭嘴音:** vb (to make a labial-velar sound)
-**摄像头:** n (camera) 
-
-Here is the breakdown of the words' parts of speech:
-
-**摇摆舞:** n (搖擺舞 - swing dance)
-**摘眼镜:** vb (摘眼鏡 - take off glasses)
-**收起来:** vb (收起來 - put away)
-**放大招:** vb (放大招 - unleash a powerful move/strategy)
-**放烟花:** vb (放煙花 - set off fireworks)
-**教科书:** n (教科書 - textbook)
-**断联系:** vb (斷聯繫 - break off contact)
-**新西兰:** n (新西蘭 - New Zealand)
-**新鲜感:** n (新鮮感 - freshness/novelty)
-**旅游区:** n (旅遊區 - tourist area)
-**无厘头:** adj (無厘頭 - nonsensical)
-**无性恋:** n (無性戀 - asexual)
-**无花果:** n (無花果 - fig)
-**易建联:** n (易建聯 - Yi Jianlian, a basketball player)
-**普拉提:** n (普拉提 - Pilates)
-**暖气机:** n (暖氣機 - heater)
-**暖气片:** n (暖氣片 - radiator)
-**曾祖父:** n (曾祖父 - great-grandfather)
-**月收入:** n (月收入 - monthly income)
-**有出息:** adj (有出息 - promising/successful)
-**有口音:** adj (有口音 - having an accent)
-**有局限:** adj (有局限 - having limitations)
-**有市场:** adj (有市場 - having a market)
-**有思想:** adj (有思想 - having thoughts)
-**有效果:** adj (有效果 - having an effect)
-**有耐心:** adj (有耐心 - having patience)
-**有道理:** adj (有道理 - making sense)
-**有钱人:** n (有錢人 - wealthy person)
-**朋友们:** n (朋友們 - friends)
-**朋友圈:** n (朋友圈 - circle of friends)
-**未分化:** adj (未分化 - undifferentiated)
-**本土的:** adj (本土的 - native/local)
-**本地的:** adj (本地的 - local)
-**李文月:** n (李文月 - a name)
-**枪击案:** n (槍擊案 - shooting)
-**校友会:** n (校友會 - alumni association)
-**核心词:** n (核心詞 - core word)
-**核武器:** n (核武器 - nuclear weapon)
-**正后面:** adv (正後面 - directly behind)
-**比方说:** vb (比方說 - for example)
-**比目鱼:** n (比目魚 - flatfish)
-**毛茸茸:** adj (毛茸茸 - fluffy)
-**水很深:** adj (水很深 - deep water/complicated)
-**没事了:** interj (沒事了 - it's alright now)
-**没人管:** adj (沒人管 - nobody cares)
-**没效果:** adj (沒效果 - ineffective)
-**没电🪫:** adj (沒電 - no electricity)
-**泛音列:** n (泛音列 - overtone series)
-**波士顿:** n (波士頓 - Boston)
-**洗手液:** n (洗手液 - hand sanitizer)
-**洗碗机:** n (洗碗機 - dishwasher)
-**洛杉矶:** n (洛杉磯 - Los Angeles)
-**流浪汉:** n (流浪漢 - homeless person)
-**流浪者:** n (流浪者 - wanderer)
-**浪漫的:** adj (浪漫的 - romantic)
-**消耗尽:** vb (消耗盡 - consume completely)
-**淡水鱼:** n (淡水魚 - freshwater fish)
-**深海鱼:** n (深海魚 - deep-sea fish)
-**混血儿:** n (混血兒 - mixed-race person)
-**清真寺:** n (清真寺 - mosque)
-**游乐园:** n (遊樂園 - amusement park)
-**炸毛了:** vb (炸毛了 - got ruffled up)
-**照镜子:** vb (照鏡子 - look in the mirror)
-**照顾者:** n (照顧者 - caregiver)
-**爱尔兰:** n (愛爾蘭 - Ireland)
-**爱情片:** n (愛情片 - romance film)
-**爱狮克:** n (愛獅克 - Aeschylus, a Greek playwright)
-**特别是:** adv (特别是 - especially)
-**特色菜:** n (特色菜 - specialty dish)
-**犹太人:** n (猶太人 - Jewish person)
-**独角鲸:** n (獨角鯨 - narwhal)
-**王嘉尔:** n (王嘉爾 - Jackson Wang, a singer)
-**玫瑰花:** n (玫瑰花 - rose)
-**玳瑁猫:** n (玳瑁貓 - tortoiseshell cat)
-**理想化:** vb/adj (理想化 - idealize)
-**甄嬛传:** n (甄嬛傳 - a TV drama)
-**生物学:** n (生物學 - biology)
-**生词表:** n (生詞表 - vocabulary list)
-**电视剧:** n (電視劇 - TV series)
-**白大褂:** n (白大褂 - white coat) 
-
-Here is the breakdown of the part of speech for each word:
-
-**百分之:** pp (preposition)
-**百分比:** n (noun)
-**皮划艇:** n (noun)
-**盘腿坐:** vb (verb)
-**相亲角:** n (noun)
-**看不起:** vb (verb)
-**看情况:** vb (verb)
-**眼影盘:** n (noun)
-**瞎扯蛋:** vb (verb)
-**石家庄:** n (noun)
-**硬腭音:** n (noun)
-**社会学:** n (noun)
-**神圣性:** n (noun)
-**科学家:** n (noun)
-**租房子:** vb (verb)
-**程序员:** n (noun)
-**穆斯林:** n (noun)
-**第一集:** n (noun)
-**糖尿病:** n (noun)
-**系鞋带:** vb (verb)
-**系领带:** vb (verb)
-**纪录片:** n (noun)
-**纯洁性:** n (noun)
-**纯素食:** n (noun)
-**纸老虎:** n (noun)
-**组织者:** n (noun)
-**给你看:** vb (verb)
-**维他命:** n (noun)
-**网球场:** n (noun)
-**网球馆:** n (noun)
-**罗非鱼:** n (noun)
-**羊驼毛:** n (noun)
-**翻译笔:** n (noun)
-**老奶奶:** n (noun)
-**老百姓:** n (noun)
-**而不是:** conj (conjunction)
-**脑震荡:** n (noun)
-**脚后跟:** n (noun)
-**脱口秀:** n (noun)
-**自来水:** n (noun)
-**自治县:** n (noun)
-**自然光:** n (noun)
-**舞蹈家:** n (noun)
-**舞蹈课:** n (noun)
-**艺术家:** n (noun)
-**芥菜种:** n (noun)
-**花时间:** vb (verb)
-**芸薹属:** n (noun)
-**药妆店:** n (noun)
-**菜市场:** n (noun)
-**落地窗:** n (noun)
-**落汤鸡:** n (noun)
-**蒙古族:** n (noun)
-**薅羊毛:** vb (verb)
-**蜘蛛网:** n (noun)
-**蜜月期:** n (noun)
-**血清素:** n (noun)
-**行李牌:** n (noun)
-**行李箱:** n (noun)
-**表情包:** n (noun)
-**装饰品:** n (noun)
-**西兰花:** n (noun)
-**要不是:** conj (conjunction)
-**讨吃的:** vb (verb)
-**记忆力:** n (noun)
-**许可证:** n (noun)
-**词汇表:** n (noun)
-**语源学:** n (noun)
-**语言学:** n (noun)
-**说实话:** vb (verb)
-**读书会:** n (noun)
-**读博士:** vb (verb)
-**读硕士:** vb (verb)
-**谈恋爱:** vb (verb)
-**负责人:** n (noun)
-**负责任:** adj (adjective)
-**购物狂:** n (noun)
-**越南语:** n (noun)
-**跨学科:** adj (adjective)
-**跨性别:** adj (adjective) 
-
-Here is a breakdown of the part of speech for each word, along with explanations for some cases:
-
-**Part of Speech Analysis**
-
-* **路人甲:** n (lit. "passerby A", used to refer to an unimportant/anonymous person)
-* **跳下床:** vb (verb phrase - to jump out of bed) 
-* **软腭化:** adj/n (describes a sound, can also be a noun referring to the process)
-* **软腭音:** n (a sound made with the soft palate)
-* **过分了:** adj/adv (too much, excessive, can be used as an adjective or adverb)
-* **过日子:** vb (to live one's life, to get by)
-* **过马路:** vb (to cross the road)
-* **运动员:** n (athlete)
-* **连接的:** adj (connected)
-* **连续性:** n (continuity)
-* **送气音:** n (a sound made with aspiration)
-* **遗传病:** n (hereditary disease)
-* **酸菜鱼:** n (a type of Chinese dish)
-* **金枪鱼:** n (tuna)
-* **钱不够:** adj (not enough money)
-* **防火墙:** n (firewall)
-* **阴谋论:** n (conspiracy theory)
-* **阿根廷:** n (Argentina)
-* **陌生人:** n (stranger)
-* **陪家人:** vb (to accompany family)
-* **非洲舞:** n (African dance)
-* **靠自己:** vb (to rely on oneself)
-* **面试官:** n (interviewer)
-* **音乐会:** n (concert)
-* **音乐圈:** n (music industry)
-* **音乐家:** n (musician)
-* **预想到:** vb (to anticipate)
-* **食道癌:** n (esophageal cancer)
-* **香菜籽:** n (coriander seeds)
-* **高血压:** n (high blood pressure)
-* **高颧骨:** n (high cheekbones)
-* **黑天鹅:** n (black swan)
-* **鼻窦炎:** n (sinusitis)
-* **鼻音化:** adj (nasalized, describing a sound)
-* **齿龈音:** n (an alveolar sound)
-* **承诺书:** n (letter of commitment, promise)
-* **近义词:** n (synonym)
-* **平均律:** n (equal temperament)
-* **博士生:** n (doctoral student) 
-* **博士:** n (doctor, Ph.D.)
-* **研究人-研究人员-做研究的:** n (researcher, the last one is a verb phrase meaning "doing research")
-* **联想到...:** vb (to associate, to think of...)
-* **换工作/ 手机/ 衣服:** vb (to change jobs/ phones/ clothes)
-* **一代人/ 几代人:** n (generation)
-* **我本来/ 原来住在广州:** adv (originally, formerly)
-* **反义词/同义词/近义词:** n (antonym/ synonym)
-* **你看过/听过这部电视剧吗？:** vb (have you seen/heard this TV series?)
-* **差不多30岁了:** adj/adv (almost 30 years old)
-* **民调（=民意调查）:** n (opinion poll, public opinion survey)
-* **一个顺序:** n (a sequence)
-* **一套房子:** n (a set of house, an apartment)
-* **一家三口:** n (a family of three)
-* **一年四季:** n (four seasons of the year)
-* **一张图片:** n (a picture)
-* **一拜天地:** n (a bow to heaven and earth, a traditional Chinese wedding ceremony)
-* **一栋房子:** n (a building, a house)
-* **一根手指:** n (a finger)
-* **一段关系:** n (a relationship)
-* **一段友谊:** n (a friendship)
-* **一段婚姻:** n (a marriage)
-* **一段时间:** n (a period of time)
-* **一段爱情:** n (a love story)
-* **一票否决:** n (veto power)
-* **一米五五:** n (1.55 meters)
-* **一米六七:** n (1.67 meters)
-* **一般就说:** adv (generally speaking)
-* **一队士兵:** n (a team of soldiers)
-* **一面镜子:** n (a mirror)
-* **三月六号:** n (March 6th)
-* **上一节课:** vb (to attend the previous class)
-* **不可描述:** adj (indescribable)
-* **不找对象:** vb (not looking for a partner)
-* **不管穷富:** conj (regardless of whether one is poor or rich)
-* **不能忘本:** vb (cannot forget one's roots)
-* **专业术语:** n (technical term)
-* **个人收入:** n (personal income)
-* **中庸之道:** n (the doctrine of the Mean)
-* **主修专业:** n (major)
-* **主流文化:** n (mainstream culture)
-* **习惯用语:** n (idiom)
-* **乡土中国:** n (rural China) 
-
-**Notes:**
-
-* Some words can have multiple parts of speech depending on the context. 
-* For verb phrases like "跳下床" (to jump out of bed), the part of speech for the whole phrase is "vb". 
-* Some phrases are idiomatic expressions and should be treated as a single unit. 
-
-I hope this helps! 
-
-Here's the part of speech analysis for the provided Chinese words:
-
-**乡土社会:** n (rural society)
-**乡郊野外:** n (rural outskirts/countryside)
-**乱说乱动:** vb (to talk nonsense and move around randomly)
-**二代移民:** n (second-generation immigrant)
-**互相吸引:** vb (to attract each other)
-**互相喜欢:** vb (to like each other)
-**互相尊重:** vb (to respect each other)
-**互相帮忙:** vb (to help each other)
-**互相理解:** vb (to understand each other)
-**交友软件:** n (dating app)
-**交水电费:** vb (to pay utility bills)
-**交通工具:** n (means of transportation)
-**亲密关系:** n (intimate relationship)
-**人手不足:** adj (understaffed)
-**人生意义:** n (meaning of life)
-**人生目标:** n (life goals)
-**仅仅因为:** adv (only because)
-**仅供参考:** vb (for reference only)
-**他临死前:** adv (before his death)
-**他很准时:** adj (he is very punctual)
-**付水电费:** vb (to pay utility bills)
-**以父之名:** pp (in the name of the father)
-**伊斯兰教:** n (Islam)
-**传统妻子:** n (traditional wife)
-**伤痕累累:** adj (scarred)
-**似曾相识:** adj (déjà vu)
-**你缺什么:**  vb (what are you lacking?)
-**依附关系:** n (dependent relationship)
-**依附理论:** n (dependency theory)
-**保持联系:** vb (to stay in touch)
-**先干为敬:**  adv (let's drink first, and talk later)
-**光线很强:** adj (the light is very strong)
-**免疫系统:** n (immune system)
-**全球变暖:** n (global warming)
-**全球暖化:** n (global warming)
-**公共汽车:** n (public bus)
-**公司收入:** n (company income)
-**公司规模:** n (company size)
-**六尺三寸:** n (six feet and three inches)
-**共产主义:** n (communism)
-**共产党人:** n (communist)
-**共同努力:** vb (to work together)
-**共同敌人:** n (common enemy)
-**共同朋友:** n (common friend)
-**共同爱好:** n (shared hobby)
-**共同生活:** vb (to live together)
-**共同话题:** n (common topic)
-**再那块儿:** adv (over there)
-**军事基地:** n (military base)
-**几千年前:** adv (thousands of years ago)
-**出去逛逛:** vb (to go out for a walk)
-**分开翻译:** vb (to translate separately)
-**分析案例:** vb (to analyze a case)
-**到他跟前:** adv (to his side/in front of him)
-**刻板印象:** n (stereotype)
-**前提条件:** n (precondition)
-**加强语气:** vb (to emphasize)
-**化解冲突:** vb (to resolve conflicts)
-**化解灾难:** vb (to alleviate disaster)
-**化解矛盾:** vb (to resolve contradictions)
-**医疗保险:** n (health insurance)
-**印度神话:** n (Hindu mythology)
-**印欧语系:** n (Indo-European language family)
-**印象深刻:** adj (impressive)
-**厄瓜多尔:** n (Ecuador)
-**参加活动:** vb (to participate in an activity)
-**发生矛盾:** vb (to have a conflict)
-**口音很重:** adj (has a strong accent)
-**合肥方言:** n (Hefei dialect)
-**同一条街:** n (the same street)
-**名扬天下:** vb (to be famous throughout the world)
-**名胜古迹:** n (famous scenic spots/historical sites)
-**吓我一跳:** vb (to give me a fright)
-**君主斑蝶:** n (monarch butterfly)
-**周年纪念:** n (anniversary)
-**唯一一个:** adj (the only one)
-**因果关系:** n (cause and effect)
-**因纽特人:** n (Inuit people)
-**在工作上:** pp (at work)
-**在生活上:** pp (in life) 
-
-Here is the breakdown of the parts of speech for the Chinese words you provided:
-
-**在饮食上:** 
-* 在: pp
-* 饮食: n
-* 上: pp
-
-**地理位置:**
-* 地理: n
-* 位置: n
-
-**大不如前:** 
-* 大: adv
-* 不: adv
-* 如: pp
-* 前: n
-
-**大山深处:**
-* 大山: n
-* 深处: n
-
-**大概了解:**
-* 大概: adv
-* 了解: vb
-
-**大调音阶:**
-* 大: adj
-* 调: n
-* 音阶: n
-
-**天干地支:**
-* 天干: n
-* 地支: n
-
-**天气预报:**
-* 天气: n
-* 预报: n/vb
-
-**好的关系:**
-* 好: adj
-* 关系: n
-
-**好自为之:**
-* 好: adj
-* 自: adv
-* 为: vb
-* 之: pp
-
-**威士忌酒:**
-* 威士忌: n
-* 酒: n
-
-**学生贷款:**
-* 学生: n
-* 贷款: n
-
-**宇宙飞船:**
-* 宇宙: n
-* 飞船: n
-
-**安定下来:**
-* 安定: vb
-* 下来: adv
-
-**安排时间:**
-* 安排: vb
-* 时间: n
-
-**安身立命:**
-* 安身: vb
-* 立命: vb
-
-**实际来说:**
-* 实际: adj
-* 来说: vb
-
-**审美标准:**
-* 审美: n
-* 标准: n
-
-**家家户户:**
-* 家家: n
-* 户户: n
-
-**家庭教育:**
-* 家庭: n
-* 教育: n/vb
-
-**寄一封信:**
-* 寄: vb
-* 一封: measure
-* 信: n
-
-**寄生虫🪱:**
-* 寄生虫: n
-
-**密集训练:**
-* 密集: adj
-* 训练: n/vb
-
-**对…敏感:**
-* 对: pp
-* 敏感: adj
-
-**尊重别人:**
-* 尊重: vb
-* 别人: n
-
-**小调音阶:**
-* 小: adj
-* 调: n
-* 音阶: n
-
-**少数族裔:**
-* 少数: adj
-* 族裔: n
-
-**少数民族:**
-* 少数: adj
-* 民族: n
-
-**尺度太大:**
-* 尺度: n
-* 太: adv
-* 大: adj
-
-**尽管这样:**
-* 尽管: conj
-* 这样: adv
-
-**展示才华:**
-* 展示: vb
-* 才华: n
-
-**展示能力:**
-* 展示: vb
-* 能力: n
-
-**工业革命:**
-* 工业: n
-* 革命: n
-
-**工作表现:**
-* 工作: n/vb
-* 表现: n/vb
-
-**差不多高:**
-* 差不多: adv
-* 高: adj
-
-**巴勒斯坦:**
-* 巴勒斯坦: n
-
-**希伯来语:**
-* 希伯来: adj
-* 语: n
-
-**带货主播:**
-* 带货: vb
-* 主播: n
-
-**带货直播:**
-* 带货: vb
-* 直播: n/vb
-
-**平均身高:**
-* 平均: adj
-* 身高: n
-
-**平底煎锅:**
-* 平底: adj
-* 煎锅: n
-
-**年纪轻轻:**
-* 年纪: n
-* 轻轻: adj
-
-**幸福阀值:**
-* 幸福: n
-* 阀值: n
-
-**广泛应用:**
-* 广泛: adv
-* 应用: vb/n
-
-**库尔德语:**
-* 库尔德: adj
-* 语: n
-
-**异人之下:**
-* 异人: n
-* 之下: pp
-
-**很长时间:**
-* 很: adv
-* 长时间: n
-
-**心不在焉:**
-* 心: n
-* 不在焉: adj
-
-**心心相印:**
-* 心: n
-* 相印: vb
-
-**心水很高:**
-* 心水: n
-* 很: adv
-* 高: adj
-
-**心理治疗:**
-* 心理: n
-* 治疗: n/vb
-
-**忘性很大:**
-* 忘性: n
-* 很: adv
-* 大: adj
-
-**快递公司:**
-* 快递: n
-* 公司: n
-
-**思想开放:**
-* 思想: n
-* 开放: adj
-
-**性格特质:**
-* 性格: n
-* 特质: n
-
-**总的来说:**
-* 总: adj
-* 的: pp
-* 来说: vb
-
-**情感勒索:**
-* 情感: n
-* 勒索: vb/n
-
-**情绪崩溃:**
-* 情绪: n
-* 崩溃: vb/n
-
-**意第绪语:**
-* 意第绪: adj
-* 语: n
-
-**感同身受:**
-* 感同: vb
-* 身受: vb
-
-**我不在乎:**
-* 我: pron
-* 不: adv
-* 在乎: vb
-
-**我为你好:**
-* 我: pron
-* 为: pp
-* 你: pron
-* 好: adj
-
-**战绩累累:**
-* 战绩: n
-* 累累: adj
-
-**手指交叉:**
-* 手指: n
-* 交叉: vb
-
-**打勾☑️:**
-* 打: vb
-* 勾: n
-
-**打印出来:**
-* 打印: vb
-* 出来: adv
-
-**打叉✖️:**
-* 打: vb
-* 叉: n
-
-**打哈欠🥱:**
-* 打: vb
-* 哈欠: n
-
-**打工假期:**
-* 打工: vb
-* 假期: n
-
-**扶手电梯:**
-* 扶手: n
-* 电梯: n
-
-**抽样偏见:**
-* 抽样: n/vb
-* 偏见: n
-
-**拉丁美洲:**
-* 拉丁: adj
-* 美洲: n
-
-**招待客人:**
-* 招待: vb
-* 客人: n
-
-**拜个师傅:**
-* 拜: vb
-* 一个: measure
-* 师傅: n
-
-**按照要求:**
-* 按照: pp
-* 要求: n
-
-**按照计划:**
-* 按照: pp
-* 计划: n
-
-**接待客人:**
-* 接待: vb
-* 客人: n
-
-**推卸责任:**
-* 推卸: vb
-* 责任: n
-
-**放荡不羁:**
-* 放荡: adj
-* 不羁: adj
-
-**政府官员:**
-* 政府: n
-* 官员: n 
-
-Here is the breakdown of the part of speech for each Chinese word:
-
-**政府干部**
-* 政府: n 
-* 干部: n
-
-**敏感话题**
-* 敏感: adj
-* 话题: n
-
-**教学方法**
-* 教学: n/vb
-* 方法: n
-
-**数字劳工**
-* 数字: adj/n
-* 劳工: n
-
-**数字经济**
-* 数字: adj/n
-* 经济: n
-
-**文化交流**
-* 文化: n
-* 交流: vb/n
-
-**文化冲突**
-* 文化: n
-* 冲突: n/vb
-
-**文化包容**
-* 文化: n
-* 包容: vb/adj/n
-
-**文艺复兴**
-* 文艺: n
-* 复兴: vb/n
-
-**新冠病毒**
-* 新冠: n
-* 病毒: n
-
-**新能源车**
-* 新能源: n
-* 车: n
-
-**无思无想**
-* 无思: adj
-* 无想: adj
-
-**日常生活**
-* 日常: adj
-* 生活: n
-
-**日益减少**
-* 日益: adv
-* 减少: vb
-
-**日益增长**
-* 日益: adv
-* 增长: vb
-
-**时代广场**
-* 时代: n
-* 广场: n
-
-**时间不够**
-* 时间: n
-* 不够: adj/adv
-
-**时间限制**
-* 时间: n
-* 限制: n/vb
-
-**星球大战**
-* 星球: n
-* 大战: n/vb
-
-**春困秋乏**
-* 春困: n
-* 秋乏: n
-
-**最低工资**
-* 最低: adj
-* 工资: n
-
-**最后一秒**
-* 最后: adj/adv
-* 一秒: measure
-
-**有争议的**
-* 有: aux
-* 争议: n
-* 的: particle
-
-**有幸福感**
-* 有: aux
-* 幸福感: n
-
-**朋友之间**
-* 朋友: n
-* 之间: pp
-
-**朝鲜🇰🇵**
-* 朝鲜: n
-
-**本来应该**
-* 本来: adv
-* 应该: aux
-
-**机会成本**
-* 机会: n
-* 成本: n
-
-**机会降临**
-* 机会: n
-* 降临: vb
-
-**机器翻译**
-* 机器: n
-* 翻译: vb/n
-
-**松鼠🐿️**
-* 松鼠: n
-
-**格格不入**
-* 格格: adv
-* 不入: vb
-
-**楔形文字**
-* 楔形: adj
-* 文字: n
-
-**欢迎光临**
-* 欢迎: vb
-* 光临: vb
-
-**欧楂变软**
-* 欧楂: n
-* 变软: vb
-
-**母女一场**
-* 母女: n
-* 一场: measure
-
-**母子一场**
-* 母子: n
-* 一场: measure
-
-**毕业旅行**
-* 毕业: vb/n
-* 旅行: n
-
-**民国时期**
-* 民国: n
-* 时期: n
-
-**气候变化**
-* 气候: n
-* 变化: n/vb
-
-**永无止境**
-* 永无: adj
-* 止境: n
-
-**汉藏语系**
-* 汉藏: adj/n
-* 语系: n
-
-**沉浸式地**
-* 沉浸式: adj
-* 地: particle
-
-**沟通能力**
-* 沟通: vb/n
-* 能力: n
-
-**没有对错**
-* 没有: neg
-* 对错: n
-
-**法官判决**
-* 法官: n
-* 判决: vb/n
-
-**法律责任**
-* 法律: n
-* 责任: n
-
-**泛音唱法**
-* 泛音: n
-* 唱法: n
-
-**活在当下**
-* 活: vb
-* 当下: n
-
-**活在过去**
-* 活: vb
-* 过去: n
-
-**流眼泪🥲**
-* 流: vb
-* 眼泪: n
-
-**涂防晒霜**
-* 涂: vb
-* 防晒霜: n
-
-**消费享受**
-* 消费: vb/n
-* 享受: vb/n
-
-**深不见底**
-* 深: adj
-* 不见底: vb
-
-**温差很大**
-* 温差: n
-* 很大: adj
-
-**游牧民族**
-* 游牧: n
-* 民族: n
-
-**演奏音阶**
-* 演奏: vb
-* 音阶: n
-
-**澳大利亚**
-* 澳大利亚: n
-
-**灵异经历**
-* 灵异: adj
-* 经历: n
-
-**熙熙攘攘**
-* 熙熙攘攘: adj/adv
-
-**熟悉的人**
-* 熟悉: adj
-* 人: n
-
-**特别漂亮**
-* 特别: adv
-* 漂亮: adj
-
-**犹太会堂**
-* 犹太: adj
-* 会堂: n
-
-**犹太洁食**
-* 犹太: adj
-* 洁食: n
-
-**玉米猪肉**
-* 玉米: n
-* 猪肉: n
-
-**生活习惯**
-* 生活: n
-* 习惯: n
-
-**生活方式**
-* 生活: n
-* 方式: n
-
-**生活质量**
-* 生活: n
-* 质量: n
-
-**用法更广**
-* 用法: n
-* 更广: adj
-
-**用进废退**
-* 用进: vb
-* 废退: vb
-
-**田野调查**
-* 田野: n
-* 调查: vb/n
-
-**电子产品**
-* 电子: adj
-* 产品: n
-
-**电子痕迹**
-* 电子: adj
-* 痕迹: n
-
-**电脑科学**
-* 电脑: n
-* 科学: n
-
-**男性主导**
-* 男性: n
-* 主导: vb/n
-
-**白菜猪肉**
-* 白菜: n
-* 猪肉: n
-
-**百科全书**
-* 百科: adj/n
-* 全书: n
-
-**直播经济**
-* 直播: vb/n
-* 经济: n
-
-**相由心生**
-* 相: n
-* 由: pp
-* 心生: vb
-
-**眼皮跳了**
-* 眼皮: n
-* 跳了: vb
-
-Here are the parts of speech for the Chinese words you provided:
-
-**眼睛亮了**
-* 眼睛: n (eyes)
-* 亮了: vb (brightened)
-
-**知无不言**
-* 知: vb (to know)
-* 无: adv (no)
-* 不: adv (not)
-* 言: vb (to speak)
-
-**知识很广**
-* 知识: n (knowledge)
-* 很: adv (very)
-* 广: adj (wide)
-
-**知识渊博**
-* 知识: n (knowledge)
-* 渊博: adj (profound)
-
-**知足常乐**
-* 知: vb (to know)
-* 足: adj (enough)
-* 常: adv (always)
-* 乐: vb (to be happy)
-
-**研究人员**
-* 研究: vb (to research)
-* 人员: n (personnel)
-
-**硕果累累**
-* 硕果: n (fruit)
-* 累累: adj (abundant)
-
-**社交活动**
-* 社交: n/adj (social)
-* 活动: n (activity)
-
-**社会福利**
-* 社会: n/adj (society)
-* 福利: n (welfare)
-
-**社会运动**
-* 社会: n/adj (society)
-* 运动: n (movement)
-
-**社会问题**
-* 社会: n/adj (society)
-* 问题: n (problem)
-
-**祖传秘方**
-* 祖传: adj (ancestral)
-* 秘方: n (secret recipe)
-
-**种姓制度**
-* 种姓: n (caste)
-* 制度: n (system)
-
-**种族歧视**
-* 种族: n (race)
-* 歧视: vb (to discriminate)
-
-**科技公司**
-* 科技: n (science and technology)
-* 公司: n (company)
-
-**秘密武器**
-* 秘密: n/adj (secret)
-* 武器: n (weapon)
-
-**穿不出去**
-* 穿: vb (to wear)
-* 不: adv (not)
-* 出去: vb (to go out)
-
-**突发奇想**
-* 突发: vb (to suddenly occur)
-* 奇想: n (whim)
-
-**符合标准**
-* 符合: vb (to conform to)
-* 标准: n (standard)
-
-**符合要求**
-* 符合: vb (to conform to)
-* 要求: n (requirement)
-
-**符合逻辑**
-* 符合: vb (to conform to)
-* 逻辑: n (logic)
-
-**简单来说**
-* 简单: adj (simple)
-* 来说: vb (to say)
-
-**粤拼系统**
-* 粤拼: n (Cantonese pronunciation system)
-* 系统: n (system)
-
-**精神内耗**
-* 精神: n (spirit)
-* 内耗: n (internal friction)
-
-**纠正错误**
-* 纠正: vb (to correct)
-* 错误: n (error)
-
-**经济学者**
-* 经济: n/adj (economy)
-* 学者: n (scholar)
-
-**维基百科**
-* 维基百科: n (Wikipedia)
-
-**编程能力**
-* 编程: vb (to program)
-* 能力: n (ability)
-
-**缺少睡眠**
-* 缺少: vb (to lack)
-* 睡眠: n (sleep)
-
-**罗兰巴特**
-* 罗兰巴特: n (Roland Barthes)
-
-**美国大选**
-* 美国: n (United States)
-* 大选: n (general election)
-
-**羽衣甘蓝**
-* 羽衣甘蓝: n (kale)
-
-**翻山越岭**
-* 翻山: vb (to cross a mountain)
-* 越岭: vb (to cross a mountain ridge)
-
-**职业发展**
-* 职业: n (profession)
-* 发展: vb (to develop)
-
-**股票跌了**
-* 股票: n (stock)
-* 跌了: vb (fell)
-
-**胡说八道**
-* 胡说: vb (to talk nonsense)
-* 八道: n (nonsense)
-
-**腓尼基人**
-* 腓尼基人: n (Phoenicians)
-
-**自由恋爱**
-* 自由: adj (free)
-* 恋爱: vb (to be in love)
-
-**自由职业**
-* 自由: adj (free)
-* 职业: n (profession)
-
-**自言自语**
-* 自言: vb (to say to oneself)
-* 自语: vb (to talk to oneself)
-
-**荒郊野里**
-* 荒郊: n (wilderness)
-* 野里: n (field)
-
-**获奖小说**
-* 获奖: vb (to win an award)
-* 小说: n (novel)
-
-**蓬荜生辉**
-* 蓬荜: n (humble dwelling)
-* 生辉: vb (to shine brightly)
-
-**虚心学习**
-* 虚心: adj (humble)
-* 学习: vb (to learn)
-
-**虽说如此**
-* 虽说: conj (although it is said)
-* 如此: adv (like this)
-
-**西藏文化**
-* 西藏: n (Tibet)
-* 文化: n (culture)
-
-**解释原因**
-* 解释: vb (to explain)
-* 原因: n (reason)
-
-**触动神经**
-* 触动: vb (to touch)
-* 神经: n (nerve)
-
-**让人分心**
-* 让人: vb (to make someone)
-* 分心: vb (to be distracted)
-
-**让人困惑**
-* 让人: vb (to make someone)
-* 困惑: vb (to be confused)
-
-**让人放松**
-* 让人: vb (to make someone)
-* 放松: vb (to relax)
-
-**让人讨厌**
-* 让人: vb (to make someone)
-* 讨厌: vb (to hate)
-
-**让你退学**
-* 让你: vb (to make you)
-* 退学: vb (to drop out of school)
-
-**词语搭配**
-* 词语: n (word)
-* 搭配: vb (to match)
-
-**语言能力**
-* 语言: n (language)
-* 能力: n (ability)
-
-**谨言慎行**
-* 谨言: vb (to speak cautiously)
-* 慎行: vb (to act carefully)
-
-**负债累累**
-* 负债: vb (to be in debt)
-* 累累: adj (abundant)
-
-**资本主义**
-* 资本主义: n (capitalism)
-
-**辅修专业**
-* 辅修: vb (to minor in)
-* 专业: n (major)
-
-**输入密码**
-* 输入: vb (to input)
-* 密码: n (password)
-
-**辨音能力**
-* 辨音: vb (to distinguish sounds)
-* 能力: n (ability)
-
-**辩护律师**
-* 辩护: vb (to defend)
-* 律师: n (lawyer)
-
-**通读全文**
-* 通读: vb (to read through)
-* 全文: n (full text)
-
-**逻辑关系**
-* 逻辑: n (logic)
-* 关系: n (relationship)
-
-**酒肉朋友**
-* 酒肉: n (food and drink)
-* 朋友: n (friend)
-
-**金门大桥**
-* 金门大桥: n (Golden Gate Bridge)
-
-**阿拉伯语**
-* 阿拉伯语: n (Arabic)
-
-**零和社会**
-* 零和: n (zero-sum)
-* 社会: n/adj (society)
-
-**面临情况**
-* 面临: vb (to face)
-* 情况: n (situation)
-
-**音节辅音**
-* 音节: n (syllable)
-* 辅音: n (consonant)
-
-**食物中毒**
-* 食物: n (food)
-* 中毒: vb (to be poisoned)
-
-**香蕉蛞蝓**
-* 香蕉: n (banana)
-* 蛞蝓: n (slug)
-
-**骨肉相连**
-* 骨肉: n (flesh and blood)
-* 相连: vb (to be connected)
-
-**高速公路**
-* 高速: adj (high speed)
-* 公路: n (highway)
-
-**鹰嘴豆粉**
-* 鹰嘴豆: n (chickpea)
-* 粉: n (powder)
-
-**黄金法则**
-* 黄金: n (gold)
-* 法则: n (rule)
-
-**齿龈后音**
-* 齿龈: n (alveolar ridge)
-* 后音: n (post-alveolar)
-
-**一台手机**
-* 一台: measure (one)
-* 手机: n (mobile phone)
-
-**土茴香籽**
-* 土茴香: n (caraway)
-* 籽: n (seed)
-
-**堕落天使**
-* 堕落: vb (to fall)
-* 天使: n (angel) 
-
-Here's the breakdown of the part of speech for each Chinese word you provided:
-
-**日常生活**
-- 日常: adj
-- 生活: n
-
-**标点符号**
-- 标点: n
-- 符号: n
-
-**胡言乱语**
-- 胡: adj
-- 言: n
-- 乱: adj
-- 语: n
-
-**高低起伏**
-- 高: adj
-- 低: adj
-- 起伏: n/vb
-
-**三分之二**
-- 三: num
-- 分: measure
-- 之: particle
-- 二: num
-
-**用进废退 / 不用则废**
-- 用: vb
-- 进: vb
-- 废: vb
-- 退: vb
-- 不: adv
-- 用: vb
-- 则: conj
-- 废: vb
-
-**准时上课 = 按时上课**
-- 准时: adv
-- 上课: vb
-- 按: prep
-- 时: n
-- 上课: vb
-
-**哪儿穿得(?)出去呀？**
-- 哪儿: adv
-- 穿: vb
-- 得: modal particle
-- 出去: vb
-- 呀: interj
-
-**持之以恒(地)**
-- 持: vb
-- 之: particle
-- 以: prep
-- 恒: adj
-- 地: adv
-
-**我也最近-我最近也**
-- 我: pronoun
-- 也: adv
-- 最近: adv
-
-**我最近也...**
-- 我: pronoun
-- 最近: adv
-- 也: adv
-
-**颜色很深/ 浅**
-- 颜色: n
-- 很: adv
-- 深/ 浅: adj
-
-**感到开心/ 难过**
-- 感到: vb
-- 开心/ 难过: adj
-
-**收到礼物/ 快递**
-- 收到: vb
-- 礼物/ 快递: n
-
-**网上购物/ 网购**
-- 网上: adv
-- 购物/ 网购: n/vb
-
-**积累经验/ 财富/ 人脉**
-- 积累: vb
-- 经验/ 财富/ 人脉: n
-
-**获得赞美/ 一个奖🏆**
-- 获得: vb
-- 赞美/ 一个奖: n
-
-**投入时间/钱/...**
-- 投入: vb
-- 时间/钱: n
-
-**接受道歉/缺点/ 事实/ 新的想法**
-- 接受: vb
-- 道歉/缺点/ 事实/ 新的想法: n
-
-**“双十一”**
-- "双十一": n
-
-**一条商业街**
-- 一条: measure
-- 商业街: n
-
-**一直往前走**
-- 一直: adv
-- 往: prep
-- 前: adv
-- 走: vb
-
-**不管热不热**
-- 不管: conj
-- 热: adj
-- 不: adv
-- 热: adj
-
-**丰盛的晚餐**
-- 丰盛: adj
-- 的: particle
-- 晚餐: n
-
-**主要做什么**
-- 主要: adj
-- 做: vb
-- 什么: pronoun
-
-**丽莎叫醒我**
-- 丽莎: n
-- 叫醒: vb
-- 我: pronoun
-
-**乳糖不耐受**
-- 乳糖: n
-- 不耐受: adj
-
-**互相问问题**
-- 互相: adv
-- 问: vb
-- 问题: n
-
-**互联网大厂**
-- 互联网: n
-- 大厂: n
-
-**亚健康状态**
-- 亚: prefix
-- 健康: adj
-- 状态: n
-
-**亚裔美国人**
-- 亚: prefix
-- 裔: n
-- 美国: n
-- 人: n
-
-**交流新想法**
-- 交流: vb
-- 新: adj
-- 想法: n
-
-**人不可貌相**
-- 人: n
-- 不可: adv
-- 貌相: vb
-
-**什么东西？**
-- 什么: pronoun
-- 东西: n
-
-**作息不规律**
-- 作息: n
-- 不规律: adj
-
-**你太过分了**
-- 你: pronoun
-- 太: adv
-- 过分: adj
-- 了: particle
-
-**你怎么看？**
-- 你: pronoun
-- 怎么: adv
-- 看: vb
-
-**你觉得呢？**
-- 你: pronoun
-- 觉得: vb
-- 呢: particle
-
-**保险杠贴纸**
-- 保险杠: n
-- 贴纸: n
-
-**做得差不多**
-- 做: vb
-- 得: modal particle
-- 差不多: adv
-
-**做惯了羊的**
-- 做: vb
-- 惯: vb
-- 了: particle
-- 羊: n
-- 的: particle
-
-**关上（门）**
-- 关: vb
-- 上: vb
-- 门: n
-
-**几个星期前**
-- 几个: num
-- 星期: n
-- 前: adv
-
-**动物收容所**
-- 动物: n
-- 收容所: n
-
-**包括你说的**
-- 包括: vb
-- 你: pronoun
-- 说: vb
-- 的: particle
-
-**发一封邮件**
-- 发: vb
-- 一封: measure
-- 邮件: n
-
-**变得很健忘**
-- 变得: vb
-- 很: adv
-- 健忘: adj
-
-**变得更严格**
-- 变得: vb
-- 更: adv
-- 严格: adj
-
-**句号（。）**
-- 句号: n
-
-**另一个极端**
-- 另一个: pronoun
-- 极端: n
-
-**同一个世界**
-- 同一个: pronoun
-- 世界: n
-
-**同一家公司**
-- 同一家: pronoun
-- 公司: n
-
-**后果很严重**
-- 后果: n
-- 很: adv
-- 严重: adj
-
-**在内心深处**
-- 在: prep
-- 内心: n
-- 深处: n
-
-**在当地时间**
-- 在: prep
-- 当地: adj
-- 时间: n
-
-**天文望远镜**
-- 天文: n
-- 望远镜: n
-
-**学习的方向**
-- 学习: n/vb
-- 的: particle
-- 方向: n
-
-**安全型依附**
-- 安全: adj
-- 型: measure
-- 依附: n/vb
-
-**安第斯山脉**
-- 安第斯: n
-- 山脉: n
-
-**寄一个包裹**
-- 寄: vb
-- 一个: measure
-- 包裹: n
-
-**对他有礼貌**
-- 对: prep
-- 他: pronoun
-- 有礼貌: adj
-
-**对付一个人**
-- 对付: vb
-- 一个: measure
-- 人: n
-
-**对她耍脾气**
-- 对: prep
-- 她: pronoun
-- 耍脾气: vb
-
-**山地自行车**
-- 山地: n
-- 自行车: n
-
-**州（美国）**
-- 州: n
-
-**希望的灯塔**
-- 希望: n
-- 的: particle
-- 灯塔: n
-
-**常错的东西**
-- 常: adv
-- 错: adj
-- 的: particle
-- 东西: n
-
-**库尔德斯坦**
-- 库尔德斯坦: n
-
-**很会过日子**
-- 很: adv
-- 会: modal particle
-- 过日子: vb
-
-**律政俏佳人**
-- 律政: n
-- 俏佳人: n
-
-**心理咨询师**
-- 心理: n
-- 咨询师: n
-
-**性少数群体**
-- 性: n
-- 少数: adj
-- 群体: n
-
-**我很羡慕！**
-- 我: pronoun
-- 很: adv
-- 羡慕: adj
-- ！: interj
-
-**打扮（成）**
-- 打扮: vb
-- 成: prep
-
-**扩大社交圈**
-- 扩大: vb
-- 社交圈: n
-
-**报道和表述**
-- 报道: vb
-- 和: conj
-- 表述: vb
-
-**拉斯维加斯**
-- 拉斯维加斯: n
-
-**按道理来说**
-- 按: prep
-- 道理: n
-- 来说: vb
-
-**描写语言学**
-- 描写: vb
-- 语言学: n
-
-**摆拍的照片**
-- 摆拍: vb
-- 的: particle
-- 照片: n 
-
-Here's the part of speech breakdown for the provided Chinese words:
-
-**斯坦福大学:** n (Stanford University) 
-**是他的损失:** vb/adj (It's his loss) 
-**有原则的人:** n (A principled person) 
-**有毒的关系:** n (A toxic relationship) 
-**未来的十年:** n (The next ten years) 
-**本来的想法:** n (The original idea) 
-**来谷歌应聘:** vb (To apply for a job at Google) 
-**没什么所谓:** adv (It doesn't matter) 
-**游泳运动员:** n (Swimmer) 
-**焦虑型依附:** n (Anxious attachment) 
-**玩笑开大了:** vb (The joke went too far) 
-**理性和激情:** n (Reason and passion) 
-**生活的调料:** n (The spice of life) 
-**用手捂着脸:** vb (To cover one's face with hands) 
-**痛快地分手:** vb (To break up decisively) 
-**社交尴尬症:** n (Social anxiety) 
-**社会工作者:** n (Social worker) 
-**社会性消失:** n (Social disappearance) 
-**稍微等一下:** vb (Wait a moment) 
-**精神病学家:** n (Psychiatrist) 
-**精致的晚餐:** n (A refined dinner) 
-**精致的生活:** n (A refined life) 
-**素食主义者:** n (Vegetarian) 
-**纯素食主义:** n (Veganism) 
-**自身免疫病:** n (Autoimmune disease) 
-**蒜蓉辣椒酱:** n (Garlic chili sauce) 
-**薛定谔的猫:** n (Schrödinger's cat) 
-**被刺激到了:** vb (To be stimulated) 
-**计算机科学:** n (Computer science) 
-**讨好型人格:** n (People-pleasing personality) 
-**让人有共鸣:** vb (To resonate with people) 
-**让我好尴尬:** vb (It makes me really embarrassed) 
-**谁都不用见:** vb (Don't have to see anyone) 
-**足够的时间:** n (Enough time) 
-**跟她有共鸣:** vb (To resonate with her) 
-**车开得不好:** vb (To drive poorly) 
-**迟到十分钟:** vb (To be ten minutes late) 
-**适应新环境:** vb (To adapt to a new environment) 
-**逗号（，）:** n (Comma) 
-**金木水火土:** n (Gold, wood, water, fire, earth) 
-**阿姆斯特丹:** n (Amsterdam) 
-**阿拉伯数字:** n (Arabic numerals) 
-**随便扔垃圾:** vb (To throw garbage carelessly) 
-**随机的话题:** n (Random topics) 
-**非乡土社会:** n (Non-rural society) 
-**非裔美国人:** n (African American) 
-**鸡蛋碰石头:** n (Egg hitting a stone) 
-**名牌（意思#2）:** n (Brand name) 
-**失我的生活-失去我的电影:** n (My Life Lost - My Movie Lost) 
-**给你留下了...的印象:** vb (To leave you with an impression of...) 
-**我觉得很冷/热/不舒服:** vb (I feel cold/hot/uncomfortable) 
-**坐在椅子上/坐在地上:** vb (To sit on a chair/sit on the ground) 
-**科依桑语系/科伊桑语系:** n (Khoisan language family) 
-**不招聘很多人:** vb (Not hiring many people) 
-**丽莎改变了我:** vb (Lisa changed me) 
-**人身意外保险:** n (Personal accident insurance) 
-**他得了癌症。:** vb (He has cancer) 
-**会被别人笑话:** vb (Will be laughed at by others) 
-**你找对象吗？:** vb (Are you looking for a partner?) 
-**你搞得我很乱:** vb (You're making me confused) 
-**做房子的材料:** n (Materials for building a house) 
-**光线很晃眼睛:** adj (The light is very bright) 
-**全球气候变暖:** n (Global warming) 
-**全职（工作）:** n/adj (Full-time job/Full-time) 
-**判了一个案子:** vb (To judge a case) 
-**叙述一个故事:** vb (To tell a story) 
-**叫什么来着？:** vb (What was it called?) 
-**在你们行业中:** pp (In your industry) 
-**在我的脑海里:** pp (In my mind) 
-**基本归因谬误:** n (Fundamental attribution error) 
-**处理一些事情:** vb (To deal with some things) 
-**安身立命之本:** n (The foundation for one's life) 
-**对。。。失望:** vb (To be disappointed in...) 
-**对。。。满意:** vb (To be satisfied with...) 
-**对他们很热情:** adj (To be enthusiastic about them) 
-**对自己有信心:** vb (To be confident in oneself) 
-**尊重私人空间:** vb (To respect personal space) 
-**应聘这份工作:** vb (To apply for this job) 
-**开过分的玩笑:** vb (To make inappropriate jokes) 
-**得去个洗手间:** vb (Need to go to the bathroom)
-
-Please note that some words can have multiple parts of speech depending on context. 
-
-Here's the breakdown of the parts of speech for the provided Chinese words and phrases:
-
-**Words:**
-
-* 我们: pron (we)
-* 互相: adv (mutually)
-* 体谅: vb (understand, be considerate)
-* 差不多: adv (almost, nearly)
-* 高: adj (tall)
-* 我: pron (I)
-* 做: vb (do, make)
-* 你: pron (you)
-* 后盾: n (backstop, support)
-* 是: vb (be, am, is, are)
-* 研究: vb/n (research)
-* 的: particle (possessive)
-* 批判: vb (criticize)
-* 一个: measure (one)
-* 政客: n (politician)
-* 找到: vb (find)
-* 方法: n (method, way)
-* 探索: vb (explore)
-* 内心: n (inner heart)
-* 世界: n (world)
-* 提高: vb (improve)
-* 汉语: n (Chinese language)
-* 水平: n (level, standard)
-* 说话: vb (speak)
-* 能力: n (ability)
-* 改变: vb (change)
-* 你: pron (you)
-* 想法: n (thought, idea)
-* 改善: vb (improve)
-* 生活: n (life)
-* 习惯: n (habit)
-* 改良: vb (improve)
-* 产品: n (product)
-* 最后: adv (finally)
-* 一根: measure (one)
-* 稻草: n (straw)
-* 有: vb (have, there is/are)
-* 很好: adj (very good)
-* 关系: n (relationship)
-* 很长: adj (very long)
-* 历史: n (history)
-* 有规律: adj (regular)
-* 生活: n (life)
-* 潘多拉: n (Pandora)
-* 盒子: n (box)
-* 稍微: adv (slightly)
-* 有点儿: adv (a little)
-* 冷: adj (cold)
-* 米索不达米亚: n (Mesopotamia)
-* 纯素食: adj (vegan)
-* 主义者: n (ist, believer)
-* 给: prep (give to)
-* 人: n (person)
-* 解释: vb (explain)
-* 自然: adj (natural)
-* 语言: n (language)
-* 处理: vb/n (process)
-* 观赏: vb (admire, appreciate)
-* 性: adj (nature, characteristic)
-* 植物: n (plant)
-* 让: vb (let, make)
-* 更: adv (more)
-* 亲密: adj (intimate, close)
-* 让我: pron (make me)
-* 印象: n (impression)
-* 深刻: adj (deep)
-* 语言: n (language)
-* 系属: n (affiliation)
-* 分类: vb/n (classify)
-* 诺贝尔: n (Nobel)
-* 文学: n (literature)
-* 奖: n (award, prize)
-* 足迹: n (footprint, trace)
-* 遍布: vb (spread all over)
-* 美国: n (United States)
-* 路: n (road, path)
-* 通: vb (open, pass through)
-* 财: n (wealth)
-* 就: adv (then, so)
-* 身材: n (figure, physique)
-* 没有: vb (not have)
-* 曲线: n (curve)
-* 达罗毗荼: n (Dravidian)
-* 语系: n (language family)
-* 这部: pron (this)
-* 电影: n (movie)
-* 很火: adj (very popular)
-* 遇到: vb (meet, encounter)
-* 麻烦: n (trouble)
-* 事: n (matter, thing)
-* 那时候: adv (at that time)
-* 不知道: vb (not know)
-* 基本: adj (basic)
-* 归因: vb (attribute)
-* 错误: n (error, mistake)
-* FAE: n (Fundamental Attribution Error)
-* 丰富: vb (enrich)
-* 我: pron (I)
-* 差不多: adv (almost)
-* 学完: vb (finish learning)
-* HSK4: n (HSK Level 4)
-* 上世纪: adv (last century)
-* 五十年代: n (1950s)
-* 今年: n (this year)
-* 第一: num (first)
-* 场: measure (event, instance)
-* 雨: n (rain)
-* 从: prep (from)
-* 我: pron (I)
-* 角度: n (angle, perspective)
-* 上看: vb (look from)
-* 这个: pron (this)
-* 视角: n (perspective)
-* 他: pron (he)
-* 对: prep (to, towards)
-* 我: pron (I)
-* 有: vb (have)
-* 好: adj (good)
-* 印象: n (impression)
-* 已经: adv (already)
-* 付钱: vb (pay)
-* 了: particle (completion)
-* 他: pron (he)
-* 是: vb (be, is)
-* 性别: n (gender)
-* 歧视: vb (discriminate)
-* 者: n (person who does something)
-* 他: pron (he)
-* 每天: adv (every day)
-* 按时: adv (on time)
-* 睡觉: vb (sleep)
-* 你: pron (you)
-* 已经: adv (already)
-* 工作: vb/n (work)
-* 了: particle (completion)
-* 刘奶奶: n (Grandma Liu)
-* 去: vb (go)
-* 买: vb (buy)
-* 牛奶: n (milk)
-* 华裔: n (Chinese descent)
-* 美国人: n (American)
-* 叙述: vb (narrate, describe)
-* 自己: pron (oneself)
-* 经历: n (experience)
-* 在: prep (in, at)
-* 一段: measure (one)
-* 关系: n (relationship)
-* 里面: n (inside)
-* 对: prep (towards, to)
-* 感兴趣: vb (be interested in)
-* 差不多: adv (almost)
-* 一样: adv (same)
-* 聪明: adj (smart, intelligent)
-* 我: pron (I)
-* 不想: vb (not want)
-* 给: prep (give to)
-* 你: pron (you)
-* 剧透: vb (spoil, reveal plot)
-* 我的: pron (my)
-* 偶像: n (idol)
-* 塌房: vb (collapse, lose reputation)
-* 我: pron (I)
-* 被: particle (passive marker)
-* 谷歌: n (Google)
-* 录用: vb (hire, employ)
-* 把: particle (object marker)
-* 三只: num (three)
-* 小猫: n (kitten)
-* 留下: vb (leave behind)
-* 把: particle (object marker)
-* 我: pron (my)
-* 水杯: n (water cup)
-* 接满: vb (fill up)
-* 无论: conj (no matter)
-* 热: adj (hot)
-* 还是: conj (or)
-* 不热: adj (not hot)
-* 有: vb (have)
-* 做不完: vb (cannot finish)
-* 作业: n (homework, assignment)
-* 生活: n (life)
-* 要有: vb (need to have)
-* 仪式感: n (sense of ritual)
-* 省略: vb (omit, leave out)
-* 一些: measure (some)
-* 细节: n (detail)
-* 省略号: n (ellipsis)
-* 种下: vb (plant, sow)
-* 一颗: measure (one)
-* 种子: n (seed)
-* 稳定: adj (stable)
-* 的: particle (possessive)
-* 时间: n (time)
-* 安排: vb/n (arrangement)
-* 能: modal (can, be able to)
-* 接受: vb (accept)
-* 新: adj (new)
-* 的: particle (possessive)
-* 想法: n (thought, idea)
-* 著名: adj (famous)
-* 编剧: n (screenwriter)
-* 谈: vb (discuss)
-* 抄袭: vb/n (plagiarism)
-* 让我们: pron (let us)
-* 荡起: vb (row)
-* 双桨: n (double oars)
-* 话: n (words)
-* 不能: modal (cannot)
-* 说: vb (say)
-* 太早: adj (too early)
-* 足迹: n (footprint, trace)
-* 遍布: vb (spread all over)
-* 全世界: n (whole world)
-* 跟: prep (with)
-* 一个: measure (one)
-* 朋友: n (friend)
-* 说话: vb (speak)
-* 跟: prep (with)
-* 他们: pron (they)
-* 更: adv (more)
-* 熟悉: adj (familiar)
-* 这么说: vb (say like this)
-* 太过分: adj (too much, excessive)
-* 酒香: n (aroma of wine)
-* 不怕: vb (not fear)
-* 巷子: n (alley)
-* 深: adj (deep)
-* 难怪: adv (no wonder)
-* 你: pron (you)
-* 常常: adv (often)
-* 生病: vb (get sick)
-* 我: pron (I)
-* 原来: adj (original)
-* 的: particle (possessive)
-* 工作: n/vb (work)
-* 是: vb (be, is)
-* 我: pron (I)
-* 本来: adv (originally)
-* 的: particle (possessive)
-* 工作: n/vb (work)
-* 是: vb (be, is)
-* 对: prep (towards, to)
-* 有帮助: vb (be helpful)
-* 没帮助: vb (not be helpful)
-* 对: prep (towards, to)
-* 有影响: vb (have influence)
-* 有好的影响: vb (have a good influence)
-* 麻烦: vb (trouble)
-* 你: pron (you)
-* 帮帮我: vb (help me)
-* 请: vb (please)
-* 你: pron (you)
-* 帮帮我: vb (help me)
-* 一旦: conj (once)
-* 有了: vb (have)
-* 做: vb (do, be)
-* 狼: n (wolf)
-* 的: particle (possessive)
-* 心: n (heart)
-
-**Phrases:**
-
-* 我们互相体谅:  (We understand each other/we are considerate of each other) - This is a whole phrase, not a single word.
-* 我们差不多高:  (We are about the same height) - This is a whole phrase, not a single word.
-* 我做你的后盾:  (I'll be your backstop/support) - This is a whole phrase, not a single word.
-* 我是做研究的:  (I do research) - This is a whole phrase, not a single word.
-* 批判一个政客: (Criticize a politician) - This is a whole phrase, not a single word.
-* 找到一个方法: (Find a method/way) - This is a whole phrase, not a single word.
-* 探索内心世界: (Explore the inner world) - This is a whole phrase, not a single word.
-* 提高汉语水平: (Improve Chinese language level) - This is a whole phrase, not a single word.
-* 提高说话能力: (Improve speaking ability) - This is a whole phrase, not a single word.
-* 改变你的想法: (Change your thoughts/ideas) - This is a whole phrase, not a single word.
-* 改善生活习惯: (Improve living habits) - This is a whole phrase, not a single word.
-* 改良一个产品: (Improve a product) - This is a whole phrase, not a single word.
-* 最后一根稻草: (The last straw) - This is a whole phrase, not a single word.
-* 有很好的关系: (Have a very good relationship) - This is a whole phrase, not a single word.
-* 有很长的历史: (Have a very long history) - This is a whole phrase, not a single word.
-* 有规律的生活: (Have a regular life) - This is a whole phrase, not a single word.
-* 潘多拉的盒子: (Pandora's Box) - This is a whole phrase, not a single word.
-* 稍微有点儿冷: (Slightly a little bit cold) - This is a whole phrase, not a single word.
-* 米索不达米亚: (Mesopotamia) - This is a whole phrase, not a single word.
-* 纯素食主义者: (Vegan) - This is a whole phrase, not a single word.
-* 给一个人解释: (Explain to someone) - This is a whole phrase, not a single word.
-* 自然语言处理: (Natural Language Processing) - This is a whole phrase, not a single word.
-* 观赏性的植物: (Ornamental plants) - This is a whole phrase, not a single word.
-* 让关系更亲密: (Make the relationship closer) - This is a whole phrase, not a single word.
-* 让我印象深刻: (Make me impressed) - This is a whole phrase, not a single word.
-* 语言系属分类: (Language affiliation classification) - This is a whole phrase, not a single word.
-* 诺贝尔文学奖: (Nobel Prize in Literature) - This is a whole phrase, not a single word.
-* 足迹遍布美国: (Footprints spread all over the United States) - This is a whole phrase, not a single word.
-* 路通，财就通: (When the road is open, wealth will flow) - This is a whole phrase, not a single word.
-* 身材没有曲线: (The figure has no curves) - This is a whole phrase, not a single word.
-* 达罗毗荼语系: (Dravidian language family) - This is a whole phrase, not a single word.
-* 这部电影很火: (This movie is very popular) - This is a whole phrase, not a single word.
-* 遇到了麻烦事: (Encountered trouble) - This is a whole phrase, not a single word.
-* 那时候不知道: (Didn't know at that time) - This is a whole phrase, not a single word.
-* 基本归因错误(FAE): (Fundamental Attribution Error (FAE)) - This is a whole phrase, not a single word.
-* 丰富我的经历/ 生活/ 知识: (Enrich my experiences/life/knowledge) - This is a whole phrase, not a single word.
-* 我差不多学完HSK4了: (I've almost finished learning HSK4) - This is a whole phrase, not a single word.
-* 上世纪五十年代: (The 1950s of the last century) - This is a whole phrase, not a single word.
-* 今年的第一场雨: (The first rain of this year) - This is a whole phrase, not a single word.
-* 从我的角度上看: (From my perspective) - This is a whole phrase, not a single word.
-* 从这个视角上看: (From this perspective) - This is a whole phrase, not a single word.
-* 他对我有好印象: (He has a good impression of me) - This is a whole phrase, not a single word.
-* 他已经付钱了。: (He has already paid.) - This is a whole phrase, not a single word.
-* 他是性别歧视者: (He is a sexist) - This is a whole phrase, not a single word.
-* 他每天按时睡觉: (He goes to sleep on time every day) - This is a whole phrase, not a single word.
-* 你已经工作了？: (Have you already worked?) - This is a whole phrase, not a single word.
-* 刘奶奶去买牛奶: (Grandma Liu goes to buy milk) - This is a whole phrase, not a single word.
-* 华裔（美国人）: (Chinese American) - This is a whole phrase, not a single word.
-* 叙述自己的经历: (Narrate your own experience) - This is a whole phrase, not a single word.
-* 在一段关系里面: (Inside a relationship) - This is a whole phrase, not a single word.
-* 对。。。感兴趣: (Be interested in...) - This is a whole phrase, not a single word.
-* 差不多一样聪明: (Almost as smart) - This is a whole phrase, not a single word.
-* 我不想给你剧透: (I don't want to spoil it for you) - This is a whole phrase, not a single word.
-* 我的偶像塌房了: (My idol collapsed) - This is a whole phrase, not a single word.
-* 我被谷歌录用了: (I was hired by Google) - This is a whole phrase, not a single word.
-* 把三只小猫留下: (Leave the three kittens behind) - This is a whole phrase, not a single word.
-* 把我的水杯接满: (Fill up my water cup) - This is a whole phrase, not a single word.
-* 无论热还是不热: (No matter hot or not hot) - This is a whole phrase, not a single word.
-* 有做不完的作业: (Have endless homework) - This is a whole phrase, not a single word.
-* 生活要有仪式感: (Life needs to have a sense of ritual) - This is a whole phrase, not a single word.
-* 省略了一些细节: (Omitted some details) - This is a whole phrase, not a single word.
-* 省略号（……）: (Ellipsis (...)) - This is a whole phrase, not a single word.
-* 种下了一颗种子: (Planted a seed) - This is a whole phrase, not a single word.
-* 稳定的时间安排: (Stable time arrangement) - This is a whole phrase, not a single word.
-* 能接受新的想法: (Be able to accept new ideas) - This is a whole phrase, not a single word.
-* 著名编剧谈抄袭: (Famous screenwriter talks about plagiarism) - This is a whole phrase, not a single word.
-* 让我们荡起双桨: (Let's row our double oars) - This is a whole phrase, not a single word.
-* 话不能说得太早: (It's too early to say) - This is a whole phrase, not a single word.
-* 足迹遍布全世界: (Footprints spread all over the world) - This is a whole phrase, not a single word.
-* 跟一个朋友说话: (Talk to a friend) - This is a whole phrase, not a single word.
-* 跟他们更熟悉了: (Became more familiar with them) - This is a whole phrase, not a single word.
-* 这么说太过分: (Saying that is too much) - This is a whole phrase, not a single word.
-* 酒香不怕巷子深: (Good wine needs no bush) - This is a whole phrase, not a single word.
-* 难怪你常常生病: (No wonder you are often sick) - This is a whole phrase, not a single word.
-* 我原来的工作是...: (My previous job was...) - This is a whole phrase, not a single word.
-* 我本来的工作是...: (My original job was...) - This is a whole phrase, not a single word.
-* 对。。。有帮助/没帮助: (Be helpful/not helpful to...) - This is a whole phrase, not a single word.
-* 对。。。有影响/有好的影响: (Have influence/have a good influence on...) - This is a whole phrase, not a single word.
-* 麻烦你帮帮我。= 请你帮帮我。: (Please help me) - This is a whole phrase, not a single word.
-* 一旦有了做狼的心: (Once you have the heart to be a wolf) - This is a whole phrase, not a single word. 
-
-Here's a breakdown of the part of speech for each word/phrase you provided:
-
-**三生三世十里桃花:**
-* 三生三世: adj (three lives, three worlds)
-* 十里: measure (ten li, a unit of distance)
-* 桃花: n (peach blossom)
-
-**他有很强的幽默感:**
-* 他: pron (he)
-* 有: vb (have)
-* 很: adv (very)
-* 强: adj (strong)
-* 的: particle (possessive)
-* 幽默感: n (sense of humor)
-
-**你的看法是什么？:**
-* 你: pron (you)
-* 的: particle (possessive)
-* 看法: n (opinion)
-* 是: vb (be)
-* 什么: pron (what)
-* ？: interj (question mark)
-
-**土生土长的加州人:**
-* 土生土长: adj (native)
-* 的: particle (possessive)
-* 加州: n (California)
-* 人: n (person)
-
-**容忍（坏的东西）:**
-* 容忍: vb (tolerate)
-* (坏的东西): n (bad things)
-
-**工作的时候很投入:**
-* 工作: n/vb (work)
-* 的: particle (possessive)
-* 时候: n (time)
-* 很: adv (very)
-* 投入: adj/vb (dedicated/engage)
-
-**我今天表现得不错:**
-* 我: pron (I)
-* 今天: adv (today)
-* 表现: vb (perform)
-* 得: particle (aspect marker)
-* 不错: adj (not bad)
-
-**我从来都不喝酒。:**
-* 我: pron (I)
-* 从来: adv (never)
-* 都: adv (all)
-* 不: neg (not)
-* 喝酒: vb (drink alcohol)
-* 。: interj (period)
-
-**我很久没见过他们:**
-* 我: pron (I)
-* 很久: adv (for a long time)
-* 没: neg (not)
-* 见过: vb (seen)
-* 他们: pron (they)
-
-**时间安排得很紧张:**
-* 时间: n (time)
-* 安排: vb (arrange)
-* 得: particle (aspect marker)
-* 很: adv (very)
-* 紧张: adj (tight)
-
-**根据（消息来源）:**
-* 根据: pp (according to)
-* (消息来源): n (source)
-
-**用一张券兑换礼物:**
-* 用: pp (use)
-* 一张: measure (one)
-* 券: n (coupon)
-* 兑换: vb (exchange)
-* 礼物: n (gift)
-
-**用人民币兑换美元:**
-* 用: pp (use)
-* 人民币: n (Chinese yuan)
-* 兑换: vb (exchange)
-* 美元: n (US dollar)
-
-**虽然它十点才开始:**
-* 虽然: conj (although)
-* 它: pron (it)
-* 十点: n/adv (ten o'clock)
-* 才: adv (only then)
-* 开始: vb (start)
-
-**跟他们关系更好了:**
-* 跟: pp (with)
-* 他们: pron (they)
-* 关系: n (relationship)
-* 更: adv (more)
-* 好: adj (good)
-* 了: particle (perfective aspect)
-
-**一份朝九晚五的工作:**
-* 一份: measure (one)
-* 朝九晚五: adj (9 to 5)
-* 的: particle (possessive)
-* 工作: n (job)
-
-**他跟我差不多一样高:**
-* 他: pron (he)
-* 跟: pp (with)
-* 我: pron (I)
-* 差不多: adv (almost)
-* 一样: adj (same)
-* 高: adj (tall)
-
-**你有什么要补充的？:**
-* 你: pron (you)
-* 有: vb (have)
-* 什么: pron (what)
-* 要: vb (want)
-* 补充: vb (add)
-* 的: particle (possessive)
-* ？: interj (question mark)
-
-**太多说话，没有动作:**
-* 太多: adj (too much)
-* 说话: vb (talk)
-* ，: conj (comma)
-* 没有: neg (not)
-* 动作: n (action)
-
-**她要多陪陪她妈妈。:**
-* 她: pron (she)
-* 要: vb (want)
-* 多: adv (more)
-* 陪陪: vb (accompany)
-* 她: pron (she)
-* 妈妈: n (mom)
-* 。: interj (period)
-
-**对。。。感到很开心:**
-* 对: pp (towards)
-* ...: n (object)
-* 感到: vb (feel)
-* 很: adv (very)
-* 开心: adj (happy)
-
-**己所不欲，勿施于人:**
-* 己: pron (oneself)
-* 所: particle (possessive)
-* 不欲: vb (not want)
-* ，: conj (comma)
-* 勿: adv (don't)
-* 施于: pp (impose on)
-* 人: n (people)
-
-**我们的气候不够暖和:**
-* 我们: pron (we)
-* 的: particle (possessive)
-* 气候: n (climate)
-* 不够: adv (not enough)
-* 暖和: adj (warm)
-
-**我同意（你说的话）:**
-* 我: pron (I)
-* 同意: vb (agree)
-* (你说的话): n (what you said)
-
-**我在说我的一个朋友:**
-* 我: pron (I)
-* 在: pp (at)
-* 说: vb (talk about)
-* 我: pron (my)
-* 一个: measure (one)
-* 朋友: n (friend)
-
-**我被哈佛大学录取了:**
-* 我: pron (I)
-* 被: pp (by)
-* 哈佛大学: n (Harvard University)
-* 录取: vb (admit)
-* 了: particle (perfective aspect)
-
-**我跟妈妈的沟通很好:**
-* 我: pron (I)
-* 跟: pp (with)
-* 妈妈: n (mom)
-* 的: particle (possessive)
-* 沟通: n/vb (communication)
-* 很: adv (very)
-* 好: adj (good)
-
-**有一种被抱住的感觉:**
-* 有: vb (have)
-* 一种: measure (one kind of)
-* 被: pp (by)
-* 抱住: vb (hugged)
-* 的: particle (possessive)
-* 感觉: n (feeling)
-
-**由相同的事物组成的:**
-* 由: pp (by)
-* 相同: adj (same)
-* 的: particle (possessive)
-* 事物: n (thing)
-* 组成: vb (composed)
-
-**祸福无门，惟人自招:**
-* 祸福: n (fortune/misfortune)
-* 无门: adj (no door)
-* ，: conj (comma)
-* 惟: adv (only)
-* 人: n (person)
-* 自招: vb (invite oneself)
-
-**给他留下一个好印象:**
-* 给: pp (give)
-* 他: pron (he)
-* 留下: vb (leave)
-* 一个: measure (one)
-* 好: adj (good)
-* 印象: n (impression)
-
-**给你安排了一个房间:**
-* 给: pp (give)
-* 你: pron (you)
-* 安排: vb (arrange)
-* 了: particle (perfective aspect)
-* 一个: measure (one)
-* 房间: n (room)
-
-**讲普通话，写规范字:**
-* 讲: vb (speak)
-* 普通话: n (Mandarin)
-* ，: conj (comma)
-* 写: vb (write)
-* 规范字: n (standard characters)
-
-**谈恋爱的时候很投入:**
-* 谈恋爱: vb (fall in love)
-* 的: particle (possessive)
-* 时候: n (time)
-* 很: adv (very)
-* 投入: adj/vb (dedicated/engage)
-
-**这是最多人看的电影:**
-* 这: dem (this)
-* 是: vb (be)
-* 最多: adj (most)
-* 人: n (people)
-* 看: vb (watch)
-* 的: particle (possessive)
-* 电影: n (movie)
-
-**麻烦你不要说话！😠:**
-* 麻烦: adj (troublesome)
-* 你: pron (you)
-* 不要: neg (don't)
-* 说话: vb (talk)
-* ！: interj (exclamation mark)
-* 😠: interj (angry emoji)
-
-**太多说话，没有作动-动作:**
-* 太多: adj (too much)
-* 说话: vb (talk)
-* ，: conj (comma)
-* 没有: neg (not)
-* 作动: vb (act)
-* -动作: n (action) 
-
-**他去了专门的学校学Python:**
-* 他: pron (he)
-* 去: vb (go)
-* 了: particle (perfective aspect)
-* 专门: adj (specialized)
-* 的: particle (possessive)
-* 学校: n (school)
-* 学: vb (learn)
-* Python: n (programming language)
-
-**一下子给他们太多信息:**
-* 一下子: adv (at once)
-* 给: pp (give)
-* 他们: pron (they)
-* 太多: adj (too much)
-* 信息: n (information)
-
-**我专门去中国学汉语。:**
-* 我: pron (I)
-* 专门: adv (specifically)
-* 去: vb (go)
-* 中国: n (China)
-* 学: vb (learn)
-* 汉语: n (Chinese language)
-* 。: interj (period)
-
-**我从来都没学过中文。:**
-* 我: pron (I)
-* 从来: adv (never)
-* 都: adv (all)
-* 没: neg (not)
-* 学过: vb (learned)
-* 中文: n (Chinese language)
-* 。: interj (period)
-
-**我们一起喝酒喝个痛快:**
-* 我们: pron (we)
-* 一起: adv (together)
-* 喝酒: vb (drink alcohol)
-* 喝: vb (drink)
-* 个: measure (one)
-* 痛快: adj (thoroughly)
-
-**我喜欢你这样的朋友。:**
-* 我: pron (I)
-* 喜欢: vb (like)
-* 你: pron (you)
-* 这样: adv (like this)
-* 的: particle (possessive)
-* 朋友: n (friend)
-* 。: interj (period)
-
-**我就喜欢你这个朋友。:**
-* 我: pron (I)
-* 就: adv (just)
-* 喜欢: vb (like)
-* 你: pron (you)
-* 这个: dem (this)
-* 朋友: n (friend)
-* 。: interj (period)
-
-**把这个产品抹上你的脸:**
-* 把: particle (object marker)
-* 这个: dem (this)
-* 产品: n (product)
-* 抹: vb (apply)
-* 上: pp (onto)
-* 你: pron (your)
-* 的: particle (possessive)
-* 脸: n (face)
-
-**这是最多人看的电影:**
-* 这: dem (this)
-* 是: vb (be)
-* 最多: adj (most)
-* 人: n (people)
-* 看: vb (watch)
-* 的: particle (possessive)
-* 电影: n (movie)
-
-**他差不多跟我一样高（=他没有我那么高）:**
-* 他: pron (he)
-* 差不多: adv (almost)
-* 跟: pp (with)
-* 我: pron (I)
-* 一样: adj (same)
-* 高: adj (tall)
-* ( = 他没有我那么高): adj (he is not as tall as me)
-
-**义乌十八腔，隔溪不一样:**
-* 义乌十八腔: n (a type of local opera)
-* ，: conj (comma)
-* 隔溪: pp (across the stream)
-* 不一样: adj (different)
-
-**以写日记来探索内心世界:**
-* 以: pp (by)
-* 写日记: vb (write a diary)
-* 来: particle (purpose marker)
-* 探索: vb (explore)
-* 内心: n (inner heart)
-* 世界: n (world)
-
-**你喜欢什么类型的男生？:**
-* 你: pron (you)
-* 喜欢: vb (like)
-* 什么: pron (what)
-* 类型: n (type)
-* 的: particle (possessive)
-* 男生: n (boy)
-* ？: interj (question mark)
-
-**如果我们有小孩子的时候:**
-* 如果: conj (if)
-* 我们: pron (we)
-* 有: vb (have)
-* 小孩子: n (child)
-* 的: particle (possessive)
-* 时候: n (time)
-
-**每个人都是一个孤独的岛:**
-* 每个人: pron (everyone)
-* 都: adv (all)
-* 是: vb (be)
-* 一个: measure (one)
-* 孤独: adj (lonely)
-* 的: particle (possessive)
-* 岛: n (island)
-
-**要不是活的，要不是死的:**
-* 要不是: conj (unless)
-* 活: adj (alive)
-* 的: particle (possessive)
-* ，: conj (comma)
-* 要不是: conj (unless)
-* 死: adj (dead)
-* 的: particle (possessive)
-
-**她对我工作有很重要的影响:**
-* 她: pron (she)
-* 对: pp (towards)
-* 我: pron (my)
-* 工作: n/vb (work)
-* 有: vb (have)
-* 很: adv (very)
-* 重要: adj (important)
-* 的: particle (possessive)
-* 影响: n (influence)
-
-**对我的生活有帮助、有好处:**
-* 对: pp (towards)
-* 我: pron (my)
-* 生活: n (life)
-* 有: vb (have)
-* 帮助: n/vb (help)
-* 、: conj (comma)
-* 有: vb (have)
-* 好处: n (benefit)
-
-**我一直都学到很复杂的词。:**
-* 我: pron (I)
-* 一直: adv (always)
-* 都: adv (all)
-* 学: vb (learn)
-* 到: pp (to)
-* 很: adv (very)
-* 复杂: adj (complex)
-* 的: particle (possessive)
-* 词: n (word)
-* 。: interj (period)
-
-**美国很漂亮，尤其是加州。:**
-* 美国: n (America)
-* 很: adv (very)
-* 漂亮: adj (beautiful)
-* ，: conj (comma)
-* 尤其: adv (especially)
-* 是: vb (be)
-* 加州: n (California)
-* 。: interj (period)
-
-**跟一位我们共同的朋友约会:**
-* 跟: pp (with)
-* 一位: measure (one)
-* 我们: pron (our)
-* 共同: adj (shared)
-* 的: particle (possessive)
-* 朋友: n (friend)
-* 约会: vb (date)
-
-**我们做了一年半男女朋友了/我们做男女朋友做了一年半了:**
-* 我们: pron (we)
-* 做: vb (be)
-* 了: particle (perfective aspect)
-* 一年半: measure (one and a half years)
-* 男女朋友: n (boyfriend/girlfriend) 
-* /: conj (or) 
-* 我们: pron (we)
-* 做: vb (be)
-* 男女朋友: n (boyfriend/girlfriend)
-* 做: vb (be)
-* 了: particle (perfective aspect)
-* 一年半: measure (one and a half years)
-
-**在他成名前，他曾以卖艺为生:**
-* 在: pp (at)
-* 他: pron (he)
-* 成名: vb (become famous)
-* 前: n (before)
-* ，: conj (comma)
-* 他: pron (he)
-* 曾: adv (once)
-* 以: pp (by)
-* 卖艺: vb (perform for money)
-* 为生: vb (make a living)
-
-**我们要互相学习，互相帮助。:**
-* 我们: pron (we)
-* 要: vb (want)
-* 互相: adv (mutually)
-* 学习: vb (learn)
-* ，: conj (comma)
-* 互相: adv (mutually)
-* 帮助: vb (help)
-* 。: interj (period)
-
-**用信用卡积分兑换一个行李箱:**
-* 用: pp (use)
-* 信用卡: n (credit card)
-* 积分: n (points)
-* 兑换: vb (exchange)
-* 一个: measure (one)
-* 行李箱: n (suitcase)
-
-**我们做了十一年（～个）朋友了/我们做朋友做了十一年了:**
-* 我们: pron (we)
-* 做: vb (be)
-* 了: particle (perfective aspect)
-* 十一年: measure (eleven years)
-* (～个): measure (one)
-* 朋友: n (friend)
-* /: conj (or)
-* 我们: pron (we)
-* 做: vb (be)
-* 朋友: n (friend)
-* 做: vb (be)
-* 了: particle (perfective aspect)
-* 十一年: measure (eleven years)
-
-**一家好的公司给员工提供医疗保险:**
-* 一家: measure (one)
-* 好: adj (good)
-* 的: particle (possessive)
-* 公司: n (company)
-* 给: pp (give)
-* 员工: n (employee)
-* 提供: vb (provide)
-* 医疗保险: n (health insurance)
-
-**学语言不能只听歌，而要多说多练。:**
-* 学: vb (learn)
-* 语言: n (language)
-* 不能: neg (cannot)
-* 只: adv (only)
-* 听歌: vb (listen to songs)
-* ，: conj (comma)
-* 而: conj (but)
-* 要: vb (want)
-* 多: adv (more)
-* 说: vb (speak)
-* 多: adv (more)
-* 练: vb (practice)
-* 。: interj (period)
-
-**我很喜欢中国菜，特别是广东菜。:**
-* 我: pron (I)
-* 很: adv (very)
-* 喜欢: vb (like)
-* 中国菜: n (Chinese food)
-* ，: conj (comma)
-* 特别: adv (especially)
-* 是: vb (be)
-* 广东菜: n (Cantonese food)
-* 。: interj (period)
-
-**我迟到了，可是今天路上车太多了:**
-* 我: pron (I)
-* 迟到: vb (be late)
-* 了: particle (perfective aspect)
-* ，: conj (comma)
-* 可是: conj (but)
-* 今天: adv (today)
-* 路上: n (on the road)
-* 车: n (car)
-* 太多: adj (too much)
-* 了: particle (perfective aspect)
-
-**我给丽莎介绍了跟我一起唱歌的朋友:**
-* 我: pron (I)
-* 给: pp (give)
-* 丽莎: n (Lisa)
-* 介绍: vb (introduce)
-* 了: particle (perfective aspect)
-* 跟: pp (with)
-* 我: pron (I)
-* 一起: adv (together)
-* 唱歌: vb (sing)
-* 的: particle (possessive)
-* 朋友: n (friend)
-
-**这些词我都不会，何况我的学生呢！:**
-* 这些: dem (these)
-* 词: n (word)
-* 我: pron (I)
-* 都: adv (all)
-* 不: neg (not)
-* 会: vb (know)
-* ，: conj (comma)
-* 何况: conj (let alone)
-* 我: pron (my)
-* 的: particle (possessive)
-* 学生: n (student)
-* 呢: particle (interrogative)
-* ！: interj (exclamation mark)
-
-**如果出现什么问题，你可以跟我沟通。:**
-* 如果: conj (if)
-* 出现: vb (appear)
-* 什么: pron (what)
-* 问题: n (problem)
-* ，: conj (comma)
-* 你: pron (you)
-* 可以: aux (can)
-* 跟: pp (with)
-* 我: pron (I)
-* 沟通: vb (communicate)
-* 。: interj (period)
-
-**这些食品不太符合中国食品安全的标准:**
-* 这些: dem (these)
-* 食品: n (food)
-* 不太: adv (not very)
-* 符合: vb (conform to)
-* 中国: n (China)
-* 食品安全: n (food safety)
-* 的: particle (possessive)
-* 标准: n (standard)
-
-**我们朋友一场，你需要帮忙直接跟我说。:**
-* 我们: pron (we)
-* 朋友: n (friend)
-* 一场: measure (one time)
-* ，: conj (comma)
-* 你: pron (you)
-* 需要: vb (need)
-* 帮忙: vb (help)
-* 直接: adv (directly)
-* 跟: pp (with)
-* 我: pron (I)
-* 说: vb (say)
-* 。: interj (period)
-
-**你要找到自己的生活方向，而不要早早结婚:**
-* 你: pron (you)
-* 要: vb (want)
-* 找到: vb (find)
-* 自己: pron (oneself)
-* 的: particle (possessive)
-* 生活: n (life)
-* 方向: n (direction)
-* ，: conj (comma)
-* 而: conj (but)
-* 不要: neg (don't)
-* 早早: adv (early)
-* 结婚: vb (marry)
-
-**古代的中国，男人耕地，而女人在家织衣服:**
-* 古代: n (ancient times)
-* 的: particle (possessive)
-* 中国: n (China)
-* ，: conj (comma)
-* 男人: n (man)
-* 耕地: vb (plow the field)
-* ，: conj (comma)
-* 而: conj (but)
-* 女人: n (woman)
-* 在家: adv (at home)
-* 织衣服: vb (weave clothes)
-
-**我刚领养他的时候，他只有两个月（大）。:**
-* 我: pron (I)
-* 刚: adv (just)
-* 领养: vb (adopt)
-* 他: pron (he)
-* 的: particle (possessive)
-* 时候: n (time)
-* ，: conj (comma)
-* 他: pron (he)
-* 只有: adv (only)
-* 两个月: measure (two months)
-* (大): adj (old)
-* 。: interj (period)
-
-**他告诉我要认真工作，他自己却每天打游戏。:**
-* 他: pron (he)
-* 告诉: vb (tell)
-* 我: pron (I)
-* 要: vb (want)
-* 认真: adv (seriously)
-* 工作: vb (work)
-* ，: conj (comma)
-* 他自己: pron (himself)
-* 却: conj (but)
-* 每天: adv (everyday)
-* 打游戏: vb (play video games)
-* 。: interj (period)
-
-**你与其每天不高兴，还不如做做让你开心的事情。:**
-* 你: pron (you)
-* 与其: conj (rather than)
-* 每天: adv (everyday)
-* 不高兴: adj (unhappy)
-* ，: conj (comma)
-* 还不如: conj (better)
-* 做做: vb (do)
-* 让你: vb (make you)
-* 开心: adj (happy)
-* 的: particle (possessive)
-* 事情: n (thing)
-* 。: interj (period)
-
-**对不起，我帮不了你，不过你可以问问别的同事。:**
-* 对不起: interj (sorry)
-* ，: conj (comma)
-* 我: pron (I)
-* 帮: vb (help)
-* 不: neg (not)
-* 了: particle (perfective aspect)
-* 你: pron (you)
-* ，: conj (comma)
-* 不过: conj (but)
-* 你: pron (you)
-* 可以: aux (can)
-* 问问: vb (ask)
-* 别: adj (other)
-* 的: particle (possessive)
-* 同事: n (colleague)
-* 。: interj (period)
-
-**上线一个模型之前，我非常忙，甚至没有时间吃饭。:**
-* 上线: vb (go online)
-* 一个: measure (one)
-* 模型: n (model)
-* 之前: n (before)
-* ，: conj (comma)
-* 我: pron (I)
-* 非常: adv (very)
-* 忙: adj (busy)
-* ，: conj (comma)
-* 甚至: adv (even)
-* 没有: neg (not)
-* 时间: n (time)
-* 吃饭: vb (eat)
-* 。: interj (period)
-
-**公司最近很忙，我是一个懒人，但是现在连我都开始努力工作了。:**
-* 公司: n (company)
-* 最近: adv (recently)
-* 很: adv (very)
-* 忙: adj (busy)
-* ，: conj (comma)
-* 我: pron (I)
-* 是: vb (be)
-* 一个: measure (one)
-* 懒人: n (lazy person)
-* ，: conj (comma)
-* 但是: conj (but)
-* 现在: adv (now)
-* 连: adv (even)
-* 我: pron (I)
-* 都: adv (all)
-* 开始: vb (start)
-* 努力: adv (hard)
-* 工作: vb (work)
-* 了: particle (perfective aspect)
-* 。: interj (period) 
+判	vb/n
+剪	vb/n
+卵	n
+发	vb/n
+叫	vb/n
+吐	vb/n
+咬	vb/n
+咸	adj
+响	adj/vb/n
+喂	vb/n
+圣	n/adj
+夸	vb
+奖	n/vb
+寄	vb/n
+州	n
+建	vb/n
+式	n
+弦	n
+弱	adj
+强	adj/vb
+当	vb/adj/adv/n
+扫	vb/n
+拆	vb/n
+招	n/vb
+插	vb/n
+搭	vb/n
+摘	vb/n
+撩	vb
+收	vb/n
+敏	adj/n
+敢	adj/vb
+数	vb/n/adj
+是	vb/adj
+枪	n
+梗	n
+波	n
+流	vb/n
+浅	adj
+海	n
+湿	adj/vb
+漏	vb/n
+炒	vb/n
+炸	vb/n
+点	vb/n/measure
+烤	vb/n
+煎	vb/n
+熟	adj/vb
+牛	n
+狼	n
+猜	vb/n
+生	adj/vb/n
+盾	n
+省	n/vb
+矛	n
+硬	adj/vb
+税	n
+粗	adj/n
+粥	n
+糊	adj/vb
+细	adj/n
+聊	vb/n
+聚	vb/n
+肝	n
+肾	n
+胃	n
+背	n/vb
+腰	n
+舔	vb
+薄	adj
+虾	n
+蛋	n
+误	vb/n/adj
+说	vb
+躺	vb/n
+转	vb/n
+软	adj
+醉	adj/vb
+锣	n
+音	n
+代	n/vb 
+
+敲	vb
+一切	n/pron/adv
+一旦	conj/adv
+一直	adv
+一集	n/measure
+丈夫	n
+上传	vb
+上火	vb
+上线	vb
+下期	n
+不安	adj/n
+不断	adj/adv
+不论	conj/adv
+不足	adj/n
+不过	conj/adv
+专业	adj/n
+专家	n
+专心	adj/n/vb
+专门	adj/adv/vb
+世俗	adj/n
+世界	n
+世纪	n
+东亚	n
+东岸	n
+丢失	vb
+严格	adj/adv
+严肃	adj/n
+中东	n
+中式	adj
+中性	adj/n
+中风	n/vb
+丹麦	n
+为了	pp
+主动	adj/n/vb
+主席	n
+主教	n
+主要	adj/adv/n
+主观	adj/n
+主角	n
+主语	n
+举手	vb
+举报	vb
+举重	vb
+义乌	n
+乐器	n
+乐观	adj/n
+乐队	n
+习得	vb
+习惯	n/vb
+乡村	n
+书柜	n
+买单	vb
+买方	n
+了解	vb
+争取	vb
+事业	n
+事实	n
+互相	adv
+亚洲	n
+交叉	vb/n
+交换	vb/n
+交流	vb/n
+交税	vb
+交通	n
+享受	vb
+亲密	adj/n
+亲情	n
+亲戚	n
+人们	n
+人才	n
+人民	n
+人生	n
+人脉	n
+付出	vb
+付钱	vb
+仙子	n
+代替	vb
+代码	n
+代笔	vb/n
+代表	n/vb 
+
+代词	n
+代购	vb/n
+仪式	n
+价值	n/vb
+价格	n
+伏笔	n
+休假	n/vb
+优点	n
+优秀	adj/n
+会计	n/vb
+会议	n
+传统	n/adj
+伤口	n
+伤害	n/vb
+伪装	n/vb
+伴侣	n
+似乎	adv
+位置	n
+低调	adj/adv
+体力	n
+体现	vb
+体谅	vb
+体重	n
+体验	n/vb
+何况	conj
+佛教	n
+作家	n
+你呀	pron
+侄女	n
+侄子	n
+例子	n
+侥幸	adj/n
+侵略	n/vb
+俄语	n
+俏皮	adj/n
+俗语	n
+保姆	n
+保存	vb
+保护	vb
+保持	vb
+信仰	n/vb
+信任	n/vb
+倒下	vb
+借口	n/vb
+值得	adj/vb
+假如	conj
+假定	vb
+假期	n
+假装	vb
+做作	adj/vb
+做客	vb
+做梦	vb
+健康	adj/n
+健身	vb
+偶像	n
+偶然	adv
+偷听	vb
+傻逼	n/adj
+元素	n
+元音	n
+兄长	n
+充电	vb/n
+光谱	n
+入口	n
+全职	adj/n
+全音	n
+公厕	n
+公司	n
+公安	n
+公寓	n
+公平	adj/n
+公开	adj/vb
+公式	n
+公母	n
+关于	pp
+关心	vb
+关注	vb/n
+关系	n/vb
+关键	adj/n
+典型	adj/n
+
+养活	vb
+养猫	vb
+兼职	n/adj/vb
+兽医	n
+内向	adj
+内容	n
+内耗	n
+再会	interj/vb
+冒号	n
+冒险	n/vb
+军队	n
+农业	n
+农民	n
+农田	n
+冥想	n/vb
+冬天	n
+冬眠	n/vb
+冰川	n
+冰沙	n
+冲突	n/vb
+决定	n/vb
+冷漠	adj/n
+准时	adj/adv
+准确	adj/adv
+凌晨	n
+出发	vb
+出口	n
+出国	vb
+出现	vb
+出轨	vb
+分享	vb/n
+分号	n
+分担	vb
+分析	vb/n
+分辨	vb
+刑法	n
+创业	vb/n
+初中	n
+删除	vb
+判决	n/vb
+判断	n/vb
+别致	adj
+刷剧	vb
+刻薄	adj
+前排	n
+前端	n/adj
+剑鱼	n
+剧本	n
+剧透	vb/n
+剧院	n
+副词	n
+力量	n
+办法	n
+加入	vb
+加州	n
+加强	vb
+动力	n
+动词	n
+包含	vb
+包围	vb
+包容	vb/n
+包括	vb
+化解	vb
+北京	n
+北边	n
+匿名	adj/n
+午夜	n
+半年	n
+半音	n
+华人	n
+华裔	n
+单位	n
+单独	adj/adv
+卖方	n
+卖艺	vb
+南京	n
+博主	n
+博士	n
+占星	n/vb
+占领	vb
+
+卡车	n
+印象	n/vb
+卷入	vb
+卷发	n
+历史	n
+历经	vb
+压力	n
+原则	n
+原因	n
+原来	adj/adv
+原版	n
+厨房	n
+县城	n
+参加	vb
+及时	adj/adv
+友好	adj
+友情	n
+友谊	n
+反应	n/vb
+发圈	n
+发现	vb
+发生	vb
+发票	n
+发达	adj/vb
+发音	n/vb
+取消	vb
+变化	n/vb
+变性	vb
+叙述	vb/n
+口味	n
+口语	n
+口音	n
+古代	adj/n
+召唤	vb
+可怕	adj
+可惜	adj/adv
+可数	adj
+可能	adj/adv/n
+可靠	adj/adv/n
+台湾	n
+台灯	n
+台风	n
+司机	n
+吃素	vb
+各种	adj
+合作	vb/n
+合法	adj
+合适	adj
+吊瓶	n
+同事	n
+名词	n
+后天	n
+后排	n
+后果	n
+后端	n
+后院	n
+否则	conj
+否定	vb/n
+听力	n
+吵架	vb
+吸引	vb
+吸毒	vb
+告诉	vb
+员工	n
+周围	n/adv
+味道	n
+命案	n
+咒语	n
+咪雅	n
+咬肌	n
+咽化	vb
+咽音	n
+品味	n/vb
+哲学	n
+唐朝	n
+唠嗑	vb
+唤醒	vb
+唯独	adv
+商业	n
+商科	n 
+
+善良	adj
+嘹亮	adj
+回复	vb/n
+回头	vb
+回家	vb
+回答	vb/n
+回见	vb
+因为	conj
+因果	n/vb
+团队	n
+困惑	n/adj/vb
+困难	n/adj/vb
+围墙	n
+围裙	n
+国际	adj/n
+土猫	n
+土著	n/adj
+土豪	n
+圣木	n
+圣经	n
+在乎	vb
+地图	n
+地标	n
+地毯	n
+坍塌	vb/n
+坏处	n
+坐牢	vb
+坦然	adj/adv
+垫子	n
+埃及	n
+培育	vb
+基因	n
+基础	n/adj
+堕胎	vb/n
+堕落	vb/n/adj
+塞音	n
+墓碑	n
+墨鱼	n
+复习	vb/n
+复制	vb/n
+复杂	adj/n/vb
+复活	vb/n
+夏天	n
+外人	n
+外在	adj/n
+外套	n
+外语	n
+外貌	n
+多元	adj/n
+大会	n
+大方	adj/adv
+大陆	n
+天气	n
+天津	n
+天然	adj
+天赋	n
+天黑	vb
+夫妇	n
+失去	vb
+头皮	n
+夸张	adj/vb
+奇妙	adj/n
+奇特	adj/n
+奇观	n
+奖励	n/vb
+奴才	n
+好坏	adj/n
+好处	n
+好奇	adj/vb
+好客	adj
+妥协	vb/n
+婚礼	n
+子女	n
+字体	n
+字幕	n
+存在	vb/n
+存钱	vb
+孤独	adj/n
+学期	n
+学术	n/adj
+
+学渣	n
+学霸	n
+守旧	adj/vb
+安慰	vb/n
+安抚	vb/n
+安排	vb/n
+完整	adj
+宗教	n
+官方	adj/n
+定义	n/vb
+定居	vb
+实习	n/vb
+宠坏	vb
+审判	vb/n
+审核	vb/n
+审美	n/vb
+客观	adj/n
+宣传	vb/n
+室友	n
+家乡	n
+家人	n
+家务	n
+家庭	n
+家族	n
+宾语	n
+富人	n
+富裕	adj/n
+寒假	n
+对待	vb
+对方	n/pron
+对比	vb/n
+对称	adj
+对象	n
+对面	n/adv
+寺庙	n
+寻求	vb
+寿司	n
+寿命	n
+封闭	adj/vb
+将军	n
+将来	n/adv
+尊重	n/vb
+小众	n/adj
+小气	adj
+小篆	n
+小费	n
+尝尝	vb
+尴尬	adj/n
+居民	n
+展示	vb/n
+山羊	n
+山脉	n
+山脊	n
+山脚	n
+山腰	n
+山顶	n
+岁数	n
+崩溃	vb/n
+川普	n
+巡抚	n
+工业	n
+工作	n/vb
+工具	n
+工资	n
+巧了	interj/adj
+巧合	n
+差别	n
+已经	adv
+市场	n
+布置	vb/n
+师徒	n
+师父	n
+希望	n/vb
+帖子	n
+帝国	n
+带头	vb
+常见	adj
+平台	n
+平时	adv
+平淡	adj 
+
+平静	adj/n/vb
+年代	n
+年龄	n
+幸福	n/adj
+幸运	adj/n/vb
+广泛	adj/adv
+庇护	n/vb
+应战	vb
+应用	n/vb
+应聘	vb
+底部	n
+庭院	n
+延迟	n/vb
+建筑	n/vb
+建议	n/vb
+开会	vb
+开发	n/vb
+开心	adj/vb
+弥补	vb
+强令	vb
+强奸	vb
+当做	vb
+当地	adj/n/adv
+当成	vb
+当时	adv
+录取	vb
+录音	n/vb
+形容	vb
+形象	n/vb
+影响	n/vb
+很烦	adj
+律师	n
+律法	n
+徒步	n/vb
+微妙	adj
+心态	n
+心水	n
+必须	adj/vb
+忍着	vb
+志向	n
+忧伤	n/adj
+快乐	n/adj
+怀孕	vb
+怀念	vb
+怀疑	n/vb
+思维	n/vb
+思考	n/vb
+性情	n
+性格	n
+性质	n
+恐惧	n/vb
+恒星	n
+恰好	adv
+恶心	adj/n/vb
+悲剧	n/adj
+情侣	n
+情况	n
+情绪	n
+情节	n
+惊讶	adj/vb
+愉快	adj
+愉悦	adj/vb
+意义	n
+意外	n/adj
+意识	n/vb
+感人	adj/vb
+感动	vb
+感受	n/vb
+感应	n/vb
+感觉	n/vb
+愿意	adj/vb
+慢热	adj/vb
+成为	vb
+成人	n/vb
+成熟	adj/vb
+成语	n
+戒指	n
+戒毒	n/vb
+战争	n
+截图	n/vb
+
+房间	n
+所以	conj/adv
+所做	n/vb
+所在	adj/adv/n
+手指	n
+手腕	n
+手语	n
+才华	n
+打印	vb/n
+打工	vb/n
+打折	vb/n
+打断	vb
+打架	vb/n
+打钩	vb
+打鼾	vb
+扶手	n
+批判	vb/n
+批评	vb/n
+承诺	n/vb
+技术	n
+抄袭	vb/n
+投入	vb/n
+投票	vb/n
+抗议	vb/n
+抚养	vb
+抢亲	vb
+报告	n/vb
+报销	vb
+抽样	vb/n
+拉伸	vb
+拍照	vb
+拒绝	vb
+招聘	vb/n
+拥挤	adj/n
+持续	vb/adj
+指甲	n
+按摩	n/vb
+挑水	vb
+振动	n/vb
+换季	vb
+换算	vb
+排队	vb/n
+探索	vb/n
+接受	vb
+控制	vb/n
+推荐	vb/n
+推迟	vb
+描述	n/vb
+提到	vb
+提前	adv
+提示	n/vb
+提醒	vb
+提高	vb
+插件	n
+插座	n
+插队	vb
+揣测	vb
+搅拌	vb
+搞乱	vb
+搞混	vb
+搞笑	adj/vb
+搬到	vb
+搭配	vb/n
+摆着	vb/adj
+撒谎	vb
+播客	n
+操纵	vb
+擦音	vb
+支付	vb
+支出	n/vb
+支票	n
+收据	n
+收藏	vb/n
+改正	vb
+放假	vb
+放大	vb
+放弃	vb
+放松	vb
+放牛	vb
+政客	n 
+
+政府	n
+政治	n
+政策	n
+故意	adv/adj/vb
+效果	n
+敏感	adj/n
+教会	n/vb
+教堂	n
+教授	n/vb
+教练	n/vb
+教育	n/vb
+散漫	adj
+数据	n
+数数	vb
+数量	n
+敲字	vb
+敲门	vb
+整齐	adj
+文件	n
+文具	n
+文学	n
+文章	n
+料子	n
+新手	n
+新教	n
+新鲜	adj
+方向	n
+方式	n
+方法	n
+方言	n
+方面	n
+旅游	n/vb
+旅行	n/vb
+旋律	n
+无知	adj/n
+无聊	adj
+既然	conj
+日剧	n
+日历	n
+日料	n
+日程	n
+日落	n
+日食	n
+早点	n
+时尚	n/adj
+时薪	n
+明明	adv
+明显	adj
+春天	n
+晒黑	vb
+普通	adj/n
+暑假	n
+暖和	adj
+暖气	n
+曾经	adv
+最近	adv
+月薪	n
+有趣	adj
+服务	n/vb
+未来	n
+本地	adj/n
+机会	n
+机考	n
+杀手	n
+杀死	vb
+杂草	n
+权利	n
+权力	n
+村子	n
+村庄	n
+村里	n
+条件	n
+来自	vb/pp
+枪手	n
+某事	n
+某人	n
+柿子	n
+标准	n/adj
+标语	n
+树根	n
+
+校内	n/adj
+校园	n
+校外	n/adj
+桂花	n
+桌子	n
+梦到	vb
+梳子	n
+梵语	n
+棕色	n/adj
+棘手	adj/n
+森林	n
+棺材	n
+椰枣	n
+榨汁	vb/n
+樱桃	n
+橘猫	n
+次要	adj/adv
+次货	n
+欢迎	vb/adj/n
+欣赏	vb/n
+欧元	n
+欧洲	n
+欧盟	n
+欧美	n
+欺负	vb
+正宗	adj/n
+正式	adj/adv/n
+正念	n/adj
+正确	adj/adv
+步骤	n
+武术	n
+歧视	vb/n
+残忍	adj/n
+残酷	adj/n
+比起	prep
+毛毯	n
+毛衣	n
+民主	n/adj
+民宿	n
+民法	n
+气度	n
+气氛	n
+气球	n
+水槽	n
+水疗	n
+永远	adv
+求婚	vb/n
+汉族	n
+沉浸	vb/n
+沙漠	n
+沟通	vb/n
+沪语	n
+法官	n
+法庭	n
+法律	n
+泡沫	n
+泡泡	n
+泡茶	vb
+泡面	vb/n
+泥板	n
+注册	vb/n
+注释	n/vb
+泰语	n
+活动	n/vb
+流利	adj/adv
+流星	n
+流汗	vb
+流血	vb
+流行	adj/n/vb
+流通	vb/n
+测评	n/vb
+浙江	n
+浴袍	n
+海鲈	n
+海鲜	n
+消失	vb/n
+消息	n
+消耗	vb/n
+消费	vb/n
+淡水	n/adj 
+
+深刻	adj/vb
+清真	adj/n
+清蒸	vb
+渣男	n
+温泉	n
+温馨	adj
+游客	n
+湾区	n
+演员	n
+潜力	n
+澳洲	n
+激情	n/adj/vb
+火盆	n
+火警	n
+灵魂	n
+灾难	n
+炫耀	vb/n
+炸弹	n
+点心	n
+点赞	vb/n
+烤箱	n
+烦恼	n/vb
+烧水	vb
+热心	adj/n
+热情	adj/n
+然而	conj
+煤气	n
+照顾	vb
+熬夜	vb
+燃料	n
+爆炸	vb/n
+爬山	vb
+爱好	n/vb
+爱情	n
+爱玩	adj/vb
+版本	n
+牌子	n
+牡蛎	n
+物体	n
+物理	n/adj
+特征	n
+特色	n/adj
+特质	n
+犯罪	n/vb
+状态	n
+狩猎	vb/n
+独特	adj
+独立	adj/n
+猜想	vb/n
+猥琐	adj
+猫粮	n
+环境	n
+现代	adj/n
+现象	n
+理性	n/adj
+理由	n
+理解	vb/n
+理论	n
+瑜伽	n
+生命	n
+生存	vb/n
+生活	n/vb
+生肖	n
+生词	n
+申请	vb/n
+电梯	n
+电池	n
+画家	n
+画画	vb/n
+留言	n/vb
+疲劳	n/adj
+病床	n
+症状	n
+痕迹	n
+痛快	adj/vb
+痛苦	n/adj
+癌症	n
+白塔	n
+白菜	n
+白领	n 
+
+盔甲	n
+目标	n/vb
+直接	adj/adv
+直播	n/vb
+直男	n
+直觉	n
+相信	vb
+相反	adj/adv
+相处	vb
+相爱	vb
+看法	n
+真正	adj/adv
+真诚	adj/adv/n
+眼中	n
+眼影	n
+睡衣	n
+睫毛	n
+瞎扯	vb
+瞎说	vb
+矛盾	n/adj
+知识	n
+石头	n
+破产	n/vb
+破案	vb
+破解	vb
+硅谷	n
+硕士	n
+确实	adj/adv
+碰见	vb
+磨砂	n/adj
+礼堂	n
+社会	n
+社区	n
+祈祷	vb
+祖传	adj
+祖先	n
+祖宗	n
+祝福	n/vb
+神殿	n
+神经	n
+离婚	n/vb
+秋天	n
+种族	n
+科目	n
+秘书	n
+积累	vb/n
+移民	n/vb
+稳定	adj/n/vb
+穷人	n
+空调	n
+窗帘	n
+立体	adj
+立法	n/vb
+竞争	n/vb
+笑话	n/vb
+笔名	n
+笔试	n/vb
+符号	n
+笼子	n
+答案	n
+签证	n
+算了	vb
+算是	vb
+籍贯	n
+类似	adj/adv
+类型	n
+粉末	n
+粗鲁	adj
+粘贴	vb/n
+粤菜	n
+精神	n/adj
+精致	adj
+系统	n
+素质	n
+素食	n
+纠正	vb
+约会	n/vb
+纯律	n
+纳粹	n
+纽约	n
+
+线下	n/adj/adv
+细胞	n
+细致	adj/adv
+经历	n/vb
+经商	vb
+经济	n/adj
+经验	n
+结果	n/vb
+结账	vb
+绝对	adj/adv
+绦虫	n
+绩点	n
+绵羊	n
+编剧	n/vb
+编程	vb/n
+缩写	n/vb
+缺点	n
+罐头	n
+网络	n
+罗锅	n/adj
+羊毛	n
+羊绒	n
+美食	n
+羞愧	n/adj/vb
+群体	n
+翻译	n/vb
+老实	adj/adv
+老总	n
+老鼠	n
+考验	n/vb
+而且	conj
+而是	conj
+耳机	n
+职业	n/adj
+联系	n/vb
+肌肉	n
+肌酸	n
+股票	n
+胡同	n
+能力	n
+能量	n
+脆弱	adj/n
+脊柱	n
+脚趾	n
+脚面	n
+脱欧	n/vb
+腐烂	vb/adj
+自信	n/adj/vb
+自律	n/adj/vb
+自然	n/adj/adv
+自由	n/adj/adv
+至少	adv
+艺术	n
+节目	n
+花生	n
+花钱	vb
+芹菜	n
+苍蝇	n
+荆棘	n
+草原	n
+草地	n
+荒凉	adj/n
+荒郊	n
+药店	n
+药物	n
+莫言	n/vb
+菜花	n
+萝卜	n
+营养	n/adj
+营造	vb
+著名	adj
+葫芦	n
+葬礼	n
+蓝领	n/adj
+藏族	n
+藏语	n
+藐视	vb/n
+虎妈	n
+虚伪	adj/n
+虚假	adj/n
+
+虚弱	adj
+虽然	conj
+蚊子	n
+蜘蛛	n
+蜻蜓	n
+蝴蝶	n
+蟑螂	n
+行业	n
+行为	n/vb
+行星	n
+街区	n
+表亲	n
+表情	n
+表格	n
+表演	n/vb
+表现	n/vb
+表示	vb
+表达	vb
+裁员	n/vb
+装修	n/vb
+西岸	n
+西式	adj
+西方	n/adj
+西藏	n
+要求	n/vb
+观光	n/vb
+观察	n/vb
+观点	n
+规则	n
+规律	n
+视角	n
+视频	n
+觉悟	n
+觉醒	n/vb
+角度	n
+角色	n
+解决	vb
+解开	vb
+解聘	vb
+解读	vb
+解释	vb
+警告	n/vb
+计划	n/vb
+计算	n/vb
+订婚	n/vb
+订阅	n/vb
+认同	n/vb
+讨厌	vb
+讨好	vb
+讨论	n/vb
+训练	n/vb
+训诫	n/vb
+记住	vb
+讲究	vb/adj
+讲述	vb
+论文	n
+设计	n/vb
+证据	n
+证明	n/vb
+评价	n/vb
+评判	n/vb
+评测	n/vb
+诅咒	n/vb
+词根	n
+词汇	n
+试试	vb
+诚实	adj/n
+话题	n
+诞生	n/vb
+语境	n
+语法	n
+语源	n
+语系	n
+误会	n/vb
+误解	n/vb
+说到	vb
+说谎	vb
+调头	vb
+调情	vb
+调料	n 
+
+谈话	n/vb
+谣言	n
+谦虚	adj/n/vb
+豌豆	n
+负伤	vb/adj
+负债	vb/adj
+负责	vb/adj
+财富	n
+责任	n/vb
+责备	vb/n
+货币	n
+质量	n/adj
+贪心	adj/n
+购买	vb/n
+购物	vb/n
+贴纸	n
+资料	n
+资源	n
+赌博	n/vb
+赌场	n
+赌输	vb
+赛马	n/vb
+赞美	vb/n
+赶上	vb
+超过	vb/adj
+越南	n
+足够	adj/adv
+足迹	n
+身份	n
+躲开	vb
+躺平	vb
+转发	vb/n
+转身	vb
+轻声	adj/adv
+轻松	adj/adv
+辅导	vb/n
+辅音	n
+输出	n/vb
+辞职	vb/n
+达到	vb
+过塑	vb
+过敏	adj/n/vb
+过期	adj/vb
+过节	vb
+过长	adj
+近代	adj/n
+近似	adj/n/vb
+近音	adj/n
+进化	n/vb
+进取	adj/n/vb
+进步	n/vb
+违背	vb/n
+连词	n
+退休	vb/n
+退步	vb/n
+送气	vb/n
+适合	adj/vb
+适应	vb/n
+逃脱	vb
+选举	n/vb
+选择	vb/n
+选票	n
+通电	vb
+通知	n/vb
+通过	vb/prep
+逛街	vb/n
+造句	vb/n
+遇到	vb
+遍布	vb/adj
+道家	n
+道德	n/adj
+遗传	n/vb
+遛狗	vb/n
+邮件	n
+邮差	n
+邮箱	n
+邻居	n
+郊区	n
+部落	n
+鄙视	vb/n 
+
+酒店	n
+采访	n/vb
+采集	vb
+重视	vb/n
+野人	n
+野兽	n
+野外	n/adj
+野餐	n/vb
+金色	n/adj
+鑄鐵	n
+钟头	n/measure
+铸铁	n
+链接	n/vb
+错过	vb
+锤子	n
+长城	n
+闪婚	n/vb
+闪离	n/vb
+闪音	n
+间谍	n
+闹钟	n
+阶级	n
+陌生	adj/n
+降临	vb
+限制	n/vb
+隐喻	n
+隐私	n
+隧洞	n
+难忘	adj
+雅思	n
+集体	n/adj
+雕像	n
+雪山	n
+雪糕	n
+露营	n/vb
+霸道	adj
+青旅	n
+非得	adv
+非洲	n
+面临	vb
+面团	n
+面筋	n
+面试	n/vb
+韭菜	n
+音程	n
+音阶	n
+项目	n
+顾客	n
+预测	n/vb
+预约	n/vb
+领养	vb/n
+题目	n
+颧骨	n
+风景	n
+风格	n
+风铃	n
+饥荒	n
+首相	n
+首要	adj/n
+首选	n/vb
+首饰	n
+香料	n
+马蜂	n
+驼背	n/adj
+骄傲	adj/n
+骆驼	n
+骑着	vb
+骨折	n/vb
+骨肉	n
+高兴	adj/vb
+高冷	adj
+高管	n
+高级	adj
+高调	adj
+高铁	n
+鱼缸	n
+鱿鱼	n
+鲜花	n
+鲟鱼	n
+鲱鱼	n 
+
+鳕鱼	n
+鳗鱼	n
+鳟鱼	n
+麝牛	n
+麸质	n
+默认	n/vb/adj
+鼓励	vb/n
+鼻炎	n
+齿音	n
+龙虾	n
+乱象	n
+天使	n
+尖脸	n
+生火	vb
+知足	adj/vb
+短语	n
+程度	n
+街区	n
+贪钱	vb
+过道	n
+长	adj/adv/n
+短	adj/adv/n
+高	adj/adv/n
+低	adj/adv/n
+高	adj/adv/n
+矮	adj/n
+低	adj/adv/n
+高	adj/adv/n
+要想	vb
+职场PUA	n
+一个	measure
+湖	n
+一会儿	n/adv
+一封	measure
+信	n
+一幅	measure
+画	n
+一米九	n
+一美分	n
+一辈子	n
+一首	measure
+诗	n
+万圣节	n
+三文鱼	n
+上天堂	vb
+下地狱	vb
+不可数	adj
+不合理	adj
+不吉利	adj
+不同的	adj
+不夜城	n
+不甚至	adv
+不自在	adj
+不要脸	adj
+不送气	adj
+丢垃圾	vb
+两个	measure
+月	n
+中年人	n
+中美洲	n
+主旋律	n
+了不起	adj/adv
+亚洲人	n
+交朋友	vb
+交网费	vb
+人事部	n
+人情美	adj/n
+以色列	n
+价值观	n
+优惠券	n
+伸懒腰	vb
+体力活	n
+何必	interj
+俄罗斯	n
+信任他	vb
+信用卡	n
+候选人	n
+做标记	vb
+健身房	n
+充电宝	n
+光是吃	vb
+八爪鱼	n
+公务员	n
+公司法	n
+养老院	n
+内华达	n
+内在美	n
+内爆音	n
+内蒙古	n
+
+农民工	n
+净效应	n
+出租车	n
+分开付	vb
+创可贴	n
+前三天	n
+前些年	n
+前苏联	n
+剪羊毛	vb
+办公室	n
+加班费	n
+动作片	n
+助学金	n
+北美洲	n
+匿名的	adj
+十个组	n
+华尔兹	n
+华尔街	n
+单人床	n
+单词卡	n
+南极洲	n
+南美洲	n
+博士后	n
+博物馆	n
+占有欲	n
+卡通片	n
+印地语	n
+印度人	n
+卷心菜	n
+卷舌音	n
+参议员	n
+双人床	n
+双关语	n
+双唇音	n
+双性恋	n
+双胞胎	n
+反义词	n
+发帖子	vb
+发微信	vb
+发短信	vb
+发邮件	vb
+受欢迎	adj
+变老了	vb
+古希腊	n
+古罗马	n
+叫外卖	vb
+可比性	n
+可许证	n
+合唱团	n
+合肥话	n
+同义词	n
+同性恋	n
+同质的	adj
+后三天	n
+吸血鬼	n
+唇音化	n
+唇齿音	n
+唐人街	n
+图瓦人	n
+圈内人	n
+圈外人	n
+基本上	adv
+基督徒	n
+基督教	n
+塔罗牌	n
+声门音	n
+多元化	n
+多巴胺	n
+大后天	n
+大洋洲	n
+大自然	n
+大部分	n
+天主教	n
+奖学金	n
+奢侈品	n
+奴才样	n
+好奇心	n
+好莱坞	n
+威尔士	n
+威尼斯	n
+
+娃娃菜	n
+娱乐圈	n
+嬉皮士	n
+存起来	vb
+学武术	vb
+安乐死	n/vb
+家人们	n
+家养的	adj
+富二代	n
+小扁豆	n
+小提琴	n
+小柴胡	n
+小红书	n
+小舌音	n
+尤其是	adv
+局限性	n
+属于我	vb
+山寨品	n
+工作室	n
+工作狂	n
+工程师	n
+差不多	adv/adj
+希腊语	n
+年收入	n
+幸福感	n
+幽默感	n
+开心果	n
+开派对	vb
+开聚会	vb
+式体验	n
+张个儿	vb
+弥赛亚	n
+强奸犯	n
+强迫症	n
+归属感	n
+当爸爸	vb
+当老师	vb
+形容词	n
+很可惜	adj
+很自信	adj
+很麻烦	adj
+微信群	n
+心理学	n
+忍不住	vb
+性丑闻	n
+总体上	adv
+恋亚癖	n
+恐怖片	n
+情绪化	adj
+惊悚片	n
+感应器	n
+慢性病	n
+慰安妇	n
+我醒了	vb
+手痒痒	adj
+打八折	vb
+打印机	n
+打哈欠	vb
+打广告	vb
+打招呼	vb
+打疫苗	vb
+找借口	vb
+找原因	vb
+抑郁症	n
+抚养权	n
+抢工作	vb
+护肤品	n
+抽大麻	vb
+拆二代	n
+拆哪儿	vb
+拉肚子	vb
+拍照片	vb
+拖拉机	n
+招财猫	n
+拿绿卡	vb
+拿走狗	vb
+指示牌	n
+挤喉音	vb
+掉头发	vb
+推开门	vb
+
+揉面团	vb
+搭嘴音	n
+摄像头	n
+摇摆舞	n
+摘眼镜	vb
+收起来	vb
+放大招	vb
+放烟花	vb
+教科书	n
+断联系	vb
+新西兰	n
+新鲜感	n
+旅游区	n
+无厘头	adj/n
+无性恋	n
+无花果	n
+易建联	n
+普拉提	n
+暖气机	n
+暖气片	n
+曾祖父	n
+月收入	n
+有出息	adj/n
+有口音	adj
+有局限	adj
+有市场	adj
+有思想	adj
+有效果	adj
+有耐心	adj
+有道理	adj
+有钱人	n
+朋友们	n
+朋友圈	n
+未分化	adj
+本土的	adj
+本地的	adj
+李文月	n
+枪击案	n
+校友会	n
+核心词	n
+核武器	n
+正后面	n/adj
+比方说	vb/conj
+比目鱼	n
+毛茸茸	adj
+水很深	adj
+没事了	adj
+没人管	adj
+没效果	adj
+泛音列	n
+波士顿	n
+洗手液	n
+洗碗机	n
+洛杉矶	n
+流浪汉	n
+流浪者	n
+浪漫的	adj
+消耗尽	vb
+淡水鱼	n
+深海鱼	n
+混血儿	n
+清真寺	n
+游乐园	n
+炸毛了	vb
+照镜子	vb
+照顾者	n
+爱尔兰	n
+爱情片	n
+爱狮克	n
+特别是	adv/conj
+特色菜	n
+犹太人	n
+独角鲸	n
+王嘉尔	n
+玫瑰花	n
+玳瑁猫	n
+理想化	adj/vb
+甄嬛传	n
+生物学	n
+生词表	n
+
+电视剧	n
+白大褂	n
+百分之	pp
+百分比	n
+皮划艇	n
+盘腿坐	vb
+相亲角	n
+看不起	vb
+看情况	vb
+眼影盘	n
+瞎扯蛋	vb
+石家庄	n
+硬腭音	n
+社会学	n
+神圣性	n
+科学家	n
+租房子	vb
+程序员	n
+穆斯林	n
+第一集	n
+糖尿病	n
+系鞋带	vb
+系领带	vb
+纪录片	n
+纯洁性	n
+纯素食	n
+纸老虎	n
+组织者	n
+给你看	vb
+维他命	n
+网球场	n
+网球馆	n
+罗非鱼	n
+羊驼毛	n
+翻译笔	n
+老奶奶	n
+老百姓	n
+而不是	conj
+脑震荡	n
+脚后跟	n
+脱口秀	n
+自来水	n
+自治县	n
+自然光	n
+舞蹈家	n
+舞蹈课	n
+艺术家	n
+芥菜种	n
+花时间	vb
+芸薹属	n
+药妆店	n
+菜市场	n
+落地窗	n
+落汤鸡	n
+蒙古族	n
+薅羊毛	vb
+蜘蛛网	n
+蜜月期	n
+血清素	n
+行李牌	n
+行李箱	n
+表情包	n
+装饰品	n
+西兰花	n
+要不是	conj
+讨吃的	vb
+记忆力	n
+许可证	n
+词汇表	n
+语源学	n
+语言学	n
+说实话	vb
+读书会	n
+读博士	vb
+读硕士	vb
+谈恋爱	vb
+负责人	n
+负责任	adj/vb
+购物狂	n
+越南语	n
+
+跨学科	n
+跨性别	n
+路人甲	n
+跳下床	vb
+软腭化	adj/vb
+软腭音	n
+过分了	adj/vb
+过日子	vb
+过马路	vb
+运动员	n
+连接的	adj/vb
+连续性	n
+送气音	n
+遗传病	n
+酸菜鱼	n
+金枪鱼	n
+钱不够	adj
+防火墙	n
+阴谋论	n
+阿根廷	n
+陌生人	n
+陪家人	vb
+非洲舞	n
+靠自己	vb
+面试官	n
+音乐会	n
+音乐圈	n
+音乐家	n
+预想到	vb
+食道癌	n
+香菜籽	n
+高血压	n
+高颧骨	n
+黑天鹅	n
+鼻窦炎	n
+鼻音化	adj/vb
+齿龈音	n
+两-三年	n/vb
+努力	n/vb
+大脑	n
+屏幕	n
+插头	n
+没电	adj
+承诺书	n
+近义词	n 
 

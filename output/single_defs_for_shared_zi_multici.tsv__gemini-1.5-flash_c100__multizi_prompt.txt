@@ -157,3 +157,46 @@
 副	secondary
 等	wait
 
+背	carry
+副	secondary
+像	resemble
+站	station
+生	unripe
+喂	feed
+等	wait
+封	seal
+要	if
+成	measure word
+首	leader
+任	appoint
+毛	fractional unit
+回	return
+屏幕	screen
+命	fate
+别	Don't
+会	meeting
+站	stand
+把	measure word
+回	measure word
+土	local
+信	believe
+并	combine
+花	multicoloured
+多	much more
+任	no matter
+成	become
+支	measure word
+签	sign
+叫	preposition
+正	exactly
+排	arrange
+姐姐	elder sister
+分	divide
+米	meter
+对	right
+花	flower
+打	hit
+
+姐姐	elder sister
+屏幕	screen 
+
