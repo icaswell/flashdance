@@ -96,10 +96,9 @@ if args.level not in LEVELS:
   LEVELS[args.level] = max(LEVELS.values())
 
 
+vprint("getting all zi in all levels....")
 LEVELED_CI = defaultdict(list)
-ORIGIN_NOTE_PERCI = defaultdict(list)
-
-vprint("getting all zi....")
+ORIGIN_NOTE_PERCI = defaultdict(set)
 ALL_ZI_IN_LEVELS = set()
 for level in LEVELS:
   with open(f"resources/vocab_separate/{level}.tsv", "r") as f:
@@ -107,14 +106,12 @@ for level in LEVELS:
       parts = line.split("\t")
       if len(parts) not in {3, 4}:
         raise ValueError(f"Line {i} should have 3-4 tab-separated values but doesn't: {line}")
-      if len(parts) == 4:
-        note = parts[3].strip()
-        if note not in ORIGIN_NOTE_PERCI[parts[0]]:
-          ORIGIN_NOTE_PERCI[parts[0]].append(note)
-        parts = parts[0:3]
-      ci, _, _ = parts
+
+      ci = parts[0]
+      # if there is no explicit origin note, fall back to the level
+      origin_note = parts[3].strip() if len(parts) == 4 else level
+      ORIGIN_NOTE_PERCI[ci].add(origin_note)
       LEVELED_CI[level].append(ci)
-      
       ALL_ZI_IN_LEVELS |= {zi for zi in ci}
 
 def get_ci_with_this_zi_conditioned_on_level(zi, level_name):
@@ -223,7 +220,7 @@ with open(definitions_fname, "r") as f:
       deff = fix_cedict_deff(deff)
       if "||" in pinyins:
         CI_TO_MULTI_PINYIN[ci] = decode_multipinyin(pinyins)
-      DEFINITIONS[ci] = deff
+      DEFINITIONS[ci] = deff.strip(";")
 
 vprint("adding preexisting defs....")
 # add in the existing definitions
@@ -446,7 +443,7 @@ for ci_j in TARGET_CI:
 
 
   if ci_j in ORIGIN_NOTE_PERCI:
-    out_line += ["origin", '/'.join(ORIGIN_NOTE_PERCI[ci_j])]
+    out_line += ["origin", '/'.join(sorted(list(ORIGIN_NOTE_PERCI[ci_j])))]
   
 out_lines = [
         [field.replace("\n", NEWLINE) for field in out_line]
