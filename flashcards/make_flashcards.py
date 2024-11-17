@@ -12,6 +12,7 @@ from pinyin import get_pinyin
 
 parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
 parser.add_argument('--verbose', type=bool, default=False)
+parser.add_argument('--dryrun', type=bool, default=False)
 parser.add_argument('--level', type=str)
 parser.add_argument('--exclude_levels', type=str, default="", help="whether to ignore ci in --level that occur in one of these levels (comma-separated)")
 parser.add_argument('--mode', default='iphone', type=str)
@@ -72,6 +73,7 @@ if args.mode == "android":
 
 if args.mode == "iphone":
    NEWLINE = "\r"
+   NEWLINE = "                                                                   "
    format_pinyin = lambda x: f"【{get_pinyin(x)}】"
 elif args.mode == "android":
    NEWLINE = "<br></br>"
@@ -112,6 +114,7 @@ for level in LEVELS:
       origin_note = parts[3].strip() if len(parts) == 4 else level
       ORIGIN_NOTE_PERCI[ci].add(origin_note)
       LEVELED_CI[level].append(ci)
+      if args.dryrun: break
       ALL_ZI_IN_LEVELS |= {zi for zi in ci}
 
 def get_ci_with_this_zi_conditioned_on_level(zi, level_name):
@@ -309,6 +312,7 @@ for example_emoji, n_examples, examples_fname in examples_fnames:
 vprint("getting inverted examples...")
 INVERTED_EXAMPLES = defaultdict(list)
 for ci in TARGET_CI:
+  if args.dryrun: continue
   for cj, example_tups in EXAMPLES.items():
     if cj == ci: continue
     n_existing = len(EXAMPLES[ci]) if ci in EXAMPLES else 0
@@ -423,7 +427,7 @@ for ci_j in TARGET_CI:
 
   # below clause triggers largely for NHSK vocabs that have the POS
   # in parens afterwards, but the example sentence ignored it
-  if ci_j not in EXAMPLES:
+  if ci_j not in EXAMPLES or not EXAMPLES[ci_j]:
     stripped = re.sub(chinese_pos_regex, "", ci_j)
     if stripped in EXAMPLES:
       EXAMPLES[ci_j] = EXAMPLES[stripped]
@@ -432,7 +436,7 @@ for ci_j in TARGET_CI:
     seen_examples = set()
     to_add = EXAMPLES[ci_j][0:MAX_EXAMPLES]
 
-    for ex_emoji, ex_zh, ex_en in EXAMPLES[ci_j][0:MAX_EXAMPLES]:
+    for ex_emoji, ex_zh, ex_en in to_add: 
       if ex_zh in seen_examples: continue
       seen_examples.add(ex_zh)
       ex_en = f"{format_pinyin(ex_zh)}{NEWLINE}{ex_en}"
@@ -441,16 +445,22 @@ for ci_j in TARGET_CI:
       out_line.append(ex_en)
   out_lines.append(out_line)
 
-
   if ci_j in ORIGIN_NOTE_PERCI:
     out_line += ["origin", '/'.join(sorted(list(ORIGIN_NOTE_PERCI[ci_j])))]
   
+
+#=====================================================================
+# ACTUALY WRITE!
+#=====================================================================
+
 out_lines = [
         [field.replace("\n", NEWLINE) for field in out_line]
         for out_line in out_lines
         ]
 
-if BREAK_INTO_N_CHUNKS == 1:
+if args.dryrun:
+  pass
+elif BREAK_INTO_N_CHUNKS == 1:
   fname_out = f"flashcards/{args.mode}/{args.level}.flashcards.{args.mode}.csv"
   with open(fname_out, 'w') as csvfile:
     csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
@@ -467,6 +477,9 @@ else:
     print(f"Wrote {fname_out}")
 
 
+#=====================================================================
+# MISSING THINGS
+#=====================================================================
 
 def write_missing(missing, name, max_chars=None):
   if not missing:
@@ -475,6 +488,7 @@ def write_missing(missing, name, max_chars=None):
   missing = {m for m in missing if max_chars is None or len(m) <= max_chars}
   print(f"missing from {name}: {'; '.join(missing)}")
   fname = f"missing/{name}.tsv"
+  if args.dryrun: return
   with open(fname, "w") as f:
     for ci in missing:
       f.write(f"{ci}\t{DEFINITIONS.get(ci, 'no definition')}\n")
@@ -484,7 +498,6 @@ def write_missing(missing, name, max_chars=None):
 TARGET_CI = set(TARGET_CI)
 # TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if not re.match("[a-zA-Z\p{punctuation}]", zi)}
 TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if re.match("\p{Han}", zi)}
-
 
 write_missing(MISSING_USAGE_NOTES, "usage_notes", max_chars=3) # no exmple sentences for things > 4 Hanzi long
 
@@ -504,15 +517,15 @@ write_missing(MISSING_POS, "pos", max_chars=3)
 
 #    ("examples.tsv", "cql_example_prompt3_3examples.txt"),
 api_cmd_fname = "missing/api_commands.sh"
-with open(api_cmd_fname, "w") as f:
-  f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/usage_notes.tsv --system_prompt=prompts/usage_notes_prompt.txt --model=gemini-1.5-pro\n")
-  f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/examples.tsv --system_prompt=prompts/general_example_prompt_3examples.txt\n")
-  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/single_defs_for_shared_zi_multici.tsv --system_prompt=prompts/multizi_prompt.txt\n")
-  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/pos.tsv --system_prompt=prompts/pos_prompt.txt\n")
-  f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/zi_defs.tsv --system_prompt=prompts/singlezi_prompt.txt\n")
-  f.write("tail -n 5 output/LOG.tsv | cut -f 1\n")
+if not args.dryrun:
+  with open(api_cmd_fname, "w") as f:
+    f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/usage_notes.tsv --system_prompt=prompts/usage_notes_prompt.txt --model=gemini-1.5-pro\n")
+    f.write("python3 api_main_gembini.py --chunk_size=40 --input=missing/examples.tsv --system_prompt=prompts/general_example_prompt_3examples.txt\n")
+    f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/single_defs_for_shared_zi_multici.tsv --system_prompt=prompts/multizi_prompt.txt\n")
+    f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/pos.tsv --system_prompt=prompts/pos_prompt.txt\n")
+    f.write("python3 api_main_gembini.py --chunk_size=100 --input=missing/zi_defs.tsv --system_prompt=prompts/singlezi_prompt.txt\n")
+    f.write("tail -n 5 output/LOG.tsv | cut -f 1\n")
+  print(f"Wrote flashcards to {fname_out}")
+  print(f"Wrote api commands to {api_cmd_fname}")
 
-
-print(f"Wrote flashcards to {fname_out}")
-print(f"Wrote api commands to {api_cmd_fname}")
 vprint("done!")
