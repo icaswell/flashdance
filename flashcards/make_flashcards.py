@@ -210,6 +210,22 @@ DEFINITIONS = {}
 DEF_DELIM = "; "  # the delimtor to separate definitions in the flashcard with
 CI_TO_MULTI_PINYIN = {}  #  special cases where there are multiple pinyins
 #                           that have to be kept in sync with the definitions
+def canonicalize_def_list(deffs:str):
+  deffs = deffs.replace("‘", "'")
+  # remove traditional script from CEDict defininitions
+  deffs = re.sub("\p{Han}+\|(\p{Han}+)", "\\1", deffs) 
+  deffs = deffs.split(DEF_DELIM)
+  for i, deff in enumerate(deffs):
+    if deff in deffs[0:i]:
+      deffs[i] = None  # remove if this has already occurred
+      continue
+    decorated = "to " + deff
+    if decorated in deffs[i+1:]:
+      deffs[i] = decorated  # This will cause the NEXT one to be removed
+  deff =  DEF_DELIM.join([deff for deff in deffs if deff]) 
+  deff = deff.strip().strip(";")
+  return deff
+
 with open(definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
@@ -217,15 +233,31 @@ with open(definitions_fname, "r") as f:
       ci, pinyins, deff = parts[0:3]
       # I think this is no longer relevant, but doesn't hurt
       if deff.startswith("/") and deff.endswith("/"):
-        deff = deff[1:-1].replace("/", "; ")
-      if re.findall("[a-z]/[a-z]", deff):
+        deff = deff[1:-1].replace("/", DEF_DELIM)
+      if re.findall("[a-zA-Z]/[a-zA-Z]", deff):
         deff = deff.replace("/", DEF_DELIM)
       deff = fix_cedict_deff(deff)
+      deff = canonicalize_def_list(deff)
       if "||" in pinyins:
         CI_TO_MULTI_PINYIN[ci] = decode_multipinyin(pinyins)
-      DEFINITIONS[ci] = deff.strip(";")
+      DEFINITIONS[ci] = deff
+
 
 vprint("adding preexisting defs....")
+chinese_pos_regex = "（[" +  "".join({
+    "动",  # verb
+    "代",  # pronoun
+    "名",  # noun
+    "量",  # measure
+    "叹",  # exclamation
+    "连",  # conjunction
+    "数",  # number
+    "副",  # adverb
+    "助",  # auxiliary
+    "介",  # preposition
+    "形",  # adjective
+    "、",
+}) + "]+）"
 # add in the existing definitions
 with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
   for line in f:
@@ -236,7 +268,13 @@ with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
       if deff.lower() in existing_defs_lower: continue
 
       existing_defs = DEFINITIONS.get(ci, '').split(DEF_DELIM)
-      DEFINITIONS[ci] = DEF_DELIM.join([deff] + existing_defs)
+      stripped = re.sub(chinese_pos_regex, "", ci)
+      if stripped != ci and stripped in DEFINITIONS:
+        existing_defs += DEFINITIONS[stripped].split(DEF_DELIM)
+
+      deff = canonicalize_def_list(DEF_DELIM.join([deff] + existing_defs))
+      DEFINITIONS[ci] = deff
+
 
 vprint("getting single zi and multizi defs....")
 ZI_DEFS = {}
@@ -358,20 +396,6 @@ def get_other_ci_list(zi_j, level) -> List[str]:
     other_ci_list.append(ci_k)
   return other_ci_list[0:MAX_SAME_ZI_EXAMPLES]
 
-chinese_pos_regex = "（[" +  "".join({
-    "动",  # verb
-    "代",  # pronoun
-    "名",  # noun
-    "量",  # measure
-    "叹",  # exclamation
-    "连",  # conjunction
-    "数",  # number
-    "副",  # adverb
-    "助",  # auxiliary
-    "介",  # medial
-    "形",  # adjective
-}) + "]）"
-
 
 RADICAL_ANNOTATIONS = {}  # TODO :(
 
@@ -416,7 +440,8 @@ for ci_j in TARGET_CI:
   if ci_j in POS_ANNOTATIONS:
     # prepend to English definition
     # out_line[2] = f"{[POS_ANNOTATIONS[ci_j]]} {out_line[2]}"
-    out_line += ["parts of speech", POS_ANNOTATIONS[ci_j]]
+    # out_line += ["parts of speech", POS_ANNOTATIONS[ci_j]]
+    pass
   else:
     MISSING_POS.add(ci_j)
 
@@ -427,8 +452,8 @@ for ci_j in TARGET_CI:
 
   # below clause triggers largely for NHSK vocabs that have the POS
   # in parens afterwards, but the example sentence ignored it
+  stripped = re.sub(chinese_pos_regex, "", ci_j)
   if ci_j not in EXAMPLES or not EXAMPLES[ci_j]:
-    stripped = re.sub(chinese_pos_regex, "", ci_j)
     if stripped in EXAMPLES:
       EXAMPLES[ci_j] = EXAMPLES[stripped]
 

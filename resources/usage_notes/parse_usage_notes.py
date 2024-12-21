@@ -54,6 +54,10 @@ for fname in glob("output/usage_notes.*"):
         lines.insert(1, ciparts[1].strip())
       ci = ciparts[0].strip()
 
+      if len(lines) == 1 and re.search("\p{Han}{1,5} \([^)]{1,20}\) ", lines[0]):
+        ci = re.findall("^\p{Han}+", lines[0])[0]
+        lines = [ci] + lines
+
       if len(lines) <= 1:
         print("Error[short]:", chunk, fname)
         continue
@@ -72,6 +76,7 @@ for fname in glob("output/usage_notes.*"):
           USAGE_DICT[ci] = old_notes
           print(USAGE_DICT[ci])
           print("~~~"*30)
+          print(f"new notes for {ci}:")
       else: 
         USAGE_DICT[ci] = {note}
 

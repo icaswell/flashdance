@@ -14,7 +14,10 @@ for fname in glob("output/zi_defs.*"):
     for line in f:
       parts = line.strip().split("\t")
       if len(parts) != 2:
-        print("Error:", parts, fname)
+        if parts == ['']:
+          print("Warning:", parts, fname)
+        else:
+          print("Error:", parts, fname)
         continue
       if parts[0] in ZIDEF_DICT: continue
       NEW_ZIDEF.append(line)

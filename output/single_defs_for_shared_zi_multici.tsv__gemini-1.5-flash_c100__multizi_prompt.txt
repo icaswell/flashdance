@@ -200,3 +200,15 @@
 姐姐	elder sister
 屏幕	screen 
 
+六四事件	Tiananmen Incident
+五年计划	Five-Year Plan
+刺绣	embroidery
+睡袋	sleeping bag
+反腐	anti-corruption
+书呆	nerd
+表白爱情	confess love
+大白天	daylight
+语法格	grammatical case
+捷克语	Czech
+刺眼	dazzling
+

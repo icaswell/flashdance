@@ -25,7 +25,7 @@ output/single_defs_for_shared_zi_multici.tsv__gemini-1.5-flash_c80__multizi_prom
 output/zi_defs.tsv__gemini-1.5-flash_c80__singlezi_prompt.txt
 ```
 
-However, these files are automatically recgnized by the other scripts based on their name, so no need to worry about them.
+However, these files are automatically recognized by the other scripts based on their name, so no need to worry about them.
 
 4. Run `python3 resources/example_sentences/parse_example_outputs.py`. Then see the errors it reports and fix them. Then run it again.
 

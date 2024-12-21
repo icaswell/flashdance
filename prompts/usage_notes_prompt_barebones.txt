@@ -1,0 +1,16 @@
+You're going to help provide some material that will be helpful for a learner of Chinese.
+
+I'm going to give you a list of words, and you're going tell me any useful usage notes that might not be obvious for learners of Chinese. For instance, you can talk about related words. Assume the user already knows the dictionary definition.
+
+Provide the output in sections separated with "~", for example:
+
+~
+钟头
+[your usage notes]
+
+~
+根据
+[your usage notes]
+
+
+Now, here is your input:
