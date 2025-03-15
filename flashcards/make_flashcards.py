@@ -9,6 +9,7 @@ import time
 
 # This is a module in this package
 from pinyin import get_pinyin
+from definitions import DEFINITIONS, add_existing_defs, get_pinyin_for_definition, chinese_pos_regex
 
 parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
 parser.add_argument('--verbose', type=bool, default=False)
@@ -18,6 +19,7 @@ parser.add_argument('--exclude_levels', type=str, default="", help="whether to i
 parser.add_argument('--mode', default='iphone', type=str)
 parser.add_argument('--existing_defs', type=str, default="concat", help="what to do with the pinyin and definitions in the input TSV")
 args = parser.parse_args()
+LEVELS_TO_DO = args.level.split(",")
 
 VTIME = time.time()
 def vprint(s):
@@ -27,9 +29,6 @@ def vprint(s):
   t = time.time()
   print(f"\033[92m...[{t - VTIME:.2f}s]\n{s}...\033[0m")
   VTIME = t
-
-# These are the full definitions
-definitions_fname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
 
 # These are the POS annotations
 pos_fname = "resources/pos/pos.tsv"
@@ -57,17 +56,17 @@ MAX_SAME_ZI_EXAMPLES = 10
 BREAK_INTO_N_CHUNKS = 1
 
 if args.mode == "android":
-  if args.level == "hsk4":
-    MAX_EXAMPLES = 6
-  if args.level == "hsk5":
-    examples_fnames[1][1] = 1
-    MAX_EXAMPLES = 5
-    BREAK_INTO_N_CHUNKS = 2
-  if args.level == "hsk6":
+  if "hsk6" in LEVELS_TO_DO:
     examples_fnames[1][1] = 1
     MAX_EXAMPLES = 5
     BREAK_INTO_N_CHUNKS = 6
-  if args.level == "weeb1":
+  elif "hsk5" in LEVELS_TO_DO:
+    examples_fnames[1][1] = 1
+    MAX_EXAMPLES = 5
+    BREAK_INTO_N_CHUNKS = 2
+  elif "hsk4" in LEVELS_TO_DO:
+    MAX_EXAMPLES = 6
+  elif "weeb1" in LEVELS_TO_DO:
     MAX_EXAMPLES = 6
     BREAK_INTO_N_CHUNKS = 4
 
@@ -89,13 +88,21 @@ LEVELS = {
     "hsk4": 4,
     "hsk5": 5,
     "hsk6": 6,
+    "nhsk1": 1,
+    "nhsk2": 2,
+    "nhsk3": 3,
+    "nhsk4": 4,
+    "nhsk5": 5,
+    "nhsk6": 6,
     "stront1": 6,
     "stront2": 6,
     "stront3": 6,
     "weeb1": 6,
 }
-if args.level not in LEVELS:
-  LEVELS[args.level] = max(LEVELS.values())
+
+for level in LEVELS_TO_DO:
+  if level not in LEVELS:
+    LEVELS[level] = max(LEVELS.values())
 
 
 vprint("getting all zi in all levels....")
@@ -141,21 +148,22 @@ for zi in ALL_ZI_IN_LEVELS:
 # existing definitions will be added in if --args.existing_defs has the right value.
 vprint("getting target ci....")
 TARGET_CI = []
-with open(f"resources/vocab_separate/{args.level}.tsv", "r") as f:
-  seen = set()  # 🎵 did it all for the O(1) 
-  for line in f:
-    ci = line.strip().split("\t")[0].strip()
-    if ci in seen:
-      continue
-    seen.add(ci)
-    TARGET_CI.append(ci)
+seen = set()  # 🎵 did it all for the O(1) 
+for level in LEVELS_TO_DO:
+  with open(f"resources/vocab_separate/{level}.tsv", "r") as f:
+    for line in f:
+      ci = line.strip().split("\t")[0].strip()
+      if ci in seen:
+        continue
+      seen.add(ci)
+      TARGET_CI.append((ci, level))
 
 for anti_level in args.exclude_levels.split(','):
   if not anti_level: continue
   if anti_level not in LEVELED_CI:
     raise ValueError(f"level {anti_level} not in LEVELED_CI")
   to_exclude = set(LEVELED_CI[anti_level])
-  TARGET_CI = [ci for ci in TARGET_CI if ci not in to_exclude]
+  TARGET_CI = [(ci, lev) for (ci, lev) in TARGET_CI if ci not in to_exclude]
 
 
 vprint("getting pos....")
@@ -166,115 +174,8 @@ with open(pos_fname, "r") as f:
     POS_ANNOTATIONS[ci] = pos
 
 
-vprint("getting official definitions.")
-# get the "official" ccdict definitions
-def format_cedict_cls(s):
-  """Format the counter words in CEDICT so they use normal pinyin and don't include Traditional
-  """
-  s = re.sub("\p{Han}\|(\p{Han})\[", "\\1[", s)
-  for _ in range(2):
-    pinyins = re.findall("[^a-z]([a-zA-Z]{1,7}[1-5])[^a-z0-9]", s)
-    for p in pinyins:
-      p_better = pinyin_jyutping_sentence.romanization_conversion.decode_pinyin(p, False, False) 
-      s = s.replace(p, p_better)
-  return s
-  
-def fix_cedict_deff(deff):
-  deff = format_cedict_cls(deff) 
-  parts = deff.split("; ")
-  parts = [p for p in parts if p]
-  cls = [p for p in parts if p.startswith("CL")]
-  prs = [p for p in parts if " pr. " in p]
-  proper_nouns = [p for p in parts if p[0].isupper() and p not in cls and p not in prs]
-  surnames = [p for p in parts if p.startswith("surname ")]
-  other = [p for p in parts if p not in cls + proper_nouns + surnames + prs]
-  out_parts = other + surnames + proper_nouns + cls
-  return DEF_DELIM.join(out_parts)
-
-def get_pinyin_for_definition(ci):
-  """Wrapper that gives multipinyin specifically for the main pinyin field in the flashcards.
-
-  e.g. 'shù||shǔ'
-  """
-  if ci in CI_TO_MULTI_PINYIN:
-    return CI_TO_MULTI_PINYIN[ci]
-  return get_pinyin(ci)
-
-def decode_multipinyin(pinyins):
-  """decode_multipinyin('shu4||shu3') == 'shù||shǔ'
-  """
-  out = [pinyin_jyutping_sentence.romanization_conversion.decode_pinyin(p, False, False) for p in pinyins.split("||") ]
-  return "||".join(out)
-
-DEFINITIONS = {}
-DEF_DELIM = "; "  # the delimtor to separate definitions in the flashcard with
-CI_TO_MULTI_PINYIN = {}  #  special cases where there are multiple pinyins
-#                           that have to be kept in sync with the definitions
-def canonicalize_def_list(deffs:str):
-  deffs = deffs.replace("‘", "'")
-  # remove traditional script from CEDict defininitions
-  deffs = re.sub("\p{Han}+\|(\p{Han}+)", "\\1", deffs) 
-  deffs = deffs.split(DEF_DELIM)
-  for i, deff in enumerate(deffs):
-    if deff in deffs[0:i]:
-      deffs[i] = None  # remove if this has already occurred
-      continue
-    decorated = "to " + deff
-    if decorated in deffs[i+1:]:
-      deffs[i] = decorated  # This will cause the NEXT one to be removed
-  deff =  DEF_DELIM.join([deff for deff in deffs if deff]) 
-  deff = deff.strip().strip(";")
-  return deff
-
-with open(definitions_fname, "r") as f:
-  for line in f:
-    parts = line.strip().split("\t")
-    if len(parts) >=3:
-      ci, pinyins, deff = parts[0:3]
-      # I think this is no longer relevant, but doesn't hurt
-      if deff.startswith("/") and deff.endswith("/"):
-        deff = deff[1:-1].replace("/", DEF_DELIM)
-      if re.findall("[a-zA-Z]/[a-zA-Z]", deff):
-        deff = deff.replace("/", DEF_DELIM)
-      deff = fix_cedict_deff(deff)
-      deff = canonicalize_def_list(deff)
-      if "||" in pinyins:
-        CI_TO_MULTI_PINYIN[ci] = decode_multipinyin(pinyins)
-      DEFINITIONS[ci] = deff
-
-
 vprint("adding preexisting defs....")
-chinese_pos_regex = "（[" +  "".join({
-    "动",  # verb
-    "代",  # pronoun
-    "名",  # noun
-    "量",  # measure
-    "叹",  # exclamation
-    "连",  # conjunction
-    "数",  # number
-    "副",  # adverb
-    "助",  # auxiliary
-    "介",  # preposition
-    "形",  # adjective
-    "、",
-}) + "]+）"
-# add in the existing definitions
-with open( f"resources/vocab_separate/{args.level}.tsv", "r") as f:
-  for line in f:
-    parts = line.strip().split("\t")
-    if len(parts) >=3:
-      ci, unused_pinyin, deff = parts[0:3]
-      existing_defs_lower = DEFINITIONS.get(ci, '').lower().split(DEF_DELIM)
-      if deff.lower() in existing_defs_lower: continue
-
-      existing_defs = DEFINITIONS.get(ci, '').split(DEF_DELIM)
-      stripped = re.sub(chinese_pos_regex, "", ci)
-      if stripped != ci and stripped in DEFINITIONS:
-        existing_defs += DEFINITIONS[stripped].split(DEF_DELIM)
-
-      deff = canonicalize_def_list(DEF_DELIM.join([deff] + existing_defs))
-      DEFINITIONS[ci] = deff
-
+add_existing_defs(LEVELS_TO_DO)
 
 vprint("getting single zi and multizi defs....")
 ZI_DEFS = {}
@@ -349,7 +250,7 @@ for example_emoji, n_examples, examples_fname in examples_fnames:
 
 vprint("getting inverted examples...")
 INVERTED_EXAMPLES = defaultdict(list)
-for ci in TARGET_CI:
+for ci, unused_level in TARGET_CI:
   if args.dryrun: continue
   for cj, example_tups in EXAMPLES.items():
     if cj == ci: continue
@@ -407,7 +308,7 @@ vprint("making flashcards...")
 #===================================================================
 # Now that we have prepared all the resources, we actually make the floshcards!
 out_lines = []
-for ci_j in TARGET_CI:
+for ci_j, level_j  in TARGET_CI:
   out_line = [ci_j + OBFUSTICATOR]
 
   out_line.append(get_pinyin_for_definition(ci_j))
@@ -419,7 +320,7 @@ for ci_j in TARGET_CI:
   # Break down meaning of each constituent zi
   for zi_j in ci_j:
     if not re.match("\p{Han}", zi_j): continue
-    other_ci_list = get_other_ci_list(zi_j, args.level)  # other ci using this zi
+    other_ci_list = get_other_ci_list(zi_j, level_j)  # other ci using this zi
     zi_j_decorated = f"{zi_j} ({ZI_DEFS[zi_j]})" if zi_j in ZI_DEFS else zi_j
     content = "There are no other HSK words in this level (or before) using this character."
     if other_ci_list:
@@ -483,10 +384,12 @@ out_lines = [
         for out_line in out_lines
         ]
 
+levels_name = "+".join(LEVELS_TO_DO)
+
 if args.dryrun:
   pass
 elif BREAK_INTO_N_CHUNKS == 1:
-  fname_out = f"flashcards/{args.mode}/{args.level}.flashcards.{args.mode}.csv"
+  fname_out = f"flashcards/{args.mode}/{levels_name}.flashcards.{args.mode}.csv"
   with open(fname_out, 'w') as csvfile:
     csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
     csvwriter.writerows(out_lines)
@@ -495,7 +398,7 @@ else:
   chunk_size = int(len(out_lines)/float(BREAK_INTO_N_CHUNKS)) + 1
   for part_i in range(BREAK_INTO_N_CHUNKS):
     out_lines_i = out_lines[part_i*chunk_size:(part_i+1)*chunk_size]
-    fname_out = f"flashcards/{args.mode}/{args.level}.flashcards.{args.mode}.{part_i + 1}-of-{BREAK_INTO_N_CHUNKS}.csv"
+    fname_out = f"flashcards/{args.mode}/{levels_name}.flashcards.{args.mode}.{part_i + 1}-of-{BREAK_INTO_N_CHUNKS}.csv"
     with open(fname_out, 'w') as csvfile:
       csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
       csvwriter.writerows(out_lines_i)
@@ -520,7 +423,7 @@ def write_missing(missing, name, max_chars=None):
       # f.write(f"{cij}\t{get_pinyin(cij)}\t{DEFINITIONS.get(cij, 'no definition')}\n")
   print(f"wrote to {fname}\n")
 
-TARGET_CI = set(TARGET_CI)
+TARGET_CI = {ci for ci, lev in TARGET_CI}
 # TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if not re.match("[a-zA-Z\p{punctuation}]", zi)}
 TARGET_ZI = {zi for ci in TARGET_CI for zi in ci if re.match("\p{Han}", zi)}
 

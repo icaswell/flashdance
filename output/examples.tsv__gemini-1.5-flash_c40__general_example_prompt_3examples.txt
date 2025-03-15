@@ -903,7 +903,7 @@ word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	
 挺(动)	to endure; to support	他挺过了难关。	He endured the difficulties.	我挺喜欢这个主意。	I quite like this idea.	这把椅子挺结实的。	This chair is quite sturdy.
 批(动)	criticize; batch	老师批改了试卷。	The teacher graded the test papers.	这批货物已经运达。	This batch of goods has arrived.	他总是喜欢批评论断别人。	He always likes to criticize and judge others.
 任(连)	no matter	任凭你怎么说，我也不会改变主意。	No matter what you say, I won't change my mind.	任凭风吹雨打，他都要坚持完成任务。	No matter wind or rain, he will persist in completing the task.	任凭时间如何流逝，我们的友谊都不会改变。	No matter how time passes, our friendship will not change.
-料(名)	material	这种布料很柔软。	This fabric is very soft.	我们需要采购一些建筑材料。	We need to purchase some construction materials.	做蛋糕需要很多不同的材料。 	Making a cake requires many different ingredients.
+料(名)	material	这种布料很柔软。	This fabric is very soft.	我们需要采购一些建筑材料。	We need to purchase some construction materials.	做蛋糕需要很多不同的材料。	Making a cake requires many different ingredients.
 米(量)	meter	这块布料有五米长。	This piece of fabric is five meters long.	这条路长一百米。	This road is one hundred meters long.	这栋楼高二十米。	This building is twenty meters tall.
 回(量)	measure word (for times, trips)	我已经来回走了三回。	I have gone back and forth three times.	他回国两次了。	He has returned to his home country twice.	这首歌我听过好几回。	I have listened to this song several times.
 两三年	two or three years	这件事需要两三年才能完成。	This matter will take two or three years to complete.	我们已经认识两三年了。	We have known each other for two or three years.	这个项目预计需要两三年才能盈利。	This project is expected to take two or three years to become profitable.
@@ -962,5 +962,170 @@ A变了	A has changed	天气变了。	The weather has changed.	他的态度变�
 流眼泪🥲	shed tears 🥲	她流着眼泪离开了。	She left in tears.  	听到这个消息，她流下了眼泪。	She shed tears when she heard the news.	看到这一幕，我不禁流下了眼泪。	Seeing this scene, I couldn't help but shed tears.
 叫	(preposition)	叫他来帮忙。	Call him for help.	叫他明天来。	Tell him to come tomorrow.	叫他别走。	Tell him not to leave.
 省	economize; save; omit; leave out	我们要省吃俭用。	We must economize.	省点力气吧。	Save some energy.	这部分可以省去。	This part can be omitted.
+
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+把（介）	(particle marking the following noun as a direct object)	我把书放在桌子上。	I put the book on the table.	他把门关上了。	He closed the door.	请把你的作业交上来。	Please hand in your homework.
+把（量）	(measure word)	我吃了一把花生米。	I ate a handful of peanuts.	他手里拿着一把刀。	He was holding a knife.	这把椅子很舒服。	This chair is very comfortable.
+断联系	disconnect	我们决定断绝联系。	We decided to cut off contact.	他和家人断绝了联系。	He has cut off contact with his family.	长时间不联系，很容易断联系。	If you don't contact someone for a long time, it's easy to lose contact.
+山羊	goat; goat/(gymnastics) small-sized vaulting horse	山上有一群山羊在吃草。	There is a herd of goats grazing on the mountain.	他在体操比赛中做了山羊的动作。	He performed a goat (vault) in the gymnastics competition.  	这只山羊毛发很柔软。	This goat's fur is very soft.
+花（形）	multicoloured; coloured; flowery;	她穿着一件花裙子。	She is wearing a flowery dress.	花园里开满了各种各样的花。	The garden is full of all kinds of flowers.	这篇文章写得过于花哨。	This article is written too flowery.
+首（量）	(measure word)	一首诗	a poem	他创作了多首歌曲。	He composed many songs.	这首歌是他的首张专辑中的主打歌。	This song is the lead track on his first album.
+副（量）	(measure word)	一副眼镜	a pair of glasses	他戴着一副手套。	He's wearing a pair of gloves.	她买了一副新的耳机。	She bought a new pair of headphones.
+生（动）	give birth; be born	我的妈妈生了我。	My mother gave birth to me.	她生了一个健康的宝宝。	She gave birth to a healthy baby.	他上个月刚刚出生。	He was born last month.
+对（形）	right	你的答案是对的。	Your answer is right.	这条路是对的。	This is the right path.	这样做是对的。	Doing this is the right thing to do.
+局（名）	bureau; part; portion; innings; gathering;	他去了外交部（局）。	He went to the Ministry of Foreign Affairs.	比赛进行到第五局。	The game has reached the fifth inning.	这次会议持续了三个小时。	This meeting lasted three hours.
+寄生虫	parasite	这种植物上有很多寄生虫。	There are many parasites on this plant.	寄生虫会危害人体健康。	Parasites can harm human health.	我们要积极预防寄生虫感染。	We need to actively prevent parasite infection.
+次（量）	(measure word for times, frequency)	我去过那里两次。	I've been there twice.	她已经尝试过好几次了。	She has already tried several times.	这周我要开三次会。	I have three meetings this week.
+次（形）	second-rate; secondary;	这是一次性的用品。	This is a disposable item.	这是一个次要的问题。	This is a secondary issue.	他的作品显得有些次。	His work seems a bit mediocre.
+妈妈｜妈	mom; mother	妈妈，我爱你！	Mom, I love you!	妈妈给我做了好吃的饭。	Mom made me delicious food.	我打电话给我妈妈。	I called my mother.
+该（动）	deserve; should; owe;	你该休息一下了。	You should rest for a while.	他应该为自己的行为负责。	He should be responsible for his actions.	我们应该感谢他们的帮助。	We should be grateful for their help.
+朝鲜🇰🇵	North Korea	朝鲜是一个社会主义国家。	North Korea is a socialist country.	我曾经去过朝鲜旅游。	I once traveled to North Korea.	朝鲜半岛问题一直备受关注。	The Korean Peninsula issue has always been a concern.
+正（形）	straight; upright; positive; correct; main;	这条线是正的。	This line is straight.	他是一个正直的人。	He is an upright person.	这是正确的答案。	This is the correct answer.
+白（副）	without results; in vain; waste efforts;	我白跑一趟了。	I made a wasted trip.	我努力学习，却白费了功夫。	I studied hard but it was all in vain.	这场比赛我们白打了。	We played this match for nothing.
+封（动）	seal; confer; envelop;	请帮我封好这个信封。	Please seal this envelope for me.	他被封为“年度最佳运动员”。	He was crowned "Athlete of the Year".	他用蜡封上了信。	He sealed the letter with wax.
+面临情况	facing situation	我们面临着许多挑战。	We are facing many challenges.	公司面临着倒闭的危险。	The company faces the risk of bankruptcy.	他们面临着艰难的抉择。	They are facing a difficult choice.
+喂（动）	feed	妈妈喂宝宝吃饭。	Mom feeds the baby.	我把食物喂给小猫。	I feed the food to the kitten.	他喂马吃草。	He feeds the horse hay.
+何必？	Why bother?	何必这么麻烦呢？	Why bother with so much trouble?	何必为这种小事生气呢？	Why bother getting angry about such a trivial matter?	何必如此认真呢？	Why be so serious?
+教学方法	teaching method	老师采用了新的教学方法。	The teacher adopted a new teaching method.	我们需要改进教学方法。	We need to improve the teaching methods.	好的教学方法能够提高学生的学习效率。	Good teaching methods can improve students' learning efficiency.
+刻（动）	carve; engrave; cut;	他在石头上刻字。	He carved words on the stone.	这个图案是手工刻出来的。	This pattern is hand-carved.	他用刀刻苹果。	He carved the apple with a knife.
+妹妹｜妹	younger sister	我妹妹很可爱。	My younger sister is very cute.	我和妹妹一起长大。	My sister and I grew up together.  	我妹妹比我小三岁。	My younger sister is three years younger than me.
+打勾☑️	Tick ​​☑️	请在表格上打勾。	Please tick the box on the form.	我已经在申请表上打勾了。	I have already ticked the application form.	这个选项需要打勾。	This option needs to be ticked.
+米（名）	meter; rice	这块布料有五米长。	This piece of cloth is five meters long.	我喜欢吃米饭。	I like to eat rice.	我们种了很多稻米。	We grow a lot of rice.
+信（名）	letter; mail; faith;	我收到了一封信。	I received a letter.	他对未来充满信心。	He is full of faith in the future.	这封信写得很感人。	This letter is very touching.
+贪钱	greedy	他是一个贪钱的人。	He is a greedy person.	不要做贪钱的事。	Don't do greedy things.	贪钱会让你失去很多东西。	Greed will make you lose a lot of things.
+多（副）	much more; far more;	他比我高得多。	He is much taller than me.	这个任务比我想象的多得多。	This task is much more than I imagined.	她工作得多，收入也多得多。	She works more and earns much more.
+高/矮	tall/short	他很高，而她很矮。	He is tall, and she is short.	这棵树很高。	This tree is tall.	这个桌子太矮了。	This table is too short.
+背（动）	carry on the back; shoulder;	他背着书包上学。	He goes to school with a backpack on his back.	她背着孩子走。	She carries her child.	他背诵了整首诗歌。	He recited the whole poem.
+永无止境	never ending; without end; never-ending	学习是一个永无止境的旅程。	Learning is a never-ending journey.	宇宙是永无止境的。	The universe is endless.	他们的争吵永无止境。	Their quarrel is never-ending.
+分（动）	divide; part; distribute;	我把蛋糕分成两份。	I divided the cake into two portions.	让我们分工合作吧。	Let's work together.	老师把试卷分发给学生们。	The teacher distributed the exam papers to the students.
+生（形）	unripe; green; living; raw; unfamiliar;	这个香蕉还没有熟，还是生的。	This banana isn't ripe yet; it's still green.	他是一个生手。	He is a novice.	这是生的鱼片，不能直接吃。	This is raw fish, you can't eat it directly.
+…极了	extremely; exceedingly;	他高兴极了。	He is extremely happy.	天气冷极了。	The weather is exceedingly cold.	这个蛋糕做得棒极了！	This cake is fantastic!
+老（形）	old; aged;	我的爷爷很老了。	My grandfather is very old.	这栋房子很老了。	This house is very old.	这件衣服穿旧了，看起来很老。	This clothes is worn out and looks old.
+痛（形）	sore; painful; sad;	我的头很痛。	My head hurts.	他感到很痛苦。	He felt very painful.	这个消息让我很痛心。	This news made me very sad.
+姐姐｜姐	elder sister	我姐姐是一个医生。	My elder sister is a doctor.	我姐姐比我大五岁。	My elder sister is five years older than me.	我和姐姐关系很好。	My sister and I have a very good relationship.
+
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+usb	USB	我的电脑有两个USB接口。	My computer has two USB ports.	我把U盘插到USB接口上。	I plugged the USB flash drive into the USB port.	这个打印机通过USB连接到电脑。	This printer connects to the computer via USB.
+头（形）	lead; head	这条线的头断了。	The end of this line is broken.	他的头很疼。	His head hurts.	我看到队伍的前面有个领头的人。	I saw a leader at the front of the line.
+会（名）	meeting; gathering; conference; union; party	我们下周有一个重要的会议。	We have an important meeting next week.	新年联欢会非常热闹。	The New Year's party was very lively.	他们参加了一个行业协会的年会。	They attended an annual meeting of the industry association.
+符合标准	Meet standards; to comply with a standard; standards-compliant	这个产品符合国家安全标准。	This product meets national safety standards.	他的工作完全符合要求。	His work fully meets the requirements.	为了符合国际标准，我们需要改进技术。	To meet international standards, we need to improve our technology.
+挺（副）	very; quite; pretty; rather	这件衣服挺漂亮的。	This dress is quite pretty.	他挺喜欢这个游戏的。	He quite likes this game.	今天的会议挺重要的。	Today's meeting is quite important.
+才（名）	ability; talent; gift; endowment	她有绘画的天才。	She has a talent for painting.	他是一位很有才华的作家。	He is a very talented writer.	音乐才能需要从小培养。	Musical talent needs to be cultivated from a young age.
+才（副）	only; just	我等了他好久才等到他。	I waited a long time before I finally waited for him.	他下班才回家。	He only went home after work.	比赛开始才几分钟。	The game has only been going on for a few minutes.
+局（量）	(measure word)	他下了一局象棋。	He played a game of chess.	我们打了两局篮球。	We played two games of basketball.	这棋局真精彩！	This chess game is really exciting!
+老（副）	always; constantly	他老是迟到。	He is always late.	她老抱怨工作压力大。	She constantly complains about the stress of work.	小孩子老爱哭。	Children always cry.
+长/ 短	long/short	这条路很长。	This road is very long.	他的头发很短。	His hair is very short.	这篇文章篇幅很短。	This article is very short.
+正（副）	just; exactly	我正要出去。	I was just about to go out.	事情正像我想象的那样发展。	Things are developing exactly as I imagined.	他正忙着呢！	He's busy right now!
+像（动）	be like; resemble; look like; such as	他长得像他爸爸。	He looks like his father.	这个故事像一个童话。	This story is like a fairy tale.	我们需要像他那样的人才。	We need talents like him.
+屏幕🖥	Screen 🖥	电脑屏幕很亮。	The computer screen is very bright.	手机屏幕碎了。	The phone screen is broken.	这个电影在巨型屏幕上放映。	This movie is shown on a giant screen.
+短语	phrase	这是一个常用的短语。	This is a commonly used phrase.	这个短语的意思是什么？	What does this phrase mean?	请解释一下这个短语。	Please explain this phrase.
+高/ 低	high/low	这座山很高。	This mountain is very high.	他的声音很低。	His voice is very low.	温度很高。	The temperature is very high.
+本（量）	(measure word for books or volumes)	我读了一本好书。	I read a good book.	这本书共有三本。	This book has a total of three volumes.	这套书一共十本。	This book set has a total of ten volumes.
+别（动）	do not; leave; separate; pin	别担心！	Don't worry!	请别走。	Please don't leave.	把这些文件别在一起。	Fasten these documents together.
+乱象	Chaotic	社会上出现了一些乱象。	Some chaotic situations have appeared in society.	我们需要解决这些乱象。	We need to solve these chaotic situations.	经济乱象导致了社会动荡。	Economic chaos led to social unrest.
+白（形）	white	他的衬衫是白色的。	His shirt is white.	雪是白色的。	Snow is white.	白纸上写着字。	There are words written on the white paper.
+近义词	synonyms	请给出这个词的近义词。	Please give the synonyms of this word.	这两个词是近义词。	These two words are synonyms.	我们在字典里找到了这个词的近义词。	We found the synonyms of this word in the dictionary.
+符合要求	Meet the requirements (as a result); Meet the requirements	他的设计符合所有要求。	His design meets all the requirements.	这份报告符合提交要求。	This report meets the submission requirements.	只有符合要求的申请才能被批准。	Only applications that meet the requirements can be approved.
+副（形）	secondary; auxiliary; subsidiary	这是一个副产品。	This is a by-product.	他是总经理的副手。	He is the general manager's deputy.	公司设有副总经理职位。	The company has a position of deputy general manager.
+为（介）	(preposition)	为了国家，他牺牲了一切。	For the country, he sacrificed everything.	为了健康，他每天都锻炼。	For his health, he exercises every day.	为了完成任务，他们加班加点。	To complete the task, they worked overtime.
+站（名）	station	火车站在哪里？	Where is the train station?	他在火车站等车。	He is waiting for the train at the train station.	这是一个繁忙的公交车站。	This is a busy bus station.
+首（名）	head; leader; chief; aspect	他是这个项目的负责人。	He is the head of this project.	首要任务是确保安全。	The primary task is to ensure safety.	文章的第一段是引言。	The first paragraph of the article is the introduction.
+打（介）	from; since	打从那时起，他就变了。	Since then, he has changed.	打从我认识他，他就一直这样。	From the time I met him, he has always been like this.	打从我记事起，我就住在这里。	Since I can remember, I have lived here.
+尖脸	sharp face	她有一张尖尖的脸。	She has a pointed face.	他那张尖脸让人印象深刻。	His pointed face is impressive.	他的脸型属于尖脸型。	His face shape is pointed.
+信（动）	believe; trust	我相信你说的话。	I believe what you said.	我不信他会这样做。	I don't believe he would do that.	我们应该相信科学。	We should believe in science.
+一段婚姻	a marriage	他们结束了一段婚姻。	They ended a marriage.	这是一段幸福的婚姻。	This is a happy marriage.	她经历了一段失败的婚姻。	She went through a failed marriage.
+为（动）	act as; become; be; mean;	他为人民服务。	He serves the people.	这篇文章为我们提供了一些信息。	This article provides us with some information.	他的行为为我们树立了榜样。	His behavior sets an example for us.
+…分之…	fractional number	二分之一	one half	三分之二	two thirds	五分之一	one fifth
+程度	degree	他受伤的程度很严重。	The degree of his injury is very serious.	他对这个事情的了解程度有限。	His understanding of this matter is limited.	这个计划的成功程度取决于很多因素。	The success of this plan depends on many factors.
+花（名）	flower	花园里有很多花。	There are many flowers in the garden.	玫瑰花很漂亮。	Roses are beautiful.	我喜欢各种各样的花。	I like all kinds of flowers.
+支（动）	put up; protrude; support; send away	他支起了帐篷。	He put up the tent.	树枝从墙上伸出来。	Branches protrude from the wall.	政府支助了这个项目。	The government supported this project.
+生火	Make a fire	我们在森林里生火取暖。	We made a fire in the forest to keep warm.	生火需要木材和火柴。	Making a fire requires wood and matches.	他用打火机生火。	He used a lighter to make a fire.
+花（动）	spend; expend	我花了100块钱买了这本书。	I spent 100 yuan on this book.	他花了很多时间学习。	He spent a lot of time studying.	不要花太多钱。	Don't spend too much money.
+怕（动）	be afraid; fear; dread	我怕蛇。	I'm afraid of snakes.	他怕黑。	He is afraid of the dark.	她怕失败。	She is afraid of failure.
+A改变B	A changes B	科技改变生活。	Technology changes lives.	时间改变一切。	Time changes everything.	这次经历改变了他。	This experience changed him.
+封（量）	(measure word)	一封信	a letter	两封邮件	two emails	三封电报	three telegrams
+支（量）	(measure word)	一支笔	a pen	两支蜡烛	two candles	三支箭	three arrows
+
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+爸爸	dad; father	爸爸，我爱你！	Dad, I love you!	爸爸下班回家了。	Dad is home from work.	我打电话给我爸爸了。	I called my dad.
+哥哥	elder brother	我的哥哥比我高。	My elder brother is taller than me.	哥哥帮我做了很多家务。	My brother helped me with a lot of housework.	我和哥哥一起去公园玩了。	My brother and I went to the park together.
+乡土中国	rural China (book)	我读过《乡土中国》这本书。	I have read the book "Rural China".	《乡土中国》深刻地反映了中国农村社会的面貌。	"Rural China" profoundly reflects the face of rural Chinese society.	这本书对理解中国农村社会很有帮助，特别是《乡土中国》。	This book is very helpful in understanding rural Chinese society, especially "Rural China".
+午夜	midnight	午夜时分，城市变得宁静。	At midnight, the city becomes quiet.	我经常在午夜醒来。	I often wake up at midnight.	午夜的钟声敲响了新年的到来。	The midnight bell rang in the New Year.
+拿走狗	take away the dog	请你把狗拿走。	Please take the dog away.	有人拿走了我的狗！	Someone took my dog!	别拿走狗，它是我的宠物。	Don't take the dog away, it's my pet.
+过道	corridor; hallway	请沿着过道直走。	Please go straight down the corridor.	他在过道里摔了一跤。	He fell in the hallway.	过道里很安静。	 The corridor was quiet.
+报(名)	to register; to enroll	我要报名参加马拉松比赛。	I want to register for the marathon.	报名截止日期是下周五。	The registration deadline is next Friday.	我已经报名参加了英语课程。	 I have already registered for the English course.
+并(动)	combine; merge; and	我们将这两个公司合并。	We will merge these two companies.	他学习和工作并重。	He balances his studies and work.  	这两个句子可以并列使用。	 These two sentences can be used in parallel.
+刻(量)	a quarter (of an hour); moment	再等一刻钟，他就会来了。	Wait another quarter of an hour, he will come.	那一刻，我明白了真相。	 At that moment, I understood the truth.	他只迟到了片刻。	 He was only late for a moment.
+背(名)	back; back side	我的背很痛。	My back hurts.	书包的背部磨损了。	The back of the backpack is worn.	他背着沉重的行李。	 He is carrying heavy luggage on his back.
+签(动)	to sign; to autograph	请在这里签字。	Please sign here.	他签署了合同。	He signed the contract.	这幅画是他签名的。	 This painting has his autograph.
+省(名)	province	我们要去另一个省旅游。	We are going to travel to another province.	这个省以其美丽的风景而闻名。	This province is famous for its beautiful scenery.	他是哪个省的人？	 Which province is he from?
+别(副)	don't; please don't	别担心，一切都会好起来的。	Don't worry, everything will be alright.	别忘了带你的雨伞。	Don't forget to bring your umbrella.	别大声说话！	 Don't speak loudly!
+火(名)	fire; anger	火灾已经扑灭了。	The fire has been extinguished.	他气得火冒三丈。	He was furious.	他心中燃烧着怒火。	 He had a burning anger in his heart.
+梦到	dream about	我梦到我飞起来了。	I dreamt that I was flying.	昨晚我梦到你了。	I dreamt of you last night.	我经常梦到我的童年。	 I often dream about my childhood.
+挺(动)	to endure; to stand; quite	他挺过了难关。	He got through the difficulties.	他挺直了腰杆。	He stood up straight.	这件衣服挺好看的。	 This dress is quite pretty.
+批(动)	to criticize; batch	老师批改了我们的试卷。	The teacher graded our test papers.	这批货物已经运到了。	This batch of goods has arrived.	他严厉批评了我的错误。	 He severely criticized my mistakes.
+任(连)	no matter; regardless of	任凭风吹雨打，他都要坚持下去。	No matter what the wind and rain, he will persist.	任你怎么说，我也不会改变主意。	No matter what you say, I won't change my mind.	任谁都看得出他很生气。	 Anyone can see that he's angry.
+料(名)	material; ingredients	我们需要准备一些做蛋糕的料。	We need to prepare some ingredients for the cake.	这种布料很柔软。	This fabric is very soft.	这篇文章的素材很好。	 The material for this article is very good.
+米(量)	meter	这块布料有五米长。	This fabric is five meters long.	这条路有十米宽。	This road is ten meters wide.	他跑了一百米。	 He ran one hundred meters.
+回(量)	measure word (times)	我去了三回。	I went three times.	这已经是第二次了。	 This is already the second time.	我已经问了他很多回了。	 I've asked him many times already.
+两三年	two to three years	这件事需要两三年才能完成。	This thing will take two to three years to complete.	我在这儿住了两三年了。	I've lived here for two or three years.	我们计划两三年后结婚。	 We plan to get married in two or three years.
+资本主义	capitalism	资本主义社会有其自身的矛盾。	Capitalist society has its own contradictions.	历史证明资本主义有其局限性。	 History has shown that capitalism has its limitations.	我们学习资本主义的历史发展。	 We study the historical development of capitalism.
+毛(名)	hair; fur; fractional unit	他的外套上沾了一些毛。	There's some hair on his coat.	这只猫的毛很柔软。	This cat's fur is very soft.	这件衣服只花了五毛钱。	 This clothes only cost fifty cents.
+敲	knock; type	请敲门再进来。	Please knock before entering.	他轻轻地敲了敲门。	He knocked gently on the door.	他在电脑上敲打着键盘。	 He is typing on the computer.
+好(副)	well; good; okay	他唱得很好。	He sings very well.	这件衣服很好看。	This dress is very pretty.	天气很好。	 The weather is good.
+任(动)	appoint; assign	他被任命为经理。	He was appointed manager.	他们任命他为队长。	 They appointed him captain.	她被任命为学校的校长。	 She was appointed as the school principal.
+代	to replace; instead of	我来代你完成任务。	I will do the task for you.	他代替我参加会议。	He attended the meeting on my behalf.	请你代我向他问好。	 Please say hello to him for me.
+要(动)	want; need; must	我想要一杯咖啡。	I want a cup of coffee.	你需要帮助吗？	Do you need help?	你必须按时完成作业。	 You must complete your homework on time.
+料(动)	expect; anticipate; guess	我料到你会这样说。	I expected you to say that.	我料想他会迟到。	I anticipated that he would be late.	我猜想他会赢。	 I guess he will win.
+那(连)	then; in that case; that	那我们就走吧。	Then let's go.	那好吧。	Then okay.	那是什么意思？	 What does that mean?
+下(量)	measure word (for things that fall/ descend)	下了一场大雨。	It rained heavily.	下了一阵雪。	 It snowed for a while.	他下了个决定。	 He made a decision.
+他归罪我	He blamed me; he put the blame on me	他归罪于我，说是我弄坏了他的电脑。	He blamed me for breaking his computer.	他把责任都归罪于我。	He blamed everything on me.	他试图把责任归罪于别人。	 He attempted to shift the blame to others.
+关(动)	close; shut; turn off	请关上门。	Please close the door.	关掉灯。	Turn off the light.	我把窗户关上了。	 I closed the window.
+杂草	weeds	花园里长满了杂草。	The garden is full of weeds.	我们需要除掉这些杂草。	We need to remove these weeds.	杂草影响了庄稼的生长。	 The weeds affected the growth of the crops.
+喂(叹)	hello; hey	喂，你好吗？	Hello, how are you?	喂，你在听吗？	Hey, are you listening?	喂，什么事？	 Hey, what's up?
+知足	contented; satisfied	知足常乐。	It's always happy to be content.	他很知足，不追求更多。	He is content and doesn't strive for more.	知足是幸福的源泉。	 Contentment is the source of happiness.
+土(名)	soil; earth; land	这块土地肥沃。	This land is fertile.	他喜欢种花种草，喜欢侍弄土地。	 He likes to grow flowers and grass, and he likes to cultivate the land.  	这儿的土质很好。	 The soil here is very good.
+火(形)	fiery; flaming; urgent; hot	火辣辣的太阳晒得人难受。	The fiery sun made people feel uncomfortable.	这是一个火急火燎的任务。	 This is an urgent task.	他的脾气火爆。	 He has a fiery temper.
+回(动)	go back; return	我明天回老家。	I'll go back to my hometown tomorrow.	他回家了。	He went home.	我们从北京回到上海了。	 We returned to Shanghai from Beijing.
+
+
+word	meanings	example sentence 1	translation 1	example sentence 2	translation 2	example sentence 3	translation 3
+站	stand; stop; halt	请你站在这里等。	Please stand here and wait.	公交车在车站站了一会儿。	The bus stopped at the station for a while.	他站了起来，准备离开。	He stood up and prepared to leave.
+排	arrange; put in order; exclude; rehearse	我们需要把这些文件排好顺序。	We need to arrange these files in order.	她排除了所有不可能的答案。	She excluded all the impossible answers.	演员们正在排练新的戏剧。	The actors are rehearsing a new play.
+好	good	这是一个好主意。	This is a good idea.	她的歌声真好听。	Her singing voice is so beautiful.	天气真好！	The weather is so nice!
+节	economize; save; abridge	我们要节约用水。	We should conserve water.	为了节约时间，我们直接去了机场。	To save time, we went straight to the airport.	老师节选了课文中的重要部分。	The teacher abridged the important parts of the text.
+打	hit; take;	他打了弟弟一巴掌。	He slapped his younger brother.	我们去打篮球吧。	Let's go play basketball.	我打了电话给他，但他没接。	I called him, but he didn't answer.
+命	life; order; fate	他为了救人牺牲了自己的性命。	He sacrificed his life to save others.	经理下令让员工加班。	The manager ordered the employees to work overtime.	这是他的命运。	This is his fate.
+那	that	那本书是我的。	That book is mine.	那家餐厅的菜很好吃。	That restaurant's food is delicious.	你看那边的风景多美啊！	Look at the beautiful scenery over there!
+两	a unit of weight (=50 grams); two	这块肉有两两重。	This piece of meat weighs two liang.	我有两本书。	I have two books.	这条路有两公里长。	This road is two kilometers long.
+毛	a fractional unit of money in China (measure word)	一毛钱	one mao (ten cents)	他身上只有几毛钱。	He only had a few mao on him.	这件衣服只要几毛钱。	This dress only costs a few mao.
+一面镜子	a mirror	我需要一面镜子来整理头发。	I need a mirror to fix my hair.	镜子里映出了我的脸。	My face was reflected in the mirror.	她对着镜子画眉毛。	She drew her eyebrows in front of the mirror.
+成	become; finish	他终于成了一名医生。	He finally became a doctor.	我们完成了任务。	We finished the task.	事情已经成了。	The matter is settled.
+批	(measure word)	一批货物	a batch of goods	老师批改了学生的作业。	The teacher graded the students' homework.	我们需要订购一批新的设备。	We need to order a batch of new equipment.
+会	can; be able to	我会说中文。	I can speak Chinese.	他不会游泳。	He can't swim.	你明天会来吗？	Will you come tomorrow?
+牛	stubborn; brave; awesome; cattle; ox; cow	他很牛，什么困难都不怕。	He's awesome, he's not afraid of any difficulties.	那头牛很犟。	That ox is very stubborn.	这是一头好牛。	This is a good cow.
+A变了	A has changed	天气变了。	The weather has changed.	他的想法变了。	His ideas have changed.	情况变了。	The situation has changed.
+怕	perhaps; afraid	我怕我做不到。	I'm afraid I can't do it.	也许他会来，也许不会，怕是不会来了。	Perhaps he will come, perhaps not, perhaps he won't come.  (Perhaps he won't come.)	别怕！	Don't be afraid!
+叫	call; be called	我叫李明。	My name is Li Ming.	他叫我去帮忙。	He called me to help.	别叫了，我很累。	Stop shouting, I'm very tired.
+弟弟｜弟	younger brother	我的弟弟很聪明。	My younger brother is very smart.	他弟弟比他高。	His younger brother is taller than him.	弟弟们都在家。	The younger brothers are all at home.
+要	if	要是我有钱，我就买一辆车。	If I had money, I would buy a car.	要是不下雨，我们就去公园。	If it doesn't rain, we'll go to the park.	你要是不努力，就考不上大学。	If you don't work hard, you won't get into university.
+牛	cattle; ox; cow	那些牛正在吃草。	Those cows are eating grass.	农民养了很多牛。	The farmer raises many cattle.	一头老牛在田里耕地。	An old ox is plowing the field.
+成	(measure word)	一成稻米	a tenth of rice (yield)	事情已经成了。	The matter is settled.	他完成了十成的工作。	He completed ten cheng of the work.
+零｜〇	zero	零加上零等于零。	Zero plus zero equals zero.	我的账户余额是零。	My account balance is zero.	从零开始。	Start from scratch.
+两	two	我有两支笔。	I have two pens.	两个人一起去了公园。	Two people went to the park together.	我们需要两张票。	We need two tickets.
+街区	neighborhood	这个街区很安静。	This neighborhood is very quiet.	我们在同一个街区住了很多年。	We lived in the same neighborhood for many years.	这个街区有很多商店。	This neighborhood has many shops.
+关	pass; check point; customhouse; mechanism; barrier	我们顺利通过了海关。	We passed through customs smoothly.	这个开关控制着灯光。	This switch controls the lights.	他把门关上了。	He closed the door.
+等	wait	我在等公共汽车。	I'm waiting for the bus.	请稍等一下。	Please wait a moment.	我们等他一起吃饭。	We waited for him to eat together.
+土	local; native; folk; indigenous; unfashionable	这是土方法。	This is a folk method.	他是土生土长的北京人。	He is a native of Beijing.	这件衣服土气。	This dress is unfashionable.
+骆驼	camel	骆驼可以适应沙漠环境。	Camels can adapt to desert environments.	他在沙漠中骑着骆驼。	He rode a camel in the desert.	看到骆驼，我仿佛看到了沙漠的广阔。	Seeing the camel, I seemed to see the vastness of the desert.
+怪	blame	不要怪他，他也是受害者。	Don't blame him, he is also a victim.	他怪自己太粗心。	He blamed himself for being too careless.	我不怪你。	I don't blame you.
+所	(auxiliary word)	我所知道的就是这些。	This is all I know.	他所做的一切都是为了家人。	Everything he did was for his family.	我们所面临的挑战很大。	The challenges we face are great.
+摘眼镜	take off glasses	他摘下眼镜，揉了揉眼睛。	He took off his glasses and rubbed his eyes.	工作累了，他摘下眼镜休息一下。	Tired from work, he took off his glasses to rest.	看完书后，她摘下眼镜。	After reading, she took off her glasses.
+流眼泪🥲	shed tears 🥲	她流着眼泪讲述了自己的故事。	She told her story with tears in her eyes.	听到这个消息，她忍不住流下了眼泪。	Hearing the news, she couldn't help shedding tears.  	看到悲伤的电影，她会流眼泪。	She cries when she watches sad movies.
+叫	(preposition)	叫他来帮忙。	Call him to help.	叫他别担心。	Tell him not to worry.	叫我去哪里？	Where did it tell me to go?
+省	economize; save; omit; leave out	我们要省吃俭用。	We must economize.	为了省钱，我们选择坐火车。	To save money, we chose to take the train.	他省略了一些细节。	He omitted some details.
 
 

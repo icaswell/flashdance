@@ -11,6 +11,16 @@ import pinyin_jyutping_sentence
 
 # This is a module in this package
 from pinyin import get_pinyin
+from definitions import DEFINITIONS
+
+
+
+parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
+parser.add_argument('--level', type=str)
+parser.add_argument('--mode', default="iphone", type=str)
+args = parser.parse_args()
+LEVELS_TO_DO = args.level.split(",")
+
 
 def get_pinyin_wrapper(s):
   x = get_pinyin(s).split("||")
@@ -19,18 +29,21 @@ def get_pinyin_wrapper(s):
 
 
 
-LEVELS = ["hsk1", "hsk2", "hsk3", "hsk4", "hsk5", "hsk6", "stront1", "stront2", "weeb1"]
+LEVELS = ["hsk1", "hsk2", "hsk3", "hsk4", "hsk5", "hsk6", "nhsk1", "nhsk2", "nhsk3", "nhsk4", "nhsk5", "nhsk6", "stront1", "stront2", "stront3",  "weeb1"]
 
-LEVELED_CI = defaultdict(list)
+LEVELED_CI = defaultdict(set)
 
 for level in LEVELS:
   with open(f"resources/vocab_separate/{level}.tsv", "r") as f:
     for i, line in enumerate(f):
       parts = line.split("\t")
-      if len(parts) != 3:
-        raise ValueError(f"Line {i} should have three tab-separated values but doesn't: {line}")
-      ci, _, _ = parts
-      LEVELED_CI[level].append(ci)
+      if len(parts) == 3:
+        parts = parts + [level]
+      if len(parts) != 4:
+        raise ValueError(f"Line {i} should have three or four tab-separated values but doesn't: {line}")
+      ci, _, _, level_j = parts
+      LEVELED_CI[level].add(ci)
+      LEVELED_CI[level_j].add(ci)
 
 # zi: {level_name: [ci_0, ci_1, ...]}
 ZI_TO_LEVELS = defaultdict(list)
@@ -60,12 +73,6 @@ class Example():
     self.ci = get_ci_set(zh)
     self.toks = tokenize_zh(zh)
 
-
-parser = argparse.ArgumentParser(description='Process input file and save the result to an output file.')
-parser.add_argument('--level', type=str)
-parser.add_argument('--mode', default="iphone", type=str)
-args = parser.parse_args()
-
 # These are the full definitions
 definitions_fname = "resources/vocab_combined/all_ci_and_zi_defs.tsv"
 
@@ -74,8 +81,7 @@ zi_definitions_fname = "resources/definitions_and_pinyin/zi_singleword_defs.tsv"
 multizi_definitions_fname = "resources/definitions_and_pinyin/multizi_singleword_defs.tsv"
 
 examples_fnames = [
-        "resources/example_sentences/general2.tsv",
-        "resources/example_sentences/multicoverage_4o.tsv",
+        "resources/example_sentences/general.tsv",
         "resources/example_sentences/cql.tsv",
         "resources/example_sentences/raccoon.tsv",
 ]
@@ -85,7 +91,7 @@ if args.mode == "android":
   pass  # break into chunks and stuff could be added here
 
 if args.mode == "iphone":
-   NEWLINE = "\r"
+   NEWLINE = " "*260
 elif args.mode == "android":
    NEWLINE = "<br></br>"
 
@@ -102,17 +108,18 @@ def colorred(s: str) -> str:
 
 
 TARGET_CI = set()
-with open(f"resources/vocab_separate/{args.level}.tsv", "r") as f:
-  for line in f:
-    ci = line.strip().split("\t")[0]
-    # since we can't programmatically determine whether something is being used as an adverb vs verb (e.g.),
-    # we ignore the parentheticals.
-    # Alas.
-    ci = re.sub("(（| \().*", "", ci)
-    # another sad approximation: structures with ellipses
-    # e.g. 不但……而且……
-    ci = re.sub(".*……(.*)……",   "\1", ci)
-    TARGET_CI.add(ci.strip())
+for level_j in LEVELS_TO_DO:
+  with open(f"resources/vocab_separate/{level_j}.tsv", "r") as f:
+    for line in f:
+      ci = line.strip().split("\t")[0]
+      # since we can't programmatically determine whether something is being used as an adverb vs verb (e.g.),
+      # we ignore the parentheticals.
+      # Alas.
+      ci = re.sub("(（| \().*", "", ci)
+      # another sad approximation: structures with ellipses
+      # e.g. 不但……而且……
+      ci = re.sub(".*……(.*)……",   "\1", ci)
+      TARGET_CI.add(ci.strip())
 
 
 # We only want to consider shorter examples, so discard
@@ -278,18 +285,6 @@ def fix_cedict_deff(deff):
   out_parts = other + surnames + proper_nouns + cls
   return "; ".join(out_parts)
 
-DEFINITIONS = {}
-with open(definitions_fname, "r") as f:
-  for line in f:
-    parts = line.strip().split("\t")
-    if len(parts) >=3:
-      deff = parts[2]
-      if deff.startswith("/"):
-        deff = deff[1:-1].replace("/", "; ")
-      deff = fix_cedict_deff(deff)
-      DEFINITIONS[parts[0]] = deff
-
-
 ZI_DEFS = {}
 with open(zi_definitions_fname, "r") as f:
   for line in f:
@@ -299,7 +294,8 @@ with open(zi_definitions_fname, "r") as f:
 with open(multizi_definitions_fname, "r") as f:
   for line in f:
     parts = line.strip().split("\t")
-    ZI_DEFS[parts[0]] = parts[1]
+    if len(parts) == 2:
+      ZI_DEFS[parts[0]] = parts[1]
 
 
 
@@ -335,9 +331,15 @@ out_lines = [
         for out_line in out_lines
         ]
 
-fname_out = f"flashcards/{args.mode}/{args.level}.inverted_flashcards.{args.mode}.csv"
+levelsname = "+".join(LEVELS_TO_DO)
+fname_out = f"flashcards/{args.mode}/{levelsname}.inverted_flashcards.{args.mode}.csv"
 with open(fname_out, 'w') as csvfile:
   csvwriter = csv.writer(csvfile, delimiter =';', quoting=csv.QUOTE_ALL)
   csvwriter.writerows(out_lines)
 print(f"Wrote {fname_out}")
+
+
+
+
+
 

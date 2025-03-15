@@ -42,10 +42,11 @@ for fname in glob("output/usage_notes.*"):
     content = f.read()
     for chunk in content.split(INPUT_DELIM):
       chunk = chunk.strip()
-      lines =  chunk.split("\n")
-      if "\t" in chunk:
-        print("Error[TABS]:", chunk.replace("\t", "<TAB>"), fname)
-        continue
+      if not chunk: continue
+      lines =  chunk.replace("\t", "").split("\n")
+      # if "\t" in chunk:
+      #   print("Error[TABS]:", chunk.replace("\t", "<TAB>"), fname)
+      #   continue
 
       ci = lines[0]
       notes = []
@@ -58,11 +59,13 @@ for fname in glob("output/usage_notes.*"):
         ci = re.findall("^\p{Han}+", lines[0])[0]
         lines = [ci] + lines
 
-      if len(lines) <= 1:
-        print("Error[short]:", chunk, fname)
+      if len(lines) <= 1 and chunk:
+        print("\n", fname)
+        print("Error[short]:", chunk)
         continue
       if not re.search(HAN_REGEX_INC, ci):
-        print("Error[ci is not in Hanzi]:", chunk, fname)
+        print("\n", fname)
+        print("Error[ci is not in Hanzi]:", chunk)
         continue
 
       note = "\n".join(lines[1:]).strip()
@@ -74,9 +77,9 @@ for fname in glob("output/usage_notes.*"):
         else:
           old_notes.add(note)
           USAGE_DICT[ci] = old_notes
-          print(USAGE_DICT[ci])
-          print("~~~"*30)
-          print(f"new notes for {ci}:")
+          # print(USAGE_DICT[ci])
+          # print("~~~"*30)
+          # print(f"new notes for {ci}:")
       else: 
         USAGE_DICT[ci] = {note}
 
