@@ -1,8 +1,19 @@
-# Flashdance (单词)
+# Flashdancei Chinese Flashcards (单词)
 
-Miao miao meo meowst Meowmst.
+All-batteries-included Chinese flashcards, including Chengyu and slang from hahachn.wordpress.com!
 
-## Adding new flashcards
+Note: this whole directory is more complex than it needs to be with modern LLMs, and can be largely considered obsolete.
+
+## Using these flashcards
+
+1. Download the Reword Chinese app. This will cost about $8 for a lifetime.
+2. Download the CSVs you are interestd in from the `flashcards/` folder onto your phone
+3. In Reword, click Vocabulary > Add Category > Import Words > Import CSV file, and select the file you have downloaded.
+4.You're ready to study!
+
+## Generating new flashcards
+
+Please don't do this unless you are Isaac.
 
 1. add a new set of flashcards in `vocab_separate`
 2. generate flashcards by pointing at it:
